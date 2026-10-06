@@ -1,0 +1,750 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "108\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      419.35,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Example 6 : Find the coordinates of the point which divides the line segment joining\nthe points (4, – 3) and (8, 5) in the ratio 3 : 1 internally.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      125.08,
+      394.6,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "Solution : Let P(x, y) be the required point. Using the section formula, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b05",
+    "type": "formula",
+    "bbox": [
+      146.15,
+      147.01,
+      334.09,
+      177.23
+    ],
+    "reading_order": 5,
+    "text": "x = 3(8)\n1(4)\n7\n3\n1\n\n\n\n, y = 3(5)\n1(–3)\n3\n3\n1\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      185.49,
+      214.57,
+      197.75
+    ],
+    "reading_order": 7,
+    "text": "Therefore, (7, 3) is the required point.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      207.15,
+      419.3,
+      233.02
+    ],
+    "reading_order": 8,
+    "text": "Example 7 : In what ratio does the point (– 4, 6) divide the line segment joining the\npoints A(– 6, 10) and B(3, – 8)?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      237.63,
+      419.28,
+      263.51
+    ],
+    "reading_order": 9,
+    "text": "Solution : Let (– 4, 6) divide AB internally in the ratio m1 : m2. Using the section\nformula, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      195.6,
+      270.62,
+      319.62,
+      303.38
+    ],
+    "reading_order": 10,
+    "text": "3\n6\n–8\n10\n,\nm\nm\nm\nm\nm\nm\nm\nm\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b11",
+    "type": "formula",
+    "bbox": [
+      149.76,
+      278.68,
+      311.99,
+      293.03
+    ],
+    "reading_order": 11,
+    "text": "(– 4, 6) =\n1\n2\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      406.56,
+      280.77,
+      419.28,
+      293.03
+    ],
+    "reading_order": 12,
+    "text": "(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      214.32,
+      294.52,
+      300.95,
+      302.52
+    ],
+    "reading_order": 13,
+    "text": "1\n2\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      311.01,
+      264.11,
+      323.27
+    ],
+    "reading_order": 14,
+    "text": "Recall that if (x, y) = (a, b) then x = a and y = b.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      196.56,
+      332.53,
+      237.42,
+      361.91
+    ],
+    "reading_order": 15,
+    "text": "3\n6\nm\nm\nm\nm\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b16",
+    "type": "paragraph",
+    "bbox": [
+      273.84,
+      332.77,
+      344.7,
+      362.5
+    ],
+    "reading_order": 16,
+    "text": "8\n10\n6\nm\nm\nm\nm\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      340.14,
+      240.7,
+      354.22
+    ],
+    "reading_order": 17,
+    "text": "So,\n– 4 =\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      215.53,
+      340.14,
+      347.74,
+      362.75
+    ],
+    "reading_order": 18,
+    "text": "\nand\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b19",
+    "type": "paragraph",
+    "bbox": [
+      208.08,
+      355.74,
+      236.38,
+      363.72
+    ],
+    "reading_order": 19,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b20",
+    "type": "paragraph",
+    "bbox": [
+      310.56,
+      355.74,
+      335.98,
+      363.72
+    ],
+    "reading_order": 20,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b21",
+    "type": "paragraph",
+    "bbox": [
+      196.56,
+      375.16,
+      237.48,
+      404.64
+    ],
+    "reading_order": 21,
+    "text": "3\n6\nm\nm\nm\nm\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      382.81,
+      240.73,
+      397.19
+    ],
+    "reading_order": 22,
+    "text": "Now,\n– 4 =\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b23",
+    "type": "paragraph",
+    "bbox": [
+      215.52,
+      384.93,
+      302.4,
+      405.49
+    ],
+    "reading_order": 23,
+    "text": "\ngives us",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b24",
+    "type": "paragraph",
+    "bbox": [
+      208.08,
+      398.65,
+      236.41,
+      406.69
+    ],
+    "reading_order": 24,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b25",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      413.97,
+      239.36,
+      463.39
+    ],
+    "reading_order": 25,
+    "text": "– 4m1 – 4m2 = 3m1 – 6m2\ni.e.,\n 7m1 = 2m2\ni.e.,\nm1 : m2 = 2 : 7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b26",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      465.57,
+      321.13,
+      477.83
+    ],
+    "reading_order": 26,
+    "text": "You should verify that the ratio satisfies the y-coordinate also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b27",
+    "type": "paragraph",
+    "bbox": [
+      207.83,
+      486.87,
+      219.85,
+      543.81
+    ],
+    "reading_order": 27,
+    "text": "m\nm\nm\nm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b28",
+    "type": "paragraph",
+    "bbox": [
+      196.79,
+      492.42,
+      234.03,
+      506.72
+    ],
+    "reading_order": 28,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b29",
+    "type": "paragraph",
+    "bbox": [
+      218.88,
+      493.05,
+      222.44,
+      500.99
+    ],
+    "reading_order": 29,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b30",
+    "type": "paragraph",
+    "bbox": [
+      203.76,
+      493.66,
+      247.18,
+      505.91
+    ],
+    "reading_order": 30,
+    "text": "8\n10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b31",
+    "type": "formula",
+    "bbox": [
+      121.44,
+      501.49,
+      190.8,
+      531.71
+    ],
+    "reading_order": 31,
+    "text": "8\n10\nm\nm\nm\nm\n\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b32",
+    "type": "paragraph",
+    "bbox": [
+      219.12,
+      508.41,
+      222.68,
+      516.34
+    ],
+    "reading_order": 32,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b33",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      509.1,
+      178.06,
+      522.46
+    ],
+    "reading_order": 33,
+    "text": "Now,\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b34",
+    "type": "paragraph",
+    "bbox": [
+      261.6,
+      510.21,
+      386.22,
+      525.07
+    ],
+    "reading_order": 34,
+    "text": "(Dividing throughout by m2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b35",
+    "type": "paragraph",
+    "bbox": [
+      224.39,
+      521.94,
+      230.43,
+      536.24
+    ],
+    "reading_order": 35,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b36",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      522.57,
+      218.84,
+      530.51
+    ],
+    "reading_order": 36,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b37",
+    "type": "paragraph",
+    "bbox": [
+      232.56,
+      523.19,
+      238.06,
+      535.43
+    ],
+    "reading_order": 37,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b38",
+    "type": "paragraph",
+    "bbox": [
+      139.2,
+      524.7,
+      167.5,
+      532.68
+    ],
+    "reading_order": 38,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b39",
+    "type": "paragraph",
+    "bbox": [
+      215.53,
+      537.93,
+      219.09,
+      545.86
+    ],
+    "reading_order": 39,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b40",
+    "type": "paragraph",
+    "bbox": [
+      202.8,
+      560.35,
+      267.6,
+      614.62
+    ],
+    "reading_order": 40,
+    "text": "2\n8\n10\n7\n6\n2\n1\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b41",
+    "type": "paragraph",
+    "bbox": [
+      196.79,
+      565.82,
+      235.97,
+      580.17
+    ],
+    "reading_order": 41,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b42",
+    "type": "paragraph",
+    "bbox": [
+      221.74,
+      578.78,
+      259.0,
+      607.05
+    ],
+    "reading_order": 42,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b43",
+    "type": "formula",
+    "bbox": [
+      184.8,
+      581.98,
+      191.01,
+      594.23
+    ],
+    "reading_order": 43,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 10,
+    "block_id": "jemh107_p010_b44",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 44,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

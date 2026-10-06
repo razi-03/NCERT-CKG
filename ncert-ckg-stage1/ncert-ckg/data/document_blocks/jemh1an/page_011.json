@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "260\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b03",
+    "type": "paragraph",
+    "bbox": [
+      51.84,
+      102.61,
+      269.5,
+      126.71
+    ],
+    "reading_order": 3,
+    "text": "11.\n5\n13\n12. (i) 1\n8\n(ii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      264.72,
+      103.01,
+      317.5,
+      127.46
+    ],
+    "reading_order": 4,
+    "text": "2\n(iii) 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b05",
+    "type": "paragraph",
+    "bbox": [
+      312.48,
+      110.49,
+      362.36,
+      127.46
+    ],
+    "reading_order": 5,
+    "text": "4\n(iv) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      139.73,
+      136.78,
+      164.18
+    ],
+    "reading_order": 6,
+    "text": "13. (i) 1\n2\n(ii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      132.0,
+      139.73,
+      184.54,
+      164.18
+    ],
+    "reading_order": 7,
+    "text": "2\n(iii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      179.76,
+      154.13,
+      184.78,
+      164.18
+    ],
+    "reading_order": 8,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      176.53,
+      339.58,
+      201.81
+    ],
+    "reading_order": 10,
+    "text": "14. (i)\n1\n26\n(ii)\n3\n13\n(iii)\n3\n26\n(iv)\n1\n52\n(v) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      334.8,
+      176.53,
+      402.41,
+      201.38
+    ],
+    "reading_order": 11,
+    "text": "4\n(vi)\n1\n52",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      213.97,
+      167.74,
+      238.07
+    ],
+    "reading_order": 12,
+    "text": "15. (i) 1\n5\n(ii) (a) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b13",
+    "type": "paragraph",
+    "bbox": [
+      162.96,
+      214.37,
+      309.82,
+      238.82
+    ],
+    "reading_order": 13,
+    "text": "4\n(b) 0\n16. 11\n12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b14",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      251.41,
+      155.69,
+      275.51
+    ],
+    "reading_order": 14,
+    "text": "17. (i) 1\n5\n(ii) 15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      145.44,
+      251.41,
+      346.25,
+      276.69
+    ],
+    "reading_order": 15,
+    "text": "19\n18. (i)\n9\n10\n(ii)\n1\n10\n(iii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b16",
+    "type": "paragraph",
+    "bbox": [
+      341.28,
+      265.57,
+      346.25,
+      275.51
+    ],
+    "reading_order": 16,
+    "text": "5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      288.85,
+      151.37,
+      315.11
+    ],
+    "reading_order": 17,
+    "text": "19. (i) 1\n3\n(ii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      146.4,
+      288.84,
+      384.41,
+      313.7
+    ],
+    "reading_order": 18,
+    "text": "6\n20. 24\nπ\n21. (i) 31\n36\n(ii)\n5\n36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b19",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      323.96,
+      408.0,
+      358.09
+    ],
+    "reading_order": 19,
+    "text": "22. (i)\nSum on\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n2 dice",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b20",
+    "type": "paragraph",
+    "bbox": [
+      150.96,
+      374.59,
+      408.37,
+      398.37
+    ],
+    "reading_order": 20,
+    "text": "1\n36\n2\n36\n3\n36\n4\n36\n5\n36\n6\n36\n5\n36\n4\n36\n3\n36\n2\n36\n1\n36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b21",
+    "type": "paragraph",
+    "bbox": [
+      93.12,
+      382.41,
+      137.28,
+      392.41
+    ],
+    "reading_order": 21,
+    "text": "Probability",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b22",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      413.13,
+      263.14,
+      423.13
+    ],
+    "reading_order": 22,
+    "text": "(ii) No. The eleven sums are not equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b23",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      434.45,
+      420.0,
+      458.9
+    ],
+    "reading_order": 23,
+    "text": "23.\n3 ;\n4 Possible outcomes are : HHH, TTT, HHT, HTH, HTT, THH, THT, TTH. Here, THH",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b24",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      461.61,
+      420.03,
+      471.61
+    ],
+    "reading_order": 24,
+    "text": "means tail in the first toss, head on the second toss and head on the third toss and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b25",
+    "type": "paragraph",
+    "bbox": [
+      153.84,
+      483.31,
+      163.81,
+      507.09
+    ],
+    "reading_order": 25,
+    "text": "11\n36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b26",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      485.47,
+      146.64,
+      509.25
+    ],
+    "reading_order": 26,
+    "text": "24.\n(i)\n25\n36\n(ii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b27",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      517.16,
+      420.02,
+      527.29
+    ],
+    "reading_order": 27,
+    "text": "25.\n(i) Incorrect. We can classify the outcomes like this but they are not then ‘equally",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b28",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      529.29,
+      420.03,
+      563.29
+    ],
+    "reading_order": 28,
+    "text": "likely’. Reason is that ‘one of each’ can result in two ways — from a head on first\ncoin and tail on the second coin or from a tail on the first coin and head on the\nsecond coin. This makes it twicely as likely as two heads (or two tails).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b29",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      569.37,
+      381.7,
+      579.37
+    ],
+    "reading_order": 29,
+    "text": "(ii) Correct. The two outcomes considered in the question are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 11,
+    "block_id": "jemh1an_p011_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

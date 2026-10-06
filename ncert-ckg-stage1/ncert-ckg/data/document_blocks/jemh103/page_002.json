@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      156.02,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Let us try this approach.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      112.29,
+      420.01,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "Denote the number of rides that Akhila had by x, and the number of times she\nplayed Hoopla by y. Now the situation can be represented by the two equations:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b05",
+    "type": "formula",
+    "bbox": [
+      213.84,
+      143.88,
+      240.75,
+      164.65
+    ],
+    "reading_order": 5,
+    "text": "y = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      235.44,
+      152.37,
+      419.77,
+      172.09
+    ],
+    "reading_order": 6,
+    "text": "2 x\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b08",
+    "type": "formula",
+    "bbox": [
+      186.01,
+      174.69,
+      419.77,
+      186.95
+    ],
+    "reading_order": 8,
+    "text": "3x + 4y = 20\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      191.73,
+      420.06,
+      217.18
+    ],
+    "reading_order": 9,
+    "text": "Can we find the solutions of this pair of equations? There are several ways of\nfinding these, which we will study in this chapter.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b10",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      226.62,
+      362.91,
+      240.44
+    ],
+    "reading_order": 10,
+    "text": "3.2 Graphical Method of Solution of a Pair of Linear Equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      245.79,
+      420.06,
+      327.39
+    ],
+    "reading_order": 11,
+    "text": "A pair of linear equations which has no solution, is called an inconsistent pair of linear\nequations. A pair of linear equations in two variables, which has a solution, is called a\nconsistent pair of linear equations. A pair of linear equations which are equivalent has\ninfinitely many distinct common solutions. Such a pair is called a dependent pair of\nlinear equations in two variables. Note that a dependent pair of linear equations is\nalways consistent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      331.71,
+      420.06,
+      357.86
+    ],
+    "reading_order": 12,
+    "text": "We can now summarise the behaviour of lines representing a pair of linear equations\nin two variables and the existence of solutions as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      80.88,
+      365.25,
+      420.02,
+      377.51
+    ],
+    "reading_order": 13,
+    "text": "(i) the lines may intersect in a single point. In this case, the pair of equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      97.45,
+      377.97,
+      322.36,
+      390.22
+    ],
+    "reading_order": 14,
+    "text": "has a unique solution (consistent pair of equations).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      78.73,
+      397.16,
+      420.03,
+      409.42
+    ],
+    "reading_order": 15,
+    "text": "(ii) the lines may be parallel. In this case, the equations have no solution",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b16",
+    "type": "paragraph",
+    "bbox": [
+      97.45,
+      409.88,
+      235.45,
+      422.13
+    ],
+    "reading_order": 16,
+    "text": "(inconsistent pair of equations).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      76.57,
+      429.32,
+      420.04,
+      441.57
+    ],
+    "reading_order": 17,
+    "text": "(iii) the lines may be coincident. In this case, the equations have infinitely many",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      97.45,
+      441.8,
+      324.73,
+      454.06
+    ],
+    "reading_order": 18,
+    "text": "solutions [dependent (consistent) pair of equations].",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      458.6,
+      280.6,
+      470.85
+    ],
+    "reading_order": 19,
+    "text": "Consider the following three pairs of equations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b20",
+    "type": "paragraph",
+    "bbox": [
+      76.57,
+      474.44,
+      372.71,
+      518.37
+    ],
+    "reading_order": 20,
+    "text": "(i) x – 2y = 0 and 3x + 4y – 20 = 0\n(The lines intersect)\n(ii) 2x + 3y – 9 = 0 and 4x + 6y – 18 = 0\n(The lines coincide)\n(iii) x + 2y – 4 = 0 and 2x + 4y – 12 = 0\n(The lines are parallel)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b21",
+    "type": "paragraph",
+    "bbox": [
+      308.63,
+      524.97,
+      420.01,
+      554.76
+    ],
+    "reading_order": 21,
+    "text": "2\n2\n2\n,\nand\na\nb\nc\nc\na\nb\n in all the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b22",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      531.18,
+      372.46,
+      544.77
+    ],
+    "reading_order": 22,
+    "text": "Let us now write down, and compare, the values of \n1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      558.21,
+      420.02,
+      583.67
+    ],
+    "reading_order": 23,
+    "text": "three examples. Here, a1, b1, c1 and a2, b2, c2 denote the coefficents of equations\ngiven in the general form in Section 3.2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 2,
+    "block_id": "jemh103_p002_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

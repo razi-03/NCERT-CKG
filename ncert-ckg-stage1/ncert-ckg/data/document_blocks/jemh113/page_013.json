@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n183",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      419.8,
+      118.09
+    ],
+    "reading_order": 3,
+    "text": "8. A class teacher has the following absentee record of 40 students of a class for the whole\nterm. Find the mean number of days a student was absent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      127.69,
+      382.79,
+      151.21
+    ],
+    "reading_order": 4,
+    "text": "Number of\n0  -  6\n6  -  10 10  -  14 14  -  20 20  - 28 28  -  38 38  -  40\ndays",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b05",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      160.57,
+      370.28,
+      184.09
+    ],
+    "reading_order": 5,
+    "text": "Number of\n11\n10\n7\n4\n4\n3\n1\nstudents",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      198.73,
+      419.82,
+      222.25
+    ],
+    "reading_order": 7,
+    "text": "9. The following table gives the literacy rate (in percentage) of 35 cities. Find the mean\nliteracy rate.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      232.81,
+      387.35,
+      244.33
+    ],
+    "reading_order": 8,
+    "text": "Literacy rate (in %)\n45  -  55\n55 - 65\n65  -  75\n75  -  85\n85  -  95",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      258.73,
+      374.84,
+      270.25
+    ],
+    "reading_order": 9,
+    "text": "Number of cities\n3\n10\n11\n8\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b10",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      296.46,
+      191.75,
+      310.28
+    ],
+    "reading_order": 10,
+    "text": "13.3 Mode of Grouped Data",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      316.29,
+      420.08,
+      415.67
+    ],
+    "reading_order": 11,
+    "text": "Recall from Class IX, a mode is that value among the observations which occurs most\noften, that is, the value of the observation having the maximum frequency. Further, we\ndiscussed finding the mode of ungrouped data. Here, we shall discuss ways of obtaining\na mode of grouped data. It is possible that more than one value may have the same\nmaximum frequency. In such situations, the data is said to be multimodal.  Though\ngrouped data can also be multimodal, we shall restrict ourselves to problems having a\nsingle mode only.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      421.89,
+      420.05,
+      448.55
+    ],
+    "reading_order": 12,
+    "text": "Let us first recall how we found the mode for ungrouped data through the following\nexample.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      459.39,
+      411.14,
+      472.06
+    ],
+    "reading_order": 13,
+    "text": "Example 4 : The wickets taken by a bowler in 10 cricket matches are as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b14",
+    "type": "paragraph",
+    "bbox": [
+      114.0,
+      478.53,
+      371.26,
+      490.79
+    ],
+    "reading_order": 14,
+    "text": "2\n6\n4\n5\n0\n2\n1\n3\n2\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      497.01,
+      164.18,
+      509.27
+    ],
+    "reading_order": 15,
+    "text": "Find the mode of the data.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      514.36,
+      415.45,
+      527.03
+    ],
+    "reading_order": 16,
+    "text": "Solution : Let us form the frequency distribution table of the given data as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      53.04,
+      540.52,
+      401.73,
+      566.39
+    ],
+    "reading_order": 17,
+    "text": "Number of\n0\n1\n2\n3\n4\n5\n6\nwickets",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      53.04,
+      575.8,
+      401.73,
+      601.67
+    ],
+    "reading_order": 18,
+    "text": "Number of\n1\n1\n3\n2\n1\n1\n1\nmatches",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 13,
+    "block_id": "jemh113_p013_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

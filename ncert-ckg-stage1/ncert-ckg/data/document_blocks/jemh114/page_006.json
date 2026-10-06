@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n207",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b03",
+    "type": "header",
+    "bbox": [
+      48.01,
+      95.01,
+      420.01,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "That is, the probability of an event which is impossible to occur is 0. Such an\nevent is called an impossible event.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      124.83,
+      140.89,
+      137.51
+    ],
+    "reading_order": 4,
+    "text": "Let us answer (ii) :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      142.53,
+      420.14,
+      181.19
+    ],
+    "reading_order": 5,
+    "text": "Since every face of a die is marked with a number less than 7, it is sure that we\nwill always get a number less than 7 when it is thrown once. So, the number of\nfavourable outcomes is the same as the number of all possible outcomes, which is 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b07",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      187.32,
+      344.43,
+      208.07
+    ],
+    "reading_order": 7,
+    "text": "Therefore,\nP(E) = P(getting a number less than 7) = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b08",
+    "type": "formula",
+    "bbox": [
+      338.88,
+      195.81,
+      365.04,
+      215.53
+    ],
+    "reading_order": 8,
+    "text": "6 = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      221.49,
+      420.01,
+      246.94
+    ],
+    "reading_order": 9,
+    "text": "So, the probability of an event which is sure (or certain) to occur is 1. Such an event\nis called a sure event or a certain event.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      251.55,
+      420.08,
+      292.31
+    ],
+    "reading_order": 10,
+    "text": "Note : From the definition of the probability P(E), we see that the numerator (number\nof outcomes favourable to the event E) is always less than or equal to the denominator\n(the number of all possible outcomes). Therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b11",
+    "type": "paragraph",
+    "bbox": [
+      192.97,
+      299.15,
+      256.32,
+      313.46
+    ],
+    "reading_order": 11,
+    "text": "0  P(E)  1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      318.21,
+      420.05,
+      396.47
+    ],
+    "reading_order": 12,
+    "text": "Now, let us take an example related to playing cards. Have you seen a deck of\nplaying cards? It consists of 52 cards which are divided into 4 suits of 13 cards each—\nspades (), hearts (), diamonds () and clubs (). Clubs and spades are of black\ncolour, while hearts and diamonds are of red colour. The cards in each suit are ace,\nking, queen, jack, 10, 9, 8, 7, 6, 5, 4, 3 and 2. Kings, queens and jacks are called face\ncards.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      401.08,
+      420.01,
+      426.95
+    ],
+    "reading_order": 13,
+    "text": "Example 4 : One card is drawn from a well-shuffled deck of 52 cards. Calculate the\nprobability that the card will",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      58.54,
+      433.89,
+      117.61,
+      446.15
+    ],
+    "reading_order": 14,
+    "text": "(i) be an ace,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      56.17,
+      453.09,
+      135.62,
+      465.35
+    ],
+    "reading_order": 15,
+    "text": "(ii) not be an ace.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      471.87,
+      310.34,
+      484.54
+    ],
+    "reading_order": 16,
+    "text": "Solution : Well-shuffling ensures equally likely outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      58.57,
+      491.48,
+      372.06,
+      503.74
+    ],
+    "reading_order": 17,
+    "text": "(i) There are 4 aces in a deck. Let E be the event ‘the card is an ace’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b18",
+    "type": "formula",
+    "bbox": [
+      72.73,
+      508.77,
+      272.19,
+      521.02
+    ],
+    "reading_order": 18,
+    "text": "The number of outcomes favourable to E = 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b19",
+    "type": "formula",
+    "bbox": [
+      72.73,
+      527.96,
+      292.59,
+      540.22
+    ],
+    "reading_order": 19,
+    "text": "The number of possible outcomes = 52\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b20",
+    "type": "formula",
+    "bbox": [
+      72.73,
+      546.36,
+      246.28,
+      574.57
+    ],
+    "reading_order": 20,
+    "text": "Therefore,\nP(E) = 4\n1\n52\n13\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      576.21,
+      277.47,
+      588.47
+    ],
+    "reading_order": 21,
+    "text": "(ii) Let F be the event ‘card drawn is not an ace’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b22",
+    "type": "formula",
+    "bbox": [
+      72.73,
+      595.41,
+      400.56,
+      607.66
+    ],
+    "reading_order": 22,
+    "text": "The number of outcomes favourable to the event F = 52 – 4 = 48 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 6,
+    "block_id": "jemh114_p006_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,801 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_26.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "166\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.03,
+      276.04,
+      155.26
+    ],
+    "reading_order": 3,
+    "text": "Example 4 : Mayank made a bird-bath for his garden\nin the shape of a cylinder with a hemispherical\ndepression at one end (see Fig. 12.9). The height of\nthe cylinder is 1.45 m and its radius is 30 cm. Find the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b04",
+    "type": "figure",
+    "bbox": [
+      329.12,
+      112.84,
+      348.35,
+      113.14
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_18.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b05",
+    "type": "figure",
+    "bbox": [
+      325.53,
+      113.09,
+      351.95,
+      113.39
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_17.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b06",
+    "type": "figure",
+    "bbox": [
+      322.89,
+      113.33,
+      354.58,
+      113.63
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_16.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b07",
+    "type": "figure",
+    "bbox": [
+      320.73,
+      113.58,
+      356.74,
+      113.88
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_15.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b08",
+    "type": "figure",
+    "bbox": [
+      319.05,
+      113.82,
+      358.42,
+      114.12
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_14.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b09",
+    "type": "figure",
+    "bbox": [
+      317.62,
+      114.06,
+      359.86,
+      114.36
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_12.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b10",
+    "type": "figure",
+    "bbox": [
+      316.66,
+      114.31,
+      360.82,
+      114.61
+    ],
+    "reading_order": 10,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b11",
+    "type": "figure",
+    "bbox": [
+      315.46,
+      114.55,
+      362.01,
+      114.85
+    ],
+    "reading_order": 11,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b12",
+    "type": "figure",
+    "bbox": [
+      314.74,
+      114.79,
+      362.73,
+      115.09
+    ],
+    "reading_order": 12,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_09.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b13",
+    "type": "figure",
+    "bbox": [
+      314.26,
+      115.04,
+      363.21,
+      115.34
+    ],
+    "reading_order": 13,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_08.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b14",
+    "type": "figure",
+    "bbox": [
+      313.78,
+      115.28,
+      363.69,
+      115.58
+    ],
+    "reading_order": 14,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_07.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b15",
+    "type": "figure",
+    "bbox": [
+      313.54,
+      115.52,
+      363.93,
+      115.82
+    ],
+    "reading_order": 15,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_06.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b16",
+    "type": "figure",
+    "bbox": [
+      313.3,
+      115.77,
+      364.17,
+      116.56
+    ],
+    "reading_order": 16,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_05.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b17",
+    "type": "figure",
+    "bbox": [
+      313.54,
+      116.5,
+      363.93,
+      116.8
+    ],
+    "reading_order": 17,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_04.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b18",
+    "type": "figure",
+    "bbox": [
+      313.78,
+      116.74,
+      363.69,
+      117.04
+    ],
+    "reading_order": 18,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b19",
+    "type": "figure",
+    "bbox": [
+      314.26,
+      116.99,
+      363.21,
+      117.29
+    ],
+    "reading_order": 19,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_25.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b20",
+    "type": "figure",
+    "bbox": [
+      314.74,
+      117.23,
+      362.73,
+      117.53
+    ],
+    "reading_order": 20,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_24.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b21",
+    "type": "figure",
+    "bbox": [
+      315.46,
+      117.47,
+      362.01,
+      117.77
+    ],
+    "reading_order": 21,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_23.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b22",
+    "type": "figure",
+    "bbox": [
+      316.66,
+      117.72,
+      360.82,
+      118.02
+    ],
+    "reading_order": 22,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_22.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b23",
+    "type": "figure",
+    "bbox": [
+      317.62,
+      117.96,
+      359.86,
+      118.26
+    ],
+    "reading_order": 23,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_21.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b24",
+    "type": "figure",
+    "bbox": [
+      319.05,
+      118.21,
+      358.42,
+      118.51
+    ],
+    "reading_order": 24,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_20.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b25",
+    "type": "figure",
+    "bbox": [
+      320.73,
+      118.45,
+      356.74,
+      118.75
+    ],
+    "reading_order": 25,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_19.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b26",
+    "type": "figure",
+    "bbox": [
+      322.89,
+      118.69,
+      354.58,
+      118.99
+    ],
+    "reading_order": 26,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_13.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b27",
+    "type": "figure",
+    "bbox": [
+      325.53,
+      118.94,
+      351.95,
+      119.24
+    ],
+    "reading_order": 27,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b28",
+    "type": "figure",
+    "bbox": [
+      329.12,
+      119.18,
+      348.35,
+      119.48
+    ],
+    "reading_order": 28,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b29",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      158.0,
+      260.91,
+      178.9
+    ],
+    "reading_order": 29,
+    "text": "total surface area of the bird-bath. (Take  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b30",
+    "type": "paragraph",
+    "bbox": [
+      252.72,
+      165.81,
+      269.34,
+      184.79
+    ],
+    "reading_order": 30,
+    "text": "7 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b31",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 31,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_27.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b32",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      188.67,
+      276.01,
+      216.7
+    ],
+    "reading_order": 32,
+    "text": "Solution : Let h be height of the cylinder, and r the\ncommon radius of the cylinder and hemisphere. Then,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b33",
+    "type": "paragraph",
+    "bbox": [
+      317.52,
+      204.04,
+      360.24,
+      216.71
+    ],
+    "reading_order": 33,
+    "text": "Fig. 12.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b34",
+    "type": "formula",
+    "bbox": [
+      49.91,
+      222.44,
+      400.33,
+      234.7
+    ],
+    "reading_order": 34,
+    "text": "the total surface area of the bird-bath = CSA of cylinder + CSA of hemisphere",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b35",
+    "type": "formula",
+    "bbox": [
+      218.63,
+      238.49,
+      348.07,
+      252.81
+    ],
+    "reading_order": 35,
+    "text": "= 2rh + 2r2 = 2r(h + r)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b36",
+    "type": "formula",
+    "bbox": [
+      217.2,
+      259.8,
+      348.0,
+      288.01
+    ],
+    "reading_order": 36,
+    "text": "=\n2\n22\n2\n30(145\n30) cm\n7\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b37",
+    "type": "formula",
+    "bbox": [
+      217.2,
+      289.17,
+      320.24,
+      301.43
+    ],
+    "reading_order": 37,
+    "text": "= 33000 cm2  = 3.3 m2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b38",
+    "type": "paragraph",
+    "bbox": [
+      190.8,
+      319.74,
+      277.19,
+      333.56
+    ],
+    "reading_order": 38,
+    "text": "EXERCISE 12.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b39",
+    "type": "paragraph",
+    "bbox": [
+      185.76,
+      338.44,
+      199.74,
+      364.08
+    ],
+    "reading_order": 39,
+    "text": "22\n7 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b40",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      345.11,
+      183.15,
+      358.12
+    ],
+    "reading_order": 40,
+    "text": "Unless stated otherwise, take  =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b41",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      365.53,
+      420.01,
+      390.49
+    ],
+    "reading_order": 41,
+    "text": "1. 2 cubes each of volume 64 cm3 are joined end to end. Find the surface area of the\nresulting cuboid.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b42",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      396.49,
+      420.09,
+      434.89
+    ],
+    "reading_order": 42,
+    "text": "2. A vessel is in the form of a hollow hemisphere mounted by a hollow cylinder. The\ndiameter of the hemisphere is 14 cm and the total height of the vessel is 13 cm. Find the\ninner surface area of the vessel.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b43",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      440.89,
+      420.04,
+      465.85
+    ],
+    "reading_order": 43,
+    "text": "3. A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same radius.\nThe total height of the toy is 15.5 cm. Find the total surface area of the toy.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b44",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      472.09,
+      420.06,
+      497.05
+    ],
+    "reading_order": 44,
+    "text": "4. A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest\ndiameter the hemisphere can have? Find the surface area of the solid.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b45",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      503.05,
+      420.05,
+      541.45
+    ],
+    "reading_order": 45,
+    "text": "5. A hemispherical depression is cut out from one face of a cubical wooden block such\nthat the diameter l of the hemisphere is equal to the edge of the cube.  Determine the\nsurface area of the remaining solid.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b46",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      547.45,
+      357.84,
+      615.11
+    ],
+    "reading_order": 46,
+    "text": "6. A medicine capsule is in the shape of a\ncylinder with two hemispheres stuck to each\nof its ends (see Fig. 12.10). The length of\nthe entire capsule is 14 mm and the diameter\nof the capsule is 5 mm. Find its surface area.\nFig. 12.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 6,
+    "block_id": "jemh112_p006_b47",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 47,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n177",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b03",
+    "type": "paragraph",
+    "bbox": [
+      244.8,
+      98.81,
+      250.84,
+      113.14
+    ],
+    "reading_order": 3,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      233.52,
+      100.2,
+      259.67,
+      128.14
+    ],
+    "reading_order": 4,
+    "text": "ix\na\nh",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      108.69,
+      225.6,
+      123.54
+    ],
+    "reading_order": 5,
+    "text": "We have,\nui =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      138.69,
+      374.29,
+      183.6
+    ],
+    "reading_order": 6,
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      249.84,
+      139.93,
+      284.45,
+      152.14
+    ],
+    "reading_order": 7,
+    "text": "(\n)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      239.28,
+      140.09,
+      364.97,
+      180.68
+    ],
+    "reading_order": 8,
+    "text": "x\na\nf\nf x\na f\nh\nf\nh\nf",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      242.64,
+      146.38,
+      305.0,
+      165.09
+    ],
+    "reading_order": 9,
+    "text": "1\ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      158.27,
+      225.6,
+      171.59
+    ],
+    "reading_order": 10,
+    "text": "Therefore,\nu =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      324.72,
+      159.09,
+      367.25,
+      166.89
+    ],
+    "reading_order": 11,
+    "text": "i\ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b12",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 12,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      262.32,
+      174.69,
+      346.85,
+      182.49
+    ],
+    "reading_order": 13,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      193.9,
+      309.27,
+      226.83
+    ],
+    "reading_order": 14,
+    "text": "f x\nf\na\nh\nf\nf\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      195.8,
+      302.23,
+      209.86
+    ],
+    "reading_order": 15,
+    "text": "1\ni\ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b16",
+    "type": "formula",
+    "bbox": [
+      216.72,
+      204.69,
+      225.6,
+      216.95
+    ],
+    "reading_order": 16,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      260.16,
+      217.87,
+      302.22,
+      225.7
+    ],
+    "reading_order": 17,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b18",
+    "type": "formula",
+    "bbox": [
+      216.72,
+      232.92,
+      272.92,
+      261.12
+    ],
+    "reading_order": 18,
+    "text": "=\n\n\n1 x\na\nh\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      267.39,
+      256.26,
+      282.23
+    ],
+    "reading_order": 19,
+    "text": "So,\nhu = x\na\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      289.65,
+      262.26,
+      301.91
+    ],
+    "reading_order": 20,
+    "text": "i.e.,\nx = a + hu",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      313.58,
+      380.19,
+      364.98
+    ],
+    "reading_order": 21,
+    "text": "f u\na\nh\nf\n\n\n\n\n\n\n\n\n\nNow, substituting the values of a, h,  fiui and fi from Table 14.5,  we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b22",
+    "type": "paragraph",
+    "bbox": [
+      273.36,
+      321.99,
+      283.28,
+      329.87
+    ],
+    "reading_order": 22,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      323.39,
+      225.6,
+      336.95
+    ],
+    "reading_order": 23,
+    "text": "So,\nx =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b24",
+    "type": "paragraph",
+    "bbox": [
+      277.2,
+      337.83,
+      279.2,
+      345.71
+    ],
+    "reading_order": 24,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b25",
+    "type": "paragraph",
+    "bbox": [
+      232.09,
+      373.6,
+      308.34,
+      403.22
+    ],
+    "reading_order": 25,
+    "text": "29\n47.5\n15\n30\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b26",
+    "type": "formula",
+    "bbox": [
+      209.28,
+      382.19,
+      225.6,
+      395.75
+    ],
+    "reading_order": 26,
+    "text": "x =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b27",
+    "type": "formula",
+    "bbox": [
+      219.84,
+      410.13,
+      302.88,
+      422.39
+    ],
+    "reading_order": 27,
+    "text": "= 47.5 + 14.5 = 62",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      427.41,
+      258.73,
+      439.67
+    ],
+    "reading_order": 28,
+    "text": "So, the mean marks obtained by a student is 62.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b29",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      444.28,
+      344.17,
+      456.95
+    ],
+    "reading_order": 29,
+    "text": "The method discussed above is called the Step-deviation method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b30",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      461.98,
+      134.41,
+      474.23
+    ],
+    "reading_order": 30,
+    "text": "We note that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b31",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      479.25,
+      420.0,
+      494.1
+    ],
+    "reading_order": 31,
+    "text": "the step-deviation method will be convenient to apply if all the di’s have a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b32",
+    "type": "paragraph",
+    "bbox": [
+      88.57,
+      492.45,
+      158.29,
+      504.71
+    ],
+    "reading_order": 32,
+    "text": "common factor.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b33",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      509.73,
+      337.46,
+      521.99
+    ],
+    "reading_order": 33,
+    "text": "The mean obtained by all the three methods is the same.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b34",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      527.01,
+      420.07,
+      539.27
+    ],
+    "reading_order": 34,
+    "text": "The assumed mean method and step-deviation method are just simplified",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b35",
+    "type": "paragraph",
+    "bbox": [
+      88.56,
+      540.21,
+      209.3,
+      552.47
+    ],
+    "reading_order": 35,
+    "text": "forms of the direct method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b36",
+    "type": "formula",
+    "bbox": [
+      75.84,
+      556.19,
+      420.03,
+      568.79
+    ],
+    "reading_order": 36,
+    "text": "The formula x = a + hu still holds if a and h are not as given above, but are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b37",
+    "type": "paragraph",
+    "bbox": [
+      267.6,
+      571.99,
+      288.11,
+      593.51
+    ],
+    "reading_order": 37,
+    "text": "\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b38",
+    "type": "formula",
+    "bbox": [
+      88.57,
+      573.4,
+      282.51,
+      601.44
+    ],
+    "reading_order": 38,
+    "text": "any non-zero numbers such that ui = \nix\na\nh",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b39",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      601.42,
+      282.77,
+      613.67
+    ],
+    "reading_order": 39,
+    "text": "Let us apply these methods in another example.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 7,
+    "block_id": "jemh113_p007_b40",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 40,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "22\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b03",
+    "type": "formula",
+    "bbox": [
+      163.6,
+      100.03,
+      237.59,
+      121.94
+    ],
+    "reading_order": 3,
+    "text": " +  +  = –b",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      228.96,
+      108.27,
+      243.71,
+      128.15
+    ],
+    "reading_order": 4,
+    "text": "a ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b05",
+    "type": "formula",
+    "bbox": [
+      143.11,
+      127.06,
+      231.25,
+      149.29
+    ],
+    "reading_order": 5,
+    "text": "\n\n\n\n + \n\n\n\n + \n\n\n\n = c",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      226.08,
+      135.63,
+      237.71,
+      155.53
+    ],
+    "reading_order": 6,
+    "text": "a ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b07",
+    "type": "formula",
+    "bbox": [
+      181.28,
+      157.06,
+      239.07,
+      179.06
+    ],
+    "reading_order": 7,
+    "text": "\n\n\n\n = –d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      229.44,
+      165.39,
+      245.15,
+      185.53
+    ],
+    "reading_order": 8,
+    "text": "a .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      187.42,
+      172.56,
+      199.67
+    ],
+    "reading_order": 10,
+    "text": "Let us consider an example.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      214.68,
+      420.02,
+      242.89
+    ],
+    "reading_order": 11,
+    "text": "Example 5* : Verify that 3, –1, \n1\n3\n\n are the zeroes of the cubic polynomial",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      244.77,
+      420.03,
+      270.23
+    ],
+    "reading_order": 12,
+    "text": "p(x) = 3x3 – 5x2 – 11x – 3, and then verify the relationship between the zeroes and the\ncoefficients.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b13",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      274.84,
+      381.6,
+      287.51
+    ],
+    "reading_order": 13,
+    "text": "Solution : Comparing the given polynomial with ax3 + bx2 + cx + d, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b14",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      292.53,
+      247.68,
+      304.79
+    ],
+    "reading_order": 14,
+    "text": "a = 3, b = – 5, c = –11, d = – 3. Further",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b15",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      309.57,
+      341.02,
+      321.83
+    ],
+    "reading_order": 15,
+    "text": "p(3) = 3 × 33 – (5 × 32) – (11 × 3) – 3 = 81 – 45 – 33 – 3 = 0,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b16",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      326.85,
+      371.28,
+      339.11
+    ],
+    "reading_order": 16,
+    "text": "p(–1) = 3 × (–1)3 – 5 × (–1)2 – 11 × (–1) – 3 = –3 – 5 + 11 – 3 = 0,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      345.96,
+      302.27,
+      377.76
+    ],
+    "reading_order": 17,
+    "text": "3\n2\n1\n1\n1\n1\n3\n5\n11\n3\n3\n3\n3\n3\np\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b18",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      385.8,
+      260.68,
+      414.01
+    ],
+    "reading_order": 18,
+    "text": "= \n1\n5\n11\n2\n2\n–\n3\n–\n0\n9\n9\n3\n3\n3\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      421.08,
+      328.32,
+      449.29
+    ],
+    "reading_order": 19,
+    "text": "Therefore, 3, –1 and \n1\n3\n\n are the zeroes of 3x3 – 5x2 – 11x – 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      443.88,
+      220.22,
+      472.09
+    ],
+    "reading_order": 20,
+    "text": "So, we take  = 3,  = –1 and  = \n1\n3\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      468.21,
+      71.15,
+      480.47
+    ],
+    "reading_order": 21,
+    "text": "Now,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      73.69,
+      482.03,
+      317.77,
+      512.66
+    ],
+    "reading_order": 22,
+    "text": "1\n1\n5\n( 5)\n3\n( 1)\n2\n3\n3\n3\n3\nb\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b23",
+    "type": "paragraph",
+    "bbox": [
+      320.4,
+      487.65,
+      323.15,
+      499.91
+    ],
+    "reading_order": 23,
+    "text": ",",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b24",
+    "type": "paragraph",
+    "bbox": [
+      73.68,
+      516.83,
+      409.93,
+      547.47
+    ],
+    "reading_order": 24,
+    "text": "1\n1\n1\n11\n3\n( 1)\n( 1)\n3\n3\n1\n3\n3\n3\n3\nc\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b25",
+    "type": "paragraph",
+    "bbox": [
+      412.8,
+      523.17,
+      415.55,
+      535.43
+    ],
+    "reading_order": 25,
+    "text": ",",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b26",
+    "type": "paragraph",
+    "bbox": [
+      73.68,
+      555.64,
+      257.33,
+      586.36
+    ],
+    "reading_order": 26,
+    "text": "1\n( 3)\n3\n( 1)\n1\n3\n3\nd\na\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b27",
+    "type": "paragraph",
+    "bbox": [
+      261.36,
+      561.81,
+      264.11,
+      574.07
+    ],
+    "reading_order": 27,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b28",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      598.95,
+      216.85,
+      610.09
+    ],
+    "reading_order": 28,
+    "text": "* Not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 13,
+    "block_id": "jemh102_p013_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

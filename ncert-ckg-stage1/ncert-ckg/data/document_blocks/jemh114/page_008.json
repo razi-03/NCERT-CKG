@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n209",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.09,
+      173.27
+    ],
+    "reading_order": 3,
+    "text": "Example 7 : There are 40 students in Class X of a school of whom 25 are girls and 15\nare boys. The class teacher has to select one student as a class representative. She\nwrites the name of each student on a separate card, the cards being identical. Then\nshe puts cards in a bag and stirs them thoroughly. She then draws one card from the\nbag. What is the probability that the name written on the card is the name of (i) a girl?\n(ii) a  boy?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      177.88,
+      385.71,
+      190.55
+    ],
+    "reading_order": 5,
+    "text": "Solution : There are 40 students, and only one name card has to be chosen.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      195.33,
+      258.01,
+      207.59
+    ],
+    "reading_order": 6,
+    "text": "(i) The number of all possible outcomes is 40",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b07",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      212.61,
+      420.02,
+      224.87
+    ],
+    "reading_order": 7,
+    "text": "The number of outcomes favourable for a card with the name of a girl = 25 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b08",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      231.0,
+      332.19,
+      259.21
+    ],
+    "reading_order": 8,
+    "text": "Therefore, P (card with name of a girl) = P(Girl) = 25\n5\n40\n8\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b09",
+    "type": "formula",
+    "bbox": [
+      56.88,
+      261.09,
+      420.07,
+      273.35
+    ],
+    "reading_order": 9,
+    "text": "(ii) The number of outcomes favourable for a card with the name of a boy = 15 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b10",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      279.48,
+      334.59,
+      307.69
+    ],
+    "reading_order": 10,
+    "text": "Therefore, P(card with name of a boy) = P(Boy) = 15\n3\n40\n8\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      313.23,
+      264.02,
+      325.91
+    ],
+    "reading_order": 11,
+    "text": "Note : We can also determine P(Boy), by taking",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b12",
+    "type": "formula",
+    "bbox": [
+      154.08,
+      335.88,
+      381.39,
+      364.09
+    ],
+    "reading_order": 12,
+    "text": "P(Boy) = 1 – P(not Boy) = 1 – P(Girl) = \n5\n3\n1\n8\n8\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      369.39,
+      420.04,
+      395.27
+    ],
+    "reading_order": 13,
+    "text": "Example 8 : A box contains 3 blue, 2 white, and 4 red marbles. If a marble is drawn\nat random from the box, what is the probability that it will be",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      400.29,
+      274.33,
+      412.55
+    ],
+    "reading_order": 14,
+    "text": "(i) white?\n(ii) blue?\n(iii) red?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      419.07,
+      420.08,
+      444.94
+    ],
+    "reading_order": 15,
+    "text": "Solution : Saying that a marble is drawn at random is a short way of saying that all the\nmarbles are equally likely to be drawn. Therefore, the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b16",
+    "type": "formula",
+    "bbox": [
+      72.03,
+      451.88,
+      326.41,
+      464.15
+    ],
+    "reading_order": 16,
+    "text": "number of possible outcomes = 3 +2 + 4 = 9 \n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      471.09,
+      420.06,
+      496.54
+    ],
+    "reading_order": 17,
+    "text": "Let W denote the event ‘the marble is white’, B denote the event ‘the marble is blue’\nand R denote the event ‘marble is red’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      503.48,
+      310.41,
+      515.74
+    ],
+    "reading_order": 18,
+    "text": "(i) The number of outcomes favourable to the event W = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      521.88,
+      194.19,
+      542.65
+    ],
+    "reading_order": 19,
+    "text": "So,\nP(W) = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      537.71,
+      193.95,
+      550.09
+    ],
+    "reading_order": 20,
+    "text": "9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      557.16,
+      193.95,
+      577.93
+    ],
+    "reading_order": 21,
+    "text": "Similarly,\n(ii) P(B) = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b22",
+    "type": "formula",
+    "bbox": [
+      188.16,
+      557.16,
+      320.19,
+      585.37
+    ],
+    "reading_order": 22,
+    "text": "9 = 1\n3\nand\n(iii) P(R) = 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      314.4,
+      572.99,
+      319.95,
+      585.37
+    ],
+    "reading_order": 23,
+    "text": "9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      595.72,
+      205.7,
+      608.39
+    ],
+    "reading_order": 24,
+    "text": "Note that P(W) + P(B) + P(R) = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 8,
+    "block_id": "jemh114_p008_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

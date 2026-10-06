@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n203",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      95.01,
+      360.78,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Are the outcomes of every experiment equally likely? Let us see.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      112.05,
+      420.07,
+      203.51
+    ],
+    "reading_order": 4,
+    "text": "Suppose that a bag contains 4 red balls and 1 blue ball, and you draw a ball\nwithout looking into the bag. What are the outcomes? Are the outcomes — a red ball\nand a blue ball equally likely? Since there are 4 red balls and only one blue ball, you\nwould agree that you are more likely to get a red ball than a blue ball. So, the outcomes\n(a red ball or a blue ball) are not equally likely. However, the outcome of drawing a\nball of any colour from the bag is equally likely. So, all experiments do not necessarily\nhave equally likely outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      208.11,
+      420.0,
+      233.99
+    ],
+    "reading_order": 6,
+    "text": "However, in this chapter, from now on, we will assume that all the experiments\nhave equally likely outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      239.01,
+      420.07,
+      264.47
+    ],
+    "reading_order": 7,
+    "text": "In Class IX, we defined the experimental or empirical probability P(E) of an\nevent E as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b08",
+    "type": "formula",
+    "bbox": [
+      105.12,
+      272.97,
+      348.31,
+      293.51
+    ],
+    "reading_order": 8,
+    "text": "P(E) = Number of trials in which the event happened",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      288.57,
+      420.12,
+      412.33
+    ],
+    "reading_order": 9,
+    "text": "Total number of trials\nThe empirical interpretation of probability can be applied to every event associated\nwith an experiment which can be repeated a large number of times. The requirement\nof repeating an experiment has some limitations, as it may be very expensive or\nunfeasible in many situations. Of course, it worked well in coin tossing or die throwing\nexperiments. But how about repeating the experiment of launching a satellite in order\nto compute the empirical probability of its failure during launching, or the repetition of\nthe phenomenon of an earthquake to compute the empirical probability of a multi-\nstoreyed building getting destroyed in an earthquake?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      417.85,
+      420.05,
+      484.84
+    ],
+    "reading_order": 10,
+    "text": "In experiments where we are prepared to make certain assumptions, the repetition\nof an experiment can be avoided, as the assumptions help in directly calculating the\nexact (theoretical) probability. The assumption of equally likely outcomes (which is\nvalid in many experiments, as in the two examples above, of a coin and of a die) is one\nsuch assumption that leads us to the following definition of probability of an event.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      489.93,
+      420.02,
+      516.28
+    ],
+    "reading_order": 11,
+    "text": "The theoretical probability (also called classical probability) of an event E,\nwritten as P(E), is defined as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b12",
+    "type": "formula",
+    "bbox": [
+      104.88,
+      526.54,
+      374.21,
+      555.12
+    ],
+    "reading_order": 12,
+    "text": "P(E) = \nNumber of outcomes favourable to E\nNumber of all possible outcomes of the experiment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      377.52,
+      531.16,
+      380.27,
+      543.83
+    ],
+    "reading_order": 13,
+    "text": ",",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      564.21,
+      378.11,
+      576.46
+    ],
+    "reading_order": 14,
+    "text": "where we assume that the outcomes of the experiment are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      581.49,
+      333.74,
+      593.75
+    ],
+    "reading_order": 15,
+    "text": "We will briefly refer to theoretical probability as probability.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      598.53,
+      392.21,
+      610.78
+    ],
+    "reading_order": 16,
+    "text": "This definition of probability was given by Pierre Simon Laplace in 1795.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 2,
+    "block_id": "jemh114_p002_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

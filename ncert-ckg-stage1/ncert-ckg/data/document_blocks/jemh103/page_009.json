@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "32\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      97.02,
+      332.27,
+      108.02
+    ],
+    "reading_order": 3,
+    "text": "So, Aftab and his daughter are 42 and 12 years old, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      115.02,
+      420.05,
+      126.02
+    ],
+    "reading_order": 4,
+    "text": "Verify this answer by checking if it satisfies the conditions of the given problems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      135.46,
+      420.01,
+      162.98
+    ],
+    "reading_order": 5,
+    "text": "Example 6 :  In a shop the cost of 2 pencils and 3 erasers is `9 and the cost of 4\npencils and 6 erasers is `18. Find the cost of each pencil and each eraser.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      169.83,
+      281.3,
+      180.98
+    ],
+    "reading_order": 6,
+    "text": "Solution : The pair of linear equations formed were:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b08",
+    "type": "formula",
+    "bbox": [
+      186.0,
+      187.39,
+      419.76,
+      198.5
+    ],
+    "reading_order": 8,
+    "text": "2x + 3y = 9\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b09",
+    "type": "formula",
+    "bbox": [
+      186.0,
+      204.67,
+      419.76,
+      215.78
+    ],
+    "reading_order": 9,
+    "text": "4x + 6y = 18\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      221.71,
+      407.29,
+      232.82
+    ],
+    "reading_order": 10,
+    "text": "We first express the value of x in terms of y from the equation 2x + 3y = 9, to get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b11",
+    "type": "formula",
+    "bbox": [
+      213.84,
+      239.94,
+      419.76,
+      269.09
+    ],
+    "reading_order": 11,
+    "text": "x = 9\n3\n2\ny\n−\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      276.19,
+      294.01,
+      287.3
+    ],
+    "reading_order": 12,
+    "text": "Now we substitute this value of x in Equation (2), to get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b13",
+    "type": "formula",
+    "bbox": [
+      151.92,
+      296.58,
+      243.12,
+      325.73
+    ],
+    "reading_order": 13,
+    "text": "4(9\n3 )\n2\ny\n−\n + 6y = 18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      330.67,
+      243.12,
+      341.78
+    ],
+    "reading_order": 14,
+    "text": "i.e.,\n18 – 6y + 6y = 18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      348.06,
+      243.12,
+      359.06
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\n18 = 18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      373.15,
+      420.04,
+      456.74
+    ],
+    "reading_order": 16,
+    "text": "This statement is true for all values of y. However, we do not get a specific\nvalue of y as a solution. Therefore, we cannot obtain a specific value of x. This\nsituation has arisen because both the given equations are the same. Therefore,\nEquations (1) and (2) have infinitely many solutions. We cannot find a unique\ncost of a pencil and an eraser, because there are many common solutions, to the\ngiven situation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      466.47,
+      350.18,
+      508.34
+    ],
+    "reading_order": 17,
+    "text": "Example 7 : Two rails are represented by the equations\nx + 2y – 4 = 0 and 2x + 4y – 12 = 0.  Will the rails cross each other?\nSolution : The pair of linear equations formed were:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      512.35,
+      419.76,
+      553.94
+    ],
+    "reading_order": 18,
+    "text": "x + 2y – 4 = 0\n(1)\n2x + 4y – 12 = 0\n(2)\nWe express x in terms of y from Equation (1) to get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      557.95,
+      293.29,
+      584.42
+    ],
+    "reading_order": 19,
+    "text": "x = 4 – 2y\nNow, we substitute this value of x in Equation (2) to get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b20",
+    "type": "formula",
+    "bbox": [
+      133.44,
+      588.43,
+      238.06,
+      599.54
+    ],
+    "reading_order": 20,
+    "text": "2(4 – 2y) + 4y – 12 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 9,
+    "block_id": "jemh103_p009_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

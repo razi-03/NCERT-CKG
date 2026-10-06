@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "206\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.08,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Are the events E and F in the example above elementary events? No, they are\nnot because the event E has 2 outcomes and the event F has 4 outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      125.79,
+      236.18,
+      138.46
+    ],
+    "reading_order": 4,
+    "text": "Remarks : From Example 1, we note that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b05",
+    "type": "formula",
+    "bbox": [
+      119.99,
+      145.8,
+      419.28,
+      174.01
+    ],
+    "reading_order": 5,
+    "text": "P(E) + P(F) = 1\n1\n1\n2\n2\n\n\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      177.57,
+      360.09,
+      189.82
+    ],
+    "reading_order": 7,
+    "text": "where E is the event ‘getting a head’ and F is the event ‘getting a tail’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      194.85,
+      260.2,
+      207.1
+    ],
+    "reading_order": 8,
+    "text": "From (i) and (ii) of Example 3, we also get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b09",
+    "type": "formula",
+    "bbox": [
+      120.01,
+      217.08,
+      419.28,
+      245.29
+    ],
+    "reading_order": 9,
+    "text": "P(E) + P(F) = 1\n2\n1\n3\n3\n\n\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      250.98,
+      420.0,
+      265.29
+    ],
+    "reading_order": 10,
+    "text": "where E is the event ‘getting a number >4’ and F is the event ‘getting a number  4’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      270.21,
+      420.02,
+      295.67
+    ],
+    "reading_order": 11,
+    "text": "Note that getting a number not greater than 4 is same as getting a number less\nthan or equal to 4, and vice versa.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      301.65,
+      420.03,
+      313.9
+    ],
+    "reading_order": 12,
+    "text": "In (1) and (2) above, is F not the same as ‘not E’? Yes, it is. We denote the event",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      319.17,
+      191.26,
+      346.55
+    ],
+    "reading_order": 13,
+    "text": "‘not E’ by E .\nSo,\nP(E) + P(not E) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      353.69,
+      360.48,
+      366.78
+    ],
+    "reading_order": 14,
+    "text": "i.e.,\nP(E) + P( E ) = 1,\nwhich gives us\nP( E ) = 1 – P(E).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      371.55,
+      267.84,
+      384.22
+    ],
+    "reading_order": 15,
+    "text": "In general, it is true that for an event E,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b16",
+    "type": "formula",
+    "bbox": [
+      145.44,
+      390.94,
+      225.6,
+      404.46
+    ],
+    "reading_order": 16,
+    "text": "P( E ) = 1 – P(E)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      410.67,
+      420.0,
+      424.09
+    ],
+    "reading_order": 17,
+    "text": "The event E , representing ‘not E’, is called the complement of the event E.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      428.2,
+      294.73,
+      441.61
+    ],
+    "reading_order": 18,
+    "text": "We also say that E and E are complementary events.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      446.85,
+      420.07,
+      459.11
+    ],
+    "reading_order": 19,
+    "text": "Before proceeding further, let us try to find the answers to the following questions:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      58.57,
+      465.09,
+      386.23,
+      477.34
+    ],
+    "reading_order": 20,
+    "text": "(i) What is the probability of getting a number 8 in a single throw of a die?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.17,
+      483.33,
+      420.1,
+      495.58
+    ],
+    "reading_order": 21,
+    "text": "(ii) What is the probability of getting a number less than 7 in a single throw of a die?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      501.15,
+      138.01,
+      513.82
+    ],
+    "reading_order": 22,
+    "text": "Let us answer (i) :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      521.49,
+      419.98,
+      577.18
+    ],
+    "reading_order": 23,
+    "text": "We know that there are only six possible outcomes in a single throw of a die. These\noutcomes are 1, 2, 3, 4, 5 and 6. Since no face of the die is marked 8, so there is no\noutcome favourable to 8, i.e., the number of such outcomes is zero. In other words,\ngetting 8 in a single throw of a die, is impossible.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b24",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      585.24,
+      193.95,
+      606.0
+    ],
+    "reading_order": 24,
+    "text": "So,\nP(getting 8) = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b25",
+    "type": "formula",
+    "bbox": [
+      188.4,
+      593.73,
+      214.3,
+      613.45
+    ],
+    "reading_order": 25,
+    "text": "6 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 5,
+    "block_id": "jemh114_p005_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

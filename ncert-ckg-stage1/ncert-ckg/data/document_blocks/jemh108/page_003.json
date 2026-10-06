@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n115",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      102.21,
+      254.43,
+      140.87
+    ],
+    "reading_order": 3,
+    "text": "Note that the position of sides change\nwhen you consider angle C in place of A\n(see Fig. 8.5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      145.65,
+      254.45,
+      197.51
+    ],
+    "reading_order": 4,
+    "text": "You have studied the concept of ‘ratio’ in\nyour earlier classes. We now define certain ratios\ninvolving the sides of a right triangle, and call\nthem trigonometric ratios.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      202.12,
+      254.44,
+      241.19
+    ],
+    "reading_order": 6,
+    "text": "The trigonometric ratios of the angle A\nin right triangle ABC (see Fig. 8.4) are defined\nas follows :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      330.96,
+      241.71,
+      367.68,
+      254.39
+    ],
+    "reading_order": 7,
+    "text": "Fig. 8.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b08",
+    "type": "formula",
+    "bbox": [
+      72.01,
+      247.6,
+      274.01,
+      275.76
+    ],
+    "reading_order": 8,
+    "text": "sine of  A = side opposite to angle A\nBC\nhypotenuse\nAC\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b09",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      286.48,
+      283.87,
+      314.64
+    ],
+    "reading_order": 9,
+    "text": "cosine of  A = side adjacent to angle A\nAB\nhypotenuse\nAC\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b10",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      323.2,
+      287.45,
+      351.36
+    ],
+    "reading_order": 10,
+    "text": "tangent of  A = side opposite to angle A\nBC\nside adjacent to angle A\nAB\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b11",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      358.96,
+      362.82,
+      387.95
+    ],
+    "reading_order": 11,
+    "text": "cosecant of  A = \n1\nhypotenuse\nAC\nsine of\nA\nside opposite to angle A\nBC\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b12",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      394.0,
+      363.07,
+      422.99
+    ],
+    "reading_order": 12,
+    "text": "secant of  A = \n1\nhypotenuse\nAC\ncosine of\nA\nside adjacent to angle A\nAB\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      430.24,
+      383.23,
+      459.23
+    ],
+    "reading_order": 13,
+    "text": "cotangent of  A = \n1\nside adjacent to angle A\nAB\ntangent of\nA\nside opposite to angle A\nBC\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      467.49,
+      420.11,
+      506.15
+    ],
+    "reading_order": 14,
+    "text": "The ratios defined above are abbreviated as sin A, cos A, tan A, cosec A, sec A\nand cot A respectively. Note that the ratios cosec A, sec A and cot A are respectively,\nthe reciprocals of the ratios sin A, cos A and tan A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b15",
+    "type": "formula",
+    "bbox": [
+      193.68,
+      514.03,
+      279.16,
+      568.3
+    ],
+    "reading_order": 15,
+    "text": "BC\nBC\nsin A\nAC\nAB\nAB\ncos A\nAC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b16",
+    "type": "formula",
+    "bbox": [
+      212.64,
+      526.72,
+      365.58,
+      547.19
+    ],
+    "reading_order": 16,
+    "text": "\n\n and cot A = cosA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b17",
+    "type": "paragraph",
+    "bbox": [
+      369.36,
+      531.33,
+      372.11,
+      543.59
+    ],
+    "reading_order": 17,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b18",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      534.93,
+      190.87,
+      547.19
+    ],
+    "reading_order": 18,
+    "text": "Also, observe that tan A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b19",
+    "type": "formula",
+    "bbox": [
+      342.24,
+      542.57,
+      364.86,
+      554.88
+    ],
+    "reading_order": 19,
+    "text": "sin A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      567.63,
+      420.05,
+      593.51
+    ],
+    "reading_order": 20,
+    "text": "So, the trigonometric ratios of an acute angle in a right triangle express the\nrelationship between the angle and the length of its sides.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      597.58,
+      420.08,
+      623.03
+    ],
+    "reading_order": 21,
+    "text": "Why don’t you try to define the trigonometric ratios for angle C in the right\ntriangle? (See Fig. 8.5)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 3,
+    "block_id": "jemh108_p003_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

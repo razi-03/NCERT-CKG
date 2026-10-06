@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "212\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      101.49,
+      236.96,
+      113.75
+    ],
+    "reading_order": 3,
+    "text": "Area of the lake = (2.5 × 3) km2 = 7.5 km2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      119.11,
+      334.11,
+      148.57
+    ],
+    "reading_order": 4,
+    "text": "Therefore, P (helicopter crashed in the lake) = 7.5\n5\n40.5\n405\n27\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      158.92,
+      420.08,
+      187.91
+    ],
+    "reading_order": 5,
+    "text": "Example 12 : A carton consists of 100 shirts of which 88 are good, 8 have minor\ndefects and 4 have major defects. Jimmy, a trader, will only accept the shirts which",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      192.45,
+      420.04,
+      220.55
+    ],
+    "reading_order": 7,
+    "text": "are good, but Sujatha, another trader, will only reject the shirts which have major\ndefects. One shirt is drawn at random from the carton. What is the probability that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      233.49,
+      186.75,
+      245.75
+    ],
+    "reading_order": 8,
+    "text": "(i) it is acceptable to Jimmy?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      258.45,
+      190.58,
+      270.71
+    ],
+    "reading_order": 9,
+    "text": "(ii) it is acceptable to Sujatha?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      282.99,
+      420.06,
+      311.75
+    ],
+    "reading_order": 10,
+    "text": "Solution : One shirt is drawn at random from the carton of 100 shirts. Therefore,\nthere are 100 equally likely outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b11",
+    "type": "formula",
+    "bbox": [
+      58.56,
+      324.45,
+      413.35,
+      336.71
+    ],
+    "reading_order": 11,
+    "text": "(i) The number of outcomes favourable (i.e., acceptable) to Jimmy = 88 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b12",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      341.0,
+      329.03,
+      369.69
+    ],
+    "reading_order": 12,
+    "text": "Therefore, P (shirt is acceptable to Jimmy) = 88\n0.88\n100 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b13",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      374.37,
+      388.57,
+      386.63
+    ],
+    "reading_order": 13,
+    "text": "(ii) The number of outcomes favourable to Sujatha = 88 + 8 = 96\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      390.84,
+      298.11,
+      419.88
+    ],
+    "reading_order": 14,
+    "text": "So, P (shirt is acceptable to Sujatha) = 96\n0.96\n100 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      423.88,
+      420.06,
+      468.71
+    ],
+    "reading_order": 15,
+    "text": "Example 13 : Two dice, one blue and one grey, are thrown at the same time. Write\ndown all the possible outcomes. What is the probability that the sum of the two numbers\nappearing on the top of the dice is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b16",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      481.42,
+      348.74,
+      493.67
+    ],
+    "reading_order": 16,
+    "text": "(i) 8?\n(ii) 13?\n(iii) less than or equal to 12?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      505.96,
+      420.03,
+      582.72
+    ],
+    "reading_order": 17,
+    "text": "Solution : When the blue die shows ‘1’, the grey die could show any one of the\nnumbers 1, 2, 3, 4, 5, 6. The same is true when the blue die shows ‘2’, ‘3’, ‘4’, ‘5’ or\n‘6’. The possible outcomes of the experiment are listed in the table below; the first\nnumber in each ordered pair is the number appearing on the blue die and the second\nnumber is that on the grey die.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 11,
+    "block_id": "jemh114_p011_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

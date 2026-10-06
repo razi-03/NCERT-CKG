@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "8\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      292.45,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Therefore, a and b have at least 3 as a common factor.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      112.78,
+      286.57,
+      125.03
+    ],
+    "reading_order": 4,
+    "text": "But this contradicts the fact that a and b are coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      135.33,
+      420.01,
+      149.31
+    ],
+    "reading_order": 5,
+    "text": "This contradiction has arisen because of our incorrect assumption that 3 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      153.57,
+      215.05,
+      167.55
+    ],
+    "reading_order": 6,
+    "text": "So, we conclude that 3 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      172.29,
+      214.58,
+      184.55
+    ],
+    "reading_order": 7,
+    "text": "In Class IX, we mentioned that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      195.33,
+      417.63,
+      207.59
+    ],
+    "reading_order": 9,
+    "text": "the sum or difference of a rational and an irrational number is irrational and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      218.13,
+      420.07,
+      230.39
+    ],
+    "reading_order": 10,
+    "text": "the product and quotient of a non-zero rational and irrational number is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      231.33,
+      127.45,
+      243.59
+    ],
+    "reading_order": 11,
+    "text": "irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      249.33,
+      247.71,
+      261.58
+    ],
+    "reading_order": 12,
+    "text": "We prove some particular cases here.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      270.99,
+      245.33,
+      284.63
+    ],
+    "reading_order": 13,
+    "text": "Example 6 : Show that 5 –\n3 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      292.6,
+      338.88,
+      306.23
+    ],
+    "reading_order": 14,
+    "text": "Solution : Let us assume, to the contrary, that 5 –\n3 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      313.25,
+      347.43,
+      341.28
+    ],
+    "reading_order": 15,
+    "text": "That is, we can find coprime a and b (b  0) such that 5\n3\na\nb\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      336.05,
+      153.26,
+      364.08
+    ],
+    "reading_order": 16,
+    "text": "Therefore, 5\n3\na\nb\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      217.45,
+      360.55,
+      297.75,
+      382.2
+    ],
+    "reading_order": 17,
+    "text": "\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      361.8,
+      293.32,
+      390.0
+    ],
+    "reading_order": 18,
+    "text": "Rearranging this equation, we get \n5\n3\n5 – a\nb\na\nb\nb",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      389.33,
+      225.88,
+      408.73
+    ],
+    "reading_order": 19,
+    "text": "Since a and b are integers, we get 5 – a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      229.44,
+      395.49,
+      380.43,
+      409.47
+    ],
+    "reading_order": 20,
+    "text": "is rational, and so 3 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      220.32,
+      405.17,
+      225.88,
+      417.36
+    ],
+    "reading_order": 21,
+    "text": "b",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      415.41,
+      265.41,
+      429.35
+    ],
+    "reading_order": 22,
+    "text": "But this contradicts the fact that \n3 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      435.57,
+      420.0,
+      463.91
+    ],
+    "reading_order": 23,
+    "text": "This contradiction has arisen because of our incorrect assumption that 5 – \n3 is\nrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      477.06,
+      231.61,
+      491.37
+    ],
+    "reading_order": 24,
+    "text": "So, we conclude that 5\n3\n\n is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      505.71,
+      234.77,
+      518.57
+    ],
+    "reading_order": 25,
+    "text": "Example 7 : Show that 3 2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      524.2,
+      328.56,
+      537.53
+    ],
+    "reading_order": 26,
+    "text": "Solution : Let us assume, to the contrary, that 3 2 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      542.52,
+      335.4,
+      570.21
+    ],
+    "reading_order": 27,
+    "text": "That is, we can find coprime a and b (b  0) such that 3 2\na\nb\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      565.73,
+      177.63,
+      593.77
+    ],
+    "reading_order": 28,
+    "text": "Rearranging, we get \n2\n3\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b29",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      571.51,
+      184.46,
+      593.76
+    ],
+    "reading_order": 29,
+    "text": "b\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b30",
+    "type": "paragraph",
+    "bbox": [
+      183.36,
+      592.13,
+      188.92,
+      604.32
+    ],
+    "reading_order": 30,
+    "text": "a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b31",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      600.45,
+      186.27,
+      620.17
+    ],
+    "reading_order": 31,
+    "text": "Since 3, a and b are integers, 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b32",
+    "type": "paragraph",
+    "bbox": [
+      185.53,
+      600.45,
+      345.13,
+      620.16
+    ],
+    "reading_order": 32,
+    "text": "b is rational, and so \n2 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 8,
+    "block_id": "jemh101_p008_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

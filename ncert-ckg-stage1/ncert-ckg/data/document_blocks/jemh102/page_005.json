@@ -1,0 +1,172 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "14\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.5,
+      357.71,
+      108.81
+    ],
+    "reading_order": 3,
+    "text": "Case (i) : Here, the graph cuts x-axis at two distinct points A and A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      112.98,
+      420.01,
+      141.11
+    ],
+    "reading_order": 4,
+    "text": "The x-coordinates of A and A are the two zeroes of the quadratic polynomial\nax2 + bx + c in this case (see Fig. 2.3).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      322.11,
+      252.01,
+      334.78
+    ],
+    "reading_order": 6,
+    "text": "Fig. 2.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      343.72,
+      420.06,
+      385.43
+    ],
+    "reading_order": 7,
+    "text": "Case (ii) : Here, the graph cuts the x-axis at exactly one point, i.e., at two coincident\npoints. So, the two points A and A of Case (i) coincide here to become one point A\n(see Fig. 2.4).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      566.19,
+      252.01,
+      578.86
+    ],
+    "reading_order": 8,
+    "text": "Fig. 2.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      587.08,
+      420.09,
+      612.95
+    ],
+    "reading_order": 9,
+    "text": "The x-coordinate of A is the only zero for the quadratic polynomial ax2 + bx + c\nin this case.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 5,
+    "block_id": "jemh102_p005_b10",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 10,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

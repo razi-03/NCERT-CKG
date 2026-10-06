@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "106\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      420.0,
+      118.09
+    ],
+    "reading_order": 3,
+    "text": "9. If Q(0, 1) is equidistant from P(5, –3) and R(x, 6), find the values of x. Also find the\ndistances QR and PR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      122.65,
+      420.03,
+      146.89
+    ],
+    "reading_order": 4,
+    "text": "10. Find a relation between x and y such that the point (x, y) is equidistant from the point\n(3, 6) and (– 3, 4).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b05",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      160.62,
+      150.01,
+      174.44
+    ],
+    "reading_order": 5,
+    "text": "7.3 Section Formula",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      179.49,
+      240.03,
+      336.95
+    ],
+    "reading_order": 7,
+    "text": "Let us recall the situation in Section 7.2.\nSuppose a telephone company wants to\nposition a relay tower at P between A and B\nis such a way that the distance of the tower\nfrom B is twice its distance from A. If P lies\non AB, it will divide AB in the ratio 1 : 2\n(see Fig. 7.9). If we take A as the origin O,\nand 1 km as one unit on both the axis, the\ncoordinates of B will be (36, 15). In order to\nknow the position of the tower, we must know\nthe coordinates of P. How do we find these\ncoordinates?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      318.24,
+      293.55,
+      354.96,
+      306.22
+    ],
+    "reading_order": 8,
+    "text": "Fig. 7.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      341.97,
+      420.02,
+      381.45
+    ],
+    "reading_order": 9,
+    "text": "Let the coordinates of P be (x, y). Draw perpendiculars from P and B to the\nx-axis, meeting it in D and E, respectively. Draw PC perpendicular to BE. Then, by\nthe AA similarity criterion, studied in Chapter 6,  POD and  BPC are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      387.0,
+      267.87,
+      415.21
+    ],
+    "reading_order": 10,
+    "text": "Therefore ,\nOD\nOP\n1\nPC\nPB\n2\n\n\n, and PD\nOP\n1\nBC\nPB\n2\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      130.8,
+      417.93,
+      203.09,
+      445.94
+    ],
+    "reading_order": 11,
+    "text": "and\n1\n15\n2\ny",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      418.65,
+      122.45,
+      446.66
+    ],
+    "reading_order": 12,
+    "text": "So,\n1\n36\n2\nx",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      423.64,
+      225.12,
+      461.03
+    ],
+    "reading_order": 13,
+    "text": "y \n\n\nThese equations give x = 12 and y = 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      88.08,
+      424.36,
+      112.92,
+      447.5
+    ],
+    "reading_order": 14,
+    "text": "x \n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b15",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      465.81,
+      240.01,
+      491.27
+    ],
+    "reading_order": 15,
+    "text": "You can check that P(12, 5) meets the\ncondition that OP : PB = 1 : 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      496.29,
+      240.0,
+      534.95
+    ],
+    "reading_order": 16,
+    "text": "Now let us use the understanding that\nyou may have developed through this\nexample to obtain the general formula.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      539.97,
+      240.0,
+      581.23
+    ],
+    "reading_order": 17,
+    "text": "Consider any two points A(x1, y1) and\nB(x2, y2) and assume that P (x, y) divides\nAB internally in the ratio m1 : m2, i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      50.64,
+      584.56,
+      64.86,
+      596.88
+    ],
+    "reading_order": 18,
+    "text": "PA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      69.12,
+      584.73,
+      165.84,
+      612.71
+    ],
+    "reading_order": 19,
+    "text": "m\nm\n\n (see Fig. 7.10).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      87.12,
+      590.94,
+      90.7,
+      598.91
+    ],
+    "reading_order": 20,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      317.76,
+      593.8,
+      360.48,
+      606.47
+    ],
+    "reading_order": 21,
+    "text": "Fig. 7.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      51.36,
+      600.41,
+      64.97,
+      612.72
+    ],
+    "reading_order": 22,
+    "text": "PB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      87.12,
+      606.54,
+      90.7,
+      614.52
+    ],
+    "reading_order": 23,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 8,
+    "block_id": "jemh107_p008_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

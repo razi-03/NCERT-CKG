@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "60\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.06,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "To find the 11th term from the last term, we will find the total number of terms in\nthe AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      125.49,
+      303.35,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "So,\n– 62 = 10 + (n – 1)(–3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      142.53,
+      281.04,
+      154.79
+    ],
+    "reading_order": 5,
+    "text": "i.e.,\n– 72 = (n – 1)(–3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      159.81,
+      241.92,
+      172.07
+    ],
+    "reading_order": 6,
+    "text": "i.e.,\nn – 1 = 24",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      177.09,
+      241.92,
+      189.35
+    ],
+    "reading_order": 8,
+    "text": "or\nn = 25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      194.38,
+      219.01,
+      206.63
+    ],
+    "reading_order": 9,
+    "text": "So, there are 25 terms in the given AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      211.66,
+      420.06,
+      237.11
+    ],
+    "reading_order": 10,
+    "text": "The 11th term from the last term will be the 15th term. (Note that it will not be\nthe 14th term. Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      242.13,
+      330.0,
+      256.99
+    ],
+    "reading_order": 11,
+    "text": "So,\na15 = 10 + (15 – 1)(–3) = 10 – 42 = – 32",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      259.41,
+      242.92,
+      271.67
+    ],
+    "reading_order": 12,
+    "text": "i.e., the 11th term from the last term is – 32.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      276.28,
+      153.83,
+      288.95
+    ],
+    "reading_order": 13,
+    "text": "Alternative Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      293.73,
+      417.6,
+      305.99
+    ],
+    "reading_order": 14,
+    "text": "If we write the given AP in the reverse order, then a = – 62 and d = 3 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      311.02,
+      363.71,
+      323.27
+    ],
+    "reading_order": 15,
+    "text": "So, the question now becomes finding the 11th term with these a and d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      328.29,
+      346.55,
+      343.15
+    ],
+    "reading_order": 16,
+    "text": "So,\na11 = – 62 + (11 – 1) × 3 = – 62 + 30 = – 32",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      345.57,
+      303.88,
+      357.83
+    ],
+    "reading_order": 17,
+    "text": "So, the 11th term, which is now the required term, is – 32.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      367.48,
+      420.08,
+      406.55
+    ],
+    "reading_order": 18,
+    "text": "Example 9 : A sum of ` 1000 is invested at 8% simple interest per year. Calculate the\ninterest at the end of each year. Do these interests form an AP? If so, find the interest\nat the end of 30 years making use of this fact.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      410.91,
+      383.08,
+      423.59
+    ],
+    "reading_order": 19,
+    "text": "Solution : We know that the formula to calculate simple interest is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b20",
+    "type": "formula",
+    "bbox": [
+      170.16,
+      433.8,
+      290.95,
+      454.56
+    ],
+    "reading_order": 20,
+    "text": "Simple Interest = P×R×T",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b21",
+    "type": "paragraph",
+    "bbox": [
+      264.0,
+      449.63,
+      278.91,
+      462.01
+    ],
+    "reading_order": 21,
+    "text": "100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      465.0,
+      336.0,
+      492.97
+    ],
+    "reading_order": 22,
+    "text": "So, the interest at the end of the 1st year =\n1000×8×1\n100\n`\n =  ` 80",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      497.16,
+      340.56,
+      525.13
+    ],
+    "reading_order": 23,
+    "text": "The interest at the end of the 2nd year =\n1000×8× 2\n100\n`\n = ` 160",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      529.08,
+      340.56,
+      557.05
+    ],
+    "reading_order": 24,
+    "text": "The interest at the end of the 3rd year =\n1000×8×3\n100\n`\n = ` 240",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      561.82,
+      410.23,
+      574.07
+    ],
+    "reading_order": 25,
+    "text": "Similarly, we can obtain the interest at the end of the 4th year, 5th year, and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      581.01,
+      396.01,
+      593.27
+    ],
+    "reading_order": 26,
+    "text": "So, the interest (in `) at the end of the 1st, 2nd, 3rd, . . . years, respectively are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b27",
+    "type": "paragraph",
+    "bbox": [
+      196.8,
+      600.21,
+      270.24,
+      612.46
+    ],
+    "reading_order": 27,
+    "text": "80, 160, 240, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 12,
+    "block_id": "jemh105_p012_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

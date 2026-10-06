@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "194\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.0,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Example 7 : A survey regarding the heights (in cm) of 51 girls of Class X of a school\nwas conducted and the following data was obtained:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b04",
+    "type": "paragraph",
+    "bbox": [
+      131.52,
+      129.87,
+      352.07,
+      142.54
+    ],
+    "reading_order": 4,
+    "text": "Height (in cm)\nNumber of girls",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b05",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      155.73,
+      316.3,
+      167.99
+    ],
+    "reading_order": 5,
+    "text": "Less than 140\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b07",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      175.65,
+      318.45,
+      187.91
+    ],
+    "reading_order": 7,
+    "text": "Less than 145\n11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b08",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      195.82,
+      318.72,
+      208.07
+    ],
+    "reading_order": 8,
+    "text": "Less than 150\n29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b09",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      215.74,
+      318.72,
+      227.99
+    ],
+    "reading_order": 9,
+    "text": "Less than 155\n40",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b10",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      235.66,
+      318.72,
+      247.91
+    ],
+    "reading_order": 10,
+    "text": "Less than 160\n46",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b11",
+    "type": "paragraph",
+    "bbox": [
+      136.07,
+      255.82,
+      318.72,
+      268.08
+    ],
+    "reading_order": 11,
+    "text": "Less than 165\n51",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      282.71,
+      150.74,
+      294.96
+    ],
+    "reading_order": 12,
+    "text": "Find the median height.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      301.25,
+      420.03,
+      327.1
+    ],
+    "reading_order": 13,
+    "text": "Solution : To calculate the median height, we need to find the class intervals and their\ncorresponding frequencies.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      332.13,
+      420.07,
+      449.99
+    ],
+    "reading_order": 14,
+    "text": "The given distribution being of the less than type, 140, 145, 150, . . ., 165 give the\nupper limits of the corresponding class intervals. So, the classes should be below 140,\n140 - 145, 145 - 150, . . ., 160 - 165. Observe that from the given distribution, we find\nthat there are 4 girls with height less than 140, i.e., the frequency of class interval\nbelow 140 is 4. Now, there are 11 girls with heights less than 145 and 4 girls with\nheight less than 140. Therefore, the number of girls with height in the interval\n140 - 145 is 11 – 4 = 7. Similarly, the frequency of 145 - 150 is 29 – 11 = 18, for\n150 - 155, it is 40 – 29 = 11, and so on. So, our frequency distribution  table with the\ngiven cumulative frequencies becomes:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b15",
+    "type": "paragraph",
+    "bbox": [
+      205.45,
+      459.39,
+      262.57,
+      472.07
+    ],
+    "reading_order": 15,
+    "text": "Table 13.16",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b16",
+    "type": "paragraph",
+    "bbox": [
+      63.13,
+      481.71,
+      403.45,
+      494.38
+    ],
+    "reading_order": 16,
+    "text": "Class intervals\nFrequency\nCumulative frequency",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b17",
+    "type": "paragraph",
+    "bbox": [
+      76.09,
+      509.26,
+      354.74,
+      601.45
+    ],
+    "reading_order": 17,
+    "text": "Below 140\n4\n4\n140 - 145\n7\n11\n145 - 150\n18\n29\n150 - 155\n11\n40\n155 - 160\n6\n46\n160 - 165\n5\n51",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 24,
+    "block_id": "jemh113_p024_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

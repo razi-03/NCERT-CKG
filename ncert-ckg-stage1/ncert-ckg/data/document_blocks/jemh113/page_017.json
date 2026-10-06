@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n187",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b03",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      96.01,
+      420.05,
+      132.25
+    ],
+    "reading_order": 3,
+    "text": "4. The following distribution gives the state-wise teacher-student ratio in higher\nsecondary schools of India. Find the mode and mean of this data. Interpret the two\nmeasures.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b04",
+    "type": "formula",
+    "bbox": [
+      100.08,
+      141.61,
+      368.25,
+      153.13
+    ],
+    "reading_order": 4,
+    "text": "Number of students per teacher\nNumber of states / U.T.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b05",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      163.41,
+      323.0,
+      175.67
+    ],
+    "reading_order": 5,
+    "text": "15 - 20\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b07",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      179.25,
+      323.0,
+      191.51
+    ],
+    "reading_order": 7,
+    "text": "20 - 25\n8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b08",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      195.09,
+      323.0,
+      207.35
+    ],
+    "reading_order": 8,
+    "text": "25 - 30\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b09",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      210.93,
+      322.32,
+      223.19
+    ],
+    "reading_order": 9,
+    "text": "30 - 35\n10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b10",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      226.77,
+      323.0,
+      239.03
+    ],
+    "reading_order": 10,
+    "text": "35 - 40\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b11",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      242.37,
+      323.0,
+      254.63
+    ],
+    "reading_order": 11,
+    "text": "40 - 45\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b12",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      258.21,
+      323.0,
+      270.47
+    ],
+    "reading_order": 12,
+    "text": "45 - 50\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b13",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      274.05,
+      323.0,
+      286.31
+    ],
+    "reading_order": 13,
+    "text": "50 - 55\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      297.61,
+      419.76,
+      321.13
+    ],
+    "reading_order": 14,
+    "text": "5. The given distribution shows the number of runs scored by some top batsmen of the\nworld in one-day international cricket matches.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b15",
+    "type": "paragraph",
+    "bbox": [
+      141.36,
+      330.73,
+      346.31,
+      342.25
+    ],
+    "reading_order": 15,
+    "text": "Runs scored\nNumber of batsmen",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b16",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      352.53,
+      309.56,
+      364.79
+    ],
+    "reading_order": 16,
+    "text": "3000 - 4000\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b17",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      369.33,
+      308.88,
+      381.59
+    ],
+    "reading_order": 17,
+    "text": "4000 - 5000\n18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b18",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      386.13,
+      309.56,
+      398.39
+    ],
+    "reading_order": 18,
+    "text": "5000 - 6000\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b19",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      402.69,
+      309.56,
+      414.95
+    ],
+    "reading_order": 19,
+    "text": "6000 - 7000\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b20",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      419.49,
+      309.56,
+      431.75
+    ],
+    "reading_order": 20,
+    "text": "7000 - 8000\n6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b21",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      436.29,
+      309.56,
+      448.55
+    ],
+    "reading_order": 21,
+    "text": "8000 - 9000\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b22",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      453.09,
+      309.56,
+      465.35
+    ],
+    "reading_order": 22,
+    "text": "9000 - 10000\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b23",
+    "type": "paragraph",
+    "bbox": [
+      140.64,
+      469.89,
+      309.56,
+      482.15
+    ],
+    "reading_order": 23,
+    "text": "10000 - 11000\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b24",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      490.47,
+      180.74,
+      501.61
+    ],
+    "reading_order": 24,
+    "text": "Find the mode of the data.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      510.97,
+      420.02,
+      546.49
+    ],
+    "reading_order": 25,
+    "text": "6. A student noted the number of cars passing through a spot on a road for 100\nperiods each of 3 minutes and summarised it in the table given below. Find the mode\nof the data :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b26",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      556.77,
+      416.64,
+      569.03
+    ],
+    "reading_order": 26,
+    "text": "Number of cars\n0 - 10\n10 - 20 20 - 30 30 - 40 40 - 50 50 - 60 60 - 70 70 - 80",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b27",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      578.89,
+      406.28,
+      590.41
+    ],
+    "reading_order": 27,
+    "text": "Frequency\n7\n14\n13\n12\n20\n11\n15\n8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 17,
+    "block_id": "jemh113_p017_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

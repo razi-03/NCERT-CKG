@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n193",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.03,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "a class interval. It is, therefore, necessary to find the value inside a class that divides\nthe whole distribution into two halves. But which class should this be?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b04",
+    "type": "paragraph",
+    "bbox": [
+      408.72,
+      126.7,
+      419.87,
+      147.35
+    ],
+    "reading_order": 4,
+    "text": "n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b05",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      135.1,
+      414.23,
+      154.55
+    ],
+    "reading_order": 5,
+    "text": "To find this class, we find the cumulative frequencies of all the classes and 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      156.46,
+      420.06,
+      168.71
+    ],
+    "reading_order": 6,
+    "text": "We now locate the class whose cumulative frequency is greater than (and nearest to)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b07",
+    "type": "formula",
+    "bbox": [
+      51.12,
+      169.76,
+      381.39,
+      199.21
+    ],
+    "reading_order": 7,
+    "text": "2\nn  This is called the median class. In the distribution above, n = 53. So, 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b08",
+    "type": "formula",
+    "bbox": [
+      375.84,
+      171.17,
+      420.0,
+      191.75
+    ],
+    "reading_order": 8,
+    "text": "n = 26.5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      200.85,
+      420.05,
+      213.11
+    ],
+    "reading_order": 10,
+    "text": "Now 60 – 70 is the class whose cumulative frequency 29 is greater than (and nearest",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b11",
+    "type": "paragraph",
+    "bbox": [
+      66.24,
+      217.18,
+      122.89,
+      237.83
+    ],
+    "reading_order": 11,
+    "text": "n , i.e., 26.5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      225.57,
+      71.79,
+      245.29
+    ],
+    "reading_order": 12,
+    "text": "to) 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      250.6,
+      226.43,
+      263.27
+    ],
+    "reading_order": 13,
+    "text": "Therefore, 60 – 70 is the median class.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      269.74,
+      420.03,
+      295.19
+    ],
+    "reading_order": 14,
+    "text": "After finding the median class, we use the following formula for calculating the\nmedian.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b15",
+    "type": "paragraph",
+    "bbox": [
+      204.24,
+      304.47,
+      247.05,
+      327.57
+    ],
+    "reading_order": 15,
+    "text": "\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b16",
+    "type": "paragraph",
+    "bbox": [
+      211.45,
+      304.84,
+      216.86,
+      316.73
+    ],
+    "reading_order": 16,
+    "text": "n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b17",
+    "type": "formula",
+    "bbox": [
+      194.65,
+      311.64,
+      269.11,
+      336.67
+    ],
+    "reading_order": 17,
+    "text": "cf\n2\n+\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b18",
+    "type": "formula",
+    "bbox": [
+      138.72,
+      323.26,
+      180.72,
+      335.52
+    ],
+    "reading_order": 18,
+    "text": "Median =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b19",
+    "type": "paragraph",
+    "bbox": [
+      204.24,
+      323.39,
+      256.04,
+      359.49
+    ],
+    "reading_order": 19,
+    "text": "\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b20",
+    "type": "paragraph",
+    "bbox": [
+      187.2,
+      324.76,
+      265.1,
+      345.3
+    ],
+    "reading_order": 20,
+    "text": "l\nh\nf",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      364.53,
+      251.29,
+      376.79
+    ],
+    "reading_order": 21,
+    "text": "where\nl = lower limit of median class,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b22",
+    "type": "formula",
+    "bbox": [
+      109.45,
+      381.81,
+      237.14,
+      394.07
+    ],
+    "reading_order": 22,
+    "text": "n = number of observations,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b23",
+    "type": "formula",
+    "bbox": [
+      106.56,
+      399.1,
+      388.64,
+      411.35
+    ],
+    "reading_order": 23,
+    "text": "cf = cumulative frequency of class preceding the median class,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b24",
+    "type": "formula",
+    "bbox": [
+      111.84,
+      416.13,
+      249.87,
+      428.39
+    ],
+    "reading_order": 24,
+    "text": "f = frequency of median class,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b25",
+    "type": "formula",
+    "bbox": [
+      109.45,
+      433.42,
+      323.31,
+      445.67
+    ],
+    "reading_order": 25,
+    "text": "h = class size (assuming class size to be equal).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b26",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      450.88,
+      322.57,
+      479.99
+    ],
+    "reading_order": 26,
+    "text": "Substituting the values \n26.5,\n2\nn \n l = 60, cf = 22, f = 7, h = 10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      482.61,
+      174.02,
+      494.86
+    ],
+    "reading_order": 27,
+    "text": "in the formula above, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b28",
+    "type": "formula",
+    "bbox": [
+      138.73,
+      500.91,
+      291.41,
+      532.12
+    ],
+    "reading_order": 28,
+    "text": "Median =\n26.5\n22\n60\n10\n7\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b29",
+    "type": "formula",
+    "bbox": [
+      174.72,
+      543.72,
+      222.03,
+      564.47
+    ],
+    "reading_order": 29,
+    "text": "= 60 + 45",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b30",
+    "type": "formula",
+    "bbox": [
+      174.72,
+      559.55,
+      218.91,
+      586.07
+    ],
+    "reading_order": 30,
+    "text": "7\n= 66.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b31",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      591.09,
+      420.07,
+      616.55
+    ],
+    "reading_order": 31,
+    "text": "So, about half the students have scored marks less than 66.4, and the other half have\nscored marks more than 66.4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 23,
+    "block_id": "jemh113_p023_b32",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 32,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

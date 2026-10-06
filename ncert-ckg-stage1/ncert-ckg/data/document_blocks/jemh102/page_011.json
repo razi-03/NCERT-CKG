@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "20\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      102.13,
+      357.71,
+      132.0
+    ],
+    "reading_order": 3,
+    "text": "i.e.,\nsum of zeroes =  +  = \n2\n(Coefficient of\n)\nCoefficient of\nb\nx\na\nx\n\n\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b04",
+    "type": "formula",
+    "bbox": [
+      107.28,
+      146.25,
+      329.15,
+      174.74
+    ],
+    "reading_order": 4,
+    "text": "product of zeroes =  =\n2\nConstant term\nCoefficient of\nc\na\nx\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      183.33,
+      213.86,
+      195.59
+    ],
+    "reading_order": 6,
+    "text": "Let us consider some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      205.23,
+      420.0,
+      231.11
+    ],
+    "reading_order": 7,
+    "text": "Example 2 : Find the zeroes of the quadratic polynomial x2 + 7x + 10, and verify the\nrelationship between the zeroes and the coefficients.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      235.72,
+      136.56,
+      248.39
+    ],
+    "reading_order": 8,
+    "text": "Solution : We have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b09",
+    "type": "formula",
+    "bbox": [
+      171.12,
+      253.41,
+      297.12,
+      265.67
+    ],
+    "reading_order": 9,
+    "text": "x2 + 7x + 10 = (x + 2)(x + 5)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      270.69,
+      419.98,
+      296.15
+    ],
+    "reading_order": 10,
+    "text": "So, the value of x2 + 7x + 10 is zero when x + 2 = 0 or x + 5 = 0, i.e., when x = – 2 or\nx = –5. Therefore, the zeroes of x2 + 7x + 10 are – 2 and – 5. Now,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      193.68,
+      305.41,
+      382.43,
+      335.27
+    ],
+    "reading_order": 11,
+    "text": "x\nx\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b12",
+    "type": "formula",
+    "bbox": [
+      100.55,
+      306.64,
+      390.84,
+      329.39
+    ],
+    "reading_order": 12,
+    "text": "sum of zeroes =\n2\n(7)\n–(Coefficient of\n) ,\n–2\n(–5)\n– (7)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b13",
+    "type": "paragraph",
+    "bbox": [
+      274.8,
+      322.49,
+      366.33,
+      335.28
+    ],
+    "reading_order": 13,
+    "text": "1\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b14",
+    "type": "formula",
+    "bbox": [
+      85.44,
+      349.36,
+      367.34,
+      378.0
+    ],
+    "reading_order": 14,
+    "text": "product of zeroes =\n2\n10\nConstant term\n( 2)\n( 5)\n10\n1\nCoefficient of x\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      391.23,
+      420.03,
+      417.11
+    ],
+    "reading_order": 15,
+    "text": "Example 3 : Find the zeroes of the polynomial x2 – 3 and verify the relationship\nbetween the zeroes and the coefficients.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      421.72,
+      392.18,
+      434.39
+    ],
+    "reading_order": 16,
+    "text": "Solution : Recall the identity a2 – b2 = (a – b)(a + b). Using it, we can write:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b17",
+    "type": "formula",
+    "bbox": [
+      138.01,
+      438.36,
+      258.49,
+      464.68
+    ],
+    "reading_order": 17,
+    "text": "x2 – 3 = \n\n\n3\n3\nx\nx\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      476.1,
+      301.31,
+      490.41
+    ],
+    "reading_order": 18,
+    "text": "So, the value of x2 – 3 is zero when x = \n3 or x = –\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      501.78,
+      268.67,
+      516.09
+    ],
+    "reading_order": 19,
+    "text": "Therefore, the zeroes of x2 – 3 are \n3 and \n3\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      522.69,
+      71.15,
+      534.95
+    ],
+    "reading_order": 20,
+    "text": "Now,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b21",
+    "type": "paragraph",
+    "bbox": [
+      193.68,
+      544.21,
+      331.31,
+      574.07
+    ],
+    "reading_order": 21,
+    "text": "x\nx\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b22",
+    "type": "formula",
+    "bbox": [
+      100.56,
+      545.44,
+      339.72,
+      574.08
+    ],
+    "reading_order": 22,
+    "text": "sum of zeroes =\n2\n(Coefficient of\n) ,\n3\n3\n0\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b23",
+    "type": "paragraph",
+    "bbox": [
+      204.72,
+      587.17,
+      374.05,
+      617.04
+    ],
+    "reading_order": 23,
+    "text": "1\nCoefficient of x\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b24",
+    "type": "formula",
+    "bbox": [
+      85.44,
+      587.3,
+      368.38,
+      613.2
+    ],
+    "reading_order": 24,
+    "text": "product of zeroes = \n\n\n2\n3\nConstant term\n3\n3\n– 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 11,
+    "block_id": "jemh102_p011_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

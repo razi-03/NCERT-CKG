@@ -1,0 +1,852 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "26\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      211.44,
+      96.39,
+      256.32,
+      107.39
+    ],
+    "reading_order": 3,
+    "text": "Table 3.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b04",
+    "type": "paragraph",
+    "bbox": [
+      52.08,
+      114.72,
+      408.0,
+      146.9
+    ],
+    "reading_order": 4,
+    "text": "c\nc\nCompare the\nGraphical\nAlgebraic\nNo.\nratios\nrepresentation interpretation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b05",
+    "type": "paragraph",
+    "bbox": [
+      149.76,
+      114.72,
+      154.76,
+      139.36
+    ],
+    "reading_order": 5,
+    "text": "a\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b06",
+    "type": "paragraph",
+    "bbox": [
+      176.4,
+      114.72,
+      181.88,
+      139.36
+    ],
+    "reading_order": 6,
+    "text": "b\nb",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      154.08,
+      120.11,
+      157.33,
+      126.61
+    ],
+    "reading_order": 7,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      180.72,
+      120.11,
+      183.97,
+      126.61
+    ],
+    "reading_order": 8,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      205.68,
+      120.11,
+      208.93,
+      126.61
+    ],
+    "reading_order": 9,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      124.42,
+      120.0,
+      134.42
+    ],
+    "reading_order": 10,
+    "text": "Sl\nPair of lines",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      154.56,
+      134.51,
+      157.81,
+      141.01
+    ],
+    "reading_order": 11,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      180.96,
+      134.51,
+      184.21,
+      141.01
+    ],
+    "reading_order": 12,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      205.68,
+      134.51,
+      208.93,
+      141.01
+    ],
+    "reading_order": 13,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b14",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      163.78,
+      402.72,
+      207.38
+    ],
+    "reading_order": 14,
+    "text": "a\nb\na\nb\n≠\nIntersecting\nExactly one\n3x + 4y – 20 = 0\nlines\nsolution\n(unique)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b15",
+    "type": "formula",
+    "bbox": [
+      149.28,
+      164.11,
+      218.59,
+      192.46
+    ],
+    "reading_order": 15,
+    "text": "1\n3\n2\n4\n−\n0\n20\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      238.08,
+      169.64,
+      265.11,
+      176.66
+    ],
+    "reading_order": 16,
+    "text": "1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b17",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 17,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b18",
+    "type": "formula",
+    "bbox": [
+      55.92,
+      174.72,
+      110.4,
+      184.82
+    ],
+    "reading_order": 18,
+    "text": "1.\nx – 2y = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b19",
+    "type": "paragraph",
+    "bbox": [
+      238.08,
+      185.24,
+      265.35,
+      192.26
+    ],
+    "reading_order": 19,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b20",
+    "type": "formula",
+    "bbox": [
+      179.04,
+      219.2,
+      217.63,
+      246.61
+    ],
+    "reading_order": 20,
+    "text": "3\n6\n9\n18\n−\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b21",
+    "type": "formula",
+    "bbox": [
+      233.04,
+      219.28,
+      392.88,
+      245.36
+    ],
+    "reading_order": 21,
+    "text": "a\nb\nc\na\nb\nc\n=\n=\nCoincident\nInfinitely",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b22",
+    "type": "formula",
+    "bbox": [
+      55.92,
+      221.46,
+      157.82,
+      247.66
+    ],
+    "reading_order": 22,
+    "text": "2.\n2x + 3y – 9 = 0\n2\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b23",
+    "type": "paragraph",
+    "bbox": [
+      238.08,
+      224.88,
+      289.08,
+      231.85
+    ],
+    "reading_order": 23,
+    "text": "1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b24",
+    "type": "paragraph",
+    "bbox": [
+      238.32,
+      240.48,
+      289.08,
+      247.45
+    ],
+    "reading_order": 24,
+    "text": "2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b25",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      241.54,
+      418.32,
+      258.74
+    ],
+    "reading_order": 25,
+    "text": "4x + 6y – 18 = 0\nlines\nmany solutions",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b26",
+    "type": "formula",
+    "bbox": [
+      55.92,
+      266.83,
+      218.78,
+      295.18
+    ],
+    "reading_order": 26,
+    "text": "3.\nx + 2y – 4 = 0\n1\n2\n2\n4\n4\n12\n−\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b27",
+    "type": "formula",
+    "bbox": [
+      233.04,
+      266.8,
+      404.16,
+      292.88
+    ],
+    "reading_order": 27,
+    "text": "a\nb\nc\na\nb\nc\n=\n≠\nParallel lines\nNo solution",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b28",
+    "type": "paragraph",
+    "bbox": [
+      238.08,
+      272.4,
+      288.6,
+      279.37
+    ],
+    "reading_order": 28,
+    "text": "1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b29",
+    "type": "paragraph",
+    "bbox": [
+      238.08,
+      288.0,
+      288.6,
+      294.97
+    ],
+    "reading_order": 29,
+    "text": "2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b30",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      295.68,
+      134.16,
+      305.78
+    ],
+    "reading_order": 30,
+    "text": "2x + 4y – 12 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b31",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      320.94,
+      420.05,
+      331.94
+    ],
+    "reading_order": 31,
+    "text": "From the table above, you can observe that if the lines represented by the equation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b32",
+    "type": "formula",
+    "bbox": [
+      153.12,
+      340.27,
+      238.06,
+      353.87
+    ],
+    "reading_order": 32,
+    "text": "a1x + b1y + c1 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b33",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      360.67,
+      238.06,
+      374.51
+    ],
+    "reading_order": 33,
+    "text": "and\na2x + b2y + c2 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b34",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      379.35,
+      231.49,
+      406.24
+    ],
+    "reading_order": 34,
+    "text": "a\nb\na\nb\n≠\n⋅",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b35",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      385.29,
+      226.06,
+      397.94
+    ],
+    "reading_order": 35,
+    "text": "are\n(i) intersecting, then \n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b36",
+    "type": "paragraph",
+    "bbox": [
+      199.2,
+      400.89,
+      226.06,
+      408.05
+    ],
+    "reading_order": 36,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b37",
+    "type": "formula",
+    "bbox": [
+      187.92,
+      411.03,
+      249.72,
+      437.92
+    ],
+    "reading_order": 37,
+    "text": "a\nb\nc\na\nb\nc\n=\n=\n⋅",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b38",
+    "type": "paragraph",
+    "bbox": [
+      96.72,
+      416.97,
+      244.07,
+      428.9
+    ],
+    "reading_order": 38,
+    "text": "(ii) coincident, then \n1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b39",
+    "type": "paragraph",
+    "bbox": [
+      193.44,
+      432.57,
+      244.07,
+      439.73
+    ],
+    "reading_order": 39,
+    "text": "2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b40",
+    "type": "formula",
+    "bbox": [
+      175.2,
+      441.27,
+      234.36,
+      468.16
+    ],
+    "reading_order": 40,
+    "text": "a\nb\nc\na\nb\nc\n=\n≠\n⋅",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b41",
+    "type": "paragraph",
+    "bbox": [
+      94.56,
+      447.21,
+      228.7,
+      460.1
+    ],
+    "reading_order": 41,
+    "text": "(iii) parallel, then \n1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b42",
+    "type": "paragraph",
+    "bbox": [
+      180.72,
+      462.81,
+      228.7,
+      469.97
+    ],
+    "reading_order": 42,
+    "text": "2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b43",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      474.06,
+      420.01,
+      498.26
+    ],
+    "reading_order": 43,
+    "text": "In fact, the converse is also true for any pair of lines. You can verify them by\nconsidering some more examples by yourself.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b44",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      503.58,
+      320.91,
+      514.58
+    ],
+    "reading_order": 44,
+    "text": "Let us now consider some more examples to illustrate it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b45",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      525.51,
+      320.9,
+      536.66
+    ],
+    "reading_order": 45,
+    "text": "Example 1 : Check graphically whether the pair of equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b46",
+    "type": "formula",
+    "bbox": [
+      191.28,
+      542.83,
+      419.76,
+      553.94
+    ],
+    "reading_order": 46,
+    "text": "x + 3y = 6\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b47",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      560.11,
+      419.76,
+      571.22
+    ],
+    "reading_order": 47,
+    "text": "and\n2x – 3y = 12\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b48",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      577.5,
+      234.11,
+      588.5
+    ],
+    "reading_order": 48,
+    "text": "is consistent. If so, solve them graphically.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b49",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      594.63,
+      420.04,
+      618.98
+    ],
+    "reading_order": 49,
+    "text": "Solution : Let us draw the graphs of the Equations (1) and (2). For this, we find two\nsolutions of each of the equations, which are given in Table 3.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 3,
+    "block_id": "jemh103_p003_b50",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 50,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

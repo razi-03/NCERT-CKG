@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.41,
+      420.0,
+      82.41
+    ],
+    "reading_order": 2,
+    "text": "AREAS RELATED TO CIRCLES\n155",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.36,
+      276.03,
+      120.56
+    ],
+    "reading_order": 3,
+    "text": "Now with this knowledge, let us try to find some\nrelations (or formulae) to calculate their areas.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      126.84,
+      276.04,
+      164.24
+    ],
+    "reading_order": 4,
+    "text": "Let OAPB be a sector of a circle with centre\nO and radius r (see Fig. 11.3). Let the degree\nmeasure of Ð AOB be q.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      170.52,
+      276.04,
+      194.72
+    ],
+    "reading_order": 5,
+    "text": "You know that area of a circle (in fact of a\ncircular region or disc) is pr2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      201.0,
+      278.44,
+      264.8
+    ],
+    "reading_order": 7,
+    "text": "In a way, we can consider this circular region to\nbe a sector forming an angle of 360° (i.e., of degree\nmeasure 360) at the centre O. Now by applying the\nUnitary Method, we can arrive at the area of the\nsector OAPB as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      327.84,
+      226.56,
+      369.84,
+      237.56
+    ],
+    "reading_order": 8,
+    "text": "Fig. 11.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      270.96,
+      420.06,
+      295.16
+    ],
+    "reading_order": 9,
+    "text": "When degree measure of the angle at the centre is 360, area of the\nsector = pr2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      297.36,
+      420.06,
+      308.36
+    ],
+    "reading_order": 10,
+    "text": "So, when the degree measure of the angle at the centre is 1, area of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      93.84,
+      311.42,
+      114.44,
+      340.26
+    ],
+    "reading_order": 11,
+    "text": "360\nr\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      105.24,
+      312.01,
+      108.77,
+      319.07
+    ],
+    "reading_order": 12,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      321.36,
+      90.59,
+      332.36
+    ],
+    "reading_order": 13,
+    "text": "sector =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      341.67,
+      420.01,
+      355.04
+    ],
+    "reading_order": 14,
+    "text": "Therefore, when the degree measure of the angle at the centre is q, area of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      360.09,
+      191.27,
+      389.26
+    ],
+    "reading_order": 15,
+    "text": "2\n360\nr\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b16",
+    "type": "formula",
+    "bbox": [
+      89.4,
+      360.82,
+      140.13,
+      389.83
+    ],
+    "reading_order": 16,
+    "text": "360\nr\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      101.88,
+      361.43,
+      105.42,
+      368.52
+    ],
+    "reading_order": 17,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      370.92,
+      86.52,
+      381.92
+    ],
+    "reading_order": 18,
+    "text": "sector =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      392.4,
+      420.06,
+      416.6
+    ],
+    "reading_order": 19,
+    "text": "Thus, we obtain the following relation (or formula) for area of a sector of a\ncircle:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b20",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      421.73,
+      280.55,
+      450.82
+    ],
+    "reading_order": 20,
+    "text": "Area of the sector of angle q =\n\nr\n\n\n2\n360\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      455.44,
+      376.59,
+      469.04
+    ],
+    "reading_order": 21,
+    "text": "where r is the radius of the circle and q the angle of the sector in degrees.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      475.32,
+      276.04,
+      539.12
+    ],
+    "reading_order": 22,
+    "text": "Now, a natural question arises : Can we find\nthe length of the arc APB corresponding to this\nsector? Yes. Again, by applying the Unitary\nMethod and taking the whole length of the circle\n(of angle 360°) as 2pr, we can obtain the required",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      540.29,
+      215.27,
+      569.51
+    ],
+    "reading_order": 23,
+    "text": "length of the arc APB as \n2\n360\nr\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      572.33,
+      320.27,
+      601.42
+    ],
+    "reading_order": 24,
+    "text": "So, length of an arc of a sector of angle q = \n\n\n\n2\n360\nr .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b25",
+    "type": "paragraph",
+    "bbox": [
+      352.08,
+      589.08,
+      394.08,
+      600.08
+    ],
+    "reading_order": 25,
+    "text": "Fig. 11.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 2,
+    "block_id": "jemh111_p002_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

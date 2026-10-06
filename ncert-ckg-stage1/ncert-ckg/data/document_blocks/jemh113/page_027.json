@@ -1,0 +1,223 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_027_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n197",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.69,
+      420.04,
+      125.03
+    ],
+    "reading_order": 3,
+    "text": "Now, that you have studied about all the three measures of central tendency, let\nus discuss which measure would be best suited for a particular requirement.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      132.7,
+      420.1,
+      225.12
+    ],
+    "reading_order": 4,
+    "text": "The mean is the most frequently used measure of central tendency because it\ntakes into account all the observations, and lies between the extremes, i.e., the largest\nand the smallest observations of the entire data. It also enables us to compare two or\nmore distributions. For example, by comparing the average (mean) results of students\nof different schools of a particular examination, we can conclude which school has a\nbetter performance.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_027_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      232.78,
+      420.05,
+      309.12
+    ],
+    "reading_order": 6,
+    "text": "However, extreme values in the data affect the mean. For example, the mean of\nclasses having frequencies more or less the same is a good representative of the data.\nBut, if one class has frequency, say 2, and the five others have frequency 20, 25, 20,\n21, 18, then the mean will certainly not reflect the way the data behaves. So, in such\ncases, the mean is not a good representative of the data.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      316.79,
+      420.06,
+      393.13
+    ],
+    "reading_order": 7,
+    "text": "In problems where individual observations are not important, and we wish to find\nout a ‘typical’ observation, the median is more appropriate, e.g., finding the typical\nproductivity rate of workers, average wage in a country, etc. These are situations\nwhere extreme values may be there. So, rather than the mean, we take the median as\na better measure of central tendency.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      400.8,
+      420.07,
+      461.06
+    ],
+    "reading_order": 8,
+    "text": "In situations which require establishing the most frequent value or most popular\nitem, the mode is the best choice, e.g., to find the most popular T.V. programme being\nwatched, the consumer item in greatest demand, the colour of the vehicle used by\nmost of the people, etc.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      472.63,
+      99.84,
+      485.3
+    ],
+    "reading_order": 9,
+    "text": "Remarks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      492.73,
+      420.08,
+      504.98
+    ],
+    "reading_order": 10,
+    "text": "1. There is a empirical relationship between the three measures of central tendency :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b11",
+    "type": "formula",
+    "bbox": [
+      164.16,
+      510.3,
+      303.61,
+      522.98
+    ],
+    "reading_order": 11,
+    "text": "3 Median = Mode + 2 Mean",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      530.85,
+      419.86,
+      558.95
+    ],
+    "reading_order": 12,
+    "text": "2. The median of grouped data with unequal class sizes can also be calculated. However,\nwe shall not discuss it here.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 27,
+    "block_id": "jemh113_p027_b13",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 13,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

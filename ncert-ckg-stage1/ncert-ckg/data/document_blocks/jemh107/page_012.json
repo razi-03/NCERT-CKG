@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "110\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      103.65,
+      419.35,
+      130.55
+    ],
+    "reading_order": 3,
+    "text": "Therefore, the coordinates of the points of trisection of the line segment joining A and\nB are (–1, 0) and (– 4, 2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      136.36,
+      419.3,
+      163.43
+    ],
+    "reading_order": 4,
+    "text": "Note : We could also have obtained Q by noting that it is the mid-point of PB. So, we\ncould have obtained its coordinates using the mid-point formula.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      174.27,
+      419.3,
+      201.59
+    ],
+    "reading_order": 6,
+    "text": "Example 9 : Find the ratio in which the y-axis divides the line segment joining the\npoints (5, – 6) and (–1, – 4). Also find the point of intersection.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      207.39,
+      419.35,
+      220.07
+    ],
+    "reading_order": 7,
+    "text": "Solution : Let the ratio be k : 1. Then by the section formula, the coordinates of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      227.66,
+      334.22,
+      259.95
+    ],
+    "reading_order": 8,
+    "text": "point which divides AB in the ratio k : 1 are \n5\n4\n6\n,\n1\n1\nk\nk\nk\nk\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      267.81,
+      390.01,
+      280.07
+    ],
+    "reading_order": 9,
+    "text": "This point lies on the y-axis, and we know that on the y-axis the abscissa is 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      289.48,
+      235.66,
+      319.58
+    ],
+    "reading_order": 10,
+    "text": "Therefore,\n5\n1\nk\nk\n\n\n\n = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      328.05,
+      235.66,
+      340.31
+    ],
+    "reading_order": 11,
+    "text": "So,\nk = 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      345.33,
+      419.29,
+      357.59
+    ],
+    "reading_order": 12,
+    "text": "That is, the ratio is 5 : 1. Putting the value of k = 5, we get the point of intersection as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      49.44,
+      363.71,
+      95.15,
+      394.34
+    ],
+    "reading_order": 13,
+    "text": "13\n0,\n3\n\n\n\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      407.08,
+      419.3,
+      434.63
+    ],
+    "reading_order": 14,
+    "text": "Example 10 : If the points A(6, 1), B(8, 2), C(9, 4) and D(p, 3) are the vertices of a\nparallelogram, taken in order, find the value of p.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      441.15,
+      367.6,
+      453.83
+    ],
+    "reading_order": 15,
+    "text": "Solution : We know that diagonals of a parallelogram bisect each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      460.53,
+      402.03,
+      472.79
+    ],
+    "reading_order": 16,
+    "text": "So, the coordinates of the mid-point of AC = coordinates of the mid-point of BD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      483.64,
+      214.99,
+      514.36
+    ],
+    "reading_order": 17,
+    "text": "i.e.,\n6\n9 1\n4\n,\n2\n2\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b18",
+    "type": "formula",
+    "bbox": [
+      216.72,
+      483.64,
+      300.2,
+      514.36
+    ],
+    "reading_order": 18,
+    "text": "=\n8\n2\n3\n,\n2\n2\np\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b19",
+    "type": "paragraph",
+    "bbox": [
+      231.6,
+      526.45,
+      282.89,
+      557.07
+    ],
+    "reading_order": 19,
+    "text": "8\n5\n,\n2\n2\np\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b20",
+    "type": "formula",
+    "bbox": [
+      178.56,
+      527.45,
+      225.6,
+      557.07
+    ],
+    "reading_order": 20,
+    "text": "15 5\n,\n2\n2\n\n\n\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      537.33,
+      63.84,
+      549.59
+    ],
+    "reading_order": 21,
+    "text": "i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      567.91,
+      257.07,
+      597.37
+    ],
+    "reading_order": 22,
+    "text": "so,\n15\n2 = 8\n2\np\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      603.33,
+      235.66,
+      615.59
+    ],
+    "reading_order": 23,
+    "text": "i.e.,\np = 7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 12,
+    "block_id": "jemh107_p012_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

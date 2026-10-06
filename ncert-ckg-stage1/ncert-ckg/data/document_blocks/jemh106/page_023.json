@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n95",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b03",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b04",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      419.55,
+      255.12,
+      432.23
+    ],
+    "reading_order": 4,
+    "text": "Fig. 6.34",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b05",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      455.03,
+      247.2,
+      468.04
+    ],
+    "reading_order": 5,
+    "text": "2. In Fig. 6.35,  ODC ~  OBA,  BOC = 125°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b06",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      475.19,
+      247.2,
+      488.2
+    ],
+    "reading_order": 6,
+    "text": "and  CDO = 70°. Find  DOC,  DCO and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b07",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      495.11,
+      107.28,
+      508.12
+    ],
+    "reading_order": 7,
+    "text": " OAB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      519.85,
+      247.2,
+      531.37
+    ],
+    "reading_order": 8,
+    "text": "3. Diagonals AC and BD of a trapezium ABCD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b09",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      540.39,
+      247.23,
+      551.53
+    ],
+    "reading_order": 9,
+    "text": "with AB || DC intersect each other at the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b10",
+    "type": "paragraph",
+    "bbox": [
+      310.8,
+      554.92,
+      353.52,
+      567.59
+    ],
+    "reading_order": 10,
+    "text": "Fig. 6.35",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b11",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      560.31,
+      246.98,
+      571.45
+    ],
+    "reading_order": 11,
+    "text": "point O. Using a similarity criterion for two",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b12",
+    "type": "paragraph",
+    "bbox": [
+      159.12,
+      580.28,
+      205.77,
+      605.52
+    ],
+    "reading_order": 12,
+    "text": "OA\nOB\nOC\nOD\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b13",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      588.39,
+      156.49,
+      599.53
+    ],
+    "reading_order": 13,
+    "text": "triangles, show that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 23,
+    "block_id": "jemh106_p023_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

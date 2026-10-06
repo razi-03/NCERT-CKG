@@ -1,0 +1,801 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n81",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      236.16,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Therefore, from (1), (2) and (3), we have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b04",
+    "type": "formula",
+    "bbox": [
+      153.36,
+      117.24,
+      203.1,
+      145.45
+    ],
+    "reading_order": 4,
+    "text": "AD\nDB = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      188.88,
+      133.07,
+      203.01,
+      145.45
+    ],
+    "reading_order": 5,
+    "text": "EC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      151.41,
+      420.06,
+      176.87
+    ],
+    "reading_order": 6,
+    "text": "Is the converse of this theorem also true (For the meaning of converse, see\nAppendix 1)? To examine this, let us perform the following activity:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      186.27,
+      254.51,
+      241.15
+    ],
+    "reading_order": 8,
+    "text": "Activity 3 :  Draw an angle XAY on your\nnotebook and on ray AX, mark points B1, B2,\nB3, B4 and B such that AB1 = B1B2 = B2B3 =\nB3B4 = B4B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      244.77,
+      254.4,
+      302.15
+    ],
+    "reading_order": 9,
+    "text": "Similarly, on ray AY, mark points\nC1, C2, C3, C4 and C such that AC1 = C1C2 =\nC2C3 = C3C4 = C4C. Then join B1C1 and BC\n(see Fig. 6.11).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      320.88,
+      300.55,
+      362.86,
+      313.22
+    ],
+    "reading_order": 10,
+    "text": "Fig. 6.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      150.48,
+      313.12,
+      165.77,
+      325.44
+    ],
+    "reading_order": 11,
+    "text": "AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      313.12,
+      296.67,
+      341.28
+    ],
+    "reading_order": 12,
+    "text": "AC\nC C\n(Each equal to 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      164.88,
+      319.5,
+      168.46,
+      327.47
+    ],
+    "reading_order": 13,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      203.04,
+      319.5,
+      206.62,
+      327.47
+    ],
+    "reading_order": 14,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      323.73,
+      113.29,
+      335.99
+    ],
+    "reading_order": 15,
+    "text": "Note that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b16",
+    "type": "formula",
+    "bbox": [
+      151.2,
+      323.73,
+      180.72,
+      341.28
+    ],
+    "reading_order": 16,
+    "text": "B B =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      291.36,
+      323.73,
+      303.66,
+      343.21
+    ],
+    "reading_order": 17,
+    "text": "4 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      335.1,
+      161.5,
+      343.08
+    ],
+    "reading_order": 18,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b19",
+    "type": "paragraph",
+    "bbox": [
+      195.84,
+      335.1,
+      199.42,
+      343.08
+    ],
+    "reading_order": 19,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b20",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      350.37,
+      385.49,
+      365.23
+    ],
+    "reading_order": 20,
+    "text": "You can also see that lines B1C1 and BC are parallel to each other, i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b21",
+    "type": "paragraph",
+    "bbox": [
+      195.84,
+      367.65,
+      419.28,
+      382.51
+    ],
+    "reading_order": 21,
+    "text": "B1C1 || BC\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      384.93,
+      309.85,
+      399.79
+    ],
+    "reading_order": 22,
+    "text": "Similarly, by joining B2C2, B3C3 and B4C4, you can see that:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b23",
+    "type": "paragraph",
+    "bbox": [
+      212.16,
+      408.41,
+      419.28,
+      438.03
+    ],
+    "reading_order": 23,
+    "text": "2\n3\n\n\n\n\n\n\nand B2C2 || BC\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b24",
+    "type": "formula",
+    "bbox": [
+      143.76,
+      409.53,
+      202.57,
+      437.77
+    ],
+    "reading_order": 24,
+    "text": "AB\nB B =\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b25",
+    "type": "paragraph",
+    "bbox": [
+      183.36,
+      409.53,
+      198.71,
+      421.94
+    ],
+    "reading_order": 25,
+    "text": "AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b26",
+    "type": "paragraph",
+    "bbox": [
+      159.12,
+      415.93,
+      162.73,
+      423.97
+    ],
+    "reading_order": 26,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b27",
+    "type": "paragraph",
+    "bbox": [
+      184.08,
+      418.05,
+      209.87,
+      437.77
+    ],
+    "reading_order": 27,
+    "text": "C C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b28",
+    "type": "paragraph",
+    "bbox": [
+      151.92,
+      431.77,
+      155.53,
+      439.81
+    ],
+    "reading_order": 28,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b29",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      431.77,
+      195.37,
+      439.81
+    ],
+    "reading_order": 29,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b30",
+    "type": "paragraph",
+    "bbox": [
+      210.72,
+      449.12,
+      419.28,
+      479.07
+    ],
+    "reading_order": 30,
+    "text": "3\n2\n\n\n\n\n\n\nand B3C3 || BC\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b31",
+    "type": "paragraph",
+    "bbox": [
+      145.2,
+      449.68,
+      160.25,
+      462.0
+    ],
+    "reading_order": 31,
+    "text": "AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b32",
+    "type": "paragraph",
+    "bbox": [
+      183.36,
+      449.68,
+      208.19,
+      478.07
+    ],
+    "reading_order": 32,
+    "text": "AC\nC C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b33",
+    "type": "paragraph",
+    "bbox": [
+      160.08,
+      456.06,
+      163.66,
+      464.03
+    ],
+    "reading_order": 33,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b34",
+    "type": "paragraph",
+    "bbox": [
+      198.48,
+      456.06,
+      202.06,
+      464.03
+    ],
+    "reading_order": 34,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b35",
+    "type": "formula",
+    "bbox": [
+      145.92,
+      459.09,
+      176.16,
+      478.07
+    ],
+    "reading_order": 35,
+    "text": "B B =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b36",
+    "type": "paragraph",
+    "bbox": [
+      153.12,
+      471.9,
+      156.7,
+      479.87
+    ],
+    "reading_order": 36,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b37",
+    "type": "paragraph",
+    "bbox": [
+      191.28,
+      471.9,
+      194.86,
+      479.87
+    ],
+    "reading_order": 37,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b38",
+    "type": "paragraph",
+    "bbox": [
+      212.16,
+      489.53,
+      419.28,
+      519.15
+    ],
+    "reading_order": 38,
+    "text": "4\n1\n\n\n\n\n\n\nand B4C4 || BC\n(4)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b39",
+    "type": "formula",
+    "bbox": [
+      143.76,
+      490.96,
+      202.54,
+      519.12
+    ],
+    "reading_order": 39,
+    "text": "AB\nB B =\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b40",
+    "type": "paragraph",
+    "bbox": [
+      183.36,
+      490.96,
+      198.65,
+      503.28
+    ],
+    "reading_order": 40,
+    "text": "AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b41",
+    "type": "paragraph",
+    "bbox": [
+      159.12,
+      497.34,
+      162.7,
+      505.31
+    ],
+    "reading_order": 41,
+    "text": "4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b42",
+    "type": "paragraph",
+    "bbox": [
+      184.08,
+      499.17,
+      209.87,
+      519.12
+    ],
+    "reading_order": 42,
+    "text": "C C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b43",
+    "type": "paragraph",
+    "bbox": [
+      151.92,
+      512.94,
+      155.5,
+      520.92
+    ],
+    "reading_order": 43,
+    "text": "4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b44",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      512.94,
+      195.34,
+      520.92
+    ],
+    "reading_order": 44,
+    "text": "4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b45",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      528.7,
+      420.07,
+      554.88
+    ],
+    "reading_order": 45,
+    "text": "From (1), (2), (3) and (4), it can be observed that if a line divides two sides of a\ntriangle in the same ratio, then the line is parallel to the third side.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b46",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      560.39,
+      420.07,
+      613.94
+    ],
+    "reading_order": 46,
+    "text": "You can repeat this activity by drawing any angle XAY of different measure and\ntaking any  number of equal parts on arms AX and AY . Each time, you will arrive at\nthe same result. Thus, we obtain the following theorem, which is the converse of\nTheorem 6.1:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 9,
+    "block_id": "jemh106_p009_b47",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 47,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n239",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b03",
+    "type": "paragraph",
+    "bbox": [
+      342.96,
+      164.7,
+      414.23,
+      233.82
+    ],
+    "reading_order": 3,
+    "text": "A2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.96,
+      196.54,
+      339.11,
+      228.8
+    ],
+    "reading_order": 5,
+    "text": "MATHEMATICAL MODELLING",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      257.1,
+      138.7,
+      270.92
+    ],
+    "reading_order": 6,
+    "text": "A2.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      275.97,
+      420.76,
+      301.43
+    ],
+    "reading_order": 7,
+    "text": "\nAn adult human body contains approximately 1,50,000 km of arteries and veins\nthat carry blood.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      306.45,
+      396.74,
+      318.71
+    ],
+    "reading_order": 8,
+    "text": "\nThe human heart pumps 5 to 6 litres of blood in the body every 60 seconds.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      323.73,
+      333.17,
+      335.99
+    ],
+    "reading_order": 9,
+    "text": "\nThe temperature at the surface of the Sun is about 6,000° C.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      341.5,
+      420.8,
+      408.97
+    ],
+    "reading_order": 10,
+    "text": "Have you ever wondered how our scientists and mathematicians could possibly\nhave estimated these results? Did they pull out the veins and arteries from some adult\ndead bodies and measure them? Did they drain out the blood to arrive at these results?\nDid they travel to the Sun with a thermometer to get the temperature of the Sun?\nSurely not. Then how did they get these figures?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.73,
+      414.06,
+      420.84,
+      468.27
+    ],
+    "reading_order": 11,
+    "text": "Well, the answer lies in mathematical modelling, which we introduced to you\nin Class IX. Recall that a mathematical model is a mathematical description of some\nreal-life situation. Also, recall that mathematical modelling is the process of creating a\nmathematical model of a problem, and using it to analyse and solve the problem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.73,
+      473.78,
+      420.85,
+      541.26
+    ],
+    "reading_order": 12,
+    "text": "So, in mathematical modelling, we take a real-world problem and convert it to an\nequivalent mathematical problem. We then solve the mathematical problem, and interpret\nits solution in the situation of the real-world problem. And then, it is important to see\nthat the solution, we have obtained, ‘makes sense’, which is the stage of validating the\nmodel. Some examples, where mathematical modelling is of great importance, are:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      81.85,
+      546.53,
+      375.19,
+      558.78
+    ],
+    "reading_order": 13,
+    "text": "(i) Finding the width and depth of a river at an unreachable place.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      79.45,
+      563.81,
+      324.29,
+      576.06
+    ],
+    "reading_order": 14,
+    "text": "(ii) Estimating the mass of the Earth and other planets.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b15",
+    "type": "paragraph",
+    "bbox": [
+      77.3,
+      580.85,
+      364.64,
+      593.1
+    ],
+    "reading_order": 15,
+    "text": "(iii) Estimating the distance between Earth and any other planet.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b16",
+    "type": "paragraph",
+    "bbox": [
+      76.58,
+      598.13,
+      322.49,
+      610.38
+    ],
+    "reading_order": 16,
+    "text": "(iv) Predicting the arrrival of the monsoon in a country.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 1,
+    "block_id": "jemh1a2_p001_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

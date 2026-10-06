@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n123",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.02,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "As you know, for finding the trigonometric ratios, we need to know the lengths of the\nsides of the triangle. So, let us suppose that AB = 2a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      130.44,
+      275.56,
+      158.65
+    ],
+    "reading_order": 4,
+    "text": "Then,\nBD = 1 BC =\n2\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      164.61,
+      313.55,
+      176.87
+    ],
+    "reading_order": 5,
+    "text": "and\nAD2 = AB2 – BD2 = (2a)2 – (a)2 = 3a2,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b07",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      187.87,
+      253.19,
+      202.31
+    ],
+    "reading_order": 7,
+    "text": "Therefore,\nAD =\n3\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      206.61,
+      117.84,
+      218.87
+    ],
+    "reading_order": 8,
+    "text": "Now, we have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b09",
+    "type": "formula",
+    "bbox": [
+      108.0,
+      215.88,
+      214.6,
+      244.09
+    ],
+    "reading_order": 9,
+    "text": "sin 30° = BD\n1\nAB\n2\n2\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b10",
+    "type": "formula",
+    "bbox": [
+      173.53,
+      217.02,
+      346.73,
+      244.52
+    ],
+    "reading_order": 10,
+    "text": "a\n\n\n, cos 30° = AD\n3\n3\nAB\n2\n2\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      290.88,
+      222.76,
+      329.98,
+      244.51
+    ],
+    "reading_order": 11,
+    "text": "a\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      154.08,
+      245.34,
+      236.27,
+      273.8
+    ],
+    "reading_order": 12,
+    "text": "BD\n1\nAD\n3\n3\na\na\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b13",
+    "type": "formula",
+    "bbox": [
+      106.56,
+      254.85,
+      147.12,
+      267.11
+    ],
+    "reading_order": 13,
+    "text": "tan 30° =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b14",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      280.48,
+      206.77,
+      308.64
+    ],
+    "reading_order": 14,
+    "text": "Also,\ncosec 30° =\n1\n2,\nsin 30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b15",
+    "type": "formula",
+    "bbox": [
+      180.96,
+      280.48,
+      322.56,
+      309.47
+    ],
+    "reading_order": 15,
+    "text": "\n\n  sec 30° = \n1\n2\ncos 30\n3\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b16",
+    "type": "formula",
+    "bbox": [
+      106.56,
+      313.36,
+      212.16,
+      341.52
+    ],
+    "reading_order": 16,
+    "text": "cot 30° =\n1\n3\ntan 30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      181.91,
+      319.09,
+      217.55,
+      342.35
+    ],
+    "reading_order": 17,
+    "text": "\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      346.77,
+      87.0,
+      359.02
+    ],
+    "reading_order": 18,
+    "text": "Similarly,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b19",
+    "type": "formula",
+    "bbox": [
+      108.0,
+      356.94,
+      229.61,
+      384.44
+    ],
+    "reading_order": 19,
+    "text": "sin 60° = AD\n3\n3\nAB\n2\n2\na",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b20",
+    "type": "formula",
+    "bbox": [
+      173.76,
+      358.03,
+      291.3,
+      384.43
+    ],
+    "reading_order": 20,
+    "text": "a\n\n\n, cos 60° = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b21",
+    "type": "formula",
+    "bbox": [
+      286.56,
+      364.53,
+      361.55,
+      383.5
+    ],
+    "reading_order": 21,
+    "text": "2 , tan 60° = \n3 ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b22",
+    "type": "formula",
+    "bbox": [
+      157.68,
+      387.18,
+      302.89,
+      413.79
+    ],
+    "reading_order": 22,
+    "text": "2 ,\n3 sec 60° = 2 and cot 60° = \n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b23",
+    "type": "paragraph",
+    "bbox": [
+      300.96,
+      392.52,
+      310.68,
+      413.79
+    ],
+    "reading_order": 23,
+    "text": "3\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b24",
+    "type": "formula",
+    "bbox": [
+      94.56,
+      395.01,
+      147.13,
+      407.27
+    ],
+    "reading_order": 24,
+    "text": "cosec 60° =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      423.64,
+      218.17,
+      436.31
+    ],
+    "reading_order": 25,
+    "text": "Trigonometric Ratios of 0° and 90°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      442.29,
+      312.04,
+      528.49
+    ],
+    "reading_order": 26,
+    "text": "Let us see what happens to the trigonometric ratios of angle\nA, if it is made smaller and smaller in the right triangle ABC\n(see Fig. 8.16), till it becomes zero. As  A gets smaller and\nsmaller, the length of the side BC decreases.The point C gets\ncloser to point B, and finally when  A becomes very close\nto 0°, AC becomes almost the same as AB (see Fig. 8.17).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b27",
+    "type": "paragraph",
+    "bbox": [
+      344.16,
+      512.43,
+      386.88,
+      525.11
+    ],
+    "reading_order": 27,
+    "text": "Fig. 8.16",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b28",
+    "type": "paragraph",
+    "bbox": [
+      212.41,
+      608.22,
+      255.13,
+      620.89
+    ],
+    "reading_order": 28,
+    "text": "Fig. 8.17",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 11,
+    "block_id": "jemh108_p011_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

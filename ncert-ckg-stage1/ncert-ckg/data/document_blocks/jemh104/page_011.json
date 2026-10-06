@@ -1,0 +1,87 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 11,
+    "block_id": "jemh104_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 11,
+    "block_id": "jemh104_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.12,
+      420.0,
+      80.12
+    ],
+    "reading_order": 2,
+    "text": "48\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 11,
+    "block_id": "jemh104_p011_b03",
+    "type": "header",
+    "bbox": [
+      210.96,
+      92.62,
+      255.84,
+      112.62
+    ],
+    "reading_order": 3,
+    "text": "NOTE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 11,
+    "block_id": "jemh104_p011_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 11,
+    "block_id": "jemh104_p011_b05",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 5,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

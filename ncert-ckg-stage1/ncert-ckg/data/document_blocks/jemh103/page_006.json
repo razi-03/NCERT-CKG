@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b03",
+    "type": "header",
+    "bbox": [
+      80.16,
+      94.95,
+      420.02,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "(ii) 5 pencils and 7 pens together cost ` 50, whereas 7 pencils and 5 pens together",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      107.91,
+      329.25,
+      119.05
+    ],
+    "reading_order": 4,
+    "text": "cost ` 46. Find the cost of one pencil and that of one pen.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      180.0,
+      125.82,
+      420.04,
+      153.09
+    ],
+    "reading_order": 5,
+    "text": "2\n2\n2\n,\nand\na\nb\nc\na\nb\nc , find out whether the lines representing the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      131.45,
+      236.05,
+      143.53
+    ],
+    "reading_order": 6,
+    "text": "2. On comparing the ratios \n1\n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      156.15,
+      395.13,
+      167.29
+    ],
+    "reading_order": 7,
+    "text": "following pairs of linear equations intersect at a point, are parallel or coincident:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b09",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      174.15,
+      332.16,
+      185.29
+    ],
+    "reading_order": 9,
+    "text": "(i) 5x – 4y + 8 = 0\n(ii) 9x + 3y + 12 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b10",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      189.27,
+      336.96,
+      200.41
+    ],
+    "reading_order": 10,
+    "text": "7x + 6y – 9 = 0\n18x + 6y + 24 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b11",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      207.27,
+      159.12,
+      218.41
+    ],
+    "reading_order": 11,
+    "text": "(iii) 6x – 3y + 10 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b12",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      222.15,
+      149.28,
+      233.29
+    ],
+    "reading_order": 12,
+    "text": "2x – y + 9 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b13",
+    "type": "paragraph",
+    "bbox": [
+      228.24,
+      239.82,
+      420.03,
+      263.53
+    ],
+    "reading_order": 13,
+    "text": "c\nc , find out whether the following pair of linear",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      176.39,
+      239.9,
+      235.81,
+      266.84
+    ],
+    "reading_order": 14,
+    "text": "2\n2\n,\na\nb\na\nb\n and \n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      245.5,
+      201.7,
+      258.25
+    ],
+    "reading_order": 15,
+    "text": "3. On comparing the ratios \n1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      232.56,
+      258.17,
+      235.81,
+      265.41
+    ],
+    "reading_order": 16,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      271.35,
+      242.19,
+      282.49
+    ],
+    "reading_order": 17,
+    "text": "equations are consistent, or inconsistent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b18",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      287.19,
+      369.12,
+      298.33
+    ],
+    "reading_order": 18,
+    "text": "(i) 3x + 2y = 5 ;\n2x – 3y = 7\n(ii) 2x – 3y = 8 ;\n4x – 6y = 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b19",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      304.84,
+      390.72,
+      329.74
+    ],
+    "reading_order": 19,
+    "text": "(iii)\n3\n5\n7\n2\n3\nx\ny\n\n\n; 9x – 10y = 14\n(iv) 5x – 3y = 11 ; – 10x + 6y = –22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b20",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      340.04,
+      209.28,
+      365.29
+    ],
+    "reading_order": 20,
+    "text": "(v)\n4\n2\n8\n3 x\ny\n\n\n ; 2x + 3y = 12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      372.25,
+      419.78,
+      395.77
+    ],
+    "reading_order": 21,
+    "text": "4. Which of the following pairs of linear equations are consistent/inconsistent? If\nconsistent, obtain the solution graphically:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b22",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      399.75,
+      213.84,
+      425.77
+    ],
+    "reading_order": 22,
+    "text": "(i) x + y = 5,\n2x + 2y = 10\n(ii) x – y = 8,\n3x – 3y = 16",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b23",
+    "type": "formula",
+    "bbox": [
+      77.28,
+      429.75,
+      223.44,
+      455.77
+    ],
+    "reading_order": 23,
+    "text": "(iii) 2x + y – 6 = 0,\n4x – 2y – 4 = 0\n(iv) 2x – 2y – 2 = 0,\n4x – 4y – 5 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b24",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      465.85,
+      419.8,
+      489.37
+    ],
+    "reading_order": 24,
+    "text": "5. Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is\n36 m. Find the dimensions of the garden.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      495.85,
+      420.04,
+      519.37
+    ],
+    "reading_order": 25,
+    "text": "6. Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables\nsuch that the geometrical representation of the pair so formed is:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b26",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      523.35,
+      320.89,
+      549.37
+    ],
+    "reading_order": 26,
+    "text": "(i) intersecting lines\n(ii) parallel lines\n(iii) coincident lines",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b27",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      555.85,
+      420.01,
+      591.37
+    ],
+    "reading_order": 27,
+    "text": "7. Draw the graphs of the equations x – y + 1 = 0 and 3x + 2y – 12 = 0. Determine the\ncoordinates of the vertices of the triangle formed by these lines and the x-axis, and\nshade the triangular region.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 6,
+    "block_id": "jemh103_p006_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

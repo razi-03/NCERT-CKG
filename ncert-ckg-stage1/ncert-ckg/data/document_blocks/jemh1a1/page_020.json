@@ -1,0 +1,257 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n237",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.03,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Remark : The example of the proof above shows you, yet again, that there can be\nseveral ways of proving a result.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      129.87,
+      419.97,
+      155.73
+    ],
+    "reading_order": 4,
+    "text": "Theorem A1.2 : Out of all the line segments, drawn from a point to points of a\nline not passing through the point, the smallest is the perpendicular to the line.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b05",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      160.35,
+      80.87,
+      173.02
+    ],
+    "reading_order": 5,
+    "text": "Proof :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b07",
+    "type": "paragraph",
+    "bbox": [
+      211.43,
+      231.15,
+      255.83,
+      243.82
+    ],
+    "reading_order": 7,
+    "text": "Fig. A1.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b08",
+    "type": "formula",
+    "bbox": [
+      137.99,
+      259.23,
+      400.33,
+      271.91
+    ],
+    "reading_order": 8,
+    "text": "Statements\nAnalysis/Comment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b09",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      281.73,
+      412.95,
+      346.79
+    ],
+    "reading_order": 9,
+    "text": "Let XY be the given line, P a point not lying on XY\nSince we have to prove that\nand PM, PA1, PA2, . . . etc., be the line segments\nout of all PM, PA1, PA2, . . .\ndrawn from P to the points of the line XY, out of\netc., the smallest is perpendi-\nwhich PM is the smallest (see Fig. A1.5).\ncular to XY, we start by\ntaking these line segments.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      356.85,
+      403.47,
+      395.51
+    ],
+    "reading_order": 10,
+    "text": "Let PM be not perpendicular to XY\nThis is the negation of the\nstatement to be proved by\ncontradiction.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      405.33,
+      403.47,
+      443.98
+    ],
+    "reading_order": 11,
+    "text": "Draw a perpendicular PN on the line XY, shown\nWe often need\nby dotted lines in Fig. A1.5.\nconstructions to prove our\nresults.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      454.05,
+      412.81,
+      492.71
+    ],
+    "reading_order": 12,
+    "text": "PN is the smallest of all the line segments PM,\nSide of right triangle is less\nPA1, PA2, . . . etc., which means PN < PM.\nthan the hypotenuse and\nknown property of numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      502.53,
+      399.63,
+      527.98
+    ],
+    "reading_order": 13,
+    "text": "This contradicts our hypothesis that PM is the\nPrecisely what we want!\nsmallest of all such line segments.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b14",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      538.05,
+      400.61,
+      563.5
+    ],
+    "reading_order": 14,
+    "text": "Therefore, the line segment PM is perpendicular\nWe reach the conclusion.\nto XY.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 20,
+    "block_id": "jemh1a1_p020_b15",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 15,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

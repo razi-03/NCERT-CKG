@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "182\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      420.08,
+      130.09
+    ],
+    "reading_order": 3,
+    "text": "4. Thirty women were examined in a hospital by a doctor and the number of heartbeats per\nminute were recorded and summarised as follows. Find the mean heartbeats per minute\nfor these women, choosing a suitable method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b04",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      144.73,
+      418.57,
+      168.25
+    ],
+    "reading_order": 4,
+    "text": "Number of heartbeats 65 - 68\n68 - 71\n71 - 74\n74 - 77\n77 - 80\n80 - 83\n83 - 86\nper minute",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b06",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      177.61,
+      408.44,
+      189.13
+    ],
+    "reading_order": 6,
+    "text": "Number of women\n2\n4\n3\n8\n7\n4\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      203.77,
+      420.05,
+      239.29
+    ],
+    "reading_order": 7,
+    "text": "5. In a retail market, fruit vendors were selling mangoes kept in packing boxes. These\nboxes contained varying number of mangoes. The following was the distribution of\nmangoes according to the number of boxes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b08",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      248.65,
+      400.79,
+      260.17
+    ],
+    "reading_order": 8,
+    "text": "Number of  mangoes\n50  -  52\n53  -  55\n56  -  58\n59  -  61\n62  -  64",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      274.57,
+      390.0,
+      286.09
+    ],
+    "reading_order": 9,
+    "text": "Number of boxes\n15\n110\n135\n115\n25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      296.07,
+      420.03,
+      319.21
+    ],
+    "reading_order": 10,
+    "text": "Find the mean number of mangoes kept in a packing box. Which method of finding\nthe mean did you choose?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      328.57,
+      411.04,
+      340.09
+    ],
+    "reading_order": 11,
+    "text": "6. The table below shows the daily expenditure on food of 25 households in a locality.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b12",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      349.69,
+      407.52,
+      373.21
+    ],
+    "reading_order": 12,
+    "text": "Daily expenditure\n100 - 150\n150 - 200\n200 - 250\n250 - 300\n300 - 350\n(in `)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      382.57,
+      392.84,
+      406.09
+    ],
+    "reading_order": 13,
+    "text": "Number of\n4\n5\n12\n2\n2\nhouseholds",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      95.04,
+      416.07,
+      345.89,
+      427.21
+    ],
+    "reading_order": 14,
+    "text": "Find the mean daily expenditure on food by a suitable method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      431.77,
+      420.02,
+      455.29
+    ],
+    "reading_order": 15,
+    "text": "7. To find out the concentration of SO2 in the air (in parts per million, i.e., ppm), the data\nwas collected for 30 localities in a certain city and is presented below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b16",
+    "type": "paragraph",
+    "bbox": [
+      107.52,
+      464.65,
+      337.45,
+      478.62
+    ],
+    "reading_order": 16,
+    "text": "Concentration of SO2 (in ppm)\nFrequency",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b17",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      486.15,
+      318.44,
+      497.29
+    ],
+    "reading_order": 17,
+    "text": "0.00  -  0.04\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b18",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      503.19,
+      318.44,
+      514.33
+    ],
+    "reading_order": 18,
+    "text": "0.04  -  0.08\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b19",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      519.99,
+      318.44,
+      531.13
+    ],
+    "reading_order": 19,
+    "text": "0.08  -  0.12\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b20",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      537.03,
+      318.44,
+      548.17
+    ],
+    "reading_order": 20,
+    "text": "0.12  -  0.16\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b21",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      554.07,
+      318.44,
+      565.21
+    ],
+    "reading_order": 21,
+    "text": "0.16  -  0.20\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b22",
+    "type": "section_heading",
+    "bbox": [
+      147.36,
+      571.11,
+      318.44,
+      582.25
+    ],
+    "reading_order": 22,
+    "text": "0.20  -  0.24\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b23",
+    "type": "paragraph",
+    "bbox": [
+      95.04,
+      597.03,
+      276.83,
+      610.62
+    ],
+    "reading_order": 23,
+    "text": "Find the mean concentration of SO2 in the air.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 12,
+    "block_id": "jemh113_p012_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

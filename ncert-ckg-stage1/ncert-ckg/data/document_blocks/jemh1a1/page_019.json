@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "236\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b03",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      98.1,
+      412.79,
+      137.99
+    ],
+    "reading_order": 3,
+    "text": "Since np and mq are integers and mq  0,\nUsing properties of integers,\nx is a rational number.\nand definition of a rational\nnumber.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b04",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      147.81,
+      412.79,
+      186.46
+    ],
+    "reading_order": 4,
+    "text": "This is a contradiction, because we have shown x\nThis is what we were looking\nto be rational, but by our hypothesis, we have x\nfor — a contradiction.\nis irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b06",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      196.53,
+      369.6,
+      235.18
+    ],
+    "reading_order": 6,
+    "text": "The contradiction has arisen because of the faulty\nLogical deduction.\nassumption that rx is rational. Therefore, rx\nis irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      250.06,
+      420.04,
+      275.51
+    ],
+    "reading_order": 7,
+    "text": "We now prove Example 11, but this time using proof by contradiction. The proof\nis given below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b08",
+    "type": "formula",
+    "bbox": [
+      137.99,
+      287.31,
+      400.31,
+      299.98
+    ],
+    "reading_order": 8,
+    "text": "Statements\nAnalysis/Comment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b09",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      309.81,
+      412.82,
+      348.46
+    ],
+    "reading_order": 9,
+    "text": "Let us assume that the statement is note true.\nAs we saw earlier, this is the\nstarting point for an argument\nusing ‘proof by contradiction’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      355.4,
+      402.73,
+      394.06
+    ],
+    "reading_order": 10,
+    "text": "So we suppose that there exists a prime number\nThis is the negation of the\np > 3, which is not of the form 6n + 1 or 6n + 5,\nstatement in the result.\nwhere n is a whole number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      401.0,
+      412.8,
+      452.85
+    ],
+    "reading_order": 11,
+    "text": "Using Euclid’s division lemma on division by 6,\nUsing earlier proved results.\nand using the fact that p is not of the form 6n + 1\nor 6n + 5, we get p = 6n or 6n + 2 or 6n + 3\nor 6n + 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.23,
+      459.79,
+      369.64,
+      472.05
+    ],
+    "reading_order": 12,
+    "text": "Therefore, p is divisible by either 2 or 3.\nLogical deduction.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.23,
+      478.99,
+      369.64,
+      491.24
+    ],
+    "reading_order": 13,
+    "text": "So, p is not a prime.\nLogical deduction.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b14",
+    "type": "paragraph",
+    "bbox": [
+      55.23,
+      498.18,
+      399.64,
+      523.64
+    ],
+    "reading_order": 14,
+    "text": "This is a contradiction, because by our hypothesis\nPrecisely what we want!\np is prime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.23,
+      530.58,
+      279.4,
+      569.23
+    ],
+    "reading_order": 15,
+    "text": "The contradiction has arisen, because we assumed\nthat there exists a prime number p > 3 which is\nnot of the form 6n + 1 or 6n + 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b16",
+    "type": "formula",
+    "bbox": [
+      55.23,
+      576.17,
+      400.62,
+      601.63
+    ],
+    "reading_order": 16,
+    "text": "Hence, every prime number greater than 3 is of the We reach the conclusion.\nform 6n + 1 or 6n + 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 19,
+    "block_id": "jemh1a1_p019_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

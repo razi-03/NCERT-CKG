@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n171",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b03",
+    "type": "figure",
+    "bbox": [
+      193.3,
+      72.0,
+      278.25,
+      156.95
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b04",
+    "type": "paragraph",
+    "bbox": [
+      355.2,
+      164.7,
+      413.04,
+      233.82
+    ],
+    "reading_order": 4,
+    "text": "13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      240.96,
+      197.02,
+      347.98,
+      229.28
+    ],
+    "reading_order": 6,
+    "text": "STATISTICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      47.28,
+      260.46,
+      135.13,
+      274.28
+    ],
+    "reading_order": 7,
+    "text": "13.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      279.33,
+      419.36,
+      410.39
+    ],
+    "reading_order": 8,
+    "text": "In Class IX, you have studied the classification of given data into ungrouped as well as\ngrouped frequency distributions. You have also learnt to represent the data pictorially\nin the form of various graphs such as bar graphs, histograms (including those of varying\nwidths) and frequency polygons. In fact, you went a step further by studying certain\nnumerical representatives of the ungrouped data, also called measures of central\ntendency, namely, mean, median and mode. In this chapter, we shall extend the study\nof these three measures, i.e., mean, median and mode from ungrouped data to that of\ngrouped data. We shall also discuss the concept of cumulative frequency, the\ncumulative frequency distribution and how to draw cumulative frequency curves, called\nogives.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b09",
+    "type": "section_heading",
+    "bbox": [
+      47.28,
+      419.82,
+      191.27,
+      433.64
+    ],
+    "reading_order": 9,
+    "text": "13.2 Mean of Grouped Data",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      438.69,
+      419.53,
+      493.39
+    ],
+    "reading_order": 10,
+    "text": "The mean (or average) of observations, as we know, is the sum of the values of all the\nobservations divided by the total number of observations. From Class IX, recall that if\nx1, x2,. . ., xn are observations with respective frequencies f1, f2, . . ., fn, then this\nmeans observation x1 occurs f1 times, x2 occurs f2 times, and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      495.57,
+      419.28,
+      523.63
+    ],
+    "reading_order": 11,
+    "text": "Now, the sum of the values of all the observations = f1x1 + f2x2 + . . . + fnxn,  and\nthe number of observations = f1 + f2 + . . . + fn.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      71.28,
+      528.69,
+      242.16,
+      540.95
+    ],
+    "reading_order": 12,
+    "text": "So, the mean x of the data is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      543.16,
+      419.29,
+      602.15
+    ],
+    "reading_order": 13,
+    "text": "f x\nf x\nf x\nf\nf\nf\n\n\n\n\n\n\n\n\nRecall that we can write this in short form by using the Greek letter  (capital\nsigma) which means summation. That is,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      192.72,
+      551.49,
+      235.07,
+      558.68
+    ],
+    "reading_order": 14,
+    "text": "1 1\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b15",
+    "type": "paragraph",
+    "bbox": [
+      276.48,
+      551.59,
+      288.82,
+      558.67
+    ],
+    "reading_order": 15,
+    "text": "n\nn",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b16",
+    "type": "formula",
+    "bbox": [
+      163.68,
+      552.41,
+      180.0,
+      565.91
+    ],
+    "reading_order": 16,
+    "text": "x =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b17",
+    "type": "paragraph",
+    "bbox": [
+      205.92,
+      567.33,
+      231.23,
+      574.52
+    ],
+    "reading_order": 17,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b18",
+    "type": "paragraph",
+    "bbox": [
+      272.4,
+      567.43,
+      275.63,
+      574.51
+    ],
+    "reading_order": 18,
+    "text": "n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 1,
+    "block_id": "jemh113_p001_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

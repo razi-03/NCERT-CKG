@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.41,
+      420.0,
+      82.41
+    ],
+    "reading_order": 2,
+    "text": "2\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      93.82,
+      271.57,
+      105.82
+    ],
+    "reading_order": 3,
+    "text": "1.2 The Fundamental Theorem of Arithmetic",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      114.6,
+      420.06,
+      164.6
+    ],
+    "reading_order": 4,
+    "text": "In your earlier classes, you have seen that any natural number can be written as a\nproduct of its prime factors. For instance, 2 = 2, 4 = 2 × 2, 253 = 11 × 23, and so on.\nNow, let us try and look at natural numbers from the other direction. That is, can any\nnatural number be obtained by multiplying prime numbers? Let us see.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      170.76,
+      420.07,
+      220.76
+    ],
+    "reading_order": 5,
+    "text": "Take any collection of prime numbers, say 2, 3, 7, 11 and 23. If we multiply\nsome or all of these numbers, allowing them to repeat as many times as we wish,\nwe can produce a large collection of positive integers (In fact, infinitely many).\nLet us list a few :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b07",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      226.68,
+      328.44,
+      237.68
+    ],
+    "reading_order": 7,
+    "text": "7 × 11 × 23 = 1771\n3 × 7 × 11 × 23 = 5313",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b08",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      243.51,
+      308.28,
+      254.72
+    ],
+    "reading_order": 8,
+    "text": "2 × 3 × 7 × 11 × 23 = 10626\n23 × 3 × 73 = 8232",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      260.67,
+      198.72,
+      287.0
+    ],
+    "reading_order": 9,
+    "text": "22 × 3 × 7 × 11 × 23 = 21252\nand so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      290.88,
+      420.07,
+      554.24
+    ],
+    "reading_order": 10,
+    "text": "Now, let us suppose your collection of primes includes all the possible primes.\nWhat is your guess about the size of this collection? Does it contain only a finite\nnumber of integers, or infinitely many? Infact, there are infinitely many primes. So,\nif we combine all these primes in all possible ways, we will get an infinite\ncollection of numbers, all\nthe primes and all possible\nproducts of primes. The\nquestion is – can we\nproduce all the composite\nnumbers this way? What\ndo you think? Do you\nthink that there may be a\ncomposite number which\nis not the product of\npowers \nof \nprimes?\nBefore we answer this,\nlet us factorise positive\nintegers, that is, do the\nopposite of what we have\ndone so far.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      560.4,
+      159.98,
+      637.4
+    ],
+    "reading_order": 11,
+    "text": "We are going to use\nthe factor tree with which\nyou are all familiar. Let us\ntake some large number,\nsay, 32760, and factorise\nit as shown.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 2,
+    "block_id": "jemh101_p002_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

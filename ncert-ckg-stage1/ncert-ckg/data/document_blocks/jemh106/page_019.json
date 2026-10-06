@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n91",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      93.78,
+      373.43,
+      108.09
+    ],
+    "reading_order": 3,
+    "text": "Now,\nPQ || EF and  ABC  DPQ\n(How ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      111.06,
+      305.28,
+      125.37
+    ],
+    "reading_order": 4,
+    "text": "So,\n A =  D,  B =  P and  C =  Q",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      128.1,
+      369.85,
+      142.41
+    ],
+    "reading_order": 5,
+    "text": "Therefore,\n ABC ~  DEF\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      146.61,
+      363.91,
+      158.87
+    ],
+    "reading_order": 6,
+    "text": "We now take some examples to illustrate the use of these criteria.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      167.7,
+      346.58,
+      182.01
+    ],
+    "reading_order": 7,
+    "text": "Example 4 : In Fig. 6.29, if PQ || RS, prove that  POQ ~  SOR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b09",
+    "type": "paragraph",
+    "bbox": [
+      212.43,
+      296.92,
+      255.15,
+      309.59
+    ],
+    "reading_order": 9,
+    "text": "Fig. 6.29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.03,
+      317.55,
+      419.07,
+      330.23
+    ],
+    "reading_order": 10,
+    "text": "Solution :\nPQ || RS\n(Given)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b11",
+    "type": "formula",
+    "bbox": [
+      48.03,
+      334.02,
+      419.05,
+      348.33
+    ],
+    "reading_order": 11,
+    "text": "So,\n P =  S\n(Alternate angles)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b12",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      351.3,
+      219.84,
+      365.61
+    ],
+    "reading_order": 12,
+    "text": "and\n Q =  R",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      368.34,
+      419.31,
+      382.65
+    ],
+    "reading_order": 13,
+    "text": "Also,\n POQ =  SOR\n(Vertically opposite angles)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      385.62,
+      419.27,
+      399.93
+    ],
+    "reading_order": 14,
+    "text": "Therefore,\n POQ ~  SOR\n(AAA similarity criterion)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.97,
+      407.94,
+      271.51,
+      422.25
+    ],
+    "reading_order": 15,
+    "text": "Example 5 : Observe Fig. 6.30 and then find  P.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b16",
+    "type": "paragraph",
+    "bbox": [
+      212.37,
+      573.15,
+      255.09,
+      585.82
+    ],
+    "reading_order": 16,
+    "text": "Fig. 6.30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.97,
+      592.97,
+      197.99,
+      607.29
+    ],
+    "reading_order": 17,
+    "text": "Solution : In  ABC and  PQR,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 19,
+    "block_id": "jemh106_p019_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

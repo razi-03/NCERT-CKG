@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n67",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.87,
+      267.52,
+      124.33
+    ],
+    "reading_order": 3,
+    "text": "Therefore,\nSn =\n(1\n)\n2\nn\nn\n\nor\n Sn =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b04",
+    "type": "header",
+    "bbox": [
+      270.25,
+      94.87,
+      303.46,
+      124.33
+    ],
+    "reading_order": 4,
+    "text": "(\n1)\n2\nn n ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      131.56,
+      290.87,
+      144.23
+    ],
+    "reading_order": 5,
+    "text": "So,  the sum of first n positive integers is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b06",
+    "type": "formula",
+    "bbox": [
+      201.35,
+      154.98,
+      263.86,
+      183.61
+    ],
+    "reading_order": 6,
+    "text": "Sn = \n(\n+ 1)\n2\nn n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      190.83,
+      420.01,
+      216.71
+    ],
+    "reading_order": 8,
+    "text": "Example 15 : Find the sum of first 24 terms of the list of numbers whose nth term is\ngiven by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b09",
+    "type": "formula",
+    "bbox": [
+      168.96,
+      221.49,
+      221.98,
+      236.58
+    ],
+    "reading_order": 9,
+    "text": "an = 3 + 2n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      238.36,
+      94.57,
+      251.03
+    ],
+    "reading_order": 10,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b11",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      256.05,
+      220.43,
+      270.9
+    ],
+    "reading_order": 11,
+    "text": "As\nan = 3 + 2n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      273.33,
+      229.66,
+      288.19
+    ],
+    "reading_order": 12,
+    "text": "so,\na1 = 3 + 2 = 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b13",
+    "type": "formula",
+    "bbox": [
+      166.57,
+      290.61,
+      246.71,
+      305.47
+    ],
+    "reading_order": 13,
+    "text": "a2 = 3 + 2 × 2 = 7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b14",
+    "type": "formula",
+    "bbox": [
+      166.55,
+      307.89,
+      246.71,
+      322.75
+    ],
+    "reading_order": 14,
+    "text": "a3 = 3 + 2 × 3 = 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      328.76,
+      226.58,
+      356.87
+    ],
+    "reading_order": 15,
+    "text": "\nList of numbers becomes 5, 7, 9, 11, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      361.89,
+      316.56,
+      374.15
+    ],
+    "reading_order": 16,
+    "text": "Here,\n7 – 5 = 9 – 7 = 11 – 9 = 2 and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      378.93,
+      267.86,
+      391.19
+    ],
+    "reading_order": 17,
+    "text": "So, it forms an AP with common difference d = 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      396.21,
+      246.02,
+      411.07
+    ],
+    "reading_order": 18,
+    "text": "To find S24, we have n = 24,\na = 5,\nd = 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b19",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      418.68,
+      383.97,
+      446.89
+    ],
+    "reading_order": 19,
+    "text": "Therefore,\nS24 =\n\n\n24 2\n5\n(24\n1)\n2\n2\n\n\n\n\n = \n\n\n12 10\n46\n\n = 672",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      452.85,
+      283.45,
+      465.1
+    ],
+    "reading_order": 20,
+    "text": "So, sum of first 24 terms of the list of numbers is 672.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      474.51,
+      420.07,
+      513.59
+    ],
+    "reading_order": 21,
+    "text": "Example 16 : A manufacturer of TV sets produced 600 sets in the third year and 700\nsets in the seventh year. Assuming that the production increases uniformly by a fixed\nnumber every year, find :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b22",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      518.61,
+      410.92,
+      530.87
+    ],
+    "reading_order": 22,
+    "text": "(i) the production in the 1st year\n(ii) the production in the 10th year",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b23",
+    "type": "paragraph",
+    "bbox": [
+      54.01,
+      535.9,
+      222.74,
+      548.15
+    ],
+    "reading_order": 23,
+    "text": "(iii) the total production in first 7 years",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      552.76,
+      419.9,
+      578.63
+    ],
+    "reading_order": 24,
+    "text": "Solution : (i) Since the production increases uniformly by a fixed number every year,\nthe number of TV sets manufactured in 1st, 2nd, 3rd, . . ., years will form an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      583.65,
+      370.43,
+      598.5
+    ],
+    "reading_order": 25,
+    "text": "Let us denote the number of TV sets manufactured in the nth year by an.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b26",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      600.93,
+      231.6,
+      615.79
+    ],
+    "reading_order": 26,
+    "text": "Then,\na3 = 600  and a7 = 700",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 19,
+    "block_id": "jemh105_p019_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

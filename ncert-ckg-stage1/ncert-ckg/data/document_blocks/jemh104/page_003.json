@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "40\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      95.01,
+      263.35,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Therefore, their product = (x – 5) (40 – x)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b04",
+    "type": "formula",
+    "bbox": [
+      183.85,
+      112.29,
+      281.12,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "= 40x – x2 – 200 + 5x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b05",
+    "type": "formula",
+    "bbox": [
+      183.84,
+      129.33,
+      267.84,
+      141.59
+    ],
+    "reading_order": 5,
+    "text": "= – x2 + 45x – 200",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b06",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      146.61,
+      358.54,
+      158.87
+    ],
+    "reading_order": 6,
+    "text": "So,\n– x2 + 45x – 200 = 124\n(Given that product = 124)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b07",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      163.89,
+      199.65,
+      176.15
+    ],
+    "reading_order": 7,
+    "text": "i.e.,\n– x2 + 45x – 324 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b09",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      181.17,
+      199.66,
+      193.43
+    ],
+    "reading_order": 9,
+    "text": "i.e.,\nx2 – 45x + 324 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      198.45,
+      404.92,
+      210.71
+    ],
+    "reading_order": 10,
+    "text": "Therefore, the number of marbles John had, satisfies the quadratic equation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b11",
+    "type": "formula",
+    "bbox": [
+      154.55,
+      215.73,
+      238.06,
+      227.99
+    ],
+    "reading_order": 11,
+    "text": "x2 – 45x + 324 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      233.01,
+      369.78,
+      245.27
+    ],
+    "reading_order": 12,
+    "text": "which is the required representation of the problem mathematically.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      250.3,
+      294.83,
+      262.55
+    ],
+    "reading_order": 13,
+    "text": "(ii) Let the number of toys produced on that day be x.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      267.33,
+      399.69,
+      279.59
+    ],
+    "reading_order": 14,
+    "text": "Therefore, the cost of production (in rupees) of each toy that day = 55 – x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b15",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      284.62,
+      351.9,
+      296.87
+    ],
+    "reading_order": 15,
+    "text": "So, the total cost of production (in rupees) that day = x (55 – x)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b16",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      301.9,
+      248.4,
+      314.15
+    ],
+    "reading_order": 16,
+    "text": "Therefore,\nx (55 – x) = 750",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b17",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      319.17,
+      248.4,
+      331.43
+    ],
+    "reading_order": 17,
+    "text": "i.e.,\n55x – x2 = 750",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b18",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      336.45,
+      238.05,
+      348.71
+    ],
+    "reading_order": 18,
+    "text": "i.e.,\n– x2 + 55x – 750 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b19",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      353.73,
+      238.06,
+      365.99
+    ],
+    "reading_order": 19,
+    "text": "i.e.,\nx2 – 55x + 750 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      371.01,
+      420.04,
+      383.27
+    ],
+    "reading_order": 20,
+    "text": "Therefore, the number of toys produced that day satisfies the quadratic equation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b21",
+    "type": "formula",
+    "bbox": [
+      154.55,
+      388.29,
+      238.06,
+      400.55
+    ],
+    "reading_order": 21,
+    "text": "x2 – 55x + 750 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      405.33,
+      369.05,
+      417.59
+    ],
+    "reading_order": 22,
+    "text": "which is the required representation of the problem mathematically.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b23",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      427.23,
+      345.15,
+      439.9
+    ],
+    "reading_order": 23,
+    "text": "Example 2 : Check whether the following are quadratic equations:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b24",
+    "type": "formula",
+    "bbox": [
+      114.71,
+      444.93,
+      412.55,
+      457.19
+    ],
+    "reading_order": 24,
+    "text": "(i) (x – 2)2 + 1 = 2x – 3\n(ii) x(x + 1) + 8 = (x + 2) (x – 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b25",
+    "type": "formula",
+    "bbox": [
+      110.15,
+      467.01,
+      356.16,
+      479.27
+    ],
+    "reading_order": 25,
+    "text": "(iii) x (2x + 3) = x2 + 1\n(iv) (x + 2)3 = x3 – 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      488.91,
+      94.56,
+      501.59
+    ],
+    "reading_order": 26,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      507.33,
+      288.96,
+      519.59
+    ],
+    "reading_order": 27,
+    "text": "(i) LHS = (x – 2)2 + 1 = x2 – 4x + 4 + 1 = x2 – 4x + 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b28",
+    "type": "formula",
+    "bbox": [
+      66.0,
+      530.85,
+      292.56,
+      543.11
+    ],
+    "reading_order": 28,
+    "text": "Therefore, (x – 2)2 + 1 = 2x – 3 can be rewritten as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b29",
+    "type": "formula",
+    "bbox": [
+      171.36,
+      549.33,
+      261.36,
+      561.59
+    ],
+    "reading_order": 29,
+    "text": "x2 – 4x + 5 = 2x – 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b30",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      566.85,
+      239.26,
+      579.11
+    ],
+    "reading_order": 30,
+    "text": "i.e.,\nx2 – 6x + 8 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b31",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      584.37,
+      220.32,
+      596.63
+    ],
+    "reading_order": 31,
+    "text": "It is of the form ax2 + bx + c = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b32",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      601.9,
+      307.5,
+      614.15
+    ],
+    "reading_order": 32,
+    "text": "Therefore, the given equation is a quadratic equation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 3,
+    "block_id": "jemh104_p003_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

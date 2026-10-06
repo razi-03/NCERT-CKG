@@ -1,0 +1,257 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n35",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b03",
+    "type": "header",
+    "bbox": [
+      60.0,
+      95.01,
+      420.0,
+      166.07
+    ],
+    "reading_order": 3,
+    "text": "In the example above, we eliminated y. We could also have eliminated x. Try\ndoing it that way.\n2. You could also have used the substitution, or graphical method, to solve this\nproblem. Try doing so, and see which method is more convenient.\nLet us now note down these steps in the elimination method :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      172.61,
+      420.03,
+      227.76
+    ],
+    "reading_order": 4,
+    "text": "Step 1 : First multiply both the equations by some suitable non-zero constants to make\nthe coefficients of one variable (either x or y) numerically equal.\nStep 2 : Then add or subtract one equation from the other so that one variable gets\neliminated. If you get an equation in one variable, go to Step 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      231.83,
+      420.13,
+      257.28
+    ],
+    "reading_order": 6,
+    "text": "If in Step 2, we obtain a true statement involving no variable, then the original\npair of equations has infinitely many solutions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      261.11,
+      420.05,
+      348.5
+    ],
+    "reading_order": 7,
+    "text": "If in Step 2, we obtain a false statement involving no variable, then the original\npair of equations has no solution, i.e., it is inconsistent.\nStep 3 : Solve the equation in one variable (x or y) so obtained to get its value.\nStep 4 : Substitute this value of x (or y) in either of the original equations to get the\nvalue of the other variable.\nNow to illustrate it, we shall solve few more examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      357.9,
+      420.02,
+      383.77
+    ],
+    "reading_order": 8,
+    "text": "Example 9 : Use elimination method to find all possible solutions of the following pair\nof linear equations :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b09",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      387.82,
+      419.75,
+      432.48
+    ],
+    "reading_order": 9,
+    "text": "2x + 3y = 8\n(1)\n4x + 6y = 7\n(2)\nSolution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      443.07,
+      420.0,
+      468.95
+    ],
+    "reading_order": 10,
+    "text": "Step 1 : Multiply Equation (1) by 2 and Equation (2) by 1 to make the\ncoefficients of x equal. Then we get the equations as :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      473.02,
+      419.76,
+      517.68
+    ],
+    "reading_order": 11,
+    "text": "4x + 6y = 16\n(3)\n4x + 6y = 7\n(4)\nStep 2 : Subtracting Equation (4) from Equation (3),",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b12",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      521.49,
+      360.73,
+      550.07
+    ],
+    "reading_order": 12,
+    "text": "(4x – 4x) + (6y – 6y) = 16 – 7\ni.e.,\n0 = 9, which is a false statement.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      555.1,
+      258.72,
+      567.35
+    ],
+    "reading_order": 13,
+    "text": "Therefore, the pair of equations has no solution.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      576.76,
+      420.08,
+      615.83
+    ],
+    "reading_order": 14,
+    "text": "Example 10 : The sum of a two-digit number and the number obtained by reversing\nthe digits is 66. If the digits of the number differ by 2, find the number. How many such\nnumbers are there?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 12,
+    "block_id": "jemh103_p012_b15",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 15,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

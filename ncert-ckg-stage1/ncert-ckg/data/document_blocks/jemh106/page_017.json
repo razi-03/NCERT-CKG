@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n89",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b03",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b04",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      221.79,
+      255.12,
+      234.47
+    ],
+    "reading_order": 4,
+    "text": "Fig. 6.26",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b05",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      243.57,
+      232.55,
+      255.83
+    ],
+    "reading_order": 5,
+    "text": "Cut DP = AB and DQ = AC and join PQ.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b06",
+    "type": "paragraph",
+    "bbox": [
+      222.48,
+      268.62,
+      238.27,
+      280.77
+    ],
+    "reading_order": 6,
+    "text": "DQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b07",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      269.4,
+      218.89,
+      297.61
+    ],
+    "reading_order": 7,
+    "text": "It can be seen that\nDP\nPE =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b08",
+    "type": "paragraph",
+    "bbox": [
+      223.44,
+      277.89,
+      352.29,
+      296.12
+    ],
+    "reading_order": 8,
+    "text": "QF\nand PQ || EF\n(How?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      302.82,
+      326.25,
+      317.13
+    ],
+    "reading_order": 9,
+    "text": "So,\n P = E\nand\n Q =  F.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b10",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      326.52,
+      248.74,
+      354.73
+    ],
+    "reading_order": 10,
+    "text": "Therefore,\nDP\nDE = DQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b11",
+    "type": "formula",
+    "bbox": [
+      234.0,
+      326.52,
+      280.9,
+      354.73
+    ],
+    "reading_order": 11,
+    "text": "DF = PQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b12",
+    "type": "paragraph",
+    "bbox": [
+      267.6,
+      342.35,
+      280.49,
+      354.73
+    ],
+    "reading_order": 12,
+    "text": "EF",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      365.64,
+      248.74,
+      393.85
+    ],
+    "reading_order": 13,
+    "text": "So,\nDP\nDE = DQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b14",
+    "type": "formula",
+    "bbox": [
+      234.0,
+      365.64,
+      281.73,
+      393.85
+    ],
+    "reading_order": 14,
+    "text": "DF = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b15",
+    "type": "paragraph",
+    "bbox": [
+      268.08,
+      374.13,
+      329.28,
+      393.85
+    ],
+    "reading_order": 15,
+    "text": "EF\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b16",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      404.61,
+      330.72,
+      416.87
+    ],
+    "reading_order": 16,
+    "text": "So,\nBC = PQ\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      420.66,
+      334.57,
+      434.97
+    ],
+    "reading_order": 17,
+    "text": "Thus,\n ABC  DPQ\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b18",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      437.94,
+      373.44,
+      452.26
+    ],
+    "reading_order": 18,
+    "text": "So,\n A =  D,  B =  E\nand\n C =  F\n(How ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      460.83,
+      420.09,
+      526.31
+    ],
+    "reading_order": 19,
+    "text": "Remark : You may recall that either of the two conditions namely, (i) corresponding\nangles are equal and (ii) corresponding sides are in the same ratio is not sufficient for\ntwo polygons to be similar. However, on the basis of Theorems 6.3 and 6.4, you can\nnow say that in case of similarity of the two triangles, it is not necessary to check both\nthe conditions as one condition implies the other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      531.33,
+      420.04,
+      583.19
+    ],
+    "reading_order": 20,
+    "text": "Let us now recall the various criteria for congruency of two triangles learnt in\nClass IX. You may observe that SSS similarity criterion can be compared with the SSS\ncongruency criterion.This suggests us to look for a similarity criterion comparable to\nSAS congruency criterion of triangles. For this, let us perform an activity.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b21",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      592.02,
+      419.99,
+      619.53
+    ],
+    "reading_order": 21,
+    "text": "Activity 6 : Draw two triangles ABC and DEF such that AB = 2 cm,  A = 50°,\nAC = 4 cm, DE = 3 cm,  D = 50° and DF = 6 cm (see Fig.6.27).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 17,
+    "block_id": "jemh106_p017_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

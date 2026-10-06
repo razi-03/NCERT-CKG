@@ -1,0 +1,169 @@
+{
+  "corpus": "NCERT Class X Mathematics",
+  "manifest_version": "1.0",
+  "document_count": 18,
+  "documents": [
+    {
+      "document_id": "NCERT_X_MATH_JEMH101",
+      "filename": "jemh101.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 1,
+      "title": "REAL NUMBERS",
+      "page_count": 9,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH102",
+      "filename": "jemh102.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 2,
+      "title": "POLYNOMIALS",
+      "page_count": 14,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH103",
+      "filename": "jemh103.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 3,
+      "title": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+      "page_count": 14,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH104",
+      "filename": "jemh104.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 4,
+      "title": "QUADRATIC EQUATIONS",
+      "page_count": 11,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH105",
+      "filename": "jemh105.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 5,
+      "title": "ARITHMETIC PROGRESSIONS",
+      "page_count": 24,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH106",
+      "filename": "jemh106.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 6,
+      "title": "TRIANGLES",
+      "page_count": 26,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH107",
+      "filename": "jemh107.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 7,
+      "title": "COORDINATE GEOMETRY",
+      "page_count": 14,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH108",
+      "filename": "jemh108.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 8,
+      "title": "INTRODUCTION TO TRIGONOMETRY",
+      "page_count": 20,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH109",
+      "filename": "jemh109.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 9,
+      "title": "SOME APPLICATIONS OF TRIGONOMETRY",
+      "page_count": 11,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH110",
+      "filename": "jemh110.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 10,
+      "title": "CIRCLES",
+      "page_count": 10,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH111",
+      "filename": "jemh111.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 11,
+      "title": "AREAS RELATED TO CIRCLES",
+      "page_count": 7,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH112",
+      "filename": "jemh112.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 12,
+      "title": "SURFACE AREAS AND VOLUMES",
+      "page_count": 10,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH113",
+      "filename": "jemh113.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 13,
+      "title": "STATISTICS",
+      "page_count": 31,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH114",
+      "filename": "jemh114.pdf",
+      "document_type": "NORMAL_CHAPTER",
+      "chapter_number": 14,
+      "title": "PROBABILITY",
+      "page_count": 16,
+      "source_role": "syllabus_chapter"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH1A1",
+      "filename": "jemh1a1.pdf",
+      "document_type": "ADDITIONAL_CHAPTER",
+      "chapter_number": null,
+      "title": "PROOFS IN MATHEMATICS",
+      "page_count": 21,
+      "source_role": "additional_content"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH1A2",
+      "filename": "jemh1a2.pdf",
+      "document_type": "ADDITIONAL_CHAPTER",
+      "chapter_number": null,
+      "title": "MATHEMATICAL MODELLING",
+      "page_count": 11,
+      "source_role": "additional_content"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH1AN",
+      "filename": "jemh1an.pdf",
+      "document_type": "ANSWERS",
+      "chapter_number": null,
+      "title": "APPENDIX 1 ANSWERS/HINTS EXERCISE 1.1",
+      "page_count": 13,
+      "source_role": "answer_key"
+    },
+    {
+      "document_id": "NCERT_X_MATH_JEMH1PS",
+      "filename": "jemh1ps.pdf",
+      "document_type": "PRELIMINARY",
+      "chapter_number": null,
+      "title": null,
+      "page_count": 14,
+      "source_role": "preliminary_material"
+    }
+  ]
+}

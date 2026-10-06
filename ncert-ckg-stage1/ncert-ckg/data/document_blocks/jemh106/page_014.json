@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "86\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.04,
+      160.07
+    ],
+    "reading_order": 3,
+    "text": "Here, you can see that A corresponds to D, B corresponds to E and C\ncorresponds to F. Symbolically, we write the similarity of these two triangles as\n‘ ABC ~  DEF’ and read it as ‘triangle ABC is similar to triangle DEF’. The\nsymbol ‘~’ stands for ‘is similar to’. Recall that you have used the symbol ‘’ for\n‘is congruent to’ in Class IX.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b05",
+    "type": "paragraph",
+    "bbox": [
+      57.12,
+      179.01,
+      411.14,
+      244.89
+    ],
+    "reading_order": 5,
+    "text": "It must be noted that as done in the case of congruency of two triangles, the\nsimilarity of two triangles should also be expressed symbolically, using correct\ncorrespondence of their vertices. For example, for the triangles ABC and DEF of\nFig. 6.22, we cannot write  ABC ~  EDF or  ABC ~  FED. However, we\ncan write  BAC ~  EDF.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      258.93,
+      420.04,
+      298.41
+    ],
+    "reading_order": 6,
+    "text": "Now a natural question arises : For checking the similarity of two triangles, say\nABC and DEF, should we always look for all the equality relations of their corresponding\nangles ( A =  D,  B =  E,  C =  F) and all the equality relations of the ratios",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b07",
+    "type": "paragraph",
+    "bbox": [
+      174.0,
+      304.01,
+      420.04,
+      331.25
+    ],
+    "reading_order": 7,
+    "text": "AB\nBC\nCA\nDE\nEF\nFD\n\n\n\n\n\n\n\n? Let us examine. You may recall that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      312.22,
+      173.02,
+      324.47
+    ],
+    "reading_order": 8,
+    "text": "of their corresponding sides",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      333.82,
+      420.08,
+      412.07
+    ],
+    "reading_order": 9,
+    "text": "in Class IX, you have obtained some criteria for congruency of two triangles involving\nonly three pairs of corresponding parts (or elements) of the two triangles. Here also,\nlet us make an attempt to arrive at certain criteria for similarity of two triangles involving\nrelationship between less number of pairs of corresponding parts of the two triangles,\ninstead of all the six pairs of corresponding parts. For this, let us perform the following\nactivity:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      421.48,
+      420.11,
+      473.75
+    ],
+    "reading_order": 10,
+    "text": "Activity 4 : Draw two line segments BC and EF of two different lengths, say 3 cm\nand 5 cm respectively. Then, at the points B and C respectively, construct angles PBC\nand QCB of some measures, say, 60° and 40°. Also, at the points E and F, construct\nangles REF and SFE of 60° and 40° respectively (see Fig. 6.23).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b11",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      603.88,
+      255.13,
+      616.55
+    ],
+    "reading_order": 11,
+    "text": "Fig. 6.23",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 14,
+    "block_id": "jemh106_p014_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      99.33,
+      420.02,
+      127.91
+    ],
+    "reading_order": 3,
+    "text": "a cubic polynomial are 2 – x3, x3, \n3\n2\n,\nx\n 3 – x2 + x3, 3x3 – 2x2 + x – 1. In fact, the most\ngeneral form of a cubic polynomial is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b04",
+    "type": "formula",
+    "bbox": [
+      191.76,
+      132.93,
+      276.34,
+      145.19
+    ],
+    "reading_order": 4,
+    "text": "ax3 + bx2 + cx + d,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      148.98,
+      246.72,
+      163.29
+    ],
+    "reading_order": 5,
+    "text": "where, a, b, c, d are real numbers and a  0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      167.49,
+      420.02,
+      219.35
+    ],
+    "reading_order": 6,
+    "text": "Now consider the polynomial p(x) = x2 – 3x – 4. Then, putting x = 2 in the\npolynomial, we get p(2) = 22 – 3 × 2 – 4 = – 6. The value ‘– 6’, obtained by replacing\nx by 2 in x2 – 3x – 4, is the value of x2 – 3x – 4 at x = 2. Similarly, p(0) is the value of\np(x) at x = 0, which is – 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      224.13,
+      420.01,
+      249.59
+    ],
+    "reading_order": 8,
+    "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by\nreplacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b09",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      254.61,
+      336.72,
+      266.87
+    ],
+    "reading_order": 9,
+    "text": "What is the value of p(x) = x2 –3x – 4 at x = –1? We have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b10",
+    "type": "formula",
+    "bbox": [
+      125.75,
+      271.89,
+      274.08,
+      284.15
+    ],
+    "reading_order": 10,
+    "text": "p(–1) = (–1)2 –{3 × (–1)} – 4 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      287.7,
+      244.55,
+      302.01
+    ],
+    "reading_order": 11,
+    "text": "Also, note that\np(4) = 42 – (3  4) – 4 = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      306.21,
+      420.04,
+      344.87
+    ],
+    "reading_order": 12,
+    "text": "As p(–1) = 0 and p(4) = 0, –1 and 4 are called the zeroes of the quadratic\npolynomial x2 – 3x – 4. More generally, a real number k is said to be a zero of a\npolynomial p(x), if p(k) = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      349.89,
+      420.01,
+      375.35
+    ],
+    "reading_order": 13,
+    "text": "You have already studied in Class IX, how to find the zeroes of a linear\npolynomial. For example, if k is a zero of p(x) = 2x + 3, then p(k) = 0 gives us",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b14",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      375.48,
+      160.94,
+      403.69
+    ],
+    "reading_order": 14,
+    "text": "2k + 3 = 0, i.e., k = \n3\n2\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b15",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      396.31,
+      418.93,
+      425.76
+    ],
+    "reading_order": 15,
+    "text": "In general, if k is a zero of p(x) = ax + b, then p(k) = ak + b = 0, i.e., \nb\nk\na\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      425.41,
+      362.27,
+      454.8
+    ],
+    "reading_order": 16,
+    "text": "So, the zero of the linear polynomial ax + b is \n(Constant term)\nCoefficient of\nb\na\nx\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      457.89,
+      420.1,
+      499.18
+    ],
+    "reading_order": 17,
+    "text": "Thus, the zero of a linear polynomial is related to its coefficients. Does this\nhappen in the case of other polynomials too? For example, are the zeroes of a quadratic\npolynomial also related to its coefficients?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      505.65,
+      420.07,
+      532.55
+    ],
+    "reading_order": 18,
+    "text": "In this chapter, we will try to answer these questions. We will also study the\ndivision algorithm for polynomials.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b19",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      544.14,
+      326.87,
+      557.96
+    ],
+    "reading_order": 19,
+    "text": "2.2 Geometrical Meaning of the Zeroes of a Polynomial",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      563.49,
+      420.03,
+      615.35
+    ],
+    "reading_order": 20,
+    "text": "You know that a real number k is a zero of the polynomial p(x) if p(k) = 0. But why\nare the zeroes of a polynomial so important? To answer this, first we will see the\ngeometrical representations of linear and quadratic polynomials and the geometrical\nmeaning of their zeroes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 2,
+    "block_id": "jemh102_p002_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

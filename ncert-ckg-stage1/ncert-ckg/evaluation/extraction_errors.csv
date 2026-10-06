@@ -1,0 +1,5 @@
+document_id,page,block_id,error_type,expected,actual,severity,notes
+NCERT_X_MATH_JEMH101,1,jemh101_p001_b01,FIGURE_FALSE_POSITIVE,"Decorative page background should be separately labelled or excluded","Full-page embedded image labelled figure",MEDIUM,"Baseline records every embedded PDF image; later layout-aware extraction must distinguish artwork from instructional figures."
+NCERT_X_MATH_JEMH106,1,jemh106_p001_b05,FIGURE_FALSE_POSITIVE,"Decorative page background should be separately labelled or excluded","Full-page embedded image labelled figure",MEDIUM,"Same repeated background asset as other chapter opening pages."
+NCERT_X_MATH_JEMH113,1,jemh113_p001_b13,FORMULA_CORRUPTION,"One readable grouped-mean formula with numerator and denominator","Formula glyphs merged with surrounding prose",HIGH,"Native PDF text order loses superscript/subscript and fraction structure."
+NCERT_X_MATH_JEMH113,1,jemh113_p001_b14,READING_ORDER_FRAGMENTATION,"Formula components grouped as one displayed formula","Numerator and denominator tokens emitted as separate paragraph blocks",HIGH,"Blocks b14-b18 and b16 must be reconciled by a layout-aware formula extractor."

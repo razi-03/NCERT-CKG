@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "142\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      420.11,
+      130.09
+    ],
+    "reading_order": 3,
+    "text": "8. A statue, 1.6 m tall, stands on the top of a pedestal. From a point on the ground, the\nangle of elevation of the top of the statue is 60° and from the same point the angle of\nelevation of the top of the pedestal is 45°. Find the height of the pedestal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      134.65,
+      420.08,
+      170.17
+    ],
+    "reading_order": 4,
+    "text": "9. The angle of elevation of the top of a building from the foot of the tower is 30° and the\nangle of elevation of the top of the tower from the foot of the building is 60°. If the tower\nis 50 m high, find the height of the building.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      174.73,
+      420.07,
+      222.25
+    ],
+    "reading_order": 6,
+    "text": "10. Two poles of equal heights are standing opposite each other on either side of the road,\nwhich is 80 m wide. From a point between them on the road, the angles of elevation of\nthe top of the poles are 60° and 30°, respectively. Find the height of the poles and the\ndistances of the point from the poles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      226.57,
+      225.63,
+      358.09
+    ],
+    "reading_order": 7,
+    "text": "11. A TV tower stands vertically on a bank\nof a canal. From a point on the other\nbank directly opposite the tower, the\nangle of elevation of the top of the\ntower is 60°. From another point 20 m\naway from this point on the line joing\nthis point to the foot of the tower, the\nangle of elevation of the top of the\ntower is 30° (see Fig. 9.12). Find the\nheight of the tower and the width of\nthe canal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      308.64,
+      333.15,
+      351.36,
+      345.83
+    ],
+    "reading_order": 8,
+    "text": "Fig. 9.12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      362.65,
+      420.01,
+      386.17
+    ],
+    "reading_order": 9,
+    "text": "12. From the top of a 7 m high building, the angle of elevation of the top of a cable tower is\n60° and the angle of depression of its foot is 45°. Determine the height of the tower.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      390.73,
+      420.06,
+      426.25
+    ],
+    "reading_order": 10,
+    "text": "13. As observed from the top of a 75 m high lighthouse from the sea-level, the angles of\ndepression of two ships are 30° and 45°. If one ship is exactly behind the other on the\nsame side of the lighthouse, find the distance between the two ships.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      432.73,
+      225.64,
+      459.13
+    ],
+    "reading_order": 11,
+    "text": "14. A 1.2 m tall girl spots a balloon moving\nwith the wind in a horizontal line at a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      463.11,
+      225.62,
+      489.13
+    ],
+    "reading_order": 12,
+    "text": "height of 88.2 m from the ground. The\nangle of elevation of the balloon from",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      493.11,
+      225.63,
+      519.13
+    ],
+    "reading_order": 13,
+    "text": "the eyes of the girl at any instant is\n60°. After some time, the angle of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      523.11,
+      225.63,
+      549.13
+    ],
+    "reading_order": 14,
+    "text": "elevation reduces to 30° (see Fig. 9.13).\nFind the distance travelled by the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      296.88,
+      548.2,
+      339.6,
+      560.87
+    ],
+    "reading_order": 15,
+    "text": "Fig. 9.13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b16",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      553.11,
+      184.59,
+      564.25
+    ],
+    "reading_order": 16,
+    "text": "balloon during the interval.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b17",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      570.25,
+      420.03,
+      594.97
+    ],
+    "reading_order": 17,
+    "text": "15. A straight highway leads to the foot of a tower. A man standing at the top of the tower\nobserves a car at an angle of depression of 30°, which is approaching the foot of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 10,
+    "block_id": "jemh109_p010_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

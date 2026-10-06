@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "116\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      55.19,
+      101.8,
+      283.32,
+      272.87
+    ],
+    "reading_order": 3,
+    "text": "The first use of the idea of ‘sine’ in the way we use\nit today was in the work Aryabhatiyam by Aryabhata,\nin A.D. 500. Aryabhata used the word ardha-jya\nfor the half-chord, which was shortened to jya or\njiva in due course. When the Aryabhatiyam was\ntranslated into Arabic, the word jiva was retained as\nit is. The word jiva was translated into sinus, which\nmeans curve, when the Arabic version was translated\ninto Latin. Soon the word sinus, also used as sine,\nbecame common in mathematical texts throughout\nEurope. An English Professor of astronomy Edmund\nGunter (1581–1626), first used the abbreviated\nnotation ‘sin’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b04",
+    "type": "figure",
+    "bbox": [
+      307.55,
+      102.88,
+      394.49,
+      238.71
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      313.92,
+      242.67,
+      390.48,
+      268.55
+    ],
+    "reading_order": 6,
+    "text": "Aryabhata\n C.E. 476 – 550",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      277.48,
+      412.84,
+      329.75
+    ],
+    "reading_order": 7,
+    "text": "The origin of the terms ‘cosine’ and ‘tangent’ was much later. The cosine function\narose from the need to compute the sine of the complementary angle. Aryabhatta\ncalled it kotijya. The name cosinus originated with Edmund Gunter. In 1674, the\nEnglish Mathematician Sir Jonas Moore first used the abbreviated notation ‘cos’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      344.19,
+      276.04,
+      422.87
+    ],
+    "reading_order": 8,
+    "text": "Remark : Note that the symbol sin A is used as an\nabbreviation for ‘the sine of the angle A’. sin A is not\nthe product of ‘sin’ and A. ‘sin’ separated from A\nhas no meaning. Similarly, cos A is not the product of\n‘cos’ and A. Similar interpretations follow for other\ntrigonometric ratios also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      427.89,
+      276.03,
+      520.17
+    ],
+    "reading_order": 9,
+    "text": "Now, if we take a point P on the hypotenuse\nAC or a point Q on AC extended, of the right triangle\nABC and draw PM perpendicular to AB and QN\nperpendicular to AB extended (see Fig. 8.6), how\nwill the trigonometric ratios of  A in  PAM differ\nfrom those of  A in  CAB or from those of  A in\n QAN?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      330.48,
+      492.75,
+      367.2,
+      505.43
+    ],
+    "reading_order": 10,
+    "text": "Fig. 8.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      523.14,
+      420.07,
+      576.23
+    ],
+    "reading_order": 11,
+    "text": "To answer this, first look at these triangles. Is  PAM similar to  CAB? From\nChapter 6, recall the AA similarity criterion. Using the criterion, you will see that the\ntriangles PAM and CAB are similar. Therefore, by the property of similar triangles,\nthe corresponding sides of the triangles are proportional.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      582.12,
+      216.27,
+      603.11
+    ],
+    "reading_order": 12,
+    "text": "So, we have\nAM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b13",
+    "type": "formula",
+    "bbox": [
+      200.16,
+      582.12,
+      285.02,
+      610.33
+    ],
+    "reading_order": 13,
+    "text": "AB = AP\nMP\nAC\nBC\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 4,
+    "block_id": "jemh108_p004_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

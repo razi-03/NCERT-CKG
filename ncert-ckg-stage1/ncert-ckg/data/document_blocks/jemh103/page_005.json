@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "28\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.39,
+      420.0,
+      120.74
+    ],
+    "reading_order": 3,
+    "text": "Solution : Let us denote the number of pants by x and the number of skirts by y. Then\nthe equations formed are :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b04",
+    "type": "formula",
+    "bbox": [
+      213.84,
+      126.67,
+      419.76,
+      137.78
+    ],
+    "reading_order": 4,
+    "text": "y = 2x – 2\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      143.71,
+      419.76,
+      154.82
+    ],
+    "reading_order": 5,
+    "text": "and\ny = 4x – 4\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      166.62,
+      202.82,
+      216.74
+    ],
+    "reading_order": 6,
+    "text": "Let us draw the graphs of\nEquations (1) and (2) by finding two\nsolutions for each of the equations.\nThey are given in Table 3.3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      112.56,
+      227.91,
+      157.44,
+      238.91
+    ],
+    "reading_order": 8,
+    "text": "Table 3.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      102.24,
+      254.11,
+      183.34,
+      265.22
+    ],
+    "reading_order": 9,
+    "text": "x\n2\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b10",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      281.47,
+      182.88,
+      292.58
+    ],
+    "reading_order": 10,
+    "text": "y = 2x – 2\n2\n– 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      102.24,
+      315.55,
+      183.34,
+      326.66
+    ],
+    "reading_order": 11,
+    "text": "x\n0\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b12",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      342.67,
+      183.34,
+      353.78
+    ],
+    "reading_order": 12,
+    "text": "y = 4x – 4\n– 4\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b13",
+    "type": "paragraph",
+    "bbox": [
+      296.4,
+      368.55,
+      333.12,
+      379.55
+    ],
+    "reading_order": 13,
+    "text": "Fig. 3.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      392.22,
+      420.05,
+      417.14
+    ],
+    "reading_order": 14,
+    "text": "Plot the points and draw the lines passing through them to represent the equations,\nas shown in Fig. 3.2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      424.03,
+      420.05,
+      463.22
+    ],
+    "reading_order": 15,
+    "text": "The two lines intersect at the point (1, 0). So, x = 1, y = 0 is the required solution\nof the pair of linear equations, i.e., the number of pants she purchased is 1 and she did\nnot buy any skirt.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      475.11,
+      420.04,
+      500.18
+    ],
+    "reading_order": 16,
+    "text": "Verify the answer by checking whether it satisfies the conditions of the given\nproblem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      516.58,
+      274.08,
+      528.58
+    ],
+    "reading_order": 17,
+    "text": "EXERCISE 3.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      536.85,
+      420.03,
+      558.98
+    ],
+    "reading_order": 18,
+    "text": "1. Form the pair of linear equations in the following problems, and find their solutions\ngraphically.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      565.06,
+      420.02,
+      575.06
+    ],
+    "reading_order": 19,
+    "text": "(i) 10 students of Class X took part in a Mathematics quiz. If the number of girls is 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      577.06,
+      420.03,
+      599.06
+    ],
+    "reading_order": 20,
+    "text": "more than the number of boys, find the number of boys and girls who took part in\nthe quiz.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 5,
+    "block_id": "jemh103_p005_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

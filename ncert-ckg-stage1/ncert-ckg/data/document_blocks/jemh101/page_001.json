@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b02",
+    "type": "figure",
+    "bbox": [
+      192.0,
+      72.0,
+      276.95,
+      156.95
+    ],
+    "reading_order": 2,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.28,
+      419.96,
+      82.29
+    ],
+    "reading_order": 3,
+    "text": "REAL NUMBERS\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b04",
+    "type": "paragraph",
+    "bbox": [
+      371.28,
+      162.07,
+      401.28,
+      222.07
+    ],
+    "reading_order": 4,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      185.28,
+      192.91,
+      348.24,
+      220.91
+    ],
+    "reading_order": 6,
+    "text": "REAL NUMBERS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      47.28,
+      256.57,
+      129.12,
+      268.57
+    ],
+    "reading_order": 7,
+    "text": "1.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      277.2,
+      419.37,
+      325.64
+    ],
+    "reading_order": 8,
+    "text": "In Class IX, you began your exploration of the world of real numbers and encountered\nirrational numbers. We continue our discussion on real numbers in this chapter. We\nbegin with very important properties of positive integers in Sections 1.2, namely the\nEuclid’s division algorithm and the Fundamental Theorem of Arithmetic.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      331.2,
+      419.59,
+      417.08
+    ],
+    "reading_order": 9,
+    "text": "Euclid’s division algorithm, as the name suggests, has to do with divisibility of\nintegers. Stated simply, it says any positive integer a can be divided by another positive\ninteger b in such a way that it leaves a remainder r that is smaller than b. Many of you\nprobably recognise this as the usual long division process. Although this result is quite\neasy to state and understand, it has many applications related to the divisibility properties\nof integers. We touch upon a few of them, and use it mainly to compute the HCF of\ntwo positive integers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      422.64,
+      419.57,
+      512.84
+    ],
+    "reading_order": 10,
+    "text": "The Fundamental Theorem of Arithmetic, on the other hand, has to do something\nwith multiplication of positive integers. You already know that every composite number\ncan be expressed as a product of primes in a unique way—this important fact is the\nFundamental Theorem of Arithmetic. Again, while it is a result that is easy to state and\nunderstand, it has some very deep and significant applications in the field of mathematics.\nWe use the Fundamental Theorem of Arithmetic for two main applications. First, we\nuse it to prove the irrationality of many of the numbers you studied in Class IX, such as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.64,
+      516.72,
+      419.6,
+      529.41
+    ],
+    "reading_order": 11,
+    "text": "2,\n3 and 5 . Second, we apply this theorem to explore when exactly the decimal",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      527.46,
+      419.56,
+      551.96
+    ],
+    "reading_order": 12,
+    "text": "expansion of a rational number, say \n(\n0)\np q\nq\n\n, is terminating and when it is non-",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      551.76,
+      419.35,
+      562.76
+    ],
+    "reading_order": 13,
+    "text": "terminating repeating. We do so by looking at the prime factorisation of the denominator",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      564.66,
+      75.85,
+      581.24
+    ],
+    "reading_order": 14,
+    "text": "q of p",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b15",
+    "type": "paragraph",
+    "bbox": [
+      69.6,
+      570.22,
+      419.33,
+      589.16
+    ],
+    "reading_order": 15,
+    "text": "q . You will see that the prime factorisation of q will completely reveal the nature",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      584.76,
+      181.73,
+      601.16
+    ],
+    "reading_order": 16,
+    "text": "of the decimal expansion of p",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b17",
+    "type": "paragraph",
+    "bbox": [
+      175.44,
+      590.16,
+      187.55,
+      609.34
+    ],
+    "reading_order": 17,
+    "text": "q .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b18",
+    "type": "paragraph",
+    "bbox": [
+      71.28,
+      608.88,
+      207.15,
+      619.88
+    ],
+    "reading_order": 18,
+    "text": "So let us begin our exploration.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 1,
+    "block_id": "jemh101_p001_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

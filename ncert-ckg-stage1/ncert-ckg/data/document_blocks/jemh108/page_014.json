@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "126\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      251.3,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "To find the length of the side AC, we consider",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b04",
+    "type": "formula",
+    "bbox": [
+      164.16,
+      117.24,
+      225.81,
+      138.24
+    ],
+    "reading_order": 4,
+    "text": "sin 30° = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b05",
+    "type": "paragraph",
+    "bbox": [
+      210.48,
+      125.97,
+      297.84,
+      145.45
+    ],
+    "reading_order": 5,
+    "text": "AC\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      156.6,
+      225.57,
+      184.81
+    ],
+    "reading_order": 6,
+    "text": "i.e.,\n1\n2 =\n5\nAC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      190.77,
+      234.72,
+      203.03
+    ],
+    "reading_order": 8,
+    "text": "i.e.,\nAC = 10 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      208.05,
+      420.04,
+      233.51
+    ],
+    "reading_order": 9,
+    "text": "Note that alternatively we could have used Pythagoras theorem to determine the third\nside in the example above,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      246.38,
+      394.66,
+      260.71
+    ],
+    "reading_order": 10,
+    "text": "i.e.,\nAC =\n2\n2\n2\n2\nAB\nBC\n5\n(5 3) cm = 10cm.\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      272.34,
+      247.21,
+      313.05
+    ],
+    "reading_order": 11,
+    "text": "Example 7 : In  PQR, right-angled at\nQ (see Fig. 8.20), PQ = 3 cm and PR = 6 cm.\nDetermine  QPR and  PRQ.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b12",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      316.84,
+      248.15,
+      329.51
+    ],
+    "reading_order": 12,
+    "text": "Solution : Given PQ = 3 cm and PR = 6 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b13",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      339.8,
+      221.28,
+      367.67
+    ],
+    "reading_order": 13,
+    "text": "Therefore,\nPQ\nPR = sin R",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b14",
+    "type": "paragraph",
+    "bbox": [
+      323.05,
+      367.96,
+      365.77,
+      380.63
+    ],
+    "reading_order": 14,
+    "text": "Fig. 8.20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      378.84,
+      226.35,
+      407.05
+    ],
+    "reading_order": 15,
+    "text": "or\nsin R = 3\n1\n6\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      413.94,
+      213.6,
+      428.25
+    ],
+    "reading_order": 16,
+    "text": "So,\n PRQ = 30°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      433.38,
+      261.85,
+      447.69
+    ],
+    "reading_order": 17,
+    "text": "and therefore,\n QPR = 60°.\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      455.49,
+      420.04,
+      494.14
+    ],
+    "reading_order": 18,
+    "text": "You may note that if one of the sides and any other part (either an acute angle or any\nside) of a right triangle is known, the remaining sides and angles of the triangle can be\ndetermined.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      496.2,
+      191.9,
+      517.19
+    ],
+    "reading_order": 19,
+    "text": "Example 8 : If sin (A – B) = 1 ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b20",
+    "type": "formula",
+    "bbox": [
+      181.68,
+      496.2,
+      420.02,
+      524.41
+    ],
+    "reading_order": 20,
+    "text": "2 cos (A + B) = 1 ,\n2 0° < A + B  90°, A > B, find A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b21",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      522.93,
+      77.27,
+      535.18
+    ],
+    "reading_order": 21,
+    "text": "and B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b22",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      541.56,
+      197.31,
+      562.31
+    ],
+    "reading_order": 22,
+    "text": "Solution : Since, sin (A – B) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b23",
+    "type": "formula",
+    "bbox": [
+      192.0,
+      550.05,
+      420.0,
+      569.77
+    ],
+    "reading_order": 23,
+    "text": "2 , therefore, A – B = 30°\n(Why?)\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b24",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      569.72,
+      172.31,
+      590.39
+    ],
+    "reading_order": 24,
+    "text": "Also, since cos (A + B) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b25",
+    "type": "formula",
+    "bbox": [
+      167.04,
+      578.13,
+      420.0,
+      597.59
+    ],
+    "reading_order": 25,
+    "text": "2 , therefore, A + B = 60°\n(Why?)\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b26",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      600.21,
+      273.89,
+      612.46
+    ],
+    "reading_order": 26,
+    "text": "Solving (1) and (2), we get : A = 45° and B = 15°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 14,
+    "block_id": "jemh108_p014_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

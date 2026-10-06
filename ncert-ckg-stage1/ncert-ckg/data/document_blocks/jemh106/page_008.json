@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "80\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      100.36,
+      420.04,
+      139.42
+    ],
+    "reading_order": 3,
+    "text": "Theorem 6.1 : If a line is drawn parallel to one side of a triangle to intersect the\nother two sides in distinct points, the other two sides are divided in the same\nratio.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      143.79,
+      276.04,
+      182.87
+    ],
+    "reading_order": 4,
+    "text": "Proof : We are given a triangle ABC in which a line\nparallel to side BC intersects other two sides AB and\nAC at D and E respectively (see Fig. 6.10).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      193.08,
+      202.43,
+      221.29
+    ],
+    "reading_order": 6,
+    "text": "We need to prove that AD\nAE\nDB\nEC\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      226.02,
+      275.99,
+      253.53
+    ],
+    "reading_order": 7,
+    "text": "Let us join BE and CD and then draw DM  AC and\nEN  AB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      326.41,
+      238.11,
+      369.14,
+      250.79
+    ],
+    "reading_order": 8,
+    "text": "Fig. 6.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b09",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      262.68,
+      164.91,
+      284.25
+    ],
+    "reading_order": 9,
+    "text": "Now, area of  ADE (= 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b10",
+    "type": "formula",
+    "bbox": [
+      159.6,
+      262.68,
+      306.72,
+      290.89
+    ],
+    "reading_order": 10,
+    "text": "2 base × height) = 1\n2 AD × EN.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      295.62,
+      340.57,
+      309.93
+    ],
+    "reading_order": 11,
+    "text": "Recall from Class IX, that area of  ADE is denoted as ar(ADE).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      319.08,
+      193.95,
+      339.85
+    ],
+    "reading_order": 12,
+    "text": "So,\nar(ADE) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b13",
+    "type": "formula",
+    "bbox": [
+      188.64,
+      327.57,
+      242.87,
+      347.29
+    ],
+    "reading_order": 13,
+    "text": "2 AD × EN",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      358.52,
+      193.91,
+      379.19
+    ],
+    "reading_order": 14,
+    "text": "Similarly,\nar(BDE) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b15",
+    "type": "formula",
+    "bbox": [
+      188.64,
+      366.93,
+      245.04,
+      386.39
+    ],
+    "reading_order": 15,
+    "text": "2 DB × EN,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b16",
+    "type": "formula",
+    "bbox": [
+      132.0,
+      397.56,
+      193.95,
+      418.33
+    ],
+    "reading_order": 16,
+    "text": "ar(ADE) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b17",
+    "type": "formula",
+    "bbox": [
+      188.64,
+      397.56,
+      385.44,
+      425.77
+    ],
+    "reading_order": 17,
+    "text": "2 AE × DM and ar(DEC) = 1\n2 EC × DM.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b18",
+    "type": "formula",
+    "bbox": [
+      189.12,
+      438.98,
+      270.22,
+      492.71
+    ],
+    "reading_order": 18,
+    "text": "1 AD × EN\nAD\n2\n1\nDB\nDB × EN\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      450.09,
+      180.72,
+      478.1
+    ],
+    "reading_order": 19,
+    "text": "Therefore,\nar(ADE)\nar(BDE) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      244.56,
+      456.96,
+      419.28,
+      471.35
+    ],
+    "reading_order": 20,
+    "text": "\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b21",
+    "type": "formula",
+    "bbox": [
+      189.12,
+      508.82,
+      271.4,
+      562.55
+    ],
+    "reading_order": 21,
+    "text": "1 AE × DM\nAE\n2\n1\nEC\nEC × DM\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      520.65,
+      168.11,
+      541.19
+    ],
+    "reading_order": 22,
+    "text": "and\nar(ADE)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      246.96,
+      526.8,
+      419.28,
+      541.19
+    ],
+    "reading_order": 23,
+    "text": "\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b24",
+    "type": "formula",
+    "bbox": [
+      127.44,
+      528.93,
+      180.72,
+      548.66
+    ],
+    "reading_order": 24,
+    "text": "ar(DEC) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      569.94,
+      420.03,
+      596.63
+    ],
+    "reading_order": 25,
+    "text": "Note that  BDE and DEC are on the same base DE and between the same parallels\nBC and DE.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b26",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      601.65,
+      419.29,
+      613.91
+    ],
+    "reading_order": 26,
+    "text": "So,\nar(BDE) = ar(DEC)\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 8,
+    "block_id": "jemh106_p008_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

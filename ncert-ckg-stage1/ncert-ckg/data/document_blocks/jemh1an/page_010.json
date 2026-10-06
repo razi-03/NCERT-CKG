@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "ANSWERS/HINTS\n259",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b03",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      97.11,
+      276.24,
+      108.11
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 13.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      116.6,
+      416.16,
+      129.03
+    ],
+    "reading_order": 4,
+    "text": "1. 8.1 plants. We have used direct method because numerical values of xi and fi are small.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b05",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      130.49,
+      338.4,
+      156.73
+    ],
+    "reading_order": 5,
+    "text": "2. ` 545.20\n3. f = 20\n4. 75.9\n5. 57.19\n6. `  211\n7. 0.099 ppm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      161.72,
+      234.0,
+      171.85
+    ],
+    "reading_order": 6,
+    "text": "8. 12.48 days\n9. 69.43 %",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      183.51,
+      276.24,
+      194.51
+    ],
+    "reading_order": 8,
+    "text": "EXERCISE 13.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      203.0,
+      420.03,
+      237.13
+    ],
+    "reading_order": 9,
+    "text": "1. Mode = 36.8 years, Mean = 35.37 years. Maximum number of patients admitted in the\nhospital are of the age 36.8 years (approx.), while on an average the age of a patient\nadmitted to the hospital is 35.37 years.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      243.08,
+      121.44,
+      253.21
+    ],
+    "reading_order": 10,
+    "text": "2. 65.625 hours",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b11",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      256.94,
+      385.44,
+      269.29
+    ],
+    "reading_order": 11,
+    "text": "3. Modal monthly expenditure = ` 1847.83, Mean monthly expenditure = ` 2662.5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      275.24,
+      420.01,
+      297.37
+    ],
+    "reading_order": 12,
+    "text": "4. Mode : 30.6,\nMean = 29.2. Most states/U.T. have a student teacher ratio of 30.6 and on\nan average, this ratio is 29.2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b13",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      303.32,
+      272.16,
+      313.45
+    ],
+    "reading_order": 13,
+    "text": "5. Mode = 4608.7 runs\n6. Mode = 44.7 cars",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      330.15,
+      276.24,
+      341.15
+    ],
+    "reading_order": 14,
+    "text": "EXERCISE 13.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b15",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      349.64,
+      330.02,
+      359.77
+    ],
+    "reading_order": 15,
+    "text": "1. Median = 137 units,\nMean = 137.05 units, Mode = 135.76 units.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b16",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      365.85,
+      310.58,
+      375.85
+    ],
+    "reading_order": 16,
+    "text": "The three measures are approximately the same in this case.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b17",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      381.8,
+      354.73,
+      391.93
+    ],
+    "reading_order": 17,
+    "text": "2. x = 8, y = 7\n3. Median age = 35.76 years",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b18",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      397.88,
+      363.61,
+      408.01
+    ],
+    "reading_order": 18,
+    "text": "4. Median length = 146.75 mm\n5. Median life = 3406.98 hours",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b19",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      413.96,
+      270.73,
+      424.09
+    ],
+    "reading_order": 19,
+    "text": "6. Median = 8.05,\nMean = 8.32,\nModal size = 7.88",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b20",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      430.04,
+      173.29,
+      440.17
+    ],
+    "reading_order": 20,
+    "text": "7. Median weight = 56.67 kg",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b21",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      456.87,
+      276.24,
+      467.87
+    ],
+    "reading_order": 21,
+    "text": "EXERCISE 14.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b22",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      476.36,
+      389.29,
+      486.49
+    ],
+    "reading_order": 22,
+    "text": "1.\n(i) 1\n(ii) 0, impossible event\n(iii) 1, sure or certain event",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b23",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      492.57,
+      185.28,
+      502.57
+    ],
+    "reading_order": 23,
+    "text": "(iv) 1\n(v) 0, 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b24",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      508.28,
+      306.74,
+      518.41
+    ],
+    "reading_order": 24,
+    "text": "2. The experiments (iii) and (iv) have equally likely outcomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b25",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      524.36,
+      420.01,
+      546.49
+    ],
+    "reading_order": 25,
+    "text": "3. When we toss a coin, the outcomes head and tail are equally likely. So, the result of an\nindividual coin toss is completely unpredictable.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b26",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      552.44,
+      356.36,
+      562.57
+    ],
+    "reading_order": 26,
+    "text": "4. B\n5. 0.95\n6. (i) 0\n(ii) 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b27",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      573.97,
+      268.97,
+      598.07
+    ],
+    "reading_order": 27,
+    "text": "7. 0.008\n8. (i) 3\n8\n(ii) 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b28",
+    "type": "paragraph",
+    "bbox": [
+      264.0,
+      588.13,
+      268.97,
+      598.07
+    ],
+    "reading_order": 28,
+    "text": "8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b29",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      611.41,
+      197.93,
+      635.51
+    ],
+    "reading_order": 29,
+    "text": "9. (i)\n5\n17\n(ii)\n8\n17\n(iii) 13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b30",
+    "type": "paragraph",
+    "bbox": [
+      187.44,
+      611.41,
+      367.85,
+      635.51
+    ],
+    "reading_order": 30,
+    "text": "17\n10. (i) 5\n9\n(ii) 17",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b31",
+    "type": "paragraph",
+    "bbox": [
+      357.84,
+      625.57,
+      368.09,
+      635.51
+    ],
+    "reading_order": 31,
+    "text": "18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 10,
+    "block_id": "jemh1an_p010_b32",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 32,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

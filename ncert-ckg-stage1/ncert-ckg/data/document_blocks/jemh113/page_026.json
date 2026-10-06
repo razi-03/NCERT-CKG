@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_026_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "196\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      94.56,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b04",
+    "type": "paragraph",
+    "bbox": [
+      63.12,
+      116.67,
+      408.0,
+      129.34
+    ],
+    "reading_order": 4,
+    "text": "Class intervals\nFrequency\nCumulative frequency",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b05",
+    "type": "paragraph",
+    "bbox": [
+      87.13,
+      139.41,
+      356.86,
+      151.66
+    ],
+    "reading_order": 5,
+    "text": "0 - 100\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b06",
+    "type": "paragraph",
+    "bbox": [
+      76.57,
+      156.69,
+      356.87,
+      168.94
+    ],
+    "reading_order": 6,
+    "text": "100 - 200\n5\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_026_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b08",
+    "type": "formula",
+    "bbox": [
+      76.57,
+      173.73,
+      365.13,
+      185.98
+    ],
+    "reading_order": 8,
+    "text": "200 - 300\nx\n7 + x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b09",
+    "type": "formula",
+    "bbox": [
+      76.57,
+      191.01,
+      367.78,
+      203.27
+    ],
+    "reading_order": 9,
+    "text": "300 - 400\n12\n19 + x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b10",
+    "type": "formula",
+    "bbox": [
+      76.57,
+      208.29,
+      367.79,
+      220.55
+    ],
+    "reading_order": 10,
+    "text": "400 - 500\n17\n36 + x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b11",
+    "type": "formula",
+    "bbox": [
+      76.58,
+      225.58,
+      367.8,
+      237.83
+    ],
+    "reading_order": 11,
+    "text": "500 - 600\n20\n56 + x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b12",
+    "type": "formula",
+    "bbox": [
+      76.6,
+      242.86,
+      376.43,
+      255.11
+    ],
+    "reading_order": 12,
+    "text": "600 - 700\ny\n56 + x + y",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b13",
+    "type": "formula",
+    "bbox": [
+      76.6,
+      260.14,
+      376.43,
+      272.39
+    ],
+    "reading_order": 13,
+    "text": "700 - 800\n9\n65 + x + y",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b14",
+    "type": "formula",
+    "bbox": [
+      76.6,
+      277.42,
+      376.43,
+      289.67
+    ],
+    "reading_order": 14,
+    "text": "800 - 900\n7\n72 + x + y",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b15",
+    "type": "formula",
+    "bbox": [
+      75.87,
+      294.7,
+      376.42,
+      306.95
+    ],
+    "reading_order": 15,
+    "text": "900 - 1000\n4\n76 + x + y",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b16",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      321.83,
+      147.86,
+      334.08
+    ],
+    "reading_order": 16,
+    "text": "It is given that n = 100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b17",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      339.11,
+      419.99,
+      351.36
+    ],
+    "reading_order": 17,
+    "text": "So,\n76 + x + y = 100,\ni.e.,\nx + y = 24\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      356.39,
+      276.71,
+      368.64
+    ],
+    "reading_order": 18,
+    "text": "The median is 525, which lies in the class 500 – 600",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b19",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      373.43,
+      253.46,
+      385.68
+    ],
+    "reading_order": 19,
+    "text": "So,\nl = 500,\nf = 20,\ncf = 36 + x,\nh = 100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b20",
+    "type": "paragraph",
+    "bbox": [
+      249.84,
+      398.85,
+      299.67,
+      453.37
+    ],
+    "reading_order": 20,
+    "text": "\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b21",
+    "type": "paragraph",
+    "bbox": [
+      266.4,
+      399.23,
+      271.91,
+      411.34
+    ],
+    "reading_order": 21,
+    "text": "n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b22",
+    "type": "paragraph",
+    "bbox": [
+      266.64,
+      405.79,
+      311.15,
+      430.79
+    ],
+    "reading_order": 22,
+    "text": "cf\n2\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b23",
+    "type": "paragraph",
+    "bbox": [
+      242.87,
+      418.68,
+      308.39,
+      439.42
+    ],
+    "reading_order": 23,
+    "text": "l\nh\nf",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b24",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      419.26,
+      237.16,
+      431.52
+    ],
+    "reading_order": 24,
+    "text": "Using  the formula :\nMedian =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b25",
+    "type": "paragraph",
+    "bbox": [
+      312.72,
+      419.25,
+      345.85,
+      431.51
+    ],
+    "reading_order": 25,
+    "text": "we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b26",
+    "type": "formula",
+    "bbox": [
+      147.85,
+      468.52,
+      361.97,
+      499.24
+    ],
+    "reading_order": 26,
+    "text": "525 =\n50\n36\n500\n100\n20\nx\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      507.81,
+      294.0,
+      520.07
+    ],
+    "reading_order": 27,
+    "text": "i.e.,\n525 – 500 = (14 – x) × 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b28",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      526.78,
+      274.4,
+      539.03
+    ],
+    "reading_order": 28,
+    "text": "i.e.,\n25 = 70 – 5x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b29",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      545.97,
+      296.89,
+      558.23
+    ],
+    "reading_order": 29,
+    "text": "i.e.,\n5x = 70 – 25 = 45",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b30",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      564.94,
+      246.94,
+      577.19
+    ],
+    "reading_order": 30,
+    "text": "So,\nx = 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b31",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      582.22,
+      252.0,
+      594.47
+    ],
+    "reading_order": 31,
+    "text": "Therefore, from (1), we get\n9 + y = 24",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b32",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      599.5,
+      252.0,
+      611.75
+    ],
+    "reading_order": 32,
+    "text": "i.e.,\ny = 15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 26,
+    "block_id": "jemh113_p026_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

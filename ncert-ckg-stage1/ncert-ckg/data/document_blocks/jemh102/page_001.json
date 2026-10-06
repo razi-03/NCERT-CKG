@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "10\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b03",
+    "type": "figure",
+    "bbox": [
+      191.85,
+      72.0,
+      276.8,
+      156.95
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b04",
+    "type": "paragraph",
+    "bbox": [
+      372.0,
+      164.7,
+      402.0,
+      233.82
+    ],
+    "reading_order": 4,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      204.24,
+      193.42,
+      348.02,
+      225.68
+    ],
+    "reading_order": 6,
+    "text": "POLYNOMIALS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      257.1,
+      129.86,
+      270.92
+    ],
+    "reading_order": 7,
+    "text": "2.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      283.17,
+      420.23,
+      321.83
+    ],
+    "reading_order": 8,
+    "text": "In Class IX, you have studied polynomials in one variable and their degrees. Recall\nthat if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of\nthe polynomial p(x). For example, 4x + 2 is a polynomial in the variable x of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b09",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      326.85,
+      416.72,
+      340.73
+    ],
+    "reading_order": 9,
+    "text": "degree 1, 2y2 – 3y + 4 is a polynomial in the variable y of degree 2, 5x3 – 4x2 + x – \n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      272.16,
+      346.92,
+      420.01,
+      375.13
+    ],
+    "reading_order": 10,
+    "text": "4\n2\n3\n4\n8\n2u\nu\nu\n\n\n\n is a polynomial",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      354.93,
+      270.44,
+      367.19
+    ],
+    "reading_order": 11,
+    "text": "is a polynomial in the variable x of degree 3 and 7u6 –",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      279.12,
+      381.28,
+      420.01,
+      410.75
+    ],
+    "reading_order": 12,
+    "text": ", \n2\nx \n, \n2\n1\n2\n3\nx\nx\n\n\n etc., are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      382.0,
+      277.21,
+      410.99
+    ],
+    "reading_order": 13,
+    "text": "in the variable u of degree 6. Expressions like \n1\n1\nx ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      407.98,
+      119.29,
+      420.23
+    ],
+    "reading_order": 14,
+    "text": "not polynomials.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      424.84,
+      420.0,
+      437.51
+    ],
+    "reading_order": 15,
+    "text": "A polynomial of degree 1 is called a linear polynomial. For example, 2x – 3,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b16",
+    "type": "formula",
+    "bbox": [
+      57.12,
+      443.64,
+      420.04,
+      472.33
+    ],
+    "reading_order": 16,
+    "text": "3\n5,\nx \n \n2\ny\n, \n2\n11\nx \n, 3z + 4, 2\n1\n3u , etc.,  are all linear polynomials. Polynomials",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      473.73,
+      307.5,
+      485.99
+    ],
+    "reading_order": 17,
+    "text": "such as 2x + 5 – x2, x3 + 1, etc., are not linear polynomials.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      490.6,
+      420.04,
+      503.27
+    ],
+    "reading_order": 18,
+    "text": "A polynomial of degree 2 is called a quadratic polynomial. The name ‘quadratic’",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      509.16,
+      417.73,
+      537.37
+    ],
+    "reading_order": 19,
+    "text": "has been derived from the word ‘quadrate’, which means ‘square’. \n2\n2,\n2\n3\n5\nx\nx\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      544.44,
+      420.02,
+      572.65
+    ],
+    "reading_order": 20,
+    "text": "y2 – 2, \n2\n2\n3 ,\nx\nx\n\n\n \n2\n2\n2\n2\n1\n2\n5,\n5\n, 4\n3\n3\n7\nu\nu\nv\nv\nz\n\n\n\n\n are some examples of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      574.53,
+      420.05,
+      614.01
+    ],
+    "reading_order": 21,
+    "text": "quadratic polynomials (whose coefficients are real numbers). More generally, any\nquadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers\nand a  0. A polynomial of degree 3 is called a cubic polynomial. Some examples of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 1,
+    "block_id": "jemh102_p001_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

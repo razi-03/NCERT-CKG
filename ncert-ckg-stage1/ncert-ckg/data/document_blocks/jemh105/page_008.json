@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "56\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b03",
+    "type": "header",
+    "bbox": [
+      85.44,
+      94.95,
+      350.4,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "(ix) 1, 3, 9, 27, . . .\n(x) a, 2a, 3a, 4a, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      85.44,
+      113.67,
+      384.0,
+      126.23
+    ],
+    "reading_order": 4,
+    "text": "(xi) a, a2, a3, a4, . . .\n(xii)\n2,\n8,\n18 , 32, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      81.12,
+      133.59,
+      345.6,
+      145.49
+    ],
+    "reading_order": 5,
+    "text": "(xiii)\n3,\n6,\n9 , 12 , . . .\n(xiv) 12, 32, 52, 72, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      151.11,
+      165.6,
+      162.25
+    ],
+    "reading_order": 6,
+    "text": "(xv) 12, 52, 72, 73, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b08",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      175.5,
+      159.59,
+      189.32
+    ],
+    "reading_order": 8,
+    "text": "5.3 nth Term of an AP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      194.37,
+      419.33,
+      246.23
+    ],
+    "reading_order": 9,
+    "text": "Let us consider the situation again, given in Section 5.1 in which Reena applied for a\njob and got selected. She has been offered the job with a starting monthly salary of\n` 8000, with an annual increment of ` 500. What would be her monthly salary for the\nfifth year?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      251.25,
+      419.29,
+      276.71
+    ],
+    "reading_order": 10,
+    "text": "To answer this, let us first see what her monthly salary for the second year\nwould be.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      281.49,
+      419.42,
+      320.15
+    ],
+    "reading_order": 11,
+    "text": "It would be ` (8000 + 500) = ` 8500. In the same way, we can find the monthly\nsalary for the 3rd, 4th and 5th year by adding ` 500 to the salary of the previous year.\nSo, the salary for the 3rd year = ` (8500 + 500)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      324.21,
+      419.81,
+      401.27
+    ],
+    "reading_order": 12,
+    "text": "= ` (8000 + 500 + 500)\n= ` (8000 + 2 × 500)\n= ` [8000 + (3 – 1) × 500]\n(for the 3rd year)\n= ` 9000\nSalary for the 4th year   = ` (9000 + 500)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      181.44,
+      405.09,
+      419.82,
+      466.07
+    ],
+    "reading_order": 13,
+    "text": "= ` (8000 + 500 + 500 + 500)\n= ` (8000 + 3 × 500)\n= ` [8000 + (4 – 1) × 500]\n(for the 4th year)\n= ` 9500",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      471.09,
+      256.56,
+      483.35
+    ],
+    "reading_order": 14,
+    "text": "Salary for the 5th year    = ` (9500 + 500)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b15",
+    "type": "formula",
+    "bbox": [
+      181.44,
+      489.09,
+      324.0,
+      501.35
+    ],
+    "reading_order": 15,
+    "text": "= ` (8000+500+500+500 + 500)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b16",
+    "type": "formula",
+    "bbox": [
+      181.44,
+      507.09,
+      274.55,
+      519.35
+    ],
+    "reading_order": 16,
+    "text": "= ` (8000 + 4 × 500)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b17",
+    "type": "formula",
+    "bbox": [
+      181.44,
+      524.68,
+      419.81,
+      537.35
+    ],
+    "reading_order": 17,
+    "text": "= ` [8000 + (5 – 1) × 500]\n(for the 5th year)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b18",
+    "type": "formula",
+    "bbox": [
+      181.43,
+      543.09,
+      226.56,
+      555.35
+    ],
+    "reading_order": 18,
+    "text": "= ` 10000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      562.06,
+      272.2,
+      574.31
+    ],
+    "reading_order": 19,
+    "text": "Observe that we are getting a list of numbers",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      126.96,
+      581.02,
+      281.25,
+      593.28
+    ],
+    "reading_order": 20,
+    "text": "8000, 8500, 9000, 9500, 10000, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      600.22,
+      223.7,
+      612.47
+    ],
+    "reading_order": 21,
+    "text": "These numbers are in AP. (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 8,
+    "block_id": "jemh105_p008_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

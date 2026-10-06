@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n181",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      102.01,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Activity 2 :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      112.29,
+      420.0,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "Divide the students of your class into three groups and ask each group to do one of the\nfollowing activities.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b05",
+    "type": "paragraph",
+    "bbox": [
+      57.83,
+      142.53,
+      420.02,
+      181.19
+    ],
+    "reading_order": 5,
+    "text": "1. Collect the marks obtained by all the students of your class in Mathematics in the\nlatest examination conducted by your school. Form a grouped frequency distribution\nof the data obtained.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      57.85,
+      186.21,
+      420.04,
+      211.67
+    ],
+    "reading_order": 7,
+    "text": "2. Collect the daily maximum temperatures recorded for a period of 30 days in your\ncity. Present this data as a grouped frequency table.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      57.85,
+      216.69,
+      420.09,
+      242.15
+    ],
+    "reading_order": 8,
+    "text": "3. Measure the heights of all the students of your class (in cm) and form a grouped\nfrequency distribution table of this data.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      246.93,
+      420.07,
+      285.59
+    ],
+    "reading_order": 9,
+    "text": "After all the groups have collected the data and formed grouped frequency\ndistribution tables, the groups should find the mean in each case by the method which\nthey find appropriate.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      190.8,
+      304.14,
+      277.19,
+      317.96
+    ],
+    "reading_order": 10,
+    "text": "EXERCISE 13.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      324.73,
+      419.82,
+      360.25
+    ],
+    "reading_order": 11,
+    "text": "1. A survey was conducted by a group of students as a part of their environment awareness\nprogramme, in which they collected the following data regarding the number of plants in\n20 houses in a locality. Find the mean number of plants per house.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      369.85,
+      402.73,
+      381.37
+    ],
+    "reading_order": 12,
+    "text": "Number of plants\n0 - 2\n2 - 4\n4 - 6\n6 - 8\n8 - 10\n10 - 12\n12 - 14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b13",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      390.73,
+      392.84,
+      402.25
+    ],
+    "reading_order": 13,
+    "text": "Number of houses\n1\n2\n1\n5\n6\n2\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b14",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      416.07,
+      312.73,
+      427.21
+    ],
+    "reading_order": 14,
+    "text": "Which method did you use for finding the mean, and why?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      431.77,
+      383.14,
+      443.29
+    ],
+    "reading_order": 15,
+    "text": "2. Consider the following distribution of daily wages of 50 workers of a factory.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b16",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      457.93,
+      406.08,
+      469.45
+    ],
+    "reading_order": 16,
+    "text": "Daily wages (in `)\n500 - 520\n520 -540\n540 - 560\n560 - 580\n580 -600",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      478.81,
+      394.32,
+      490.33
+    ],
+    "reading_order": 17,
+    "text": "Number of workers\n12\n14\n8\n6\n10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      504.15,
+      419.81,
+      515.29
+    ],
+    "reading_order": 18,
+    "text": "Find the mean daily wages of the workers of the factory by using an appropriate method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      519.85,
+      420.14,
+      543.37
+    ],
+    "reading_order": 19,
+    "text": "3. The following distribution shows the daily pocket allowance of children of a locality.\nThe mean pocket allowance is Rs 18. Find the missing frequency f.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b20",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      552.97,
+      418.33,
+      576.49
+    ],
+    "reading_order": 20,
+    "text": "Daily pocket\n11 - 13\n13 - 15\n15 - 17\n17 - 19\n19 - 21\n21 - 23\n23 - 25\nallowance (in `)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b21",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      585.85,
+      408.44,
+      597.37
+    ],
+    "reading_order": 21,
+    "text": "Number of children\n7\n6\n9\n13\nf\n5\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 11,
+    "block_id": "jemh113_p011_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "192\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b03",
+    "type": "header",
+    "bbox": [
+      205.44,
+      94.59,
+      262.56,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Table 13.14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b04",
+    "type": "paragraph",
+    "bbox": [
+      116.64,
+      116.67,
+      386.88,
+      142.54
+    ],
+    "reading_order": 4,
+    "text": "Marks obtained\nNumber of students\n(Cumulative frequency)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b05",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      152.61,
+      354.23,
+      292.52
+    ],
+    "reading_order": 5,
+    "text": "More than or equal to 0\n53\nMore than or equal to 10\n53 – 5 = 48\nMore than or equal to 20\n48 – 3 = 45\nMore than or equal to 30\n45 – 4 = 41\nMore than or equal to 40\n41 – 3 = 38\nMore than or equal to 50\n38 – 3 = 35\nMore than or equal to 60\n35 – 4 = 31\nMore than or equal to 70\n31 – 7 = 24\nMore than or equal to 80\n24 – 9 = 15\nMore than or equal to 90\n15 – 7 =  8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      307.62,
+      420.1,
+      333.08
+    ],
+    "reading_order": 7,
+    "text": "The table above is called a cumulative frequency distribution of the more\nthan type. Here 0, 10, 20, . . ., 90 give the lower limits of the respective class intervals.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      337.86,
+      420.03,
+      363.31
+    ],
+    "reading_order": 8,
+    "text": "Now, to find the median of grouped data, we can make use of any of these\ncumulative frequency distributions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      368.34,
+      385.48,
+      380.6
+    ],
+    "reading_order": 9,
+    "text": "Let us combine Tables 13.12 and 13.13 to get Table 13.15 given below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b10",
+    "type": "paragraph",
+    "bbox": [
+      205.44,
+      390.0,
+      262.56,
+      402.67
+    ],
+    "reading_order": 10,
+    "text": "Table 13.15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b11",
+    "type": "paragraph",
+    "bbox": [
+      69.84,
+      412.32,
+      416.0,
+      424.99
+    ],
+    "reading_order": 11,
+    "text": "Marks\nNumber of students ( f )\nCumulative frequency (cf)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b12",
+    "type": "paragraph",
+    "bbox": [
+      68.17,
+      438.41,
+      354.23,
+      574.29
+    ],
+    "reading_order": 12,
+    "text": "0 - 10\n5\n5\n10 - 20\n3\n8\n20 - 30\n4\n12\n30 - 40\n3\n15\n40 - 50\n3\n18\n50 - 60\n4\n22\n60 - 70\n7\n29\n70 - 80\n9\n38\n80 - 90\n7\n45\n90 - 100\n8\n53",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      586.04,
+      419.97,
+      611.5
+    ],
+    "reading_order": 13,
+    "text": "Now in a grouped data, we may not be able to find the middle observation by\nlooking at the cumulative frequencies as the middle observation will be some value in",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 22,
+    "block_id": "jemh113_p022_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n129",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b03",
+    "type": "formula",
+    "bbox": [
+      140.16,
+      105.04,
+      228.0,
+      136.78
+    ],
+    "reading_order": 3,
+    "text": "2\n2\nAB\nBC\nBC\nBC\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b04",
+    "type": "paragraph",
+    "bbox": [
+      234.0,
+      105.04,
+      266.08,
+      136.78
+    ],
+    "reading_order": 4,
+    "text": "2\nAC\nBC\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      116.37,
+      63.84,
+      128.63
+    ],
+    "reading_order": 5,
+    "text": "i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      146.68,
+      419.28,
+      159.35
+    ],
+    "reading_order": 6,
+    "text": "i.e.,\ncot2 A + 1 = cosec2 A\n(4)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      166.29,
+      419.31,
+      192.57
+    ],
+    "reading_order": 7,
+    "text": "Note that cosec A and cot A are not defined for A = 0°. Therefore (4) is true for\nall A such that 0° < A  90°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      196.77,
+      419.34,
+      235.42
+    ],
+    "reading_order": 9,
+    "text": "Using these identities, we can express each trigonometric ratio in terms of other\ntrigonometric ratios, i.e., if any one of the ratios is known, we can also determine the\nvalues of other trigonometric ratios.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      240.45,
+      419.31,
+      252.7
+    ],
+    "reading_order": 10,
+    "text": "Let us see how we can do this using these identities. Suppose we know that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b11",
+    "type": "formula",
+    "bbox": [
+      89.52,
+      259.02,
+      192.11,
+      287.48
+    ],
+    "reading_order": 11,
+    "text": "1\n3\n Then, cot A = \n3 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b12",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      268.53,
+      83.35,
+      280.79
+    ],
+    "reading_order": 12,
+    "text": "tan A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      301.5,
+      274.01,
+      330.49
+    ],
+    "reading_order": 13,
+    "text": "Since, sec2 A = 1 + tan2 A = \n1\n4,\n1\n3\n3\n\n\n sec A = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b14",
+    "type": "formula",
+    "bbox": [
+      271.68,
+      301.98,
+      362.73,
+      330.3
+    ],
+    "reading_order": 14,
+    "text": "3 , and cos A = \n3\n2 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      342.59,
+      336.69,
+      368.71
+    ],
+    "reading_order": 15,
+    "text": "Again, sin A = \n2\n3\n1\n1\ncos A\n1\n4\n2\n\n\n\n\n. Therefore, cosec A = 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      381.15,
+      372.73,
+      393.83
+    ],
+    "reading_order": 16,
+    "text": "Example 9 : Express the ratios cos A, tan A and sec A in terms of sin A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b17",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      403.47,
+      286.57,
+      416.15
+    ],
+    "reading_order": 17,
+    "text": "Solution : Since\ncos2 A + sin2 A = 1, therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b18",
+    "type": "formula",
+    "bbox": [
+      339.36,
+      432.61,
+      399.34,
+      446.95
+    ],
+    "reading_order": 18,
+    "text": "2\n1\nsin A\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b19",
+    "type": "formula",
+    "bbox": [
+      190.56,
+      435.09,
+      337.28,
+      447.35
+    ],
+    "reading_order": 19,
+    "text": "cos2 A = 1 – sin2 A, i.e., cos A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      466.21,
+      344.88,
+      480.55
+    ],
+    "reading_order": 20,
+    "text": "This gives\ncos A =\n2\n1\nsin A\n\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b21",
+    "type": "formula",
+    "bbox": [
+      154.08,
+      494.53,
+      401.61,
+      525.6
+    ],
+    "reading_order": 21,
+    "text": "cos A = \n2\n2\nsin A\n1\n1\nand sec A = cos A\n1 – sin A\n1\nsin A\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      495.28,
+      179.1,
+      515.75
+    ],
+    "reading_order": 22,
+    "text": "Hence, \ntan A = sin A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b23",
+    "type": "paragraph",
+    "bbox": [
+      365.04,
+      512.01,
+      371.13,
+      526.43
+    ],
+    "reading_order": 23,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      537.16,
+      329.99,
+      549.83
+    ],
+    "reading_order": 24,
+    "text": "Example 10 : Prove that sec A (1 – sin A)(sec A + tan A) = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      555.39,
+      94.56,
+      568.07
+    ],
+    "reading_order": 25,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b26",
+    "type": "formula",
+    "bbox": [
+      246.73,
+      579.26,
+      417.32,
+      611.55
+    ],
+    "reading_order": 26,
+    "text": "1\n1\nsin A\n(1\nsin A)\ncos A\ncos A\ncos A\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      589.89,
+      234.95,
+      602.14
+    ],
+    "reading_order": 27,
+    "text": "LHS = sec A (1 – sin A)(sec A + tan A) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 17,
+    "block_id": "jemh108_p017_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

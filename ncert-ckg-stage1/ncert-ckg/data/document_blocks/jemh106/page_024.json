@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "96\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b03",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      100.7,
+      254.4,
+      126.25
+    ],
+    "reading_order": 3,
+    "text": "4. In Fig. 6.36, \nQR\nQT\nQS\nPR\n\n and  1 =  2. Show",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b04",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      129.11,
+      158.88,
+      142.12
+    ],
+    "reading_order": 4,
+    "text": "that  PQS ~  TQR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b05",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      150.97,
+      254.4,
+      187.24
+    ],
+    "reading_order": 5,
+    "text": "5. S and T are points on sides PR and QR of\n PQR such that  P =  RTS. Show that\n RPQ ~  RTS.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b07",
+    "type": "paragraph",
+    "bbox": [
+      323.76,
+      177.39,
+      366.48,
+      190.07
+    ],
+    "reading_order": 7,
+    "text": "Fig. 6.36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      200.15,
+      254.4,
+      225.16
+    ],
+    "reading_order": 8,
+    "text": "6. In Fig. 6.37, if  ABE  ACD, show that\n ADE ~  ABC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      238.07,
+      240.02,
+      274.33
+    ],
+    "reading_order": 9,
+    "text": "7. In Fig. 6.38, altitudes AD and CE of  ABC\nintersect each other at the point P. Show\nthat:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b10",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      280.07,
+      151.44,
+      293.08
+    ],
+    "reading_order": 10,
+    "text": "(i)  AEP ~  CDP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b11",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      298.07,
+      155.28,
+      311.08
+    ],
+    "reading_order": 11,
+    "text": "(ii)  ABD ~  CBE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b12",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      316.07,
+      157.44,
+      329.08
+    ],
+    "reading_order": 12,
+    "text": "(iii)  AEP ~  ADB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b13",
+    "type": "paragraph",
+    "bbox": [
+      315.36,
+      328.36,
+      358.08,
+      341.03
+    ],
+    "reading_order": 13,
+    "text": "Fig. 6.37",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b14",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      334.07,
+      156.72,
+      347.08
+    ],
+    "reading_order": 14,
+    "text": "(iv)  PDC ~  BEC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      353.77,
+      240.02,
+      390.04
+    ],
+    "reading_order": 15,
+    "text": "8. E is a point on the side AD produced of a\nparallelogram ABCD and BE intersects CD\nat F. Show that  ABE ~  CFB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      403.93,
+      240.02,
+      439.45
+    ],
+    "reading_order": 16,
+    "text": "9. In Fig. 6.39, ABC and AMP are two right\ntriangles, right angled at B and M\nrespectively. Prove that:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b17",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      443.27,
+      156.0,
+      456.28
+    ],
+    "reading_order": 17,
+    "text": "(i)  ABC ~  AMP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b18",
+    "type": "paragraph",
+    "bbox": [
+      317.76,
+      461.55,
+      360.48,
+      474.23
+    ],
+    "reading_order": 18,
+    "text": "Fig. 6.38",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b19",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      465.47,
+      135.42,
+      491.06
+    ],
+    "reading_order": 19,
+    "text": "(ii) CA\nBC\nPA\nMP\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b20",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      496.33,
+      240.01,
+      544.6
+    ],
+    "reading_order": 20,
+    "text": "10. CD and GH are respectively the bisectors\nof  ACB and  EGF such that D and H lie\non sides AB and FE of  ABC and  EFG\nrespectively. If  ABC ~  FEG, show that:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b21",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      554.12,
+      133.11,
+      579.36
+    ],
+    "reading_order": 21,
+    "text": "(i) CD\nAC\nGH\nFG\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b22",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      585.11,
+      155.28,
+      598.12
+    ],
+    "reading_order": 22,
+    "text": "(ii)  DCB ~  HGE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b23",
+    "type": "paragraph",
+    "bbox": [
+      323.76,
+      596.68,
+      366.48,
+      609.35
+    ],
+    "reading_order": 23,
+    "text": "Fig. 6.39",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b24",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      600.95,
+      158.4,
+      613.96
+    ],
+    "reading_order": 24,
+    "text": "(iii)  DCA ~  HGF",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 24,
+    "block_id": "jemh106_p024_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

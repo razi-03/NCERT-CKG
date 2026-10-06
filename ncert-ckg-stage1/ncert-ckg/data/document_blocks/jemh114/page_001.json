@@ -1,0 +1,257 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "202\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b03",
+    "type": "figure",
+    "bbox": [
+      192.0,
+      83.55,
+      276.95,
+      168.5
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b05",
+    "type": "paragraph",
+    "bbox": [
+      355.68,
+      185.57,
+      413.52,
+      245.57
+    ],
+    "reading_order": 5,
+    "text": "14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      213.12,
+      213.37,
+      348.01,
+      241.37
+    ],
+    "reading_order": 6,
+    "text": "PROBABILITY",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b07",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      270.22,
+      384.01,
+      307.62
+    ],
+    "reading_order": 7,
+    "text": "The theory of probabilities and the theory of errors now constitute\na formidable body of great mathematical interest and of great\npractical importance.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      303.84,
+      316.61,
+      384.0,
+      327.61
+    ],
+    "reading_order": 8,
+    "text": "– R.S. Woodward",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b09",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      358.19,
+      264.72,
+      370.19
+    ],
+    "reading_order": 9,
+    "text": "14.1 Probability — A Theoretical Approach",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      376.85,
+      220.58,
+      387.85
+    ],
+    "reading_order": 10,
+    "text": "Let us consider the following situation :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      394.06,
+      233.15,
+      405.13
+    ],
+    "reading_order": 11,
+    "text": "Suppose a coin is tossed at random.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      57.12,
+      421.25,
+      411.12,
+      471.85
+    ],
+    "reading_order": 12,
+    "text": "When we speak of a coin, we assume it to be ‘fair’, that is, it is symmetrical so\nthat there is no reason for it to come down more often on one side than the other.\nWe call this property of the coin as being ‘unbiased’. By the phrase ‘random toss’,\nwe mean that the coin is allowed to fall freely without any bias or interference.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      487.97,
+      420.04,
+      551.77
+    ],
+    "reading_order": 13,
+    "text": "We know, in advance, that the coin can only land in one of two possible ways —\neither head up or tail up (we dismiss the possibility of its ‘landing’ on its edge, which\nmay be possible, for example, if it falls on sand). We can reasonably assume that each\noutcome, head or tail, is as likely to occur as the other. We refer to this by saying that\nthe outcomes head and tail, are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      558.05,
+      420.04,
+      608.65
+    ],
+    "reading_order": 14,
+    "text": "For another example of equally likely outcomes, suppose we throw a die\nonce. For us, a die will always mean a fair die. What are the possible outcomes?\nThey are 1, 2, 3, 4, 5, 6. Each number has the same possibility of showing up. So\nthe equally likely outcomes of throwing a die are 1, 2, 3, 4, 5 and 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 1,
+    "block_id": "jemh114_p001_b15",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 15,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

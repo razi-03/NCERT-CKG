@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n61",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      419.38,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "It is an AP as the difference between the consecutive terms in the list is 80, i.e.,\nd = 80. Also, a = 80.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      127.41,
+      325.55,
+      142.27
+    ],
+    "reading_order": 4,
+    "text": "So, to find the interest at the end of 30 years, we shall find a30.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      146.61,
+      340.57,
+      161.47
+    ],
+    "reading_order": 5,
+    "text": "Now,\na30 = a + (30 – 1) d = 80 + 29 × 80 = 2400",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      165.81,
+      280.53,
+      178.07
+    ],
+    "reading_order": 6,
+    "text": "So, the interest at the end of 30 years will be ` 2400.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      187.96,
+      420.08,
+      228.71
+    ],
+    "reading_order": 8,
+    "text": "Example 10 : In a flower bed, there are 23 rose plants in the first row, 21 in the\nsecond, 19 in the third, and so on. There are 5 rose plants in the last row. How many\nrows are there in the flower bed?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      234.03,
+      368.41,
+      246.71
+    ],
+    "reading_order": 9,
+    "text": "Solution : The number of rose plants in the 1st, 2nd, 3rd, . . ., rows are :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      197.28,
+      252.45,
+      270.71,
+      264.7
+    ],
+    "reading_order": 10,
+    "text": "23, 21, 19, . . ., 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      270.44,
+      365.14,
+      282.71
+    ],
+    "reading_order": 11,
+    "text": "It forms an AP (Why?). Let the number of rows in the flower bed be n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b12",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      288.45,
+      266.64,
+      303.3
+    ],
+    "reading_order": 12,
+    "text": "Then\na = 23,\nd = 21 – 23 = – 2, an = 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      306.45,
+      228.95,
+      321.3
+    ],
+    "reading_order": 13,
+    "text": "As,\nan = a + (n – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b14",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      324.45,
+      246.01,
+      336.7
+    ],
+    "reading_order": 14,
+    "text": "We have,\n5 = 23 + (n – 1)(– 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b15",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      342.69,
+      223.69,
+      354.94
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\n– 18 = (n – 1)(– 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b16",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      360.68,
+      181.7,
+      372.94
+    ],
+    "reading_order": 16,
+    "text": "i.e.,\nn = 10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      378.68,
+      224.17,
+      390.93
+    ],
+    "reading_order": 17,
+    "text": "So, there are 10 rows in the flower bed.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      409.74,
+      274.09,
+      423.56
+    ],
+    "reading_order": 18,
+    "text": "EXERCISE 5.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      430.33,
+      419.77,
+      456.29
+    ],
+    "reading_order": 19,
+    "text": "1. Fill in the blanks in the following table, given that a is the first term, d the common\ndifference and an the nth term of the AP:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      132.72,
+      472.86,
+      329.3,
+      486.29
+    ],
+    "reading_order": 20,
+    "text": "a\nd\nn\nan",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b21",
+    "type": "paragraph",
+    "bbox": [
+      89.28,
+      492.15,
+      329.28,
+      504.73
+    ],
+    "reading_order": 21,
+    "text": "(i)\n7\n3\n8\n. . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      86.88,
+      513.27,
+      329.72,
+      525.85
+    ],
+    "reading_order": 22,
+    "text": "(ii)\n– 18\n. . .\n10\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b23",
+    "type": "paragraph",
+    "bbox": [
+      84.72,
+      534.15,
+      329.28,
+      546.73
+    ],
+    "reading_order": 23,
+    "text": "(iii)\n. . .\n– 3\n18\n– 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b24",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      555.27,
+      329.25,
+      567.85
+    ],
+    "reading_order": 24,
+    "text": "(iv)\n– 18.9\n2.5\n. . .\n3.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b25",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      576.15,
+      329.28,
+      588.73
+    ],
+    "reading_order": 25,
+    "text": "(v)\n3.5\n0\n105\n. . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 13,
+    "block_id": "jemh105_p013_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

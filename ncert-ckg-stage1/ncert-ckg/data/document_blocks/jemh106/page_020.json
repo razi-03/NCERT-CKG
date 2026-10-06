@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "92\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b03",
+    "type": "paragraph",
+    "bbox": [
+      121.44,
+      102.06,
+      276.22,
+      129.56
+    ],
+    "reading_order": 3,
+    "text": "AB\n3.8\n1 ,\nRQ\n7.6\n2\n\n\nBC\n6\n1\nQP\n12\n2\n\n\n and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b04",
+    "type": "paragraph",
+    "bbox": [
+      279.12,
+      102.49,
+      346.76,
+      131.26
+    ],
+    "reading_order": 4,
+    "text": "CA\n3 3\n1\nPR\n2\n6 3\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b05",
+    "type": "paragraph",
+    "bbox": [
+      116.64,
+      144.06,
+      189.79,
+      171.56
+    ],
+    "reading_order": 5,
+    "text": "AB\nBC\nCA\nRQ\nQP\nPR\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      153.33,
+      80.89,
+      165.59
+    ],
+    "reading_order": 6,
+    "text": "That is,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      183.06,
+      419.28,
+      197.37
+    ],
+    "reading_order": 8,
+    "text": "So,\n ABC ~  RQP\n(SSS similarity)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      205.14,
+      419.28,
+      219.45
+    ],
+    "reading_order": 9,
+    "text": "Therefore,\n C =  P\n(Corresponding angles of similar triangles)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      223.13,
+      419.27,
+      237.45
+    ],
+    "reading_order": 10,
+    "text": "But\n C = 180° –  A –  B\n(Angle sum property)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b11",
+    "type": "formula",
+    "bbox": [
+      167.99,
+      246.44,
+      280.55,
+      258.7
+    ],
+    "reading_order": 11,
+    "text": "= 180° – 80° – 60° = 40°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b12",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      262.25,
+      193.43,
+      276.56
+    ],
+    "reading_order": 12,
+    "text": "So,\n P = 40°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      280.35,
+      162.96,
+      293.02
+    ],
+    "reading_order": 13,
+    "text": "Example 6 : In Fig. 6.31,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b14",
+    "type": "formula",
+    "bbox": [
+      104.15,
+      298.04,
+      202.31,
+      310.31
+    ],
+    "reading_order": 14,
+    "text": "OA . OB = OC . OD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      313.86,
+      230.41,
+      328.17
+    ],
+    "reading_order": 15,
+    "text": "Show that\n A =  C and  B =  D.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b16",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      331.96,
+      261.6,
+      344.63
+    ],
+    "reading_order": 16,
+    "text": "Solution :\nOA . OB = OC . OD\n(Given)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b17",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      354.6,
+      183.46,
+      382.81
+    ],
+    "reading_order": 17,
+    "text": "So,\nOA\nOC = OD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b18",
+    "type": "paragraph",
+    "bbox": [
+      316.32,
+      357.15,
+      359.04,
+      369.83
+    ],
+    "reading_order": 18,
+    "text": "Fig. 6.31",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b19",
+    "type": "paragraph",
+    "bbox": [
+      168.0,
+      363.33,
+      261.84,
+      382.81
+    ],
+    "reading_order": 19,
+    "text": "OB\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      387.54,
+      419.28,
+      401.86
+    ],
+    "reading_order": 20,
+    "text": "Also, we have\n AOD =  COB\n(Vertically opposite angles) (2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      404.58,
+      390.74,
+      418.89
+    ],
+    "reading_order": 21,
+    "text": "Therefore, from (1) and (2),\n AOD ~  COB     (SAS similarity criterion)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b22",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      421.86,
+      301.7,
+      436.18
+    ],
+    "reading_order": 22,
+    "text": "So,\n A =  C and  D =  B",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b23",
+    "type": "paragraph",
+    "bbox": [
+      232.58,
+      436.3,
+      419.3,
+      448.55
+    ],
+    "reading_order": 23,
+    "text": "(Corresponding angles of similar triangles)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      458.92,
+      232.85,
+      529.68
+    ],
+    "reading_order": 24,
+    "text": "Example 7 : A girl of height 90 cm is\nwalking  away from the base of a\nlamp-post at a speed of 1.2 m/s. If the lamp\nis 3.6 m above the ground, find the length\nof her shadow after 4 seconds.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b25",
+    "type": "figure",
+    "bbox": [
+      242.0,
+      463.4,
+      420.0,
+      589.4
+    ],
+    "reading_order": 25,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      535.48,
+      232.83,
+      577.2
+    ],
+    "reading_order": 26,
+    "text": "Solution : Let AB denote the lamp-post\nand CD the girl after walking for 4 seconds\naway from the lamp-post (see Fig. 6.32).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      583.42,
+      232.85,
+      610.07
+    ],
+    "reading_order": 27,
+    "text": "From the figure, you can see that DE is the\nshadow of the girl. Let DE be x metres.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b28",
+    "type": "paragraph",
+    "bbox": [
+      309.36,
+      593.8,
+      352.08,
+      606.47
+    ],
+    "reading_order": 28,
+    "text": "Fig. 6.32",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 20,
+    "block_id": "jemh106_p020_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

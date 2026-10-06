@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.41,
+      420.0,
+      82.41
+    ],
+    "reading_order": 2,
+    "text": "132\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b03",
+    "type": "formula",
+    "bbox": [
+      99.24,
+      98.45,
+      311.18,
+      122.61
+    ],
+    "reading_order": 3,
+    "text": "1\n(cosec A – sin A)(sec A – cos A)\ntan A + cot A\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b04",
+    "type": "paragraph",
+    "bbox": [
+      78.72,
+      107.69,
+      90.72,
+      117.69
+    ],
+    "reading_order": 4,
+    "text": "(ix)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b05",
+    "type": "paragraph",
+    "bbox": [
+      97.56,
+      129.4,
+      263.18,
+      139.41
+    ],
+    "reading_order": 5,
+    "text": "[Hint : Simplify LHS and RHS separately]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b06",
+    "type": "paragraph",
+    "bbox": [
+      133.32,
+      146.8,
+      215.92,
+      155.87
+    ],
+    "reading_order": 6,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b07",
+    "type": "paragraph",
+    "bbox": [
+      99.12,
+      148.47,
+      212.31,
+      177.1
+    ],
+    "reading_order": 7,
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b08",
+    "type": "formula",
+    "bbox": [
+      104.04,
+      151.18,
+      206.48,
+      176.26
+    ],
+    "reading_order": 8,
+    "text": "2\n1\ntan A\n1\ntan A\n1 – cot A\n1 + cot A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b09",
+    "type": "formula",
+    "bbox": [
+      217.56,
+      159.85,
+      252.02,
+      170.01
+    ],
+    "reading_order": 9,
+    "text": "= tan2 A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b10",
+    "type": "paragraph",
+    "bbox": [
+      81.0,
+      160.01,
+      90.72,
+      170.01
+    ],
+    "reading_order": 10,
+    "text": "(x)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b11",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 11,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b12",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      188.47,
+      116.28,
+      200.47
+    ],
+    "reading_order": 12,
+    "text": "8.5 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      206.81,
+      269.18,
+      216.81
+    ],
+    "reading_order": 13,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      222.76,
+      240.85,
+      232.77
+    ],
+    "reading_order": 14,
+    "text": "1. In a right triangle ABC, right-angled at B,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b15",
+    "type": "formula",
+    "bbox": [
+      75.0,
+      237.05,
+      350.79,
+      261.21
+    ],
+    "reading_order": 15,
+    "text": "sin A = side opposite to angle A\nside adjacent to angle A\n, cos A =\nhypotenuse\nhypotenuse",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b16",
+    "type": "formula",
+    "bbox": [
+      75.0,
+      266.33,
+      207.03,
+      284.13
+    ],
+    "reading_order": 16,
+    "text": "tan A = side opposite toangle A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b17",
+    "type": "paragraph",
+    "bbox": [
+      108.48,
+      274.13,
+      212.98,
+      290.49
+    ],
+    "reading_order": 17,
+    "text": "side adjacent to angle A .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b18",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      294.05,
+      354.72,
+      318.21
+    ],
+    "reading_order": 18,
+    "text": "2.\n1\n1\n1\nsin A\n,\ncosec A =\n; sec A =\n; tan A =\ntan A =\nsin A\ncos A\ncot A\ncos A .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      319.84,
+      420.07,
+      423.81
+    ],
+    "reading_order": 19,
+    "text": "3. If one of the trigonometric ratios of an acute angle is known, the remaining trigonometric\nratios of the angle can be easily determined.\n4. The values of trigonometric ratios for angles 0°, 30°, 45°, 60° and 90°.\n5. The value of sin A or cos A never exceeds 1, whereas the value of sec A (0° £ A < 90°) or\ncosec A (0° < A £ 90º) is always greater than or equal to 1.\n6. sin2 A + cos2 A = 1,\nsec2 A – tan2 A = 1 for 0° £ A < 90°,\ncosec2 A = 1 + cot2 A for 0° < A £ 90º.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 20,
+    "block_id": "jemh108_p020_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

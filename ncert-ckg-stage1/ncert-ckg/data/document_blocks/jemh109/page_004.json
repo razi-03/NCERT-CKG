@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "136\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.07,
+      265.98,
+      219.83
+    ],
+    "reading_order": 3,
+    "text": "Example 2 : An electrician has to repair an\nelectric fault on a pole of height 5 m. She needs\nto reach a point 1.3m below the top of the pole\nto undertake the repair work (see Fig. 9.5). What\nshould be the length of the ladder that she should\nuse which, when inclined at an angle of 60° to\nthe horizontal, would enable her to reach the\nrequired position? Also, how far from the foot\nof the pole should she place the foot of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b04",
+    "type": "figure",
+    "bbox": [
+      283.5,
+      96.0,
+      408.5,
+      281.0
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b06",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      225.33,
+      210.0,
+      239.27
+    ],
+    "reading_order": 6,
+    "text": "ladder? (You may take \n3 = 1.73)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      245.32,
+      265.95,
+      271.19
+    ],
+    "reading_order": 7,
+    "text": "Solution : In Fig. 9.5, the electrician is required to\nreach the point B on the pole AD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      276.21,
+      265.7,
+      288.47
+    ],
+    "reading_order": 8,
+    "text": "So, \nBD = AD – AB = (5 – 1.3)m = 3.7 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      330.24,
+      278.43,
+      366.96,
+      291.11
+    ],
+    "reading_order": 9,
+    "text": "Fig. 9.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      293.49,
+      294.76,
+      318.95
+    ],
+    "reading_order": 10,
+    "text": "Here, BC represents the ladder. We need to find\nits length, i.e., the hypotenuse of the right triangle BDC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      323.98,
+      336.03,
+      336.23
+    ],
+    "reading_order": 11,
+    "text": "Now, can you think which trigonometic ratio should we consider?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      341.26,
+      135.85,
+      353.51
+    ],
+    "reading_order": 12,
+    "text": "It should be sin 60°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      364.68,
+      253.95,
+      392.89
+    ],
+    "reading_order": 13,
+    "text": "So,\nBD\nBC = sin 60° or 3.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b14",
+    "type": "formula",
+    "bbox": [
+      240.0,
+      365.82,
+      284.09,
+      393.32
+    ],
+    "reading_order": 14,
+    "text": "BC = \n3\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      403.72,
+      307.93,
+      433.4
+    ],
+    "reading_order": 15,
+    "text": "Therefore,\nBC = 3.7\n2\n3\n\n = 4.28 m (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      440.61,
+      249.87,
+      452.87
+    ],
+    "reading_order": 16,
+    "text": "i.e., the length of the ladder should be 4.28 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      462.84,
+      240.89,
+      491.05
+    ],
+    "reading_order": 17,
+    "text": "Now,\nDC\nBD = cot 60° = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      239.04,
+      479.82,
+      244.49,
+      491.96
+    ],
+    "reading_order": 18,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b19",
+    "type": "section_heading",
+    "bbox": [
+      188.16,
+      504.3,
+      290.89,
+      532.76
+    ],
+    "reading_order": 19,
+    "text": "3.7\n3 = 2.14 m (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      513.57,
+      180.73,
+      525.83
+    ],
+    "reading_order": 20,
+    "text": "i.e.,\nDC =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      541.17,
+      420.04,
+      568.31
+    ],
+    "reading_order": 21,
+    "text": "Therefore, she should place the foot of the ladder at a distance of 2.14 m from\nthe pole.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 4,
+    "block_id": "jemh109_p004_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

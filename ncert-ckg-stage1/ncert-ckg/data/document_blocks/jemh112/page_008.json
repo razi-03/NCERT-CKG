@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "168\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      98.92,
+      420.07,
+      137.99
+    ],
+    "reading_order": 3,
+    "text": "Solution : The volume of air inside the shed (when there are no people or machinery)\nis given by the volume of air inside the cuboid and inside the half cylinder, taken\ntogether.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      142.77,
+      420.15,
+      155.03
+    ],
+    "reading_order": 4,
+    "text": "Now, the length, breadth and height of the cuboid are 15 m, 7 m and 8 m, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      160.05,
+      359.33,
+      172.31
+    ],
+    "reading_order": 5,
+    "text": "Also, the diameter of the half cylinder is 7 m and its height is 15 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b07",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      182.52,
+      289.23,
+      203.26
+    ],
+    "reading_order": 7,
+    "text": "So, the required volume = volume of the cuboid + 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      283.92,
+      191.01,
+      399.13,
+      210.73
+    ],
+    "reading_order": 8,
+    "text": "2 volume of the cylinder",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b09",
+    "type": "formula",
+    "bbox": [
+      161.27,
+      222.88,
+      343.66,
+      252.49
+    ],
+    "reading_order": 9,
+    "text": "=\n3\n1\n22\n7\n7\n15\n7\n8\n15 m\n2\n7\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b10",
+    "type": "formula",
+    "bbox": [
+      345.36,
+      230.37,
+      408.8,
+      242.63
+    ],
+    "reading_order": 10,
+    "text": "= 1128.75 m3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      259.41,
+      316.4,
+      271.67
+    ],
+    "reading_order": 11,
+    "text": "Next, the total space occupied by the machinery = 300 m3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      276.69,
+      370.4,
+      288.95
+    ],
+    "reading_order": 12,
+    "text": "And the total space occupied by the workers = 20 × 0.08 m3 = 1.6 m3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      293.97,
+      368.44,
+      306.23
+    ],
+    "reading_order": 13,
+    "text": "Therefore, the volume of the air, when there are machinery and workers",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b14",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      311.25,
+      408.8,
+      323.51
+    ],
+    "reading_order": 14,
+    "text": "= 1128.75 – (300.00 + 1.60) = 827.15 m3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      328.11,
+      259.48,
+      434.01
+    ],
+    "reading_order": 15,
+    "text": "Example 6 : A juice seller was serving his\ncustomers using glasses as shown in Fig. 12.13.\nThe inner diameter of the cylindrical glass was\n5 cm, but the bottom of the glass had a\nhemispherical raised portion which reduced the\ncapacity of the glass. If the height of a glass\nwas 10 cm, find the apparent capacity of the\nglass and its actual capacity. (Use  = 3.14.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      315.36,
+      420.51,
+      364.08,
+      433.19
+    ],
+    "reading_order": 16,
+    "text": "Fig. 12.13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      437.8,
+      382.58,
+      450.47
+    ],
+    "reading_order": 17,
+    "text": "Solution : Since the inner diameter of the glass = 5 cm and height = 10 cm,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b18",
+    "type": "formula",
+    "bbox": [
+      66.48,
+      454.26,
+      251.26,
+      468.57
+    ],
+    "reading_order": 18,
+    "text": "the apparent capacity of the glass = r2h",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b19",
+    "type": "formula",
+    "bbox": [
+      218.63,
+      472.53,
+      405.68,
+      484.79
+    ],
+    "reading_order": 19,
+    "text": "= 3.14 × 2.5 × 2.5 × 10 cm3 = 196.25 cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      489.81,
+      420.05,
+      515.27
+    ],
+    "reading_order": 20,
+    "text": "But the actual capacity of the glass is less by the volume of the hemisphere at the\nbase of the glass.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      521.4,
+      183.63,
+      542.15
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\nit is less by 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b22",
+    "type": "formula",
+    "bbox": [
+      178.08,
+      521.4,
+      408.8,
+      550.44
+    ],
+    "reading_order": 22,
+    "text": "3 r3 =\n3\n2\n3.14\n2.5\n2.5\n2.5 cm\n3 \n\n\n\n = 32.71 cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      555.57,
+      403.43,
+      567.83
+    ],
+    "reading_order": 23,
+    "text": "So, the actual capacity of the glass = apparent capacity of glass – volume of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b24",
+    "type": "formula",
+    "bbox": [
+      206.16,
+      568.77,
+      309.68,
+      594.23
+    ],
+    "reading_order": 24,
+    "text": "hemisphere\n= (196.25 – 32.71) cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b25",
+    "type": "formula",
+    "bbox": [
+      206.16,
+      599.25,
+      266.24,
+      611.51
+    ],
+    "reading_order": 25,
+    "text": "= 163.54 cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 8,
+    "block_id": "jemh112_p008_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "QUADRATIC EQUATIONS\n41",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      326.16,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "(ii)\nSince x(x + 1) + 8 = x2 + x + 8 and (x + 2)(x – 2) = x2 – 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      111.09,
+      344.88,
+      204.47
+    ],
+    "reading_order": 4,
+    "text": "Therefore,\nx2 + x + 8 = x2 – 4\ni.e.,\nx + 12 = 0\nIt is not of the form ax2 + bx + c = 0.\nTherefore, the given equation is not a quadratic equation.\n(iii) Here,\nLHS = x (2x + 3) = 2x2 + 3x\nSo,\nx (2x + 3) = x2 + 1 can be rewritten as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      208.29,
+      419.82,
+      395.75
+    ],
+    "reading_order": 6,
+    "text": "2x2 + 3x = x2 + 1\nTherefore, we get\nx2 + 3x – 1 = 0\nIt is of the form ax2 + bx + c = 0.\nSo, the given equation is a quadratic equation.\n(iv) Here,\nLHS = (x + 2)3 = x3 + 6x2 + 12x + 8\nTherefore,\n(x + 2)3 = x3 – 4 can be rewritten as\nx3 + 6x2 + 12x + 8 = x3 – 4\ni.e.,\n6x2 + 12x + 12 = 0\nor,\nx2 + 2x + 2 = 0\nIt is of the form ax2 + bx + c = 0.\nSo, the given equation is a quadratic equation.\nRemark : Be careful! In (ii) above, the given equation appears to be a quadratic\nequation, but it is not a quadratic equation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      399.82,
+      419.32,
+      451.67
+    ],
+    "reading_order": 7,
+    "text": "In (iv) above, the given equation appears to be a cubic equation (an equation of\ndegree 3) and not a quadratic equation. But it turns out to be a quadratic equation. As\nyou can see, often we need to simplify the given equation before deciding whether it\nis quadratic or not.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      469.98,
+      274.09,
+      483.8
+    ],
+    "reading_order": 8,
+    "text": "EXERCISE 4.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      490.81,
+      291.64,
+      502.33
+    ],
+    "reading_order": 9,
+    "text": "1. Check whether the following are quadratic equations :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b10",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      507.03,
+      350.13,
+      518.17
+    ],
+    "reading_order": 10,
+    "text": "(i) (x + 1)2 = 2(x – 3)\n(ii) x2 – 2x = (–2) (3 – x)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b11",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      523.11,
+      361.44,
+      534.25
+    ],
+    "reading_order": 11,
+    "text": "(iii) (x – 2)(x + 1) = (x – 1)(x + 3)\n(iv) (x – 3)(2x +1) = x(x + 5)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b12",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      539.19,
+      349.46,
+      550.33
+    ],
+    "reading_order": 12,
+    "text": "(v) (2x – 1)(x – 3) = (x + 5)(x – 1)\n(vi) x2 + 3x + 1 = (x – 2)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b13",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      555.03,
+      366.74,
+      566.17
+    ],
+    "reading_order": 13,
+    "text": "(vii) (x + 2)3 = 2x (x2 – 1)\n(viii) x3 – 4x2 – x + 1 = (x – 2)3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      570.73,
+      357.66,
+      582.25
+    ],
+    "reading_order": 14,
+    "text": "2. Represent the following situations in the form of quadratic equations :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      587.19,
+      420.02,
+      598.33
+    ],
+    "reading_order": 15,
+    "text": "(i) The area of a rectangular plot is 528 m2. The length of the plot (in metres) is one",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      599.19,
+      416.19,
+      610.33
+    ],
+    "reading_order": 16,
+    "text": "more than twice its breadth. We need to find the length and breadth of the plot.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 4,
+    "block_id": "jemh104_p004_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

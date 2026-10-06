@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n87",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.06,
+      146.87
+    ],
+    "reading_order": 3,
+    "text": "Let rays BP and CQ intersect each other at A and rays ER and FS intersect each\nother at D. In the two triangles ABC and DEF, you can see that\n B =  E,  C =  F and  A =  D. That is, corresponding angles of these two\ntriangles are equal. What can you say about their corresponding sides ? Note that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b04",
+    "type": "paragraph",
+    "bbox": [
+      50.64,
+      149.48,
+      185.68,
+      174.73
+    ],
+    "reading_order": 4,
+    "text": "BC\n3\n0.6.\nEF\n5\n\n\n What about AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b05",
+    "type": "paragraph",
+    "bbox": [
+      172.08,
+      150.19,
+      227.03,
+      175.44
+    ],
+    "reading_order": 5,
+    "text": "DE and CA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b06",
+    "type": "paragraph",
+    "bbox": [
+      213.84,
+      156.69,
+      419.76,
+      175.66
+    ],
+    "reading_order": 6,
+    "text": "FD ? On measuring AB, DE, CA and FD, you",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      172.19,
+      122.14,
+      191.02
+    ],
+    "reading_order": 7,
+    "text": "will find that AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b08",
+    "type": "paragraph",
+    "bbox": [
+      108.48,
+      172.19,
+      161.33,
+      197.78
+    ],
+    "reading_order": 8,
+    "text": "DE and CA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b10",
+    "type": "paragraph",
+    "bbox": [
+      148.08,
+      178.77,
+      420.06,
+      197.78
+    ],
+    "reading_order": 10,
+    "text": "FD are also equal to 0.6 (or nearly equal to 0.6, if there is some",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      194.75,
+      420.02,
+      220.34
+    ],
+    "reading_order": 11,
+    "text": "error in the measurement). Thus, AB\nBC\nCA\nDE\nEF\nFD\n\n\n You can repeat this activity by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      218.13,
+      420.04,
+      256.78
+    ],
+    "reading_order": 12,
+    "text": "constructing several pairs of triangles having their corresponding angles equal. Every\ntime, you will find that their corresponding sides are in the same ratio (or proportion).\nThis activity leads us to the following criterion for similarity of two triangles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      266.43,
+      420.02,
+      305.5
+    ],
+    "reading_order": 13,
+    "text": "Theorem 6.3 : If in two triangles, corresponding angles are equal, then their\ncorresponding sides are in the same ratio (or proportion) and hence the two\ntriangles are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      310.53,
+      225.62,
+      349.19
+    ],
+    "reading_order": 14,
+    "text": "This criterion is referred to as the AAA\n(Angle–Angle–Angle) criterion of\nsimilarity of two triangles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      353.97,
+      225.64,
+      405.83
+    ],
+    "reading_order": 15,
+    "text": "This theorem can be proved by taking two\ntriangles ABC and DEF such that\n A =  D,  B =  E and  C =  F\n(see Fig. 6.24)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b16",
+    "type": "paragraph",
+    "bbox": [
+      308.64,
+      398.92,
+      351.36,
+      411.59
+    ],
+    "reading_order": 16,
+    "text": "Fig. 6.24",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b17",
+    "type": "formula",
+    "bbox": [
+      48.05,
+      410.85,
+      232.59,
+      423.11
+    ],
+    "reading_order": 17,
+    "text": "Cut DP = AB and DQ = AC and join PQ.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.05,
+      426.9,
+      334.61,
+      441.21
+    ],
+    "reading_order": 18,
+    "text": "So,\n ABC  DPQ\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b19",
+    "type": "formula",
+    "bbox": [
+      48.05,
+      444.18,
+      369.4,
+      458.5
+    ],
+    "reading_order": 19,
+    "text": "This gives\n B =  P =  E and PQ || EF\n(How?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b20",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      468.06,
+      248.59,
+      480.21
+    ],
+    "reading_order": 20,
+    "text": "DQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b21",
+    "type": "formula",
+    "bbox": [
+      48.05,
+      468.84,
+      223.44,
+      497.05
+    ],
+    "reading_order": 21,
+    "text": "Therefore,\nDP\nPE =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b22",
+    "type": "paragraph",
+    "bbox": [
+      233.76,
+      477.33,
+      368.64,
+      495.56
+    ],
+    "reading_order": 22,
+    "text": "QF\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      504.84,
+      248.13,
+      533.05
+    ],
+    "reading_order": 23,
+    "text": "i.e.,\nAB\nDE =\nAC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b24",
+    "type": "paragraph",
+    "bbox": [
+      233.52,
+      513.33,
+      368.64,
+      533.05
+    ],
+    "reading_order": 24,
+    "text": "DF\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b25",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      540.92,
+      150.87,
+      568.79
+    ],
+    "reading_order": 25,
+    "text": "Similarly,\nAB\nDE = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b26",
+    "type": "paragraph",
+    "bbox": [
+      137.28,
+      540.92,
+      270.11,
+      568.79
+    ],
+    "reading_order": 26,
+    "text": "EF\nand so AB\nBC\nAC\nDE\nEF\nDF\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      574.36,
+      420.04,
+      613.43
+    ],
+    "reading_order": 27,
+    "text": "Remark : If two angles of a triangle are respectively equal to two angles of another\ntriangle, then by the angle sum property of a triangle their third angles will also be\nequal. Therefore, AAA similarity criterion can also be stated as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 15,
+    "block_id": "jemh106_p015_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

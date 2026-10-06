@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n53",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      95.01,
+      138.73,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Similarly, when",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b04",
+    "type": "formula",
+    "bbox": [
+      110.89,
+      112.05,
+      359.99,
+      124.31
+    ],
+    "reading_order": 4,
+    "text": "a = – 7,\nd = – 2,\nthe AP is  – 7, – 9, – 11, – 13, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b05",
+    "type": "formula",
+    "bbox": [
+      110.89,
+      129.33,
+      347.26,
+      141.59
+    ],
+    "reading_order": 5,
+    "text": "a =  1.0,\nd = 0.1,\nthe AP is  1.0, 1.1, 1.2, 1.3, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      151.64,
+      282.47,
+      180.25
+    ],
+    "reading_order": 6,
+    "text": "2 ,\nthe AP is  0,  1 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      277.2,
+      151.64,
+      349.44,
+      179.51
+    ],
+    "reading_order": 7,
+    "text": "2 , 3, 4 1\n2 , 6, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b08",
+    "type": "formula",
+    "bbox": [
+      110.9,
+      152.28,
+      193.71,
+      172.56
+    ],
+    "reading_order": 8,
+    "text": "a =  0,\nd = 1 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b10",
+    "type": "formula",
+    "bbox": [
+      110.88,
+      185.74,
+      313.71,
+      197.99
+    ],
+    "reading_order": 10,
+    "text": "a = 2,\nd = 0,\nthe AP is  2, 2, 2, 2, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      203.02,
+      420.09,
+      281.27
+    ],
+    "reading_order": 11,
+    "text": "So, if you know what a and d are, you can list the AP. What about the other way\nround? That is, if you are given a list of numbers can you say that it is an AP and then\nfind a and d? Since a is the first term, it can easily be written. We know that in an AP,\nevery succeeding term is obtained by adding d to the preceding term. So, d found by\nsubtracting any term from its succeeding term, i.e., the term which immediately follows\nit should be same for an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.03,
+      287.26,
+      235.49,
+      299.51
+    ],
+    "reading_order": 12,
+    "text": "For example, for the list of numbers :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b13",
+    "type": "formula",
+    "bbox": [
+      48.03,
+      304.29,
+      274.08,
+      367.87
+    ],
+    "reading_order": 13,
+    "text": "6, 9, 12, 15, . . . ,\nWe have\na2 – a1 = 9  – 6 = 3,\na3 – a2 = 12 – 9 = 3,\na4 – a3 = 15 – 12 = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      370.05,
+      420.07,
+      395.51
+    ],
+    "reading_order": 14,
+    "text": "Here the difference of any two consecutive terms in each case is 3. So, the\ngiven list is an AP whose first term a is 6 and common difference d is 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      399.58,
+      248.64,
+      411.83
+    ],
+    "reading_order": 15,
+    "text": "For the list of numbers : 6, 3, 0, – 3, . . .,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b16",
+    "type": "formula",
+    "bbox": [
+      179.76,
+      415.65,
+      276.96,
+      463.15
+    ],
+    "reading_order": 16,
+    "text": "a2 – a1 = 3 – 6 = – 3\na3 – a2 = 0 – 3 = – 3\na4 – a3 = –3 – 0  = –3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      466.29,
+      420.06,
+      491.74
+    ],
+    "reading_order": 17,
+    "text": "Similarly this is also an AP whose first term is 6 and the common difference\nis –3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      497.73,
+      270.72,
+      512.59
+    ],
+    "reading_order": 18,
+    "text": "In general, for an AP a1, a2, . . ., an, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      515.97,
+      351.71,
+      549.07
+    ],
+    "reading_order": 19,
+    "text": "d = ak + 1 – ak\nwhere ak + 1  and ak  are the ( k + 1)th and the kth terms respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      552.21,
+      420.0,
+      577.67
+    ],
+    "reading_order": 20,
+    "text": "To obtain d in a given AP, we need not find all of a2 – a1, a3 – a2, a4 – a3, . . . .\nIt is enough to find only one of them.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      582.69,
+      420.06,
+      608.15
+    ],
+    "reading_order": 21,
+    "text": "Consider the list of numbers 1, 1, 2, 3, 5, . . . . By looking at it, you can tell that the\ndifference between any two consecutive terms is not the same. So, this is not an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 5,
+    "block_id": "jemh105_p005_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

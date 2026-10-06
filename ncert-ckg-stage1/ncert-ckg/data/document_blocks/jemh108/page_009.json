@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n121",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b03",
+    "type": "header",
+    "bbox": [
+      193.92,
+      94.38,
+      274.09,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 8.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b04",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      114.23,
+      335.34,
+      127.24
+    ],
+    "reading_order": 4,
+    "text": "1. In  ABC,  right-angled at B, AB = 24 cm, BC = 7 cm. Determine :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b05",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      131.43,
+      148.32,
+      142.57
+    ],
+    "reading_order": 5,
+    "text": "(i) sin A, cos A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b06",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      147.51,
+      145.44,
+      158.65
+    ],
+    "reading_order": 6,
+    "text": "(ii) sin C, cos C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b07",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      162.97,
+      195.61,
+      174.49
+    ],
+    "reading_order": 7,
+    "text": "2. In Fig. 8.13, find tan P – cot R.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b09",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      181.39,
+      243.14,
+      206.64
+    ],
+    "reading_order": 9,
+    "text": "3. If sin A = 3 ,\n4\n calculate cos A and tan A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b10",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      209.05,
+      239.75,
+      220.57
+    ],
+    "reading_order": 10,
+    "text": "4. Given 15 cot A = 8, find sin A and sec A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b11",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      227.47,
+      306.74,
+      252.72
+    ],
+    "reading_order": 11,
+    "text": "5. Given sec  = 13 ,\n12 calculate all other trigonometric ratios.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      357.12,
+      235.95,
+      399.84,
+      248.63
+    ],
+    "reading_order": 12,
+    "text": "Fig. 8.13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b13",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      254.39,
+      415.44,
+      267.4
+    ],
+    "reading_order": 13,
+    "text": "6. If  A and  B are acute angles such that cos A = cos B, then show that  A =  B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b14",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      275.03,
+      343.61,
+      302.44
+    ],
+    "reading_order": 14,
+    "text": "7. If cot  = 7 ,\n8 evaluate : (i)\n(1\nsin\n)(1\nsin\n) ,\n(1\ncos\n)(1\ncos )\n\n\n\n\n\n\n\n\n(ii) cot2 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      225.84,
+      309.82,
+      229.06,
+      317.0
+    ],
+    "reading_order": 15,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b16",
+    "type": "formula",
+    "bbox": [
+      196.32,
+      310.16,
+      238.76,
+      336.95
+    ],
+    "reading_order": 16,
+    "text": "2\n1\ntan A\n1 + tan A\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b17",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      319.69,
+      194.84,
+      331.21
+    ],
+    "reading_order": 17,
+    "text": "8. If 3 cot A = 4, check whether",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b18",
+    "type": "formula",
+    "bbox": [
+      242.16,
+      320.07,
+      338.88,
+      331.21
+    ],
+    "reading_order": 18,
+    "text": "= cos2 A – sin2A or not.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b19",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      338.7,
+      348.01,
+      365.31
+    ],
+    "reading_order": 19,
+    "text": "9. In triangle ABC, right-angled at B, if tan A = 1 ,\n3 find the value of:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b20",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      365.43,
+      201.59,
+      376.57
+    ],
+    "reading_order": 20,
+    "text": "(i) sin A cos C + cos A sin C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b21",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      381.51,
+      201.6,
+      392.65
+    ],
+    "reading_order": 21,
+    "text": "(ii) cos A cos C – sin A sin C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b22",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      399.83,
+      420.01,
+      424.09
+    ],
+    "reading_order": 22,
+    "text": "10. In  PQR, right-angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine the values of\nsin P, cos P and tan P.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b23",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      432.25,
+      336.12,
+      443.77
+    ],
+    "reading_order": 23,
+    "text": "11. State whether the following are true or false. Justify your answer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b24",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      448.71,
+      260.9,
+      459.85
+    ],
+    "reading_order": 24,
+    "text": "(i) The value of tan A is always less than 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b25",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      462.67,
+      142.12,
+      481.21
+    ],
+    "reading_order": 25,
+    "text": "(ii) sec A = 12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b26",
+    "type": "paragraph",
+    "bbox": [
+      135.12,
+      470.07,
+      254.4,
+      487.15
+    ],
+    "reading_order": 26,
+    "text": "5 for some value of angle A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b27",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      488.79,
+      336.01,
+      499.93
+    ],
+    "reading_order": 27,
+    "text": "(iii) cos A is the abbreviation used for the cosecant of angle A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b28",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      504.63,
+      234.0,
+      515.77
+    ],
+    "reading_order": 28,
+    "text": "(iv) cot A is the product of cot and A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b29",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      522.44,
+      134.33,
+      542.2
+    ],
+    "reading_order": 29,
+    "text": "(v) sin  = 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b30",
+    "type": "paragraph",
+    "bbox": [
+      129.36,
+      529.19,
+      207.7,
+      547.68
+    ],
+    "reading_order": 30,
+    "text": "3 for some angle .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b31",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      555.66,
+      297.84,
+      569.48
+    ],
+    "reading_order": 31,
+    "text": "8.3 Trigonometric Ratios of Some Specific Angles",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b32",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      574.53,
+      420.09,
+      613.19
+    ],
+    "reading_order": 32,
+    "text": "From geometry, you are already familiar with the construction of angles of 30°, 45°,\n60° and 90°. In this section, we will find the values of the trigonometric ratios for these\nangles and, of course, for 0°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 9,
+    "block_id": "jemh108_p009_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

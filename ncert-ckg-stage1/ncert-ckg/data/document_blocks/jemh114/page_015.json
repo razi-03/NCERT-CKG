@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "216\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b03",
+    "type": "header",
+    "bbox": [
+      55.44,
+      94.57,
+      339.17,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "19. A child has a die whose six faces show the letters as given below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b04",
+    "type": "paragraph",
+    "bbox": [
+      155.04,
+      120.15,
+      290.18,
+      131.29
+    ],
+    "reading_order": 4,
+    "text": "A\nB\nC\nD\nE\nA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b05",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      141.03,
+      373.52,
+      152.17
+    ],
+    "reading_order": 5,
+    "text": "The die is thrown once. What is the probability of getting\n(i) A?\n(ii) D?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b06",
+    "type": "paragraph",
+    "bbox": [
+      50.16,
+      156.73,
+      420.04,
+      180.25
+    ],
+    "reading_order": 6,
+    "text": "20*. Suppose you drop a die at random on the rectangular region shown in Fig. 14.6. What is\nthe probability that it will land inside the circle with diameter 1m?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b08",
+    "type": "paragraph",
+    "bbox": [
+      223.44,
+      184.71,
+      239.28,
+      195.85
+    ],
+    "reading_order": 8,
+    "text": "3 m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b09",
+    "type": "paragraph",
+    "bbox": [
+      304.56,
+      223.59,
+      320.4,
+      234.73
+    ],
+    "reading_order": 9,
+    "text": "2 m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b10",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      274.11,
+      255.12,
+      286.79
+    ],
+    "reading_order": 10,
+    "text": "Fig. 14.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      291.37,
+      420.06,
+      326.89
+    ],
+    "reading_order": 11,
+    "text": "21. A lot consists of 144 ball pens of which 20 are defective and the others are good. Nuri\nwill buy a pen if it is good, but will not buy if it is defective. The shopkeeper draws one\npen at random and gives it to her. What is the probability that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b12",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      331.83,
+      161.29,
+      342.97
+    ],
+    "reading_order": 12,
+    "text": "(i) She will buy it ?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b13",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      347.91,
+      176.89,
+      359.05
+    ],
+    "reading_order": 13,
+    "text": "(ii) She will not buy it ?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b14",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      363.37,
+      285.9,
+      374.89
+    ],
+    "reading_order": 14,
+    "text": "22. Refer to Example 13. (i) Complete the following table:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b15",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      381.37,
+      410.16,
+      404.89
+    ],
+    "reading_order": 15,
+    "text": "Event :\n‘Sum on 2 dice’\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b16",
+    "type": "paragraph",
+    "bbox": [
+      153.12,
+      415.48,
+      410.53,
+      440.38
+    ],
+    "reading_order": 16,
+    "text": "1\n36\n5\n36\n1\n36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b17",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      422.89,
+      120.96,
+      434.41
+    ],
+    "reading_order": 17,
+    "text": "Probability",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b18",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      452.31,
+      420.05,
+      463.45
+    ],
+    "reading_order": 18,
+    "text": "(ii) A student argues that ‘there are 11 possible outcomes 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b19",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      462.19,
+      420.02,
+      495.37
+    ],
+    "reading_order": 19,
+    "text": "12. Therefore, each of them has a probability 1\n11 . Do you agree with this argument?\nJustify your answer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b20",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      499.93,
+      420.05,
+      535.45
+    ],
+    "reading_order": 20,
+    "text": "23. A game consists of tossing a one rupee coin 3 times and noting its outcome each time.\nHanif wins if all the tosses give the same result i.e., three heads or three tails, and loses\notherwise. Calculate the probability that Hanif will lose the game.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b21",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      539.77,
+      368.93,
+      565.45
+    ],
+    "reading_order": 21,
+    "text": "24. A die is thrown twice. What is the probability that\n(i) 5 will not come up either time?\n(ii) 5 will come up at least once?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b22",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      569.77,
+      420.04,
+      593.29
+    ],
+    "reading_order": 22,
+    "text": "[Hint : Throwing a die twice and throwing two dice simultaneously are treated as the\nsame experiment]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      602.55,
+      213.73,
+      615.13
+    ],
+    "reading_order": 23,
+    "text": "* Not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 15,
+    "block_id": "jemh114_p015_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

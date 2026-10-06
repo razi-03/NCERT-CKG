@@ -1,0 +1,172 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n77",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.0,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "From the above, you can easily say that quadrilaterals ABCD and PQRS of\nFig. 6.5 are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      215.27,
+      301.0,
+      252.0,
+      313.67
+    ],
+    "reading_order": 5,
+    "text": "Fig. 6.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      321.63,
+      420.06,
+      360.71
+    ],
+    "reading_order": 6,
+    "text": "Remark : You can verify that if one polygon is similar to another polygon and this\nsecond polygon is similar to a third polygon, then the first polygon is similar to the third\npolygon.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      365.73,
+      420.05,
+      404.39
+    ],
+    "reading_order": 7,
+    "text": "You may note that in the two quadrilaterals (a square and a rectangle) of\nFig. 6.6, corresponding angles are equal, but their corresponding sides are not in the\nsame ratio.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      215.27,
+      534.52,
+      252.0,
+      547.19
+    ],
+    "reading_order": 8,
+    "text": "Fig. 6.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      559.89,
+      420.05,
+      614.16
+    ],
+    "reading_order": 9,
+    "text": "So, the two quadrilaterals are not similar. Similarly, you may note that in the two\nquadrilaterals (a square and a rhombus) of Fig. 6.7, corresponding sides are in the\nsame ratio, but their corresponding angles are not equal. Again, the two polygons\n(quadrilaterals) are not similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 5,
+    "block_id": "jemh106_p005_b10",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 10,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

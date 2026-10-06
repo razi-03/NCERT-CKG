@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "AREAS RELATED TO CIRCLES\n157",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      104.92,
+      276.01,
+      117.59
+    ],
+    "reading_order": 3,
+    "text": "Example 2 : Find the area of the segment AYB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      123.33,
+      276.03,
+      135.58
+    ],
+    "reading_order": 4,
+    "text": "shown in Fig. 11.6, if radius of the circle is 21 cm and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      143.48,
+      179.03,
+      164.96
+    ],
+    "reading_order": 5,
+    "text": " AOB = 120°. (Use  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      170.4,
+      151.89,
+      186.06,
+      171.35
+    ],
+    "reading_order": 6,
+    "text": "7 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      328.08,
+      208.11,
+      370.32,
+      220.79
+    ],
+    "reading_order": 8,
+    "text": "Fig. 11.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      230.43,
+      213.86,
+      243.11
+    ],
+    "reading_order": 9,
+    "text": "Solution : Area of the segment AYB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b10",
+    "type": "formula",
+    "bbox": [
+      199.45,
+      246.9,
+      419.77,
+      261.21
+    ],
+    "reading_order": 10,
+    "text": "= Area of sector OAYB – Area of  OAB\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b11",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      266.52,
+      419.76,
+      294.73
+    ],
+    "reading_order": 11,
+    "text": "Now,\narea of the sector OAYB = 120\n22\n21\n21\n360\n7\n\n\n\ncm2 = 462 cm2\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      299.23,
+      360.72,
+      313.54
+    ],
+    "reading_order": 12,
+    "text": "For finding the area of  OAB, draw OM  AB as shown in Fig. 11.7.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b13",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      316.51,
+      373.43,
+      330.82
+    ],
+    "reading_order": 13,
+    "text": "Note that OA = OB. Therefore, by RHS congruence,  AMO  BMO.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b14",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      340.28,
+      366.11,
+      368.97
+    ],
+    "reading_order": 14,
+    "text": "So, M is the mid-point of AB and  AOM =  BOM = 1\n120\n60\n2 \n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      374.14,
+      220.56,
+      386.39
+    ],
+    "reading_order": 15,
+    "text": "Let\nOM = x cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      396.36,
+      183.63,
+      418.17
+    ],
+    "reading_order": 16,
+    "text": "So, from  OMA,\nOM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b17",
+    "type": "formula",
+    "bbox": [
+      166.8,
+      405.09,
+      231.6,
+      424.57
+    ],
+    "reading_order": 17,
+    "text": "OA = cos 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b18",
+    "type": "formula",
+    "bbox": [
+      201.36,
+      432.64,
+      283.85,
+      462.26
+    ],
+    "reading_order": 18,
+    "text": "1\n1\ncos 60° =\n2\n2\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      433.96,
+      195.36,
+      462.01
+    ],
+    "reading_order": 19,
+    "text": "or,\n21\nx =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      327.12,
+      441.63,
+      369.12,
+      454.31
+    ],
+    "reading_order": 20,
+    "text": "Fig. 11.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      462.84,
+      212.43,
+      483.61
+    ],
+    "reading_order": 21,
+    "text": "or,\nx = 21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      203.76,
+      478.67,
+      209.31,
+      491.05
+    ],
+    "reading_order": 22,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      494.76,
+      212.43,
+      515.53
+    ],
+    "reading_order": 23,
+    "text": "So,\nOM = 21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b24",
+    "type": "paragraph",
+    "bbox": [
+      203.76,
+      503.25,
+      231.12,
+      522.97
+    ],
+    "reading_order": 24,
+    "text": "2 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      526.92,
+      183.63,
+      547.91
+    ],
+    "reading_order": 25,
+    "text": "Also,\nAM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b26",
+    "type": "formula",
+    "bbox": [
+      166.8,
+      528.06,
+      255.77,
+      555.56
+    ],
+    "reading_order": 26,
+    "text": "OA = sin 60° = \n3\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      557.58,
+      224.57,
+      577.43
+    ],
+    "reading_order": 27,
+    "text": "So,\nAM = 21 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b28",
+    "type": "paragraph",
+    "bbox": [
+      210.48,
+      565.17,
+      244.56,
+      585.08
+    ],
+    "reading_order": 28,
+    "text": "2\n cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b29",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      585.88,
+      348.08,
+      614.6
+    ],
+    "reading_order": 29,
+    "text": "Therefore,\nAB = 2 AM = 2\n21 3 cm = 21 3cm\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 4,
+    "block_id": "jemh111_p004_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

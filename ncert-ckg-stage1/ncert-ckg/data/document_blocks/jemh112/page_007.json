@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SURFACE AREAS AND VOLUMES\n167",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b03",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      98.65,
+      420.09,
+      164.17
+    ],
+    "reading_order": 3,
+    "text": "7. A tent is in the shape of a cylinder surmounted by a conical top. If the height and\ndiameter of the cylindrical part are 2.1 m and 4 m respectively, and the slant height of the\ntop is 2.8 m, find the area of the canvas used for making the tent. Also, find the cost of\nthe canvas of the tent at the rate of ` 500 per m2. (Note that the base of the tent will not\nbe covered with canvas.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      170.17,
+      419.82,
+      208.57
+    ],
+    "reading_order": 4,
+    "text": "8. From a solid cylinder whose height is 2.4 cm and diameter 1.4 cm, a conical cavity of the\nsame height and same diameter is hollowed out. Find the total surface area of the\nremaining solid to the nearest cm2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      214.57,
+      239.95,
+      293.53
+    ],
+    "reading_order": 6,
+    "text": "9. A wooden article was made by scooping\nout a hemisphere from each end of a  solid\ncylinder, as shown in Fig. 12.11. If the\nheight of the cylinder is 10 cm, and its\nbase is of radius 3.5 cm, find the total\nsurface area of the article.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      322.32,
+      300.04,
+      370.3,
+      312.71
+    ],
+    "reading_order": 7,
+    "text": "Fig. 12.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b08",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      303.42,
+      246.0,
+      317.24
+    ],
+    "reading_order": 8,
+    "text": "12.3 Volume of a Combination of Solids",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      322.29,
+      420.09,
+      413.75
+    ],
+    "reading_order": 9,
+    "text": "In the previous section, we have discussed how to find the surface area of solids made\nup of a combination of two basic solids. Here, we shall see how to calculate their\nvolumes. It may be noted that in calculating the surface area, we have not added the\nsurface areas of the two constituents, because some part of the surface area disappeared\nin the process of joining them. However, this will not be the case when we calculate\nthe volume. The volume of the solid formed by joining two basic solids will actually be\nthe sum of the volumes of the constituents, as we see in the examples below.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      423.15,
+      225.74,
+      581.03
+    ],
+    "reading_order": 10,
+    "text": "Example 5 : Shanta runs an industry in\na shed which is in the shape of a cuboid\nsurmounted by a half cylinder (see Fig.\n12.12). If the base of the shed is of\ndimension 7 m × 15 m, and the height of\nthe cuboidal portion is 8 m, find the volume\nof air that the shed can hold. Further,\nsuppose the machinery in the shed\noccupies a total space of 300 m3, and\nthere are 20 workers, each of whom\noccupy about 0.08 m3 space on an\naverage. Then, how much air is in the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      301.2,
+      575.55,
+      349.92,
+      588.23
+    ],
+    "reading_order": 11,
+    "text": "Fig. 12.12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      587.16,
+      138.51,
+      608.98
+    ],
+    "reading_order": 12,
+    "text": "shed? (Take  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      129.84,
+      595.89,
+      145.5,
+      615.37
+    ],
+    "reading_order": 13,
+    "text": "7 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 7,
+    "block_id": "jemh112_p007_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

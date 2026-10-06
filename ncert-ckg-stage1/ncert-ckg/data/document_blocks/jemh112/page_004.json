@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b02",
+    "type": "header",
+    "bbox": [
+      33.36,
+      55.5,
+      35.86,
+      66.48
+    ],
+    "reading_order": 2,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 3,
+    "text": "164\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b04",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.03,
+      107.27
+    ],
+    "reading_order": 4,
+    "text": "Also, the height of the cone = height of the top – height (radius) of the hemispherical part",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b05",
+    "type": "section_heading",
+    "bbox": [
+      177.6,
+      118.48,
+      286.56,
+      148.1
+    ],
+    "reading_order": 5,
+    "text": "3.5\n5\ncm\n2\n\n\n\n\n\n\n\n = 3.25 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b06",
+    "type": "formula",
+    "bbox": [
+      165.84,
+      128.13,
+      172.05,
+      140.39
+    ],
+    "reading_order": 6,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b07",
+    "type": "formula",
+    "bbox": [
+      198.72,
+      160.14,
+      420.0,
+      192.49
+    ],
+    "reading_order": 7,
+    "text": "2\n2\n2\n2\n3.5\n(3.25) cm\n2\nr\nh\n\n\n\n\n\n\n\n\n\n = 3.7 cm (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      171.57,
+      190.17,
+      183.83
+    ],
+    "reading_order": 8,
+    "text": "So, the slant height of the cone (l ) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      203.2,
+      290.38,
+      248.15
+    ],
+    "reading_order": 10,
+    "text": "2\n22\n3.5\n3.7 cm\n7\n2\n\n\n\n\n\n\n\n\nThis gives the surface area of the top as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      211.87,
+      193.37,
+      226.18
+    ],
+    "reading_order": 11,
+    "text": "Therefore, CSA of cone = rl =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      89.99,
+      255.28,
+      311.98,
+      284.9
+    ],
+    "reading_order": 12,
+    "text": "2\n2\n22\n3.5\n3.5\n22\n3.5\n2\ncm\n3.7 cm\n7\n2\n2\n7\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b13",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      264.93,
+      84.2,
+      277.19
+    ],
+    "reading_order": 13,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b14",
+    "type": "formula",
+    "bbox": [
+      91.2,
+      292.92,
+      214.36,
+      321.13
+    ],
+    "reading_order": 14,
+    "text": "2\n22\n3.5 3.5\n3.7 cm\n7\n2\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      216.0,
+      292.92,
+      402.59,
+      321.96
+    ],
+    "reading_order": 15,
+    "text": "2\n2\n11\n(3.5\n3.7) cm\n39.6 cm (approx.)\n2 \n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b16",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      296.12,
+      180.25,
+      315.05
+    ],
+    "reading_order": 16,
+    "text": "=\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      323.01,
+      420.01,
+      348.47
+    ],
+    "reading_order": 17,
+    "text": "You may note that ‘total surface area of the top’ is not the sum of the total\nsurface areas of the cone and hemisphere.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      358.84,
+      240.04,
+      443.99
+    ],
+    "reading_order": 18,
+    "text": "Example 2 :  The decorative block shown\nin Fig. 12.7 is made of two solids — a cube\nand a hemisphere. The base of the block is a\ncube with edge 5 cm, and the hemisphere\nfixed on the top has a diameter of 4.2 cm.\nFind the total surface area of the block.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      443.4,
+      109.23,
+      464.25
+    ],
+    "reading_order": 19,
+    "text": "(Take  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      100.56,
+      451.17,
+      116.22,
+      471.61
+    ],
+    "reading_order": 20,
+    "text": "7 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      306.48,
+      459.88,
+      349.2,
+      472.55
+    ],
+    "reading_order": 21,
+    "text": "Fig. 12.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      480.99,
+      420.09,
+      539.27
+    ],
+    "reading_order": 22,
+    "text": "Solution : The total surface area of the cube = 6 × (edge)2 = 6 × 5 × 5 cm2 = 150 cm2.\nNote that the part of the cube where the hemisphere is attached is not included in the\nsurface area.\nSo,\nthe surface area of the block = TSA of cube – base area of hemisphere",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b23",
+    "type": "formula",
+    "bbox": [
+      228.72,
+      540.22,
+      398.24,
+      569.38
+    ],
+    "reading_order": 23,
+    "text": "+ CSA of hemisphere\n= 150 – r2 + 2 r2 = (150 + r2) cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b24",
+    "type": "formula",
+    "bbox": [
+      228.72,
+      576.9,
+      386.14,
+      619.91
+    ],
+    "reading_order": 24,
+    "text": "=\n2\n2\n22\n4.2\n4.2\n150 cm\ncm\n7\n2\n2\n\n\n\n\n\n\n\n\n\n= (150 + 13.86) cm2 = 163.86 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 4,
+    "block_id": "jemh112_p004_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

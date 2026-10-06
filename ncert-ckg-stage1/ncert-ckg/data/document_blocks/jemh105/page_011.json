@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n59",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      410.47,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Example 6 : Check whether 301 is a term of the list of numbers 5, 11, 17, 23, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      111.63,
+      141.85,
+      124.31
+    ],
+    "reading_order": 4,
+    "text": "Solution : We have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b05",
+    "type": "formula",
+    "bbox": [
+      102.0,
+      129.33,
+      419.04,
+      144.19
+    ],
+    "reading_order": 5,
+    "text": "a2 – a1 = 11 – 5 = 6,\na3 – a2 = 17 – 11 = 6,\na4 – a3 = 23 – 17 = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      146.61,
+      398.3,
+      161.47
+    ],
+    "reading_order": 6,
+    "text": "As ak + 1 – ak is the same for k = 1, 2, 3, etc., the given list of numbers is an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b07",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      163.89,
+      218.16,
+      176.15
+    ],
+    "reading_order": 7,
+    "text": "Now,\na = 5\nand\nd = 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      180.93,
+      255.02,
+      193.19
+    ],
+    "reading_order": 9,
+    "text": "Let 301 be a term, say, the nth term of this AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      198.21,
+      109.44,
+      210.47
+    ],
+    "reading_order": 10,
+    "text": "We know that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b11",
+    "type": "formula",
+    "bbox": [
+      210.47,
+      215.49,
+      291.35,
+      230.34
+    ],
+    "reading_order": 11,
+    "text": "an = a + (n – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      232.77,
+      299.05,
+      245.03
+    ],
+    "reading_order": 12,
+    "text": "So,\n301 = 5 + (n – 1) × 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      250.05,
+      262.09,
+      262.31
+    ],
+    "reading_order": 13,
+    "text": "i.e.,\n301 = 6n – 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      272.28,
+      280.35,
+      300.49
+    ],
+    "reading_order": 14,
+    "text": "So,\nn = 302\n151\n6\n3\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      306.45,
+      419.29,
+      331.91
+    ],
+    "reading_order": 15,
+    "text": "But n should be a positive integer (Why?). So, 301 is not a term of the given list of\nnumbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      341.31,
+      323.06,
+      353.98
+    ],
+    "reading_order": 16,
+    "text": "Example 7 : How many two-digit numbers are divisible by 3?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      358.59,
+      299.3,
+      371.27
+    ],
+    "reading_order": 17,
+    "text": "Solution : The list of two-digit numbers divisible by 3 is :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      193.21,
+      377.25,
+      275.05,
+      389.5
+    ],
+    "reading_order": 18,
+    "text": "12, 15, 18, . . . , 99",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b19",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      395.49,
+      293.28,
+      410.34
+    ],
+    "reading_order": 19,
+    "text": "Is this an AP? Yes it is. Here,\na = 12, d = 3, an = 99.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      413.73,
+      293.64,
+      428.58
+    ],
+    "reading_order": 20,
+    "text": "As\nan = a + (n – 1) d,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b21",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      431.73,
+      304.1,
+      443.98
+    ],
+    "reading_order": 21,
+    "text": "we have\n99 = 12 + (n – 1) × 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b22",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      449.97,
+      281.53,
+      462.22
+    ],
+    "reading_order": 22,
+    "text": "i.e.,\n87 = (n – 1) × 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b23",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      473.4,
+      246.75,
+      494.17
+    ],
+    "reading_order": 23,
+    "text": "i.e.,\nn – 1 = 87",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b24",
+    "type": "formula",
+    "bbox": [
+      238.8,
+      481.89,
+      271.92,
+      501.61
+    ],
+    "reading_order": 24,
+    "text": "3 = 29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b25",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      508.53,
+      283.93,
+      520.79
+    ],
+    "reading_order": 25,
+    "text": "i.e.,\nn = 29 + 1 = 30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      525.57,
+      263.32,
+      537.83
+    ],
+    "reading_order": 26,
+    "text": "So, there are 30 two-digit numbers divisible by 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      548.2,
+      420.09,
+      575.5
+    ],
+    "reading_order": 27,
+    "text": "Example 8 : Find the 11th term from the last term (towards the first term) of the\nAP : 10, 7, 4, . . ., – 62.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b28",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      581.31,
+      288.01,
+      593.98
+    ],
+    "reading_order": 28,
+    "text": "Solution : Here,\na = 10, d = 7 – 10 = – 3, l = – 62,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b29",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      600.21,
+      292.08,
+      612.46
+    ],
+    "reading_order": 29,
+    "text": "where\nl = a + (n – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 11,
+    "block_id": "jemh105_p011_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

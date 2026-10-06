@@ -1,0 +1,223 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n17",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.02,
+      160.07
+    ],
+    "reading_order": 3,
+    "text": "Note that 0 is the only zero of the polynomial x3. Also, from Fig. 2.7, you can see\nthat 0 is the x-coordinate of the only point where the graph of y = x3 intersects the\nx-axis. Similarly, since x3 – x2 = x2 (x – 1),  0 and 1 are the only zeroes of the polynomial\nx3 – x2. Also, from Fig. 2.8, these values are the x-coordinates of the only points\nwhere the graph of y = x3 – x2 intersects the x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      164.85,
+      420.03,
+      190.31
+    ],
+    "reading_order": 4,
+    "text": "From the examples above, we see that there are at most 3 zeroes for any cubic\npolynomial. In other words, any polynomial of degree 3 can have at most three zeroes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      194.91,
+      420.06,
+      233.99
+    ],
+    "reading_order": 6,
+    "text": "Remark : In general, given a polynomial p(x) of degree n, the graph of y = p(x)\nintersects the x-axis at atmost n points. Therefore, a polynomial p(x) of degree n has\nat most n zeroes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      243.63,
+      420.0,
+      269.51
+    ],
+    "reading_order": 7,
+    "text": "Example 1 : Look at the graphs in Fig. 2.9 given below. Each is the graph of y = p(x),\nwhere p(x) is a polynomial. For each of the graphs, find the number of zeroes of p(x).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      215.27,
+      521.79,
+      252.0,
+      534.46
+    ],
+    "reading_order": 8,
+    "text": "Fig. 2.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      549.87,
+      94.56,
+      562.55
+    ],
+    "reading_order": 9,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      567.57,
+      416.29,
+      579.83
+    ],
+    "reading_order": 10,
+    "text": "(i) The number of zeroes is 1 as the graph intersects the x-axis at one point only.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      584.85,
+      401.3,
+      597.11
+    ],
+    "reading_order": 11,
+    "text": "(ii) The number of zeroes is 2 as the graph intersects the x-axis at two points.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      54.02,
+      602.14,
+      228.04,
+      614.39
+    ],
+    "reading_order": 12,
+    "text": "(iii) The number of zeroes is 3. (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 8,
+    "block_id": "jemh102_p008_b13",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 13,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

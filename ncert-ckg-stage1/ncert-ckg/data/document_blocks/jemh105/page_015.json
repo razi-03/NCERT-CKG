@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n63",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b03",
+    "type": "header",
+    "bbox": [
+      55.44,
+      94.57,
+      331.45,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "17. Find the 20th term from the last term of the AP : 3, 8, 13, . . ., 253.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b04",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      110.65,
+      420.05,
+      134.17
+    ],
+    "reading_order": 4,
+    "text": "18. The sum of the 4th and 8th terms of an AP is 24 and the sum of the 6th and 10th terms is\n44.  Find the first three terms of the AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b05",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      138.73,
+      420.01,
+      162.25
+    ],
+    "reading_order": 5,
+    "text": "19. Subba Rao started work in 1995 at an annual salary of ` 5000 and received an increment\nof ` 200 each year. In which year did his income reach ` 7000?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b06",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      166.57,
+      420.01,
+      191.05
+    ],
+    "reading_order": 6,
+    "text": "20. Ramkali saved ` 5 in the first week of a year and then increased her weekly savings by\n` 1.75. If in the nth week, her weekly savings become ` 20.75, find n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b08",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      200.7,
+      219.12,
+      214.52
+    ],
+    "reading_order": 8,
+    "text": "5.4 Sum of First n Terms of an AP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b09",
+    "type": "figure",
+    "bbox": [
+      242.37,
+      208.0,
+      400.83,
+      351.41
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      219.57,
+      204.11,
+      350.63
+    ],
+    "reading_order": 10,
+    "text": "Let us consider the situation again\ngiven in Section 5.1 in which Shakila\nput ` 100 into her daughter’s money\nbox when she was one year old,\n` 150 on her second birthday,\n` 200 on her third birthday and will\ncontinue in the same way. How much\nmoney will be collected in the money\nbox by the time her daughter is 21\nyears old?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      355.65,
+      420.07,
+      433.91
+    ],
+    "reading_order": 11,
+    "text": "Here, the amount of money (in `) put in the money box on her first, second, third,\nfourth . . . birthday were respectively 100, 150, 200, 250, . . . till her 21st birthday. To\nfind the total amount in the money box on her 21st birthday, we will have to write each\nof the 21 numbers in the list above and then add them up. Don’t you think it would be\na tedious and time consuming process? Can we make the process shorter? This would\nbe possible if we can find a method for getting this sum. Let us see.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      438.69,
+      420.04,
+      490.55
+    ],
+    "reading_order": 12,
+    "text": "We consider the problem given to Gauss (about whom you read in\nChapter 1), to solve when he was just 10 years old. He was asked to find the sum of\nthe positive integers from 1 to 100. He immediately replied that the sum is 5050. Can\nyou guess how did he do? He wrote :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      494.62,
+      260.44,
+      522.95
+    ],
+    "reading_order": 13,
+    "text": "S = 1 + 2 + 3 + . . . + 99 + 100\nAnd then, reversed the numbers to write",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      527.02,
+      260.4,
+      555.36
+    ],
+    "reading_order": 14,
+    "text": "S = 100 + 99 + . . . + 3 + 2 + 1\nAdding these two, he got",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b15",
+    "type": "paragraph",
+    "bbox": [
+      117.84,
+      559.43,
+      406.57,
+      587.76
+    ],
+    "reading_order": 15,
+    "text": "2S = (100 + 1) + (99 + 2) + . . . + (3 + 98) + (2 + 99) + (1 + 100)\n= 101 + 101 + . . . + 101 + 101\n(100 times)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      592.63,
+      318.74,
+      622.09
+    ],
+    "reading_order": 16,
+    "text": "So,\nS = 100\n101\n5050\n2\n\n\n, i.e., the sum = 5050.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 15,
+    "block_id": "jemh105_p015_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

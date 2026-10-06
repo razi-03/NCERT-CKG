@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_028_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "198\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b03",
+    "type": "paragraph",
+    "bbox": [
+      192.48,
+      102.3,
+      275.75,
+      116.12
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 13.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      122.89,
+      420.04,
+      158.41
+    ],
+    "reading_order": 4,
+    "text": "1. The following frequency distribution gives the monthly consumption of electricity of\n68 consumers of a locality. Find the median, mean and mode of the data and compare\nthem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b05",
+    "type": "paragraph",
+    "bbox": [
+      91.44,
+      171.85,
+      365.51,
+      183.37
+    ],
+    "reading_order": 5,
+    "text": "Monthly consumption (in units)\nNumber of consumers",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_028_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b07",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      196.53,
+      323.0,
+      208.79
+    ],
+    "reading_order": 7,
+    "text": "65 - 85\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b08",
+    "type": "paragraph",
+    "bbox": [
+      140.64,
+      218.37,
+      323.0,
+      230.63
+    ],
+    "reading_order": 8,
+    "text": "85 - 105\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b09",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      240.45,
+      322.52,
+      252.71
+    ],
+    "reading_order": 9,
+    "text": "105 - 125\n13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b10",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      262.53,
+      322.52,
+      274.79
+    ],
+    "reading_order": 10,
+    "text": "125 - 145\n20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b11",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      284.61,
+      322.52,
+      296.87
+    ],
+    "reading_order": 11,
+    "text": "145 - 165\n14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b12",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      306.69,
+      323.0,
+      318.95
+    ],
+    "reading_order": 12,
+    "text": "165 - 185\n8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b13",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      328.77,
+      323.0,
+      341.03
+    ],
+    "reading_order": 13,
+    "text": "185 - 205\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      357.13,
+      389.14,
+      368.65
+    ],
+    "reading_order": 14,
+    "text": "2. If the median of the distribution given below is 28.5, find the values of x and y.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b15",
+    "type": "paragraph",
+    "bbox": [
+      127.2,
+      382.33,
+      342.01,
+      393.85
+    ],
+    "reading_order": 15,
+    "text": "Class interval\nFrequency",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b16",
+    "type": "paragraph",
+    "bbox": [
+      144.0,
+      406.77,
+      323.0,
+      419.03
+    ],
+    "reading_order": 16,
+    "text": "0 -  10\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b17",
+    "type": "paragraph",
+    "bbox": [
+      141.84,
+      428.85,
+      322.44,
+      441.11
+    ],
+    "reading_order": 17,
+    "text": "10 -  20\nx",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b18",
+    "type": "paragraph",
+    "bbox": [
+      141.84,
+      450.93,
+      322.52,
+      463.19
+    ],
+    "reading_order": 18,
+    "text": "20 -  30\n20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b19",
+    "type": "paragraph",
+    "bbox": [
+      141.84,
+      472.77,
+      322.52,
+      485.03
+    ],
+    "reading_order": 19,
+    "text": "30 -  40\n15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b20",
+    "type": "paragraph",
+    "bbox": [
+      142.8,
+      494.85,
+      322.44,
+      507.11
+    ],
+    "reading_order": 20,
+    "text": "40 - 50\ny",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b21",
+    "type": "paragraph",
+    "bbox": [
+      141.36,
+      516.93,
+      323.0,
+      529.19
+    ],
+    "reading_order": 21,
+    "text": "50 -  60\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b22",
+    "type": "paragraph",
+    "bbox": [
+      145.92,
+      539.53,
+      325.16,
+      551.05
+    ],
+    "reading_order": 22,
+    "text": "Total\n60",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b23",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      569.53,
+      420.06,
+      581.05
+    ],
+    "reading_order": 23,
+    "text": "3. A life insurance agent found the following data for distribution of ages of 100 policy",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b24",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      585.03,
+      420.03,
+      611.05
+    ],
+    "reading_order": 24,
+    "text": "holders. Calculate the median age, if policies are given only to persons having age 18\nyears onwards but less than 60 year.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 28,
+    "block_id": "jemh113_p028_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

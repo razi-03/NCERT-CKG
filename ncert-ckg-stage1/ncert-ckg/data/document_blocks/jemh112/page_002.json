@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "162\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      276.11,
+      186.47
+    ],
+    "reading_order": 3,
+    "text": "Again, you may have seen an object like the\none in Fig. 12.3. Can you name it? A test tube, right!\nYou would have used one in your science laboratory.\nThis tube is also a combination of a cylinder and a\nhemisphere. Similarly, while travelling, you may have\nseen some big and beautiful buildings or monuments\nmade up of a combination of solids mentioned above.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      191.49,
+      276.03,
+      243.35
+    ],
+    "reading_order": 5,
+    "text": "If for some reason you wanted to find the\nsurface areas, or volumes, or capacities of such\nobjects, how would you do it? We cannot classify\nthese under any of the solids you have already studied.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      326.16,
+      227.32,
+      368.88,
+      239.99
+    ],
+    "reading_order": 6,
+    "text": "Fig. 12.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      248.13,
+      420.03,
+      273.59
+    ],
+    "reading_order": 7,
+    "text": "In this chapter, you will see how to find surface areas and volumes of such\nobjects.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b08",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      283.02,
+      273.83,
+      296.84
+    ],
+    "reading_order": 8,
+    "text": "12.2 Surface Area of a Combination of Solids",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      302.13,
+      420.06,
+      367.19
+    ],
+    "reading_order": 9,
+    "text": "Let us consider the container seen in Fig. 12.2. How do we find the surface area of\nsuch a solid? Now, whenever we come across a new problem, we first try to see, if\nwe can break it down into smaller problems, we have earlier solved. We can see that\nthis solid is made up of a cylinder with two hemispheres stuck at either end. It would\nlook like what we have in Fig. 12.4, after we put the pieces all together.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      212.39,
+      425.31,
+      255.12,
+      437.98
+    ],
+    "reading_order": 10,
+    "text": "Fig. 12.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      446.37,
+      420.12,
+      471.83
+    ],
+    "reading_order": 11,
+    "text": "If we consider the surface of the newly formed object, we would be able to see\nonly the curved surfaces of the two hemispheres and the curved surface of the cylinder.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      476.86,
+      420.0,
+      502.31
+    ],
+    "reading_order": 12,
+    "text": "So, the total surface area of the new solid is the sum of the curved surface\nareas of each of the individual parts. This gives,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      507.34,
+      350.15,
+      519.59
+    ],
+    "reading_order": 13,
+    "text": "TSA of new solid = CSA of one hemisphere + CSA of cylinder",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      524.62,
+      284.18,
+      536.87
+    ],
+    "reading_order": 14,
+    "text": "+ CSA of other hemisphere",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      541.65,
+      420.0,
+      567.11
+    ],
+    "reading_order": 15,
+    "text": "where TSA, CSA stand for ‘Total Surface Area’ and ‘Curved Surface Area’\nrespectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      572.14,
+      420.04,
+      610.79
+    ],
+    "reading_order": 16,
+    "text": "Let us now consider another situation. Suppose we are making a toy by putting\ntogether a hemisphere and a cone. Let us see the steps that we would be going\nthrough.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 2,
+    "block_id": "jemh112_p002_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

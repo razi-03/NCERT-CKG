@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n219",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.07,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Cricket World Cup Final?’ is a question, not a statement. ‘Go and finish your homework’\nis an order, not a statement. ‘What a fantastic goal!’ is an exclamation, not a statement.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      130.29,
+      347.11,
+      142.54
+    ],
+    "reading_order": 4,
+    "text": "Remember, in general, statements can be one of the following:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      146.63,
+      145.44,
+      159.64
+    ],
+    "reading_order": 5,
+    "text": "always true",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      162.47,
+      147.61,
+      175.48
+    ],
+    "reading_order": 6,
+    "text": "always false",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      178.55,
+      143.28,
+      191.56
+    ],
+    "reading_order": 8,
+    "text": "ambiguous",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      195.15,
+      420.0,
+      234.23
+    ],
+    "reading_order": 9,
+    "text": "In Class IX, you have also studied that in mathematics, a statement is\nacceptable only if it is either always true or always false. So, ambiguous sentences\nare not considered as mathematical statements.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      239.25,
+      312.74,
+      251.51
+    ],
+    "reading_order": 10,
+    "text": "Let us review our understanding with a few examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      255.88,
+      420.05,
+      281.75
+    ],
+    "reading_order": 11,
+    "text": "Example 1 : State whether the following statements are always true, always false or\nambiguous. Justify your answers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      284.85,
+      335.33,
+      342.7
+    ],
+    "reading_order": 12,
+    "text": "(i) The Sun orbits the Earth.\n(ii) Vehicles have four wheels.\n(iii) The speed of light is approximately 3 × 105 km/s.\n(iv) A road to Kolkata will be closed from November to March.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.43,
+      345.57,
+      174.01,
+      357.83
+    ],
+    "reading_order": 13,
+    "text": "(v) All humans are mortal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      362.44,
+      94.56,
+      375.11
+    ],
+    "reading_order": 14,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      380.14,
+      420.02,
+      392.39
+    ],
+    "reading_order": 15,
+    "text": "(i) This statement is always false, since astronomers have established that the Earth",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.71,
+      393.34,
+      136.55,
+      405.59
+    ],
+    "reading_order": 16,
+    "text": "orbits the Sun.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      410.38,
+      420.05,
+      422.63
+    ],
+    "reading_order": 17,
+    "text": "(ii) This statement is ambiguous, because we cannot decide if it is always true or",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.71,
+      423.58,
+      420.01,
+      449.03
+    ],
+    "reading_order": 18,
+    "text": "always false. This depends on what the vehicle is — vehicles can have 2, 3, 4, 6,\n10, etc., wheels.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b19",
+    "type": "paragraph",
+    "bbox": [
+      53.99,
+      454.06,
+      315.61,
+      466.31
+    ],
+    "reading_order": 19,
+    "text": "(iii) This statement is always true, as verified by physicists.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b20",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      471.34,
+      420.02,
+      483.59
+    ],
+    "reading_order": 20,
+    "text": "(iv) This statement is ambiguous, because it is not clear which road is being referred",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b21",
+    "type": "paragraph",
+    "bbox": [
+      72.71,
+      484.54,
+      84.0,
+      496.79
+    ],
+    "reading_order": 21,
+    "text": "to.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b22",
+    "type": "paragraph",
+    "bbox": [
+      55.43,
+      501.82,
+      413.31,
+      514.07
+    ],
+    "reading_order": 22,
+    "text": "(v) This statement is always true, since every human being has to die some time.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      523.72,
+      420.05,
+      549.59
+    ],
+    "reading_order": 23,
+    "text": "Example 2 : State whether the following statements are true or false, and justify your\nanswers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b24",
+    "type": "paragraph",
+    "bbox": [
+      53.29,
+      552.46,
+      248.9,
+      610.32
+    ],
+    "reading_order": 24,
+    "text": "(i) All equilateral triangles are isosceles.\n(ii) Some isosceles triangles are equilateral.\n(iii) All isosceles triangles are equilateral.\n(iv) Some rational numbers are integers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 2,
+    "block_id": "jemh1a1_p002_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

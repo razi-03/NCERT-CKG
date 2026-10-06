@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "186\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.05,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "of the students. In the first situation, the mean is required and in the second situation,\nthe mode is required.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      129.87,
+      420.06,
+      168.95
+    ],
+    "reading_order": 4,
+    "text": "Activity 3 : Continuing with the same groups as formed in Activity 2 and the situations\nassigned to the groups. Ask each group to find the mode of the data. They should also\ncompare this with the mean, and interpret the meaning of both.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      173.56,
+      420.06,
+      199.43
+    ],
+    "reading_order": 5,
+    "text": "Remark : The mode can also be calculated for grouped data with unequal class sizes.\nHowever, we shall not be discussing it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b07",
+    "type": "paragraph",
+    "bbox": [
+      192.48,
+      213.9,
+      275.75,
+      227.72
+    ],
+    "reading_order": 7,
+    "text": "EXERCISE 13.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      234.49,
+      420.03,
+      246.01
+    ],
+    "reading_order": 8,
+    "text": "1. The following table shows the ages of the patients admitted in a hospital during a year:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b09",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      256.29,
+      412.08,
+      268.55
+    ],
+    "reading_order": 9,
+    "text": "Age (in years)\n5 - 15\n15 - 25\n25 - 35\n35 - 45\n45 - 55\n55 - 65",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      279.37,
+      401.72,
+      290.89
+    ],
+    "reading_order": 10,
+    "text": "Number of patients\n6\n11\n21\n23\n14\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b11",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      301.11,
+      420.05,
+      324.25
+    ],
+    "reading_order": 11,
+    "text": "Find the mode and the mean of the data given above. Compare and interpret the two\nmeasures of central tendency.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      328.81,
+      420.04,
+      352.33
+    ],
+    "reading_order": 12,
+    "text": "2. The following data gives the information on the observed lifetimes (in hours) of 225\nelectrical components :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b13",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      364.29,
+      412.08,
+      376.55
+    ],
+    "reading_order": 13,
+    "text": "Lifetimes (in hours)\n0 - 20\n20 - 40\n40 - 60\n60 - 80\n80 - 100\n100 - 120",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b14",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      386.41,
+      399.32,
+      397.93
+    ],
+    "reading_order": 14,
+    "text": "Frequency\n10\n35\n52\n61\n38\n29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b15",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      412.95,
+      273.87,
+      424.09
+    ],
+    "reading_order": 15,
+    "text": "Determine the modal lifetimes of the components.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      428.41,
+      420.04,
+      463.93
+    ],
+    "reading_order": 16,
+    "text": "3. The following data gives the distribution of total monthly household expenditure of 200\nfamilies of a village. Find the modal monthly expenditure of the families. Also, find the\nmean monthly expenditure :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b17",
+    "type": "paragraph",
+    "bbox": [
+      119.52,
+      477.61,
+      359.52,
+      489.13
+    ],
+    "reading_order": 17,
+    "text": "Expenditure (in `)\nNumber of families",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b18",
+    "type": "paragraph",
+    "bbox": [
+      133.92,
+      497.49,
+      323.0,
+      608.39
+    ],
+    "reading_order": 18,
+    "text": "1000 - 1500\n24\n1500 - 2000\n40\n2000 - 2500\n33\n2500 - 3000\n28\n3000 - 3500\n30\n3500 - 4000\n22\n4000 - 4500\n16\n4500 - 5000\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 16,
+    "block_id": "jemh113_p016_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

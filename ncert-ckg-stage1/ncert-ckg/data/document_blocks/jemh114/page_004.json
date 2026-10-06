@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n205",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.03,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Let Y be the event ‘the ball taken out is yellow’, B be the event ‘the ball taken\nout is blue’, and R be the event ‘the ball taken out is red’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      125.49,
+      239.98,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "Now, the number of possible outcomes = 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      142.53,
+      309.85,
+      154.79
+    ],
+    "reading_order": 5,
+    "text": "(i) The number of outcomes favourable to the event Y = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      161.16,
+      165.87,
+      181.94
+    ],
+    "reading_order": 6,
+    "text": "So,\nP(Y) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      160.56,
+      176.99,
+      166.12,
+      189.37
+    ],
+    "reading_order": 8,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      193.32,
+      165.87,
+      214.09
+    ],
+    "reading_order": 9,
+    "text": "Similarly,\n(ii) P(R) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b10",
+    "type": "formula",
+    "bbox": [
+      160.56,
+      193.32,
+      262.22,
+      221.53
+    ],
+    "reading_order": 10,
+    "text": "3 and (iii) P(B) = 1\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      223.48,
+      99.84,
+      236.15
+    ],
+    "reading_order": 11,
+    "text": "Remarks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      241.17,
+      420.07,
+      279.83
+    ],
+    "reading_order": 12,
+    "text": "1. An event having only one outcome of the experiment is called an elementary\nevent. In Example 1, both the events E and F are elementary events. Similarly, in\nExample 2, all the three events, Y, B and R are elementary events.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      284.85,
+      260.88,
+      297.11
+    ],
+    "reading_order": 13,
+    "text": "2. In Example 1, we note that : P(E) + P(F) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      302.14,
+      283.49,
+      314.39
+    ],
+    "reading_order": 14,
+    "text": "In Example 2, we note that : P(Y) + P(R) + P(B) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      319.0,
+      420.03,
+      344.87
+    ],
+    "reading_order": 15,
+    "text": "Observe that the sum of the probabilities of all the elementary events of\nan experiment is 1. This is true in general also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      354.28,
+      420.06,
+      393.35
+    ],
+    "reading_order": 16,
+    "text": "Example 3 : Suppose we throw a die once. (i) What is the probability of getting a\nnumber greater than 4 ? (ii) What is the probability of getting a number less than or\nequal to 4 ?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      398.91,
+      420.04,
+      437.99
+    ],
+    "reading_order": 17,
+    "text": "Solution : (i) Here, let E be the event ‘getting a number greater than 4’. The number\nof possible outcomes is six : 1, 2, 3, 4, 5 and 6, and the outcomes favourable to E are 5\nand 6. Therefore, the number of outcomes favourable to E is 2. So,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      445.32,
+      341.56,
+      489.35
+    ],
+    "reading_order": 18,
+    "text": "6 = 1\n3\n(ii) Let F be the event ‘getting a number less than or equal to 4’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b19",
+    "type": "formula",
+    "bbox": [
+      150.71,
+      445.32,
+      318.27,
+      466.07
+    ],
+    "reading_order": 19,
+    "text": "P(E) = P(number greater than 4) = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      495.09,
+      196.56,
+      507.34
+    ],
+    "reading_order": 20,
+    "text": "Number of possible outcomes = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      513.33,
+      267.84,
+      525.58
+    ],
+    "reading_order": 21,
+    "text": "Outcomes favourable to the event F are 1, 2, 3, 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      531.57,
+      263.29,
+      543.82
+    ],
+    "reading_order": 22,
+    "text": "So, the number of outcomes favourable to F is 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      549.72,
+      194.19,
+      570.73
+    ],
+    "reading_order": 23,
+    "text": "Therefore,\nP(F) = 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b24",
+    "type": "formula",
+    "bbox": [
+      188.4,
+      549.72,
+      217.47,
+      577.93
+    ],
+    "reading_order": 24,
+    "text": "6 = 2\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 4,
+    "block_id": "jemh114_p004_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

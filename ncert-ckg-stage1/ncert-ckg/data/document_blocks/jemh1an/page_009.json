@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "258\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      192.0,
+      97.11,
+      276.0,
+      108.11
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 11.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      122.29,
+      291.32,
+      148.29
+    ],
+    "reading_order": 4,
+    "text": "1.\n2\n132 cm\n7\n2.\n2\n77 cm\n8\n3.\n2\n154 cm\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      154.0,
+      215.3,
+      164.17
+    ],
+    "reading_order": 5,
+    "text": "4.\n(i) 28.5 cm2\n(ii) 235.5 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b06",
+    "type": "formula",
+    "bbox": [
+      267.6,
+      162.07,
+      333.14,
+      191.13
+    ],
+    "reading_order": 6,
+    "text": "\n\n−\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b07",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      165.18,
+      349.9,
+      189.37
+    ],
+    "reading_order": 7,
+    "text": "5.\n(i) 22 cm\n(ii) 231 cm2\n(iii)\n2\n441 3\n231\ncm\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      200.08,
+      294.74,
+      210.25
+    ],
+    "reading_order": 9,
+    "text": "6. 20.4375 cm2 ; 686.0625 cm2\n7. 88.44 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      318.24,
+      218.28,
+      355.88,
+      242.39
+    ],
+    "reading_order": 10,
+    "text": "2\n385 mm\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      225.52,
+      311.04,
+      235.69
+    ],
+    "reading_order": 11,
+    "text": "8.\n(i) 19.625 m2\n(ii) 58.875 cm2\n9. (i) 285 mm\n(ii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      251.65,
+      373.46,
+      277.11
+    ],
+    "reading_order": 12,
+    "text": "10.\n2\n22275 cm\n28\n11.\n2\n158125 cm\n126\n12. 189.97 km2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      282.41,
+      219.38,
+      293.77
+    ],
+    "reading_order": 13,
+    "text": "13. ` 162.68\n14. D",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      326.55,
+      276.24,
+      337.55
+    ],
+    "reading_order": 14,
+    "text": "EXERCISE 12.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      346.0,
+      335.3,
+      356.17
+    ],
+    "reading_order": 15,
+    "text": "1. 160 cm2\n2. 572 cm2\n3. 214.5 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b16",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      362.08,
+      266.18,
+      372.25
+    ],
+    "reading_order": 16,
+    "text": "4. Greatest diameter = 7 cm,surface area = 332.5 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b17",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      383.64,
+      356.4,
+      407.76
+    ],
+    "reading_order": 17,
+    "text": "5.\n(\n)\n2\n1\n24\n4 l\nπ +\n6. 220 mm2\n7. 44 m2, ` 22000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      414.64,
+      233.3,
+      424.81
+    ],
+    "reading_order": 18,
+    "text": "8. 18 cm2\n9. 374 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b19",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      441.51,
+      276.24,
+      452.51
+    ],
+    "reading_order": 19,
+    "text": "EXERCISE 12.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b20",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      460.72,
+      92.9,
+      471.13
+    ],
+    "reading_order": 20,
+    "text": "1. π cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b21",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      477.04,
+      420.01,
+      487.21
+    ],
+    "reading_order": 21,
+    "text": "2. 66 cm3. Volume of the air inside the model = Volume of air inside (cone + cylinder + cone)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b22",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      493.93,
+      200.04,
+      519.39
+    ],
+    "reading_order": 22,
+    "text": "= \n2\n2\n2\n1\n2\n1\n1\n1\n,\n3\n3\nr h\nr h\nr h\n\n\nπ\n+ π\n+\nπ\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b23",
+    "type": "paragraph",
+    "bbox": [
+      202.32,
+      501.37,
+      420.0,
+      513.8
+    ],
+    "reading_order": 23,
+    "text": "where r is the radius of the cone and the cylinder, h1 is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b24",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      524.41,
+      370.66,
+      536.84
+    ],
+    "reading_order": 24,
+    "text": "the height (length) of the cone and h2 is the height (length) of the cylinder.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b25",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      545.89,
+      236.26,
+      569.99
+    ],
+    "reading_order": 25,
+    "text": "Required Volume = \n(\n)\n2\n1\n2\n1\n1\n3\n3\nr\nh\nh\nh\nπ\n+\n+\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b26",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      577.84,
+      411.6,
+      588.01
+    ],
+    "reading_order": 26,
+    "text": "3. 338 cm3\n4. 523.53 cm3\n5. 100\n6. 892.26 kg",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b27",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      593.68,
+      344.98,
+      603.85
+    ],
+    "reading_order": 27,
+    "text": "7. 1.131 m3 (approx.)\n8. Not correct. Correct answer is 346.51 cm3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 9,
+    "block_id": "jemh1an_p009_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

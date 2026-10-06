@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n233",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.73,
+      420.05,
+      134.39
+    ],
+    "reading_order": 3,
+    "text": "In mathematics, especially in geometry, you will come across many situations\nwhere p  q is true, and you will have to decide if the converse, i.e., q  p, is also\ntrue.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      139.24,
+      420.03,
+      165.59
+    ],
+    "reading_order": 4,
+    "text": "Example 14 : State the converses of the following statements. In each case, also\ndecide whether the converse is true or false.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b05",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      169.18,
+      420.03,
+      197.27
+    ],
+    "reading_order": 5,
+    "text": "(i) If n is an even integer, then 2n + 1 is an odd integer.\n(ii) If the decimal expansion of a real number is terminating, then the number is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b07",
+    "type": "paragraph",
+    "bbox": [
+      53.99,
+      198.94,
+      420.05,
+      226.79
+    ],
+    "reading_order": 7,
+    "text": "rational.\n(iii) If a transversal intersects two parallel lines, then each pair of corresponding",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b08",
+    "type": "paragraph",
+    "bbox": [
+      53.27,
+      228.47,
+      420.03,
+      256.56
+    ],
+    "reading_order": 8,
+    "text": "angles is equal.\n(iv) If each pair of opposite sides of a quadrilateral is equal, then the quadrilateral is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b09",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      257.99,
+      393.61,
+      286.08
+    ],
+    "reading_order": 9,
+    "text": "a parallelogram.\n(v) If two triangles are congruent, then their corresponding angles are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      291.18,
+      94.56,
+      303.85
+    ],
+    "reading_order": 10,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b11",
+    "type": "formula",
+    "bbox": [
+      58.56,
+      307.41,
+      420.04,
+      319.69
+    ],
+    "reading_order": 11,
+    "text": "(i) The converse is ‘If 2n + 1 is an odd integer, then n is an even integer.’ This is a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      321.34,
+      420.06,
+      349.19
+    ],
+    "reading_order": 12,
+    "text": "false statement  (for example, 15 = 2(7) + 1, and 7 is odd).\n(ii) ‘If a real number is rational, then its decimal expansion is terminating’, is the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b13",
+    "type": "paragraph",
+    "bbox": [
+      53.99,
+      350.86,
+      420.03,
+      392.64
+    ],
+    "reading_order": 13,
+    "text": "converse. This is a false statement, because a rational number can also have a\nnon-terminating recurring decimal expansion.\n(iii) The converse is ‘If a transversal intersects two lines in such a way that each",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b14",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      394.31,
+      420.06,
+      436.09
+    ],
+    "reading_order": 14,
+    "text": "pair of corresponding angles are equal, then the two lines are parallel.’ We have\nassumed, by Axiom 6.4 of your Class IX textbook, that this statement is true.\n(iv) ‘If a quadrilateral is a parallelogram, then each pair of its opposite sides is equal’,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      437.76,
+      420.0,
+      465.61
+    ],
+    "reading_order": 15,
+    "text": "is the converse. This is true (Theorem 8.1, Class IX).\n(v) ‘If the corresponding angles in two triangles are equal, then they are congruent’,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      467.29,
+      420.1,
+      493.22
+    ],
+    "reading_order": 16,
+    "text": "is the converse. This statement is false. We leave it to you to find suitable counter-\nexamples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b17",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      507.9,
+      276.49,
+      521.72
+    ],
+    "reading_order": 17,
+    "text": "EXERCISE A1.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      528.49,
+      321.64,
+      596.17
+    ],
+    "reading_order": 18,
+    "text": "1. Write the converses of the following statements.\n(i) If it is hot in Tokyo, then Sharan sweats a lot.\n(ii) If Shalini is hungry, then her stomach grumbles.\n(iii) If Jaswant has a scholarship, then she can get a degree.\n(iv) If a plant has flowers, then it is alive.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b19",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      598.95,
+      245.33,
+      610.09
+    ],
+    "reading_order": 19,
+    "text": "(v) If an animal is a cat, then it has a tail.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 16,
+    "block_id": "jemh1a1_p016_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

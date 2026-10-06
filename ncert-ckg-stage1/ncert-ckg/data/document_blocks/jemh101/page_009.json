@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.96,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "REAL NUMBERS\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      98.37,
+      266.13,
+      113.0
+    ],
+    "reading_order": 3,
+    "text": "But this contradicts the fact that \n2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      117.33,
+      221.05,
+      131.96
+    ],
+    "reading_order": 4,
+    "text": "So, we conclude that 3 2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      146.46,
+      274.09,
+      160.28
+    ],
+    "reading_order": 5,
+    "text": "EXERCISE 1.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      171.85,
+      188.9,
+      185.31
+    ],
+    "reading_order": 6,
+    "text": "1. Prove that \n5 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      192.78,
+      206.9,
+      206.01
+    ],
+    "reading_order": 8,
+    "text": "2. Prove that 3\n2 5\n\n is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      213.85,
+      233.77,
+      225.37
+    ],
+    "reading_order": 9,
+    "text": "3. Prove that the following are irrationals :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      231.9,
+      108.73,
+      249.61
+    ],
+    "reading_order": 10,
+    "text": "(i)\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      106.8,
+      237.9,
+      303.64,
+      258.51
+    ],
+    "reading_order": 11,
+    "text": "2\n(ii) 7 5\n(iii) 6\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b12",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      273.66,
+      116.37,
+      287.48
+    ],
+    "reading_order": 12,
+    "text": "1.4 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      293.67,
+      266.89,
+      304.81
+    ],
+    "reading_order": 13,
+    "text": "In this chapter, you have studied the following points:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      310.81,
+      240.01,
+      322.33
+    ],
+    "reading_order": 14,
+    "text": "1. The Fundamental Theorem of Arithmetic :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      328.71,
+      420.04,
+      353.29
+    ],
+    "reading_order": 15,
+    "text": "Every composite number can be expressed (factorised) as a product of primes, and this\nfactorisation is unique, apart from the order in which the prime factors occur.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      359.53,
+      385.55,
+      371.05
+    ],
+    "reading_order": 16,
+    "text": "2. If p is a prime and p divides a2, then p divides a, where a is a positive integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      381.37,
+      225.13,
+      393.65
+    ],
+    "reading_order": 17,
+    "text": "3. To prove that \n2,\n3 are irrationals.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      171.36,
+      427.79,
+      296.64,
+      443.92
+    ],
+    "reading_order": 18,
+    "text": "A NOTE TO THE READER",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b19",
+    "type": "paragraph",
+    "bbox": [
+      68.88,
+      454.53,
+      158.9,
+      466.79
+    ],
+    "reading_order": 19,
+    "text": "You have seen that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b20",
+    "type": "paragraph",
+    "bbox": [
+      68.88,
+      472.5,
+      399.15,
+      512.38
+    ],
+    "reading_order": 20,
+    "text": "HCF ( p, q, r) × LCM (p, q, r)  p × q × r, where p, q, r are positive integers\n(see Example 8). However, the following results hold good for three numbers\np, q and r :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b21",
+    "type": "formula",
+    "bbox": [
+      110.18,
+      523.57,
+      344.71,
+      552.96
+    ],
+    "reading_order": 21,
+    "text": "LCM (p, q, r) =\nHCF( , , )\nHCF( ,\n) HCF( , ) HCF( , )\np q r\np q r\np q\nq r\np r\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b22",
+    "type": "paragraph",
+    "bbox": [
+      240.25,
+      539.41,
+      295.09,
+      553.79
+    ],
+    "reading_order": 22,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b23",
+    "type": "formula",
+    "bbox": [
+      112.56,
+      562.36,
+      352.9,
+      591.62
+    ],
+    "reading_order": 23,
+    "text": "HCF (p, q, r) =\nLCM( , , )\nLCM( , ) LCM( ,\n) LCM( , )\np q r\np q r\np q\nq r\np r\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b24",
+    "type": "paragraph",
+    "bbox": [
+      240.96,
+      577.97,
+      300.62,
+      592.46
+    ],
+    "reading_order": 24,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 9,
+    "block_id": "jemh101_p009_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

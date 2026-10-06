@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n221",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      94.56,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      108.21,
+      365.3,
+      120.47
+    ],
+    "reading_order": 4,
+    "text": "(i) If the diagonals of a parallelogram are equal, then it is a rectangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b05",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      125.49,
+      420.03,
+      137.75
+    ],
+    "reading_order": 5,
+    "text": "(ii) A line joining the mid-points of two sides of a triangle is parallel to the third side.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      54.01,
+      145.41,
+      216.11,
+      157.86
+    ],
+    "reading_order": 6,
+    "text": "(iii)\np is irrational for all primes p.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      164.14,
+      300.76,
+      176.39
+    ],
+    "reading_order": 7,
+    "text": "(iv) All quadratic equations have at most two real roots.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      186.04,
+      420.04,
+      229.19
+    ],
+    "reading_order": 9,
+    "text": "Remark : There can be other ways of restating the statements above. For instance,\n(iii) can also be restated as ‘\np is irrational for all positive integers p which are not a\nperfect square’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      189.84,
+      243.66,
+      278.39,
+      257.48
+    ],
+    "reading_order": 10,
+    "text": "EXERCISE A1.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      264.25,
+      419.81,
+      287.77
+    ],
+    "reading_order": 11,
+    "text": "1. State whether the following statements are always true, always false or ambiguous.\nJustify your answers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      297.75,
+      266.18,
+      308.89
+    ],
+    "reading_order": 12,
+    "text": "(i) All mathematics textbooks are interesting.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b13",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      313.83,
+      372.0,
+      324.97
+    ],
+    "reading_order": 13,
+    "text": "(ii) The distance from the Earth to the Sun is approximately 1.5 × 108 km.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      329.67,
+      209.28,
+      340.81
+    ],
+    "reading_order": 14,
+    "text": "(iii) All human beings grow old.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      345.75,
+      282.73,
+      356.89
+    ],
+    "reading_order": 15,
+    "text": "(iv) The journey from Uttarkashi to Harsil is tiring.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      361.83,
+      329.31,
+      372.97
+    ],
+    "reading_order": 16,
+    "text": "(v) The woman saw an elephant through a pair of binoculars.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      377.29,
+      387.64,
+      388.81
+    ],
+    "reading_order": 17,
+    "text": "2. State whether the following statements are true or false. Justify your answers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      393.75,
+      414.01,
+      404.89
+    ],
+    "reading_order": 18,
+    "text": "(i) All hexagons are polygons.\n(ii) Some polygons are pentagons.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      409.83,
+      419.29,
+      420.97
+    ],
+    "reading_order": 19,
+    "text": "(iii) Not all even numbers are divisible by 2.\n(iv) Some real numbers are irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      425.67,
+      227.29,
+      436.81
+    ],
+    "reading_order": 20,
+    "text": "(v) Not all real numbers are rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      440.63,
+      420.04,
+      464.89
+    ],
+    "reading_order": 21,
+    "text": "3. Let a and b be real numbers such that ab  0. Then which of the following statements are\ntrue? Justify your answers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      469.83,
+      414.73,
+      480.97
+    ],
+    "reading_order": 22,
+    "text": "(i) Both a and b must be zero.\n(ii) Both a and b must be non-zero.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b23",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      485.67,
+      220.56,
+      496.81
+    ],
+    "reading_order": 23,
+    "text": "(iii) Either a or b must be non-zero.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b24",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      501.37,
+      419.83,
+      512.89
+    ],
+    "reading_order": 24,
+    "text": "4. Restate the following statements with appropriate conditions, so that they become true.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b25",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      517.83,
+      338.26,
+      528.97
+    ],
+    "reading_order": 25,
+    "text": "(i) If a2 > b2, then a > b.\n(ii) If x2 = y2 , then x = y.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b26",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      533.67,
+      384.75,
+      544.81
+    ],
+    "reading_order": 26,
+    "text": "(iii) If (x + y)2 = x2 + y2, then x = 0.\n(iv) The diagonals of a quadrilateral",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b27",
+    "type": "paragraph",
+    "bbox": [
+      257.28,
+      545.67,
+      327.71,
+      556.81
+    ],
+    "reading_order": 27,
+    "text": "bisect each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      565.98,
+      184.57,
+      579.8
+    ],
+    "reading_order": 28,
+    "text": "A1.3 Deductive Reasoning",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b29",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      585.09,
+      420.01,
+      610.55
+    ],
+    "reading_order": 29,
+    "text": "In Class IX, you were introduced to the idea of deductive reasoning. Here, we will\nwork with many more examples which will illustrate how deductive reasoning is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 4,
+    "block_id": "jemh1a1_p004_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

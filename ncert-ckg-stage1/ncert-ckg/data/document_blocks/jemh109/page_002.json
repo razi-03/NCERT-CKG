@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.29,
+      420.0,
+      82.29
+    ],
+    "reading_order": 2,
+    "text": "134\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.48,
+      420.07,
+      133.88
+    ],
+    "reading_order": 3,
+    "text": "the angle formed by the line of sight with the horizontal when the point being viewed is\nabove the horizontal level, i.e., the case when we raise our head to look at the object\n(see Fig. 9.2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b04",
+    "type": "figure",
+    "bbox": [
+      147.25,
+      132.05,
+      335.25,
+      245.05
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_04.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      251.28,
+      252.0,
+      262.28
+    ],
+    "reading_order": 6,
+    "text": "Fig. 9.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      271.92,
+      420.06,
+      322.52
+    ],
+    "reading_order": 7,
+    "text": "Now, consider the situation given in Fig. 8.2. The girl sitting on the balcony is\nlooking down at a flower pot placed on a stair of the temple. In this case, the line of\nsight is below the horizontal level. The angle so formed by the line of sight with the\nhorizontal is called the angle of depression.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      328.8,
+      420.07,
+      379.4
+    ],
+    "reading_order": 8,
+    "text": "Thus, the angle of depression of a point on the object being viewed is the angle\nformed by the line of sight with the horizontal when the point is below the horizontal\nlevel, i.e., the case when we lower our head to look at the point being viewed\n(see Fig. 9.3).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b09",
+    "type": "figure",
+    "bbox": [
+      81.05,
+      380.7,
+      374.05,
+      514.75
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      518.4,
+      252.0,
+      529.4
+    ],
+    "reading_order": 10,
+    "text": "Fig. 9.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      539.28,
+      420.04,
+      563.48
+    ],
+    "reading_order": 11,
+    "text": "Now, you may identify the lines of sight, and the angles so formed in Fig. 8.3.\nAre they angles of elevation or angles of depression?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      569.52,
+      420.04,
+      606.92
+    ],
+    "reading_order": 12,
+    "text": "Let us refer to Fig. 9.1 again. If you want to find the height CD of the minar\nwithout actually measuring it, what information do you need? You would need to know\nthe following:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      81.12,
+      613.2,
+      420.06,
+      624.2
+    ],
+    "reading_order": 13,
+    "text": "(i) the distance DE at which the student is standing from the foot of the minar",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 2,
+    "block_id": "jemh109_p002_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

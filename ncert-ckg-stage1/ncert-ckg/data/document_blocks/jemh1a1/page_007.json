@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "224\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b03",
+    "type": "paragraph",
+    "bbox": [
+      117.84,
+      99.15,
+      346.08,
+      111.83
+    ],
+    "reading_order": 3,
+    "text": "Number of points\nNumber of regions",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      121.65,
+      302.86,
+      133.9
+    ],
+    "reading_order": 4,
+    "text": "1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      143.48,
+      302.86,
+      155.74
+    ],
+    "reading_order": 5,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      165.56,
+      302.86,
+      177.82
+    ],
+    "reading_order": 6,
+    "text": "3\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      187.64,
+      302.86,
+      199.89
+    ],
+    "reading_order": 8,
+    "text": "4\n8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      209.47,
+      163.42,
+      221.73
+    ],
+    "reading_order": 9,
+    "text": "5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      231.55,
+      163.42,
+      243.8
+    ],
+    "reading_order": 10,
+    "text": "6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      157.92,
+      253.63,
+      163.42,
+      265.88
+    ],
+    "reading_order": 11,
+    "text": "7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      272.59,
+      420.06,
+      311.73
+    ],
+    "reading_order": 12,
+    "text": "Some of you might have come up with a formula predicting the number of regions\ngiven the number of points. From Class IX, you may remember that this intelligent\nguess is called a ‘conjecture’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      316.76,
+      420.0,
+      329.01
+    ],
+    "reading_order": 13,
+    "text": "Suppose your conjecture is that given ‘n’ points on a circle, there are 2n – 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      329.73,
+      420.09,
+      485.26
+    ],
+    "reading_order": 14,
+    "text": "mutually exclusive regions, created by joining the points with all possible lines. This\nseems an extremely sensible guess, and one can check that if n = 5, we do get 16\nregions. So, having verified this formula for 5 points, are you satisfied that for any n\npoints there are 2n – 1 regions? If so, how would you respond, if someone asked you,\nhow you can be sure about this for n = 25, say? To deal with such questions, you\nwould need a proof which shows beyond doubt that this result is true, or a counter-\nexample to show that this result fails for some ‘n’. Actually, if you are patient and try\nit out for n = 6, you will find that there are 31 regions, and for n = 7 there are 57\nregions. So, n = 6, is a counter-example to the conjecture above. This demonstrates\nthe power of a counter-example. You may recall that in the Class IX we discussed\nthat to disprove a statement, it is enough to come up with a single counter-\nexample.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.03,
+      490.28,
+      420.07,
+      528.7
+    ],
+    "reading_order": 15,
+    "text": "You may have noticed that we insisted on a proof regarding the number\nof regions in spite of verifying the result for n = 1, 2, 3, 4 and 5. Let us consider\na few more examples. You are familiar with the following result (given in Chapter 5):",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b16",
+    "type": "formula",
+    "bbox": [
+      48.03,
+      533.69,
+      420.04,
+      562.79
+    ],
+    "reading_order": 16,
+    "text": "1 + 2 + 3 + ... + n = \n(\n1)\n2\nn n \n. To establish its validity, it is not enough to verify the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      564.7,
+      420.1,
+      616.07
+    ],
+    "reading_order": 17,
+    "text": "result for n = 1, 2, 3, and so on, because there may be some ‘n’ for which this result is\nnot true (just as in the example above, the result failed for n = 6). What we need is a\nproof which establishes its truth beyond doubt. You shall learn a proof for the same in\nhigher classes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 7,
+    "block_id": "jemh1a1_p007_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

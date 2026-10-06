@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "CIRCLES\n149",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.4,
+      261.62,
+      120.73
+    ],
+    "reading_order": 3,
+    "text": "Theorem 10.2 : The lengths of tangents drawn\nfrom an external point to a circle are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      126.88,
+      261.68,
+      177.61
+    ],
+    "reading_order": 4,
+    "text": "Proof : We are given a circle with centre O, a\npoint P lying outside the circle and two tangents\nPQ, PR on the circle from P (see Fig. 10.7). We\nare required to prove that PQ = PR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      183.65,
+      261.63,
+      247.45
+    ],
+    "reading_order": 6,
+    "text": "For this, we join OP, OQ and OR. Then\n∠ OQP and ∠ ORP are right angles, because\nthese are angles between the radii and tangents,\nand according to Theorem 10.1 they are right\nangles. Now in right triangles OQP and ORP,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      329.52,
+      222.88,
+      372.24,
+      233.88
+    ],
+    "reading_order": 7,
+    "text": "Fig. 10.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b08",
+    "type": "formula",
+    "bbox": [
+      203.76,
+      251.81,
+      419.29,
+      262.81
+    ],
+    "reading_order": 8,
+    "text": "OQ = OR\n(Radii of the same circle)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b09",
+    "type": "formula",
+    "bbox": [
+      205.92,
+      268.85,
+      419.28,
+      279.85
+    ],
+    "reading_order": 9,
+    "text": "OP = OP\n(Common)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      283.5,
+      419.28,
+      297.13
+    ],
+    "reading_order": 10,
+    "text": "Therefore,\n∆ OQP ≅∆ ORP\n(RHS)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      303.41,
+      419.28,
+      314.41
+    ],
+    "reading_order": 11,
+    "text": "This gives\nPQ = PR\n(CPCT)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      333.76,
+      92.88,
+      344.76
+    ],
+    "reading_order": 12,
+    "text": "Remarks",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      350.8,
+      403.48,
+      361.93
+    ],
+    "reading_order": 13,
+    "text": "1. The theorem can also be proved by using the Pythagoras Theorem as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      368.1,
+      317.04,
+      379.21
+    ],
+    "reading_order": 14,
+    "text": "PQ2 = OP2 – OQ2 = OP2 – OR2 = PR2 (As OQ = OR)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      385.49,
+      147.85,
+      396.49
+    ],
+    "reading_order": 15,
+    "text": "which gives PQ = PR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      399.9,
+      419.28,
+      426.73
+    ],
+    "reading_order": 16,
+    "text": "2. Note also that ∠ OPQ = ∠ OPR. Therefore, OP is the angle bisector of ∠ QPR,\ni.e., the centre lies on the bisector of the angle between the two tangents.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      433.01,
+      171.85,
+      444.01
+    ],
+    "reading_order": 17,
+    "text": "Let us take some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      454.96,
+      261.63,
+      492.49
+    ],
+    "reading_order": 18,
+    "text": "Example 1 : Prove that in two concentric circles,\nthe chord of the larger circle, which touches the\nsmaller circle, is bisected at the point of contact.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      498.64,
+      261.62,
+      562.57
+    ],
+    "reading_order": 19,
+    "text": "Solution : We are given two concentric circles\nC1 and C2 with centre O and a chord AB of the\nlarger circle C1 which touches the smaller circle\nC2 at the point P (see Fig. 10.8). We need to prove\nthat AP = BP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      568.85,
+      261.62,
+      593.05
+    ],
+    "reading_order": 20,
+    "text": "Let us join OP. Then, AB is a tangent to C2 at P\nand OP is its radius. Therefore, by Theorem 10.1,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      323.52,
+      571.84,
+      366.24,
+      582.84
+    ],
+    "reading_order": 21,
+    "text": "Fig. 10.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b22",
+    "type": "paragraph",
+    "bbox": [
+      122.16,
+      596.7,
+      167.28,
+      610.33
+    ],
+    "reading_order": 22,
+    "text": "OP ⊥AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 6,
+    "block_id": "jemh110_p006_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

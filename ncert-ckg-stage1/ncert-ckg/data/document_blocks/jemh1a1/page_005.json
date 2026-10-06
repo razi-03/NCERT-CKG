@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "222\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.04,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "used to deduce conclusions from given statements that we assume to be true. The\ngiven statements are called ‘premises’ or ‘hypotheses’. We begin with some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      129.87,
+      420.01,
+      155.74
+    ],
+    "reading_order": 4,
+    "text": "Example 5 : Given that Bijapur is in the state of Karnataka, and suppose Shabana\nlives in Bijapur. In which state does Shabana live?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      160.35,
+      224.88,
+      173.02
+    ],
+    "reading_order": 5,
+    "text": "Solution : Here we have two premises:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      81.12,
+      178.05,
+      414.97,
+      190.31
+    ],
+    "reading_order": 7,
+    "text": "(i) Bijapur is in the state of Karnataka\n(ii) Shabana lives in Bijapur",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      195.34,
+      416.89,
+      207.59
+    ],
+    "reading_order": 8,
+    "text": "From these premises, we deduce that Shabana lives in the state of Karnataka.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      216.99,
+      420.06,
+      256.07
+    ],
+    "reading_order": 9,
+    "text": "Example 6 : Given that all mathematics textbooks are interesting, and suppose you\nare reading a mathematics textbook. What can we conclude about the textbook you\nare reading?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      264.03,
+      420.0,
+      276.7
+    ],
+    "reading_order": 10,
+    "text": "Solution : Using the two premises (or hypotheses), we can deduce that you are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      282.44,
+      186.01,
+      294.7
+    ],
+    "reading_order": 11,
+    "text": "reading an interesting textbook.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      300.75,
+      350.95,
+      313.42
+    ],
+    "reading_order": 12,
+    "text": "Example 7 : Given that y = – 6x + 5, and suppose x = 3. What is y?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b13",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      318.03,
+      349.43,
+      330.7
+    ],
+    "reading_order": 13,
+    "text": "Solution : Given the two hypotheses, we get y = – 6 (3) + 5 = – 13.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      340.11,
+      276.04,
+      392.39
+    ],
+    "reading_order": 14,
+    "text": "Example 8 : Given that ABCD is a parallelogram,\nand suppose AD = 5 cm, AB = 7 cm (see Fig. A1.1).\nWhat can you conclude about the lengths of DC and\nBC?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      397.0,
+      420.08,
+      475.67
+    ],
+    "reading_order": 15,
+    "text": "Solution : We are given that ABCD is a parallelogram.\nSo, we deduce that all the properties that hold for a\nparallelogram hold for ABCD. Therefore, in particular,\nthe property that ‘the opposite sides of a parallelogram are equal to each other’, holds.\nSince  we know AD = 5 cm, we can deduce that BC = 5 cm. Similarly, we deduce that\nDC = 7 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b16",
+    "type": "paragraph",
+    "bbox": [
+      330.24,
+      413.07,
+      374.4,
+      425.75
+    ],
+    "reading_order": 16,
+    "text": "Fig. A1.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      480.28,
+      420.03,
+      506.15
+    ],
+    "reading_order": 17,
+    "text": "Remark : In this example, we have seen how we will often need to find out and use\nproperties hidden in a given premise.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      516.28,
+      420.02,
+      529.14
+    ],
+    "reading_order": 18,
+    "text": "Example 9 : Given that \np is irrational for all primes p, and suppose that 19423 is a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      535.65,
+      257.12,
+      549.63
+    ],
+    "reading_order": 19,
+    "text": "prime. What can you conclude about 19423 ?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      555.16,
+      289.69,
+      569.55
+    ],
+    "reading_order": 20,
+    "text": "Solution : We can conclude that 19423 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      573.81,
+      420.05,
+      612.47
+    ],
+    "reading_order": 21,
+    "text": "In the examples above, you might have noticed that we do not know whether the\nhypotheses are true or not. We are assuming that they are true, and then applying\ndeductive reasoning. For instance, in Example 9, we haven’t checked whether 19423",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 5,
+    "block_id": "jemh1a1_p005_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

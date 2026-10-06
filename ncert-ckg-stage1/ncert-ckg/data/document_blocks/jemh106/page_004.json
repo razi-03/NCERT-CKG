@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "76\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.07,
+      146.87
+    ],
+    "reading_order": 3,
+    "text": "Note that the same ratio of the corresponding sides is referred to as the scale\nfactor (or the Representative Fraction) for the polygons. You must have heard that\nworld maps (i.e., global maps) and blue prints for the construction of a building are\nprepared using a suitable scale factor and observing certain conventions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      151.65,
+      420.01,
+      177.11
+    ],
+    "reading_order": 4,
+    "text": "In order to understand similarity of figures more clearly, let us perform the following\nactivity:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      181.71,
+      225.64,
+      314.01
+    ],
+    "reading_order": 6,
+    "text": "Activity 1 :  Place a lighted bulb at a\npoint O on the ceiling  and directly below\nit a table in your classroom. Let us cut a\npolygon, say a quadrilateral ABCD, from\na plane cardboard and place this\ncardboard parallel to the ground between\nthe lighted bulb  and the table. Then a\nshadow of ABCD is cast on the table.\nMark the outline of this shadow as\nABCD (see Fig.6.4).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b07",
+    "type": "figure",
+    "bbox": [
+      229.0,
+      188.5,
+      420.0,
+      380.5
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      316.98,
+      419.96,
+      422.87
+    ],
+    "reading_order": 8,
+    "text": "Note that the quadrilateral ABCD  is\nan enlargement (or magnification) of  the\nquadrilateral ABCD. This is because of\nthe property of light that light propogates\nin a straight line. You may also note that\nA lies on ray OA, B lies on ray OB, C\nlies on  OC and D lies on OD.  Thus, quadrilaterals ABCD  and ABCD are of the\nsame shape but of different sizes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      307.68,
+      375.88,
+      344.4,
+      388.55
+    ],
+    "reading_order": 9,
+    "text": "Fig. 6.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      426.66,
+      420.03,
+      454.17
+    ],
+    "reading_order": 10,
+    "text": "So, quadrilateral  ABCD  is similiar to quadrilateral ABCD. We can also say\nthat quadrilateral ABCD is similar to the quadrilateral ABCD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      456.9,
+      420.08,
+      523.19
+    ],
+    "reading_order": 11,
+    "text": "Here, you can also note that vertex A corresponds to vertex A, vertex B\ncorresponds to vertex B, vertex C corresponds to vertex C and vertex  D corresponds\nto vertex D. Symbolically, these correspondences are represented as A A, B B,\nC C and D D. By actually measuring the angles and the sides of the two\nquadrilaterals, you may verify that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b12",
+    "type": "formula",
+    "bbox": [
+      72.01,
+      526.98,
+      329.99,
+      541.29
+    ],
+    "reading_order": 12,
+    "text": "(i)  A =  A,  B =  B,  C =  C,  D =  D and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      545.68,
+      221.84,
+      573.95
+    ],
+    "reading_order": 13,
+    "text": "(ii)  AB\nBC\nCD\nDA\nA B\nB C\nC D\nD A\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      224.4,
+      550.29,
+      227.15,
+      562.55
+    ],
+    "reading_order": 14,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      576.45,
+      420.08,
+      615.11
+    ],
+    "reading_order": 15,
+    "text": "This again emphasises that two polygons of the same number of sides are\nsimilar, if (i) all the corresponding angles are equal and (ii) all the corresponding\nsides are in the same ratio (or proportion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 4,
+    "block_id": "jemh106_p004_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

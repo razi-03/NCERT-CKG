@@ -1,0 +1,223 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.01,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Case (iii) : Here, the graph is either completely above the x-axis or completely below\nthe x-axis. So, it does not cut the x-axis at any point (see Fig. 2.5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      215.29,
+      351.39,
+      252.01,
+      364.06
+    ],
+    "reading_order": 5,
+    "text": "Fig. 2.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b06",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      372.04,
+      342.73,
+      384.71
+    ],
+    "reading_order": 6,
+    "text": "So, the quadratic polynomial ax2 + bx + c has no zero in this case.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      389.73,
+      420.09,
+      428.39
+    ],
+    "reading_order": 7,
+    "text": "So, you can see geometrically that a quadratic polynomial can have either two\ndistinct zeroes or two equal zeroes (i.e., one zero), or no zero. This also means that a\npolynomial of degree 2 has atmost two zeroes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      433.42,
+      420.01,
+      485.27
+    ],
+    "reading_order": 8,
+    "text": "Now, what do you expect the geometrical meaning of the zeroes of a cubic\npolynomial to be? Let us find out. Consider the cubic polynomial x3 – 4x. To see what\nthe graph of y = x3 – 4x looks like, let us list a few values of y corresponding to a few\nvalues for x as shown in Table 2.2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      211.42,
+      497.31,
+      256.31,
+      509.98
+    ],
+    "reading_order": 9,
+    "text": "Table 2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      98.38,
+      526.53,
+      354.21,
+      538.79
+    ],
+    "reading_order": 10,
+    "text": "x\n–2\n–1\n0\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b11",
+    "type": "formula",
+    "bbox": [
+      98.4,
+      553.65,
+      354.22,
+      565.91
+    ],
+    "reading_order": 11,
+    "text": "y = x3 – 4x\n0\n3\n0\n–3\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      587.73,
+      420.03,
+      613.19
+    ],
+    "reading_order": 12,
+    "text": "Locating the points of the table on a graph paper and drawing the graph, we see\nthat the graph of y = x3 – 4x actually looks like the one given in Fig. 2.6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 6,
+    "block_id": "jemh102_p006_b13",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 13,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

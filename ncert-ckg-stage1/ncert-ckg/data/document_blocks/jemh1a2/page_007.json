@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n245",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.83,
+      420.03,
+      121.42
+    ],
+    "reading_order": 3,
+    "text": "Step 4 (Interpreting the solution) : Since the probability of getting the sum 7 is the\nhighest, you should repeatedly guess the number seven.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      126.51,
+      420.06,
+      180.71
+    ],
+    "reading_order": 4,
+    "text": "Step 5 (Validating the model) : Toss a pair of dice a large number of times and\nprepare a relative frequency table. Compare the relative frequencies with the\ncorresponding probabilities. If these are not close, then possibly the dice are biased.\nThen, we could obtain data to evaluate the number towards which the bias is.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      186.22,
+      370.56,
+      198.48
+    ],
+    "reading_order": 6,
+    "text": "Before going to the next example, you may need some background.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      203.99,
+      420.1,
+      271.46
+    ],
+    "reading_order": 7,
+    "text": "Not having the money you want when you need it, is a common experience for\nmany people. Whether it is having enough money for buying essentials for daily living,\nor for buying comforts, we always require money. To enable the customers with limited\nfunds to purchase goods like scooters, refrigerators, televisions, cars, etc., a scheme\nknown as an instalment scheme (or plan) is introduced by traders.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      276.97,
+      420.09,
+      372.06
+    ],
+    "reading_order": 8,
+    "text": "Sometimes a trader introduces an instalment scheme as a marketing strategy to\nallure customers to purchase these articles. Under the instalment scheme, the customer\nis not required to make full payment of the article at the time of buying it. She/he is\nallowed to pay a part of it at the time of purchase, and the rest can be paid in instalments,\nwhich could be monthly, quarterly, half-yearly, or even yearly. Of course, the buyer\nwill have to pay more in the instalment plan, because the seller is going to charge some\ninterest on account of the payment made at a later date (called deferred payment).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      377.8,
+      420.02,
+      403.74
+    ],
+    "reading_order": 9,
+    "text": "Before we take a few examples to understand the instalment scheme, let us\nunderstand the most frequently used terms related to this concept.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      409.25,
+      420.05,
+      463.04
+    ],
+    "reading_order": 10,
+    "text": "The cash price of an article is the amount which a customer has to pay as full\npayment of the article at the time it is purchased. Cash down payment is the amount\nwhich a customer has to pay as part payment of the price of an article at the time of\npurchase.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      468.13,
+      420.09,
+      508.41
+    ],
+    "reading_order": 11,
+    "text": "Remark : If the instalment scheme is such that the remaining payment is completely\nmade within one year of the purchase of the article, then simple interest is charged on\nthe deferred payment.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.88,
+      527.84,
+      411.17,
+      581.52
+    ],
+    "reading_order": 12,
+    "text": "In the past, charging interest on borrowed money was often considered evil, and,\nin particular, was long prohibited. One way people got around the law against\npaying interest was to borrow in one currency and repay in another, the interest\nbeing disguised in the exchange rate.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      596.62,
+      350.24,
+      608.88
+    ],
+    "reading_order": 13,
+    "text": "Let us now come to a related mathematical modelling problem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 7,
+    "block_id": "jemh1a2_p007_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

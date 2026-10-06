@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n235",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b03",
+    "type": "header",
+    "bbox": [
+      61.44,
+      95.73,
+      420.04,
+      107.99
+    ],
+    "reading_order": 3,
+    "text": "So, we begin by assuming that the statement is not true, that is, we assume that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      109.42,
+      276.01,
+      121.67
+    ],
+    "reading_order": 4,
+    "text": "the negation of p is true (i.e., A is not mortal).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b05",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      127.41,
+      420.03,
+      139.67
+    ],
+    "reading_order": 5,
+    "text": "We then proceed to carry out a series of logical deductions based on the truth of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      141.1,
+      420.05,
+      166.55
+    ],
+    "reading_order": 6,
+    "text": "the negation of p. (Since A is not mortal, we have a counter-example to the\nstatement ‘All women are mortal.’ Hence, it is false that all women are mortal.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b07",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      172.29,
+      420.03,
+      184.55
+    ],
+    "reading_order": 7,
+    "text": "If this leads to a contradiction, then the contradiction arises because of our faulty",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      185.73,
+      420.06,
+      237.59
+    ],
+    "reading_order": 9,
+    "text": "assumption that p is not true. (We have a contradiction, since we have shown\nthat the statement ‘All women are mortal’ and its negation, ‘Not all women are\nmortal’ is true at the same time. This contradiction arose, because we assumed\nthat A is not mortal.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b10",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      243.57,
+      404.86,
+      255.83
+    ],
+    "reading_order": 10,
+    "text": "Therefore, our assumption is wrong, i.e., p has to be true. (So, A is mortal.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b11",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      261.1,
+      284.92,
+      273.35
+    ],
+    "reading_order": 11,
+    "text": "Let us now look at examples from mathematics.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      282.76,
+      420.02,
+      308.63
+    ],
+    "reading_order": 12,
+    "text": "Example 15 : The product of a non-zero rational number and an irrational number is\nirrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      313.24,
+      94.56,
+      325.91
+    ],
+    "reading_order": 13,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b14",
+    "type": "formula",
+    "bbox": [
+      138.0,
+      335.56,
+      400.33,
+      348.23
+    ],
+    "reading_order": 14,
+    "text": "Statements\nAnalysis/Comment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      358.05,
+      282.49,
+      383.5
+    ],
+    "reading_order": 15,
+    "text": "We will use proof by contradiction. Let r be a  non-\nzero rational number and x be an irrational number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      385.96,
+      262.33,
+      414.0
+    ],
+    "reading_order": 16,
+    "text": "Let \nm\nr\nn\n\n, where m, n are integers and m  0,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b17",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      415.38,
+      253.94,
+      429.69
+    ],
+    "reading_order": 17,
+    "text": "n  0. We need to prove that rx is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b18",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      438.69,
+      412.84,
+      477.34
+    ],
+    "reading_order": 18,
+    "text": "Assume rx is rational.\nHere, we are assuming the\nnegation of the statement that\nwe need to prove.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b19",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      485.3,
+      412.83,
+      545.98
+    ],
+    "reading_order": 19,
+    "text": "Then \np\nrx\nq\n\n, q  0, where p and q are integers.\nThis follow from  the\nprevious statement and the\ndefinition of a rational\nnumber.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b20",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      550.1,
+      252.48,
+      577.93
+    ],
+    "reading_order": 20,
+    "text": "Rearranging the equation \np\nrx\nq\n\n, q  0, and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b21",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      578.73,
+      259.21,
+      607.92
+    ],
+    "reading_order": 21,
+    "text": "using the fact that \nm\nr\nn\n\n, we get \np\nnp\nx",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b22",
+    "type": "paragraph",
+    "bbox": [
+      215.29,
+      584.29,
+      266.03,
+      606.71
+    ],
+    "reading_order": 22,
+    "text": "rq\nmq\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 18,
+    "block_id": "jemh1a1_p018_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

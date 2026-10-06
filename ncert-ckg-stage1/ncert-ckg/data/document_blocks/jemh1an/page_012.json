@@ -1,0 +1,529 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "ANSWERS/HINTS\n261",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b03",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      97.83,
+      277.44,
+      108.83
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE A1.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b04",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      117.32,
+      408.24,
+      127.45
+    ],
+    "reading_order": 4,
+    "text": "1.\n(i) Ambiguous\n(ii) True\n(iii) True\n(iv) Ambiguous",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b05",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      133.53,
+      138.72,
+      143.53
+    ],
+    "reading_order": 5,
+    "text": "(v) Ambiguous",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b06",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      149.48,
+      402.0,
+      159.61
+    ],
+    "reading_order": 6,
+    "text": "2.\n(i) True\n(ii) True\n(iii) False\n(iv) True\n(v) True",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      165.32,
+      132.72,
+      175.45
+    ],
+    "reading_order": 7,
+    "text": "3. Only (ii) is true.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      181.35,
+      212.26,
+      191.53
+    ],
+    "reading_order": 9,
+    "text": "4.\n(i) If a > 0 and a2 > b2, then a > b.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b10",
+    "type": "formula",
+    "bbox": [
+      73.44,
+      197.44,
+      211.54,
+      207.61
+    ],
+    "reading_order": 10,
+    "text": "(ii) If xy > 0 and x2 = y2, then x = y.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b11",
+    "type": "formula",
+    "bbox": [
+      71.28,
+      213.04,
+      246.72,
+      223.45
+    ],
+    "reading_order": 11,
+    "text": "(iii) If (x + y)2 = x2 + y2 and y ≠ 0, then x = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b12",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      229.53,
+      294.82,
+      239.53
+    ],
+    "reading_order": 12,
+    "text": "(iv) The diagonals of a parallelogram bisect each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      256.23,
+      277.44,
+      267.23
+    ],
+    "reading_order": 13,
+    "text": "EXERCISE A1.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      275.72,
+      255.84,
+      285.85
+    ],
+    "reading_order": 14,
+    "text": "1. A is mortal\n2. ab is rational",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b15",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      295.4,
+      317.28,
+      307.47
+    ],
+    "reading_order": 15,
+    "text": "3. Decimal expansion of 17 is non-terminating non-recurring.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b16",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      313.6,
+      345.12,
+      324.01
+    ],
+    "reading_order": 16,
+    "text": "4. y = 7\n5. ∠ A = 100°, ∠ C = 100°, ∠ D = 180°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b17",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      329.96,
+      151.45,
+      340.09
+    ],
+    "reading_order": 17,
+    "text": "6. PQRS is a rectangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b18",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      351.32,
+      420.01,
+      362.21
+    ],
+    "reading_order": 18,
+    "text": "7. Yes, because of the premise. No, because 3721\n61\n=\n which is not irrational. Since the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b19",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      367.05,
+      245.29,
+      377.05
+    ],
+    "reading_order": 19,
+    "text": "premise was wrong, the conclusion is false.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b20",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      397.59,
+      277.44,
+      408.59
+    ],
+    "reading_order": 20,
+    "text": "EXERCISE A1.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b21",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      417.32,
+      372.82,
+      427.45
+    ],
+    "reading_order": 21,
+    "text": "1. Take two consecutive odd numbers as 2n + 1 and 2n + 3 for some integer n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b22",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      444.15,
+      277.44,
+      455.15
+    ],
+    "reading_order": 22,
+    "text": "EXERCISE A1.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b23",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      463.64,
+      164.17,
+      473.77
+    ],
+    "reading_order": 23,
+    "text": "1.\n(i) Man is not mortal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b24",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      479.77,
+      208.42,
+      489.85
+    ],
+    "reading_order": 24,
+    "text": "(ii) Line l is not parallel to line m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b25",
+    "type": "paragraph",
+    "bbox": [
+      71.28,
+      495.69,
+      264.73,
+      505.69
+    ],
+    "reading_order": 25,
+    "text": "(iii) The chapter does not have many exercises.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b26",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      511.77,
+      238.57,
+      521.77
+    ],
+    "reading_order": 26,
+    "text": "(iv) Not all integers are rational numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b27",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      527.85,
+      215.29,
+      537.85
+    ],
+    "reading_order": 27,
+    "text": "(v) All prime numbers are not odd.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b28",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      543.69,
+      184.42,
+      553.69
+    ],
+    "reading_order": 28,
+    "text": "(vi) Some students are lazy.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b29",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      559.77,
+      162.0,
+      569.77
+    ],
+    "reading_order": 29,
+    "text": "(vii) All cats are black.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b30",
+    "type": "formula",
+    "bbox": [
+      66.0,
+      579.13,
+      314.16,
+      591.27
+    ],
+    "reading_order": 30,
+    "text": "(viii) There is at least one real number x, such that \nx = – 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 12,
+    "block_id": "jemh1an_p012_b31",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 31,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

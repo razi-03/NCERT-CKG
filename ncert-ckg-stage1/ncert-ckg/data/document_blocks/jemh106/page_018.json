@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "90\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b03",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b04",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      204.99,
+      255.12,
+      217.67
+    ],
+    "reading_order": 4,
+    "text": "Fig. 6.27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b05",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      231.56,
+      215.43,
+      252.23
+    ],
+    "reading_order": 5,
+    "text": "Here, you may observe that AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b06",
+    "type": "formula",
+    "bbox": [
+      200.4,
+      231.56,
+      248.55,
+      259.43
+    ],
+    "reading_order": 6,
+    "text": "DE = AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b07",
+    "type": "paragraph",
+    "bbox": [
+      234.24,
+      231.56,
+      328.55,
+      259.43
+    ],
+    "reading_order": 7,
+    "text": "DF (each equal to 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b08",
+    "type": "paragraph",
+    "bbox": [
+      323.04,
+      238.74,
+      420.0,
+      259.43
+    ],
+    "reading_order": 8,
+    "text": "3 ) and  A (included",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      260.1,
+      420.03,
+      314.01
+    ],
+    "reading_order": 9,
+    "text": "between the sides AB and AC) =  D (included between the sides DE and DF). That\nis, one angle of a triangle is equal to one angle of another triangle and sides including\nthese angles are in the same ratio (i.e., proportion). Now let us measure  B,  C,\n E and  F.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      316.98,
+      420.12,
+      396.47
+    ],
+    "reading_order": 10,
+    "text": "You will find that  B =  E and  C =  F. That is,  A =  D,  B =  E and\n C =  F. So, by AAA similarity criterion,  ABC ~  DEF. You may repeat this\nactivity by drawing several pairs of such triangles with one angle of a triangle equal to\none angle of another triangle and the sides including these angles are proportional.\nEverytime, you will find that the triangles are similar. It is due to the following criterion\nof similarity of triangles:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      406.12,
+      420.06,
+      445.18
+    ],
+    "reading_order": 11,
+    "text": "Theorem 6.5 : If one angle of a triangle is equal to one angle of the other\ntriangle and the sides including these angles are proportional, then the two\ntriangles are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      449.97,
+      204.04,
+      501.83
+    ],
+    "reading_order": 12,
+    "text": "This criterion is referred to as\nthe SAS (Side–Angle–Side)\nsimilarity criterion for two\ntriangles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      506.85,
+      204.07,
+      545.51
+    ],
+    "reading_order": 13,
+    "text": "As before, this theorem can\nbe proved by taking two triangles\nABC and DEF such that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b14",
+    "type": "formula",
+    "bbox": [
+      50.64,
+      551.64,
+      203.99,
+      579.85
+    ],
+    "reading_order": 14,
+    "text": "AB\nAC\nDE\nDF\n\n ( 1) and  A =  D",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b15",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      581.74,
+      203.98,
+      607.19
+    ],
+    "reading_order": 15,
+    "text": "(see Fig. 6.28). Cut DP = AB, DQ\n= AC and join PQ.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b16",
+    "type": "paragraph",
+    "bbox": [
+      296.4,
+      581.8,
+      339.12,
+      594.47
+    ],
+    "reading_order": 16,
+    "text": "Fig. 6.28",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 18,
+    "block_id": "jemh106_p018_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

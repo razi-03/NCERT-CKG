@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_030_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "200\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b03",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      96.21,
+      381.14,
+      106.33
+    ],
+    "reading_order": 3,
+    "text": "5. The following table gives the distribution of the life time of 400 neon lamps :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b04",
+    "type": "paragraph",
+    "bbox": [
+      120.24,
+      126.21,
+      346.09,
+      136.21
+    ],
+    "reading_order": 4,
+    "text": "Life time (in hours)\nNumber of lamps",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b05",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      150.77,
+      316.04,
+      161.77
+    ],
+    "reading_order": 5,
+    "text": "1500 - 2000\n14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b06",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      168.77,
+      316.04,
+      179.77
+    ],
+    "reading_order": 6,
+    "text": "2000 - 2500\n56",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_030_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b08",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      186.77,
+      316.04,
+      197.77
+    ],
+    "reading_order": 8,
+    "text": "2500 - 3000\n60",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b09",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      204.77,
+      316.04,
+      215.77
+    ],
+    "reading_order": 9,
+    "text": "3000 - 3500\n86",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b10",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      222.77,
+      316.04,
+      233.77
+    ],
+    "reading_order": 10,
+    "text": "3500 - 4000\n74",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b11",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      240.77,
+      316.04,
+      251.77
+    ],
+    "reading_order": 11,
+    "text": "4000 - 4500\n62",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b12",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      258.77,
+      316.04,
+      269.77
+    ],
+    "reading_order": 12,
+    "text": "4500 - 5000\n48",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b13",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      282.33,
+      213.85,
+      292.33
+    ],
+    "reading_order": 13,
+    "text": "Find the median life time of a lamp.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      298.29,
+      420.03,
+      332.41
+    ],
+    "reading_order": 14,
+    "text": "6. 100 surnames were randomly picked up from a local telephone directory and the\nfrequency distribution of the number of letters in the English alphabets in the surnames\nwas obtained as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b15",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      343.25,
+      412.08,
+      354.25
+    ],
+    "reading_order": 15,
+    "text": "Number of letters\n1 - 4\n4 - 7\n7 - 10\n10 - 13\n13 - 16\n16 - 19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b16",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      369.33,
+      401.72,
+      379.45
+    ],
+    "reading_order": 16,
+    "text": "Number of surnames\n6\n30\n40\n16\n4\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b17",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      392.49,
+      420.02,
+      414.49
+    ],
+    "reading_order": 17,
+    "text": "Determine the median number of letters in the surnames. Find the mean number of\nletters in the surnames? Also, find the modal size of the surnames.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      420.21,
+      420.03,
+      442.33
+    ],
+    "reading_order": 18,
+    "text": "7. The distribution below gives the weights of 30 students of a class. Find the median\nweight of the students.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b19",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      458.21,
+      418.8,
+      469.21
+    ],
+    "reading_order": 19,
+    "text": "Weight (in kg)\n40 - 45\n45 - 50\n50 - 55\n55 - 60\n60 - 65\n65 - 70\n70 - 75",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b20",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      484.29,
+      408.44,
+      494.41
+    ],
+    "reading_order": 20,
+    "text": "Number of students\n2\n3\n8\n6\n6\n3\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b21",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      516.35,
+      122.16,
+      528.35
+    ],
+    "reading_order": 21,
+    "text": "13.5 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      534.81,
+      266.89,
+      544.81
+    ],
+    "reading_order": 22,
+    "text": "In this chapter, you have studied the following points:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b23",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      550.77,
+      257.29,
+      560.89
+    ],
+    "reading_order": 23,
+    "text": "1. The mean for grouped data can be found by :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b24",
+    "type": "formula",
+    "bbox": [
+      177.12,
+      565.04,
+      211.32,
+      592.01
+    ],
+    "reading_order": 24,
+    "text": "f x\nx\nf\nΣ\n= Σ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b25",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      572.69,
+      212.77,
+      584.17
+    ],
+    "reading_order": 25,
+    "text": "(i) the direct method : \ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b26",
+    "type": "paragraph",
+    "bbox": [
+      207.36,
+      587.09,
+      209.17,
+      593.59
+    ],
+    "reading_order": 26,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b27",
+    "type": "formula",
+    "bbox": [
+      213.84,
+      593.36,
+      265.64,
+      620.33
+    ],
+    "reading_order": 27,
+    "text": "f d\nx\na\nf\nΣ\n=\n+ Σ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b28",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      601.01,
+      267.49,
+      613.21
+    ],
+    "reading_order": 28,
+    "text": "(ii) the assumed mean method : \ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b29",
+    "type": "paragraph",
+    "bbox": [
+      261.84,
+      615.41,
+      263.65,
+      621.91
+    ],
+    "reading_order": 29,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 30,
+    "block_id": "jemh113_p030_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

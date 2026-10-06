@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n125",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b03",
+    "type": "header",
+    "bbox": [
+      211.44,
+      94.59,
+      256.32,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Table 8.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      57.04,
+      121.07,
+      393.84,
+      135.38
+    ],
+    "reading_order": 4,
+    "text": " A\n0°\n30°\n45°\n60°\n90°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b05",
+    "type": "paragraph",
+    "bbox": [
+      256.56,
+      144.78,
+      388.3,
+      174.2
+    ],
+    "reading_order": 5,
+    "text": "1\n2\n3\n2\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b06",
+    "type": "formula",
+    "bbox": [
+      56.88,
+      145.88,
+      199.19,
+      173.75
+    ],
+    "reading_order": 6,
+    "text": "sin A\n0\n1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      256.56,
+      185.82,
+      388.3,
+      214.81
+    ],
+    "reading_order": 8,
+    "text": "1\n2\n1\n2\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b09",
+    "type": "formula",
+    "bbox": [
+      56.88,
+      187.74,
+      202.25,
+      215.24
+    ],
+    "reading_order": 9,
+    "text": "cos A\n1\n3\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b10",
+    "type": "formula",
+    "bbox": [
+      56.88,
+      226.86,
+      411.37,
+      255.32
+    ],
+    "reading_order": 10,
+    "text": "tan A\n0\n1\n3\n1\n3\nNot defined",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.88,
+      267.9,
+      388.3,
+      296.36
+    ],
+    "reading_order": 11,
+    "text": "cosec A\nNot defined\n2\n2\n2\n3\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.88,
+      308.94,
+      411.37,
+      337.4
+    ],
+    "reading_order": 12,
+    "text": "sec A\n1\n2\n3\n2\n2\nNot defined",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.88,
+      345.9,
+      388.3,
+      374.36
+    ],
+    "reading_order": 13,
+    "text": "cot A\nNot defined\n3\n1\n1\n3\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      381.54,
+      420.0,
+      408.23
+    ],
+    "reading_order": 14,
+    "text": "Remark : From the table above you can observe that as  A increases from 0° to\n90°, sin A increases from 0 to 1 and cos A decreases from 1 to 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      413.25,
+      420.06,
+      425.51
+    ],
+    "reading_order": 15,
+    "text": "Let us illustrate the use of the values in the table above through some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      434.34,
+      276.01,
+      474.23
+    ],
+    "reading_order": 16,
+    "text": "Example 6 : In  ABC, right-angled at B,\nAB = 5 cm and  ACB = 30° (see Fig. 8.19).\nDetermine the lengths of the sides BC and AC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      478.59,
+      276.07,
+      530.87
+    ],
+    "reading_order": 17,
+    "text": "Solution : To find the length of the side BC, we will\nchoose the trigonometric ratio involving BC and the\ngiven side AB. Since BC is the side adjacent to angle\nC and AB is the side opposite to angle C, therefore",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      332.88,
+      518.43,
+      375.6,
+      531.11
+    ],
+    "reading_order": 18,
+    "text": "Fig. 8.19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b19",
+    "type": "formula",
+    "bbox": [
+      176.64,
+      537.24,
+      231.84,
+      565.45
+    ],
+    "reading_order": 19,
+    "text": "AB\nBC = tan C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      257.52,
+      569.27,
+      263.01,
+      581.5
+    ],
+    "reading_order": 20,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      570.36,
+      251.33,
+      598.57
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\n5\nBC = tan 30° =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      260.88,
+      585.82,
+      266.37,
+      598.06
+    ],
+    "reading_order": 22,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      602.45,
+      246.0,
+      615.87
+    ],
+    "reading_order": 23,
+    "text": "which gives\nBC = 5 3 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 13,
+    "block_id": "jemh108_p013_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

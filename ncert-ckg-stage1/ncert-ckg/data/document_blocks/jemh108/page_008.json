@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "120\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b03",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      102.51,
+      290.43,
+      128.39
+    ],
+    "reading_order": 3,
+    "text": "Example 4 : In a right triangle ABC, right-angled at B,\nif tan A = 1, then verify that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      133.17,
+      132.72,
+      145.43
+    ],
+    "reading_order": 4,
+    "text": "2  sin A cos A = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      155.64,
+      201.33,
+      177.22
+    ],
+    "reading_order": 5,
+    "text": "Solution : In  ABC, tan A = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b06",
+    "type": "formula",
+    "bbox": [
+      186.48,
+      164.13,
+      294.72,
+      183.85
+    ],
+    "reading_order": 6,
+    "text": "AB = 1\n(see Fig 8.11)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      194.86,
+      248.4,
+      207.11
+    ],
+    "reading_order": 8,
+    "text": "i.e.,\nBC = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      337.92,
+      204.51,
+      379.9,
+      217.19
+    ],
+    "reading_order": 9,
+    "text": "Fig. 8.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      216.93,
+      262.43,
+      229.19
+    ],
+    "reading_order": 10,
+    "text": "Let AB = BC = k, where k is a positive number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      246.13,
+      290.82,
+      260.47
+    ],
+    "reading_order": 11,
+    "text": "Now,\nAC =\n2\n2\nAB\nBC\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b12",
+    "type": "formula",
+    "bbox": [
+      222.0,
+      280.13,
+      324.97,
+      294.83
+    ],
+    "reading_order": 12,
+    "text": "=\n2\n2\n( )\n( )\n2\nk\nk\nk\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b13",
+    "type": "formula",
+    "bbox": [
+      235.2,
+      313.02,
+      357.7,
+      341.48
+    ],
+    "reading_order": 13,
+    "text": "BC\n1\nAC\n2\n\nand\ncos A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      361.2,
+      313.02,
+      403.13,
+      341.48
+    ],
+    "reading_order": 14,
+    "text": "AB\n1\nAC\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      322.29,
+      227.98,
+      334.55
+    ],
+    "reading_order": 15,
+    "text": "Therefore,\nsin A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      354.27,
+      268.42,
+      384.72
+    ],
+    "reading_order": 16,
+    "text": "So,\n2 sin A cos A = \n1\n1\n2\n1,\n2\n2\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      270.72,
+      361.41,
+      396.74,
+      373.67
+    ],
+    "reading_order": 17,
+    "text": "which is the required value.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      392.1,
+      276.12,
+      435.6
+    ],
+    "reading_order": 18,
+    "text": "Example 5 : In  OPQ, right-angled at P,\nOP = 7 cm and OQ – PQ = 1 cm (see Fig. 8.12).\nDetermine the values of sin Q and cos Q.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      444.19,
+      186.01,
+      458.5
+    ],
+    "reading_order": 19,
+    "text": "Solution : In  OPQ, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b20",
+    "type": "formula",
+    "bbox": [
+      149.29,
+      467.97,
+      232.4,
+      480.23
+    ],
+    "reading_order": 20,
+    "text": "OQ2 = OP2 + PQ2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      490.53,
+      284.4,
+      502.79
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\n(1 + PQ)2 = OP2 + PQ2\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b22",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      512.85,
+      232.4,
+      525.11
+    ],
+    "reading_order": 22,
+    "text": "i.e.,\n1 + PQ2 + 2PQ = OP2 + PQ2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      535.41,
+      284.4,
+      547.67
+    ],
+    "reading_order": 23,
+    "text": "i.e.,\n1 + 2PQ = 72\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b24",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      557.97,
+      332.4,
+      570.23
+    ],
+    "reading_order": 24,
+    "text": "i.e.,\nPQ = 24 cm and OQ = 1 + PQ = 25 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b25",
+    "type": "paragraph",
+    "bbox": [
+      357.12,
+      571.96,
+      399.84,
+      584.63
+    ],
+    "reading_order": 25,
+    "text": "Fig. 8.12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b26",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      584.28,
+      277.81,
+      612.49
+    ],
+    "reading_order": 26,
+    "text": "So,\nsin Q =\n7\n25 and cos Q = 24\n25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 8,
+    "block_id": "jemh108_p008_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

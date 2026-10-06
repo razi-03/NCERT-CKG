@@ -1,0 +1,155 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "CIRCLES\n153",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      128.15,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "10.4\nSummary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.43,
+      269.3,
+      124.57
+    ],
+    "reading_order": 4,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      129.13,
+      212.2,
+      140.65
+    ],
+    "reading_order": 5,
+    "text": "1.\nThe meaning of a tangent to a circle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      145.21,
+      395.33,
+      156.73
+    ],
+    "reading_order": 6,
+    "text": "2.\nThe tangent to a circle is perpendicular to the radius through the point of contact.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      161.29,
+      367.49,
+      172.81
+    ],
+    "reading_order": 7,
+    "text": "3.\nThe lengths of the two tangents from an external point to a circle are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 10,
+    "block_id": "jemh110_p010_b09",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 9,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

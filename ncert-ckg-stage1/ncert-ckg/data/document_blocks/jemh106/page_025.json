@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_025_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n97",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b03",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      103.21,
+      232.8,
+      151.48
+    ],
+    "reading_order": 3,
+    "text": "11. In Fig. 6.40, E is a point on side CB\nproduced of an isosceles triangle ABC\nwith AB = AC. If AD  BC and EF  AC,\nprove that  ABD ~  ECF.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b04",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      155.29,
+      232.8,
+      215.56
+    ],
+    "reading_order": 4,
+    "text": "12. Sides AB and BC and median AD of a\ntriangle ABC are respectively propor-\ntional to sides PQ and QR and median\nPM of  PQR (see Fig. 6.41). Show that\n ABC ~  PQR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_025_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b06",
+    "type": "paragraph",
+    "bbox": [
+      297.84,
+      191.07,
+      340.56,
+      203.75
+    ],
+    "reading_order": 6,
+    "text": "Fig. 6.40",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b07",
+    "type": "formula",
+    "bbox": [
+      55.44,
+      219.37,
+      232.79,
+      254.89
+    ],
+    "reading_order": 7,
+    "text": "13. D is a point on the side BC of a triangle\nABC such that  ADC =  BAC. Show\nthat CA2 = CB.CD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b08",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      259.45,
+      232.81,
+      319.72
+    ],
+    "reading_order": 8,
+    "text": "14. Sides AB and AC and median AD of a\ntriangle ABC are respectively\nproportional to sides PQ and PR and\nmedian PM of another triangle PQR.\nShow that  ABC ~  PQR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b09",
+    "type": "paragraph",
+    "bbox": [
+      304.8,
+      295.71,
+      347.52,
+      308.39
+    ],
+    "reading_order": 9,
+    "text": "Fig. 6.41",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      323.29,
+      419.8,
+      346.81
+    ],
+    "reading_order": 10,
+    "text": "15. A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same time\na tower casts a shadow 28 m long. Find the height of the tower.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      351.37,
+      419.98,
+      362.89
+    ],
+    "reading_order": 11,
+    "text": "16. If AD and PM are medians of triangles ABC and PQR, respectively where",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b12",
+    "type": "paragraph",
+    "bbox": [
+      189.36,
+      369.42,
+      235.57,
+      395.07
+    ],
+    "reading_order": 12,
+    "text": "AB\nAD\nPQ\nPM\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b13",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      377.27,
+      187.35,
+      390.28
+    ],
+    "reading_order": 13,
+    "text": " ABC ~  PQR, prove that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b14",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      411.42,
+      116.37,
+      425.24
+    ],
+    "reading_order": 14,
+    "text": "6.5 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      430.47,
+      267.85,
+      441.61
+    ],
+    "reading_order": 15,
+    "text": "In this chapter you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      444.01,
+      420.08,
+      611.53
+    ],
+    "reading_order": 16,
+    "text": "1. Two figures having the same shape but not necessarily the same size are called similar\nfigures.\n2. All the congruent figures are similar but the converse is not true.\n3. Two polygons of the same number of sides are similar, if (i) their corresponding angles\nare equal and (ii) their corresponding sides are in the same ratio (i.e., proportion).\n4. If a line is drawn parallel to one side of a triangle to intersect the other two sides in\ndistinct points, then the other two sides are divided in the same ratio.\n5. If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the\nthird side.\n6. If in two triangles, corresponding angles are equal, then their corresponding sides are in\nthe same ratio and hence the two triangles are similar (AAA similarity criterion).\n7. If in two triangles, two angles of one triangle are respectively equal to the two angles of\nthe other triangle, then the two triangles are similar (AA similarity criterion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 25,
+    "block_id": "jemh106_p025_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "12\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b03",
+    "type": "header",
+    "bbox": [
+      47.99,
+      93.78,
+      420.02,
+      133.67
+    ],
+    "reading_order": 3,
+    "text": "Consider first a linear polynomial ax + b, a  0. You have studied in Class IX that the\ngraph of y = ax + b is a straight line. For example, the graph of y = 2x + 3 is a straight\nline passing through the points (– 2, –1) and (2, 7).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b04",
+    "type": "paragraph",
+    "bbox": [
+      55.18,
+      145.89,
+      183.09,
+      158.14
+    ],
+    "reading_order": 4,
+    "text": "x\n–2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b05",
+    "type": "formula",
+    "bbox": [
+      55.18,
+      172.29,
+      183.08,
+      184.54
+    ],
+    "reading_order": 5,
+    "text": "y = 2x + 3\n–1\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      71.98,
+      200.13,
+      196.79,
+      212.38
+    ],
+    "reading_order": 7,
+    "text": "From Fig. 2.1, you can see",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b08",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      216.69,
+      196.79,
+      228.95
+    ],
+    "reading_order": 8,
+    "text": "that the graph of y = 2x + 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b09",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      233.26,
+      196.8,
+      261.84
+    ],
+    "reading_order": 9,
+    "text": "intersects the x-axis mid-way\nbetween x = –1 and x = – 2,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      270.08,
+      191.47,
+      300.03
+    ],
+    "reading_order": 10,
+    "text": "that is, at the point \n3, 0\n2\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      194.16,
+      276.45,
+      196.91,
+      288.71
+    ],
+    "reading_order": 11,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      305.01,
+      196.82,
+      317.26
+    ],
+    "reading_order": 12,
+    "text": "You also know that the zero of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      323.4,
+      196.8,
+      351.61
+    ],
+    "reading_order": 13,
+    "text": "2x + 3 is \n3\n2\n\n. Thus, the zero of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      349.42,
+      196.81,
+      361.67
+    ],
+    "reading_order": 14,
+    "text": "the polynomial 2x + 3 is the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      365.98,
+      196.81,
+      378.24
+    ],
+    "reading_order": 15,
+    "text": "x-coordinate of the point where the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      297.6,
+      378.27,
+      334.32,
+      390.95
+    ],
+    "reading_order": 16,
+    "text": "Fig. 2.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b17",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      382.55,
+      196.82,
+      394.8
+    ],
+    "reading_order": 17,
+    "text": "graph of y = 2x + 3 intersects the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      399.11,
+      77.29,
+      411.37
+    ],
+    "reading_order": 18,
+    "text": "x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b19",
+    "type": "formula",
+    "bbox": [
+      72.01,
+      418.29,
+      420.01,
+      432.6
+    ],
+    "reading_order": 19,
+    "text": "In general, for a linear polynomial ax + b, a  0, the graph of y = ax + b is a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      439.09,
+      415.12,
+      469.71
+    ],
+    "reading_order": 20,
+    "text": "straight line which intersects the x-axis at exactly one point, namely, \n, 0\nb\na\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b21",
+    "type": "paragraph",
+    "bbox": [
+      417.36,
+      447.09,
+      420.11,
+      459.35
+    ],
+    "reading_order": 21,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      473.7,
+      420.03,
+      503.51
+    ],
+    "reading_order": 22,
+    "text": "Therefore, the linear polynomial ax + b, a  0, has exactly one zero, namely, the\nx-coordinate of the point where the graph of y = ax + b intersects the x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b23",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      511.89,
+      420.08,
+      524.15
+    ],
+    "reading_order": 23,
+    "text": "Now, let us look for the geometrical meaning of a zero of a quadratic polynomial.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      528.45,
+      420.01,
+      557.03
+    ],
+    "reading_order": 24,
+    "text": "Consider the quadratic polynomial x2 – 3x – 4. Let us see what the graph* of\ny = x2 – 3x – 4 looks like. Let us list  a few values of y = x2 – 3x – 4 corresponding to",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      561.34,
+      225.83,
+      573.59
+    ],
+    "reading_order": 25,
+    "text": "a few values for x as given in Table 2.1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      589.11,
+      420.08,
+      612.25
+    ],
+    "reading_order": 26,
+    "text": "* Plotting of graphs of quadratic or cubic polynomials is not meant to be done by the students,\nnor is to be evaluated.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 3,
+    "block_id": "jemh102_p003_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

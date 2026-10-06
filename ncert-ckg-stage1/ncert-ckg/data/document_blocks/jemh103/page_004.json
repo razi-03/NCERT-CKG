@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      211.44,
+      96.39,
+      256.32,
+      107.39
+    ],
+    "reading_order": 3,
+    "text": "Table 3.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      101.52,
+      123.55,
+      354.7,
+      134.66
+    ],
+    "reading_order": 4,
+    "text": "x\n0\n6\nx\n0\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b05",
+    "type": "formula",
+    "bbox": [
+      110.16,
+      144.9,
+      357.36,
+      174.05
+    ],
+    "reading_order": 5,
+    "text": "3\nx\n−\n2\n0\ny = 2\n12\n3\nx −\n– 4\n–2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b06",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      147.1,
+      107.07,
+      166.71
+    ],
+    "reading_order": 6,
+    "text": "y = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      189.42,
+      204.02,
+      262.34
+    ],
+    "reading_order": 8,
+    "text": "Plot the points A(0, 2), B(6, 0),\nP(0, – 4) and Q(3, – 2) on graph\npaper, and join the points to form the\nlines AB and PQ as shown in\nFig. 3.1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      271.02,
+      204.02,
+      359.3
+    ],
+    "reading_order": 9,
+    "text": "We observe that there is a point\nB (6, 0) common to both the lines\nAB and PQ. So, the solution of the\npair of linear equations is x = 6 and\ny = 0, i.e., the given pair of equations\nis consistent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      296.4,
+      365.67,
+      333.12,
+      376.67
+    ],
+    "reading_order": 10,
+    "text": "Fig. 3.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      383.19,
+      420.04,
+      407.54
+    ],
+    "reading_order": 11,
+    "text": "Example 2 : Graphically, find whether the following pair of equations has no solution,\nunique solution or infinitely many solutions:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b12",
+    "type": "formula",
+    "bbox": [
+      168.72,
+      413.71,
+      419.76,
+      424.82
+    ],
+    "reading_order": 12,
+    "text": "5x – 8y + 1 = 0\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b13",
+    "type": "formula",
+    "bbox": [
+      149.28,
+      428.62,
+      419.76,
+      455.57
+    ],
+    "reading_order": 13,
+    "text": "3x – 24\n5 y + 3\n5 = 0\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      451.25,
+      234.11,
+      470.66
+    ],
+    "reading_order": 14,
+    "text": "Solution : Multiplying Equation (2) by 5 ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      224.16,
+      459.66,
+      266.88,
+      477.86
+    ],
+    "reading_order": 15,
+    "text": "3 we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b16",
+    "type": "formula",
+    "bbox": [
+      168.72,
+      478.99,
+      238.06,
+      490.1
+    ],
+    "reading_order": 16,
+    "text": "5x – 8y + 1 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      496.38,
+      420.05,
+      520.58
+    ],
+    "reading_order": 17,
+    "text": "But,  this is the same as Equation (1). Hence the lines represented by Equations (1)\nand (2) are coincident. Therefore, Equations (1) and (2) have infinitely many solutions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      526.86,
+      294.03,
+      537.86
+    ],
+    "reading_order": 18,
+    "text": "Plot few points on the graph and verify it yourself.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      548.79,
+      420.04,
+      612.74
+    ],
+    "reading_order": 19,
+    "text": "Example 3 : Champa went to a ‘Sale’ to purchase some pants and skirts. When her\nfriends asked her how many of each she had bought, she answered, “The number of\nskirts is two less than twice the number of pants purchased. Also, the number of skirts\nis four less than four times the number of pants purchased”. Help her friends to find\nhow many pants and skirts Champa bought.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 4,
+    "block_id": "jemh103_p004_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n247",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      271.45,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Step 3 (Solving the problem) : From (1) and (2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b04",
+    "type": "formula",
+    "bbox": [
+      163.44,
+      116.53,
+      243.12,
+      146.75
+    ],
+    "reading_order": 4,
+    "text": "1790\n1\n100\n12\nr\n\n\n\n = 20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      158.95,
+      361.4,
+      188.41
+    ],
+    "reading_order": 5,
+    "text": "or\nr = 20\n1200\n1790\n\n = 13.14 (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      193.96,
+      420.03,
+      219.83
+    ],
+    "reading_order": 7,
+    "text": "Step 4 (Interpreting the solution) : The rate of interest charged in the instalment\nscheme = 13.14 %.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      224.86,
+      258.74,
+      237.11
+    ],
+    "reading_order": 8,
+    "text": "The rate of interest charged by the bank = 10%",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      241.9,
+      420.03,
+      267.35
+    ],
+    "reading_order": 9,
+    "text": "So, she should prefer to borrow the money from the bank to buy the bicycle which is\nmore economical.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      271.96,
+      420.07,
+      324.23
+    ],
+    "reading_order": 10,
+    "text": "Step 5 (Validating the model) : This stage in this case is not of much importance\nhere as the numbers are fixed. However, if the formalities for taking loan from the\nbank such as cost of stamp paper, etc., which make the effective interest rate more\nthan what it is the instalment scheme, then she may change her opinion.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      328.84,
+      420.07,
+      367.91
+    ],
+    "reading_order": 11,
+    "text": "Remark : Interest rate modelling is still at its early stages and validation is still a\nproblem of financial markets. In case, different interest rates are incorporated in fixing\ninstalments, validation becomes an important problem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      386.46,
+      276.49,
+      400.28
+    ],
+    "reading_order": 12,
+    "text": "EXERCISE A2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      407.43,
+      420.02,
+      430.57
+    ],
+    "reading_order": 13,
+    "text": "In each of the problems below, show the different stages of mathematical modelling for solving\nthe problems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      435.13,
+      419.8,
+      470.65
+    ],
+    "reading_order": 14,
+    "text": "1. An ornithologist wants to estimate the number of parrots in a large field. She uses a net\nto catch some, and catches 32 parrots, which she rings and sets free. The following\nweek she manages to net 40 parrots, of which 8 are ringed.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      475.59,
+      239.98,
+      486.73
+    ],
+    "reading_order": 15,
+    "text": "(i) What fraction of her second catch is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b16",
+    "type": "figure",
+    "bbox": [
+      244.0,
+      478.7,
+      420.0,
+      591.7
+    ],
+    "reading_order": 16,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      487.59,
+      127.44,
+      498.73
+    ],
+    "reading_order": 17,
+    "text": "ringed?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      503.67,
+      240.01,
+      514.81
+    ],
+    "reading_order": 18,
+    "text": "(ii) Find an estimate of the total number",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b19",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      515.67,
+      183.61,
+      526.81
+    ],
+    "reading_order": 19,
+    "text": "of parrots in the field.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b20",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      531.13,
+      240.0,
+      602.65
+    ],
+    "reading_order": 20,
+    "text": "2. Suppose the adjoining figure represents\nan aerial photograph of a forest with each\ndot representing a tree. Your purpose is to\nfind the number of trees there are on this\ntract of land as part of an environmental\ncensus.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 9,
+    "block_id": "jemh1a2_p009_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

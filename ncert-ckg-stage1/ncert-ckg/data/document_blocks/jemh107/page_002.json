@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "100\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      157.42,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "7.2 Distance Formula",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.49,
+      217.47,
+      125.75
+    ],
+    "reading_order": 4,
+    "text": "Let us consider the following situation:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      131.02,
+      261.64,
+      224.41
+    ],
+    "reading_order": 5,
+    "text": "A town B is located 36 km east and 15\nkm north of the town A. How would you find\nthe distance from town A to town B without\nactually measuring it. Let us see. This situation\ncan be represented graphically as shown in\nFig. 7.1. You may use the Pythagoras Theorem\nto calculate this distance.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      323.52,
+      224.2,
+      360.24,
+      236.87
+    ],
+    "reading_order": 7,
+    "text": "Fig. 7.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      228.72,
+      261.64,
+      281.3
+    ],
+    "reading_order": 8,
+    "text": "Now, suppose two points lie on the x-axis.\nCan we find the distance between them? For\ninstance, consider two points A(4, 0) and B(6, 0)\nin Fig. 7.2. The points A and B lie on the x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      285.61,
+      261.61,
+      311.31
+    ],
+    "reading_order": 9,
+    "text": "From the figure you can see that OA = 4\nunits and OB = 6 units.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      315.62,
+      261.61,
+      341.31
+    ],
+    "reading_order": 10,
+    "text": "Therefore, the distance of B from A, i.e.,\nAB = OB – OA = 6 – 4 = 2 units.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      345.63,
+      261.6,
+      371.32
+    ],
+    "reading_order": 11,
+    "text": "So, if two points lie on the x-axis, we can\neasily find the distance between them.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      375.63,
+      261.61,
+      401.33
+    ],
+    "reading_order": 12,
+    "text": "Now, suppose we take two points lying on\nthe y-axis. Can you find the distance between",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      405.64,
+      261.61,
+      445.02
+    ],
+    "reading_order": 13,
+    "text": "them. If the points C(0, 3) and D(0, 8) lie on the\ny-axis, similarly we find that CD = 8 – 3 = 5 units\n(see Fig. 7.2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      319.2,
+      422.92,
+      355.92,
+      435.59
+    ],
+    "reading_order": 14,
+    "text": "Fig. 7.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b15",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      450.05,
+      420.0,
+      462.3
+    ],
+    "reading_order": 15,
+    "text": "Next, can you find the distance of A from C (in Fig. 7.2)? Since OA = 4 units and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b16",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      469.89,
+      420.02,
+      483.42
+    ],
+    "reading_order": 16,
+    "text": "OC = 3 units, the distance of A from C, i.e., AC = \n2\n2\n3\n4\n\n = 5 units. Similarly, you can",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b17",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      487.42,
+      255.85,
+      499.67
+    ],
+    "reading_order": 17,
+    "text": "find the distance of B from D = BD = 10 units.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      503.74,
+      420.01,
+      542.39
+    ],
+    "reading_order": 18,
+    "text": "Now, if we consider two points not lying on coordinate axis, can we find the\ndistance between them? Yes! We shall use Pythagoras theorem to do so. Let us see\nan example.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      546.22,
+      420.04,
+      611.28
+    ],
+    "reading_order": 19,
+    "text": "In Fig. 7.3, the points P(4, 6) and Q(6, 8) lie in the first quadrant. How do we use\nPythagoras theorem to find the distance between them? Let us draw PR and QS\nperpendicular to the x-axis from P and Q respectively. Also, draw a perpendicular\nfrom P on QS to meet QS at T. Then the coordinates of R and S are (4, 0) and (6, 0),\nrespectively.  So, RS = 2 units. Also, QS = 8 units and TS = PR = 6 units.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 2,
+    "block_id": "jemh107_p002_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

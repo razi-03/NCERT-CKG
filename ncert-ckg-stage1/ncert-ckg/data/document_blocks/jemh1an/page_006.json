@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "ANSWERS/HINTS\n255",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b03",
+    "type": "formula",
+    "bbox": [
+      51.84,
+      96.2,
+      291.12,
+      108.67
+    ],
+    "reading_order": 3,
+    "text": "11. S1 = 3, S2 = 4; a2 = S2 – S1 = 1; S3 = 3, a3 = S3 – S2 = –1,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b04",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      112.32,
+      246.1,
+      124.75
+    ],
+    "reading_order": 4,
+    "text": "a10 = S10 – S9 = – 15; an = Sn – Sn – 1 = 5 – 2n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      50.88,
+      126.14,
+      386.4,
+      138.49
+    ],
+    "reading_order": 5,
+    "text": "12. 4920\n13. 960\n14. 625\n15. ` 27750",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      50.88,
+      143.21,
+      300.02,
+      154.57
+    ],
+    "reading_order": 6,
+    "text": "16. Values of the prizes (in `) are 160, 140, 120, 100, 80, 60, 40.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      50.88,
+      160.52,
+      194.16,
+      170.65
+    ],
+    "reading_order": 7,
+    "text": "17. 234\n18. 143 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b09",
+    "type": "formula",
+    "bbox": [
+      50.88,
+      176.6,
+      420.01,
+      186.73
+    ],
+    "reading_order": 9,
+    "text": "19. 16 rows, 5 logs are placed in the top row. By putting S = 200, a = 20, d = –1 in the formula",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      190.6,
+      420.01,
+      225.08
+    ],
+    "reading_order": 10,
+    "text": "S = \n[2\n(\n1) ],\n2\n+\n−\nn\na\nn\nd\n we get, 41n – n2  = 400. On solving, n = 16, 25. Therefore, the\nnumber of rows is either 16 or 25. a25 = a + 24 d = – 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b11",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      228.73,
+      420.02,
+      262.81
+    ],
+    "reading_order": 11,
+    "text": "i.e., number of logs in 25th row is – 4 which is not possible. Therefore n = 25 is not\npossible. For n = 16, a16 = 5. Therefore, there are 16 rows and 5 logs placed in the top\nrow.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      50.88,
+      268.76,
+      93.12,
+      278.89
+    ],
+    "reading_order": 12,
+    "text": "20. 370 m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b13",
+    "type": "formula",
+    "bbox": [
+      163.92,
+      295.59,
+      304.08,
+      306.59
+    ],
+    "reading_order": 13,
+    "text": "EXERCISE 5.4 (Optional)*",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b14",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      315.8,
+      338.16,
+      328.28
+    ],
+    "reading_order": 14,
+    "text": "1. 32nd term\n2. S16 = 20, 76\n3. 385 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      332.8,
+      212.9,
+      342.97
+    ],
+    "reading_order": 15,
+    "text": "4. 35\n5. 750 m3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      359.19,
+      272.88,
+      370.19
+    ],
+    "reading_order": 16,
+    "text": "EXERCISE 6.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      378.2,
+      390.0,
+      388.33
+    ],
+    "reading_order": 17,
+    "text": "1.\n(i) Similar\n(ii) Similar\n(iii) Equilateral",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      395.0,
+      228.72,
+      405.13
+    ],
+    "reading_order": 18,
+    "text": "(iv) Equal, Proportional\n3. No",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      421.35,
+      272.88,
+      432.35
+    ],
+    "reading_order": 19,
+    "text": "EXERCISE 6.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      440.36,
+      241.44,
+      450.49
+    ],
+    "reading_order": 20,
+    "text": "1.\n(i) 2 cm\n(ii) 2.4 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      456.44,
+      361.44,
+      466.57
+    ],
+    "reading_order": 21,
+    "text": "2.\n(i) No\n(ii) Yes\n(iiii) Yes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b22",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      473.0,
+      416.26,
+      483.13
+    ],
+    "reading_order": 22,
+    "text": "9. Through O, draw a line parallel to DC, intersecting AD and BC at E and F respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b23",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      503.43,
+      272.88,
+      514.43
+    ],
+    "reading_order": 23,
+    "text": "EXERCISE 6.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b24",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      522.4,
+      368.16,
+      532.81
+    ],
+    "reading_order": 24,
+    "text": "1.\n(i) Yes. AAA, ∆ ABC ~ ∆ PQR\n(ii) Yes. SSS, ∆ ABC ~ ∆ QRP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b25",
+    "type": "paragraph",
+    "bbox": [
+      71.28,
+      538.24,
+      372.72,
+      548.65
+    ],
+    "reading_order": 25,
+    "text": "(iii) No\n(iv) Yes. SAS, ∆ MNL ~ ∆ QPR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b26",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      554.32,
+      365.28,
+      564.73
+    ],
+    "reading_order": 26,
+    "text": "(v) No\n(vi) Yes. AA, ∆ DEF ~ ∆ PQR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b27",
+    "type": "paragraph",
+    "bbox": [
+      50.88,
+      571.16,
+      420.01,
+      620.41
+    ],
+    "reading_order": 27,
+    "text": "2. 55°, 55°, 55°\n14. Produce AD to a point E such that AD = DE and produce PM to a point N such that\nPM = MN. Join EC and NR.\n15. 42 m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 6,
+    "block_id": "jemh1an_p006_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

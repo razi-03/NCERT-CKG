@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n243",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b03",
+    "type": "header",
+    "bbox": [
+      189.84,
+      94.38,
+      278.39,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE A2.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      114.97,
+      206.89,
+      126.49
+    ],
+    "reading_order": 4,
+    "text": "1. Consider the following situation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      131.58,
+      420.07,
+      203.28
+    ],
+    "reading_order": 5,
+    "text": "A problem dating back to the early 13th century, posed by Leonardo Fibonacci asks\nhow many rabbits you would have if you started with just two and let them reproduce.\nAssume that a pair of rabbits produces a pair of offspring each month and that each\npair of rabbits produces their first offspring at the age of 2 months. Month by month\nthe number of pairs of rabbits is given by the sum of the rabbits in the two preceding\nmonths, except for the 0th and the 1st months.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      155.28,
+      217.23,
+      350.16,
+      229.91
+    ],
+    "reading_order": 7,
+    "text": "Month\nPairs of Rabbits",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      244.78,
+      318.23,
+      257.03
+    ],
+    "reading_order": 8,
+    "text": "0\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      261.82,
+      318.23,
+      274.07
+    ],
+    "reading_order": 9,
+    "text": "1\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b10",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      279.1,
+      318.23,
+      291.35
+    ],
+    "reading_order": 10,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      296.38,
+      318.23,
+      308.63
+    ],
+    "reading_order": 11,
+    "text": "3\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b12",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      313.42,
+      318.23,
+      325.67
+    ],
+    "reading_order": 12,
+    "text": "4\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b13",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      330.7,
+      318.23,
+      342.95
+    ],
+    "reading_order": 13,
+    "text": "5\n8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      347.98,
+      318.0,
+      360.24
+    ],
+    "reading_order": 14,
+    "text": "6\n13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      365.02,
+      318.0,
+      377.27
+    ],
+    "reading_order": 15,
+    "text": "7\n21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b16",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      382.3,
+      318.0,
+      394.56
+    ],
+    "reading_order": 16,
+    "text": "8\n34",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      169.21,
+      399.58,
+      318.0,
+      411.84
+    ],
+    "reading_order": 17,
+    "text": "9\n55",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      166.57,
+      416.62,
+      318.0,
+      428.88
+    ],
+    "reading_order": 18,
+    "text": "10\n89",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      166.8,
+      433.9,
+      317.99,
+      446.16
+    ],
+    "reading_order": 19,
+    "text": "11\n144",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      166.56,
+      451.18,
+      317.99,
+      463.44
+    ],
+    "reading_order": 20,
+    "text": "12\n233",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      166.56,
+      468.22,
+      317.99,
+      480.48
+    ],
+    "reading_order": 21,
+    "text": "13\n377",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b22",
+    "type": "paragraph",
+    "bbox": [
+      166.56,
+      485.5,
+      317.99,
+      497.76
+    ],
+    "reading_order": 22,
+    "text": "14\n610",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b23",
+    "type": "paragraph",
+    "bbox": [
+      166.56,
+      502.78,
+      317.99,
+      515.04
+    ],
+    "reading_order": 23,
+    "text": "15\n987",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b24",
+    "type": "paragraph",
+    "bbox": [
+      166.56,
+      519.82,
+      317.75,
+      532.08
+    ],
+    "reading_order": 24,
+    "text": "16\n1597",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b25",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      554.22,
+      318.71,
+      565.2
+    ],
+    "reading_order": 25,
+    "text": "After just 16 months, you have nearly 1600 pairs of rabbits!",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b26",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      570.15,
+      419.8,
+      593.29
+    ],
+    "reading_order": 26,
+    "text": "Clearly state the problem and the different stages of mathematical modelling in this\nsituation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 5,
+    "block_id": "jemh1a2_p005_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

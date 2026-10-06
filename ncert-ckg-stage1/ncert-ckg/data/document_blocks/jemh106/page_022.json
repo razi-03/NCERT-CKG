@@ -1,0 +1,648 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "94\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.92,
+      216.27,
+      115.91
+    ],
+    "reading_order": 3,
+    "text": "i.e.,\nAM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b04",
+    "type": "header",
+    "bbox": [
+      200.4,
+      94.92,
+      250.42,
+      123.13
+    ],
+    "reading_order": 4,
+    "text": "PN = CA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b05",
+    "type": "paragraph",
+    "bbox": [
+      236.16,
+      103.65,
+      419.28,
+      123.13
+    ],
+    "reading_order": 5,
+    "text": "RP\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      127.86,
+      419.28,
+      142.18
+    ],
+    "reading_order": 6,
+    "text": "Also,\n MAC =  NPR\n[From (2)]\n(4)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      146.38,
+      138.71,
+      158.63
+    ],
+    "reading_order": 7,
+    "text": "So, from (3) and (4),",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b08",
+    "type": "paragraph",
+    "bbox": [
+      183.83,
+      162.18,
+      419.27,
+      176.5
+    ],
+    "reading_order": 8,
+    "text": " AMC ~  PNR\n(SAS similarity)\n(5)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      185.88,
+      215.79,
+      206.62
+    ],
+    "reading_order": 10,
+    "text": "(ii) From (5),\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b11",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      185.88,
+      249.46,
+      214.09
+    ],
+    "reading_order": 11,
+    "text": "RN = CA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b12",
+    "type": "paragraph",
+    "bbox": [
+      235.68,
+      194.37,
+      419.28,
+      214.09
+    ],
+    "reading_order": 12,
+    "text": "RP\n(6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b13",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      221.34,
+      419.28,
+      248.84
+    ],
+    "reading_order": 13,
+    "text": "AB\nPQ\n[From (1)]\n(7)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      222.12,
+      216.1,
+      243.1
+    ],
+    "reading_order": 14,
+    "text": "But\nCA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b15",
+    "type": "formula",
+    "bbox": [
+      201.6,
+      230.85,
+      228.0,
+      250.33
+    ],
+    "reading_order": 15,
+    "text": "RP =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b16",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      258.3,
+      419.29,
+      285.8
+    ],
+    "reading_order": 16,
+    "text": "AB\nPQ\n[From (6) and (7)]\n(8)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      259.08,
+      215.79,
+      280.07
+    ],
+    "reading_order": 17,
+    "text": "Therefore,\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b18",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      267.81,
+      228.0,
+      287.29
+    ],
+    "reading_order": 18,
+    "text": "RN =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b19",
+    "type": "formula",
+    "bbox": [
+      201.6,
+      295.19,
+      228.0,
+      323.02
+    ],
+    "reading_order": 19,
+    "text": "AB\nPQ =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b20",
+    "type": "paragraph",
+    "bbox": [
+      235.19,
+      295.19,
+      419.28,
+      323.02
+    ],
+    "reading_order": 20,
+    "text": "BC\nQR\n[From (1)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      304.77,
+      96.72,
+      317.03
+    ],
+    "reading_order": 21,
+    "text": "(iii) Again,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      332.04,
+      215.79,
+      352.79
+    ],
+    "reading_order": 22,
+    "text": "Therefore,\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b23",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      332.7,
+      250.39,
+      360.25
+    ],
+    "reading_order": 23,
+    "text": "RN = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b24",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      340.53,
+      419.28,
+      360.2
+    ],
+    "reading_order": 24,
+    "text": "QR\n[From (8)]\n(9)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      369.24,
+      215.79,
+      389.26
+    ],
+    "reading_order": 25,
+    "text": "Also,\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b26",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      369.45,
+      289.98,
+      397.46
+    ],
+    "reading_order": 26,
+    "text": "RN = AB\n2 BM\nPQ\n2 QN\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b27",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      407.99,
+      252.41,
+      420.22
+    ],
+    "reading_order": 27,
+    "text": "BM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      409.16,
+      215.71,
+      429.83
+    ],
+    "reading_order": 28,
+    "text": "i.e.,\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b29",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      417.57,
+      228.0,
+      437.03
+    ],
+    "reading_order": 29,
+    "text": "RN =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b30",
+    "type": "paragraph",
+    "bbox": [
+      235.93,
+      417.57,
+      419.28,
+      435.82
+    ],
+    "reading_order": 30,
+    "text": "QN\n(10)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b31",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      449.1,
+      419.04,
+      476.6
+    ],
+    "reading_order": 31,
+    "text": "BC\nBM\nQR\nQN\n\n[From (9) and (10)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b32",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      449.88,
+      215.79,
+      470.87
+    ],
+    "reading_order": 32,
+    "text": "i.e.,\nCM",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b33",
+    "type": "formula",
+    "bbox": [
+      199.44,
+      458.61,
+      228.0,
+      478.09
+    ],
+    "reading_order": 33,
+    "text": "RN =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b34",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      483.54,
+      419.29,
+      497.85
+    ],
+    "reading_order": 34,
+    "text": "Therefore,\n CMB ~  RNQ\n(SSS similarity)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b35",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      501.39,
+      420.05,
+      527.26
+    ],
+    "reading_order": 35,
+    "text": "[Note : You can also prove part (iii) by following the same method as used for proving\npart (i).]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b36",
+    "type": "paragraph",
+    "bbox": [
+      195.36,
+      545.82,
+      272.63,
+      559.64
+    ],
+    "reading_order": 36,
+    "text": "EXERCISE 6.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b37",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      566.41,
+      420.12,
+      601.93
+    ],
+    "reading_order": 37,
+    "text": "1. State which pairs of triangles in Fig. 6.34 are similar. Write the similarity criterion used by\nyou for answering the question and also write the pairs of similar triangles in the symbolic\nform :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 22,
+    "block_id": "jemh106_p022_b38",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 38,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

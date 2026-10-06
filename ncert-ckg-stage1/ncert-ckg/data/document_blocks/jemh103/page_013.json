@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "36\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b03",
+    "type": "header",
+    "bbox": [
+      47.99,
+      94.59,
+      420.12,
+      133.67
+    ],
+    "reading_order": 3,
+    "text": "Solution : Let the ten’s and the unit’s digits in the first number be x and y, respectively.\nSo, the first number may be written as 10 x + y  in the expanded form (for example,\n56 = 10(5) + 6).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      138.69,
+      420.0,
+      177.35
+    ],
+    "reading_order": 4,
+    "text": "When the digits are reversed, x becomes the unit’s digit and y becomes the ten’s\ndigit. This number, in the expanded notation is 10y + x (for example, when 56 is\nreversed, we get 65 = 10(6) + 5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      182.13,
+      193.46,
+      194.39
+    ],
+    "reading_order": 6,
+    "text": "According to the given condition.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      198.46,
+      419.75,
+      324.01
+    ],
+    "reading_order": 7,
+    "text": "(10x + y) + (10y + x) = 66\ni.e.,\n11(x + y) = 66\ni.e.,\nx + y = 6\n(1)\nWe are also given that the digits differ by 2, therefore,\neither\nx – y = 2\n(2)\nor\ny – x = 2\n(3)\nIf x – y = 2, then solving (1) and (2) by elimination, we get x = 4 and y = 2.\nIn this case, we get the number 42.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b08",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      328.08,
+      407.98,
+      340.33
+    ],
+    "reading_order": 8,
+    "text": "If y – x = 2, then solving (1) and (3) by elimination, we get x = 2 and y = 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      345.36,
+      206.88,
+      357.62
+    ],
+    "reading_order": 9,
+    "text": "In this case, we get the number 24.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      362.64,
+      248.16,
+      374.9
+    ],
+    "reading_order": 10,
+    "text": "Thus, there are two such numbers 42 and 24.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b11",
+    "type": "formula",
+    "bbox": [
+      47.97,
+      379.51,
+      407.29,
+      392.18
+    ],
+    "reading_order": 11,
+    "text": "Verification : Here 42 + 24 = 66 and 4 – 2 = 2. Also 24 + 42 = 66 and 4 – 2 = 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      405.42,
+      274.09,
+      419.24
+    ],
+    "reading_order": 12,
+    "text": "EXERCISE 3.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      426.01,
+      420.06,
+      449.53
+    ],
+    "reading_order": 13,
+    "text": "1. Solve the following pair of linear equations by the elimination method and the substitution\nmethod :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b14",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      454.47,
+      385.44,
+      465.61
+    ],
+    "reading_order": 14,
+    "text": "(i) x + y = 5 and 2x – 3y = 4\n(ii) 3x + 4y = 10 and 2x – 2y = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b15",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      471.8,
+      388.01,
+      497.05
+    ],
+    "reading_order": 15,
+    "text": "(iii) 3x – 5y – 4 = 0 and 9x = 2y + 7\n(iv)\n2\n1 and\n3\n2\n3\n3\nx\ny\ny\nx\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      503.53,
+      420.05,
+      527.05
+    ],
+    "reading_order": 16,
+    "text": "2. Form the pair of linear equations in the following problems, and find their solutions\n(if they exist) by the elimination method :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      531.75,
+      420.04,
+      542.89
+    ],
+    "reading_order": 17,
+    "text": "(i) If we add 1 to the numerator and subtract 1 from the denominator, a fraction reduces",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      548.99,
+      170.38,
+      567.61
+    ],
+    "reading_order": 18,
+    "text": "to 1. It becomes 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      165.6,
+      556.47,
+      403.74,
+      574.58
+    ],
+    "reading_order": 19,
+    "text": "2 if we only add 1 to the denominator. What is the fraction?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      579.51,
+      420.04,
+      590.65
+    ],
+    "reading_order": 20,
+    "text": "(ii) Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b21",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      590.55,
+      263.29,
+      601.69
+    ],
+    "reading_order": 21,
+    "text": "old as Sonu. How old are Nuri and Sonu?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      605.67,
+      420.03,
+      616.81
+    ],
+    "reading_order": 22,
+    "text": "(iii) The sum of the digits of a two-digit number is 9. Also, nine times this number is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b23",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      616.47,
+      419.21,
+      627.61
+    ],
+    "reading_order": 23,
+    "text": "twice the number obtained by reversing the order of the digits. Find the number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 13,
+    "block_id": "jemh103_p013_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

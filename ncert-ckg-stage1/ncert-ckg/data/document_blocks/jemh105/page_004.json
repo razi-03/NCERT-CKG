@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "52\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.01,
+      123.07
+    ],
+    "reading_order": 3,
+    "text": "Let us denote the first term of an AP by a1, second term by a2, . . ., nth term by\nan and the common difference by d. Then the AP becomes a1, a2, a3, . . ., an.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      125.25,
+      249.71,
+      140.35
+    ],
+    "reading_order": 4,
+    "text": "So,\na2 – a1 = a3 – a2 = . . . = an – an – 1 = d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      143.25,
+      191.3,
+      155.5
+    ],
+    "reading_order": 5,
+    "text": "Some more examples of AP are:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      160.05,
+      420.02,
+      172.3
+    ],
+    "reading_order": 6,
+    "text": "(a) The heights ( in cm ) of some students of a school standing in a queue in the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      174.2,
+      278.18,
+      186.46
+    ],
+    "reading_order": 8,
+    "text": "morning assembly are 147 , 148, 149, . . ., 157.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      191.24,
+      420.08,
+      203.5
+    ],
+    "reading_order": 9,
+    "text": "(b) The minimum temperatures ( in degree celsius ) recorded for a week in the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      205.17,
+      333.14,
+      217.42
+    ],
+    "reading_order": 10,
+    "text": "month of January in a city, arranged in ascending order are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      100.32,
+      222.21,
+      291.84,
+      234.46
+    ],
+    "reading_order": 11,
+    "text": "– 3.1, – 3.0, – 2.9, – 2.8, – 2.7, – 2.6, – 2.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      239.25,
+      420.0,
+      251.51
+    ],
+    "reading_order": 12,
+    "text": "(c) The balance money ( in ` ) after paying 5 % of the total  loan of ` 1000 every",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      253.18,
+      231.6,
+      265.43
+    ],
+    "reading_order": 13,
+    "text": "month is 950, 900, 850, 800, . . ., 50.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      270.21,
+      419.98,
+      282.47
+    ],
+    "reading_order": 14,
+    "text": "(d) The cash prizes ( in ` ) given by a school to the toppers of Classes I to XII are,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      284.14,
+      254.41,
+      296.39
+    ],
+    "reading_order": 15,
+    "text": "respectively, 200, 250, 300, 350, . . ., 750.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      301.17,
+      420.01,
+      313.43
+    ],
+    "reading_order": 16,
+    "text": "(e) The total savings (in `) after every month for 10 months when ` 50 are saved",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      315.09,
+      348.73,
+      327.34
+    ],
+    "reading_order": 17,
+    "text": "each month are 50, 100, 150, 200, 250, 300, 350, 400, 450, 500.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      332.13,
+      419.2,
+      344.38
+    ],
+    "reading_order": 18,
+    "text": "It is left as an exercise for you to explain why each of the lists above is an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      350.12,
+      146.4,
+      362.38
+    ],
+    "reading_order": 19,
+    "text": "You can see that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b20",
+    "type": "formula",
+    "bbox": [
+      183.11,
+      363.57,
+      309.13,
+      375.82
+    ],
+    "reading_order": 20,
+    "text": "a, a + d, a + 2d, a + 3d, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      380.85,
+      420.01,
+      406.3
+    ],
+    "reading_order": 21,
+    "text": "represents an arithmetic progression where a is the first term and d the common\ndifference. This is called the general form of an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      411.33,
+      420.05,
+      476.38
+    ],
+    "reading_order": 22,
+    "text": "Note that in examples (a) to (e) above, there are only a finite number of terms.\nSuch an AP is called a finite AP. Also note that each of these Arithmetic Progressions\n(APs) has a last term. The APs in examples (i) to (v) in this section, are not finite APs\nand so they are called infinite Arithmetic Progressions. Such APs do not have a\nlast term.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      481.17,
+      420.03,
+      533.02
+    ],
+    "reading_order": 23,
+    "text": "Now, to know about an AP, what is the minimum information that you need? Is it\nenough to know the first term? Or, is it enough to know only the common difference?\nYou will find that you will need to know both – the first term a and the common\ndifference d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      538.05,
+      420.02,
+      563.5
+    ],
+    "reading_order": 24,
+    "text": "For instance if the first term a is 6 and the common difference d is 3, then\nthe AP is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b25",
+    "type": "paragraph",
+    "bbox": [
+      181.95,
+      564.45,
+      250.11,
+      576.7
+    ],
+    "reading_order": 25,
+    "text": "6, 9,12, 15, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      581.73,
+      222.06,
+      593.98
+    ],
+    "reading_order": 26,
+    "text": "and if a is 6 and d is – 3, then the AP is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b27",
+    "type": "paragraph",
+    "bbox": [
+      181.96,
+      598.77,
+      245.8,
+      611.02
+    ],
+    "reading_order": 27,
+    "text": "6, 3, 0, –3, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 4,
+    "block_id": "jemh105_p004_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

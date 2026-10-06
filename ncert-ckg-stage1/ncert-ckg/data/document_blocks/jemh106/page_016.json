@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "88\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.18,
+      420.04,
+      120.46
+    ],
+    "reading_order": 3,
+    "text": "If two angles of one triangle are respectively equal to two angles of another\ntriangle, then the two triangles are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      125.25,
+      393.85,
+      137.51
+    ],
+    "reading_order": 4,
+    "text": "This may be referred to as the AA similarity criterion for two triangles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      142.53,
+      420.06,
+      220.79
+    ],
+    "reading_order": 5,
+    "text": "You have seen above that if the three angles of one triangle are respectively\nequal to the three angles of another triangle, then their corresponding sides are\nproportional (i.e., in the same ratio). What about the converse of this statement? Is the\nconverse true? In other words, if the sides of a triangle are respectively proportional to\nthe sides of another triangle, is it true that their corresponding angles are equal? Let us\nexamine it through an activity :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      230.43,
+      420.03,
+      256.31
+    ],
+    "reading_order": 7,
+    "text": "Activity 5 : Draw two triangles ABC and DEF such that AB = 3 cm, BC = 6 cm,\nCA = 8 cm, DE = 4.5 cm, EF = 9 cm and FD = 12 cm (see Fig. 6.25).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b08",
+    "type": "paragraph",
+    "bbox": [
+      212.39,
+      364.59,
+      255.12,
+      377.26
+    ],
+    "reading_order": 8,
+    "text": "Fig. 6.25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      387.24,
+      333.87,
+      415.45
+    ],
+    "reading_order": 9,
+    "text": "So, you have : \nAB\nBC\nCA\nDE\nEF\nFD\n\n\n(each equal to 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      328.32,
+      395.73,
+      340.62,
+      415.45
+    ],
+    "reading_order": 10,
+    "text": "3 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      416.82,
+      420.04,
+      456.71
+    ],
+    "reading_order": 11,
+    "text": "Now measure  A,  B,  C,  D,  E and  F. You will observe that\n A =  D,  B =  E and  C =  F, i.e., the corresponding angles of the two\ntriangles are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      461.49,
+      420.09,
+      500.14
+    ],
+    "reading_order": 12,
+    "text": "You can repeat this activity by drawing several such triangles (having their sides\nin the same ratio). Everytime  you shall see that their corresponding angles are equal.\nIt is due to the following criterion of similarity of two triangles:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      509.79,
+      420.0,
+      548.86
+    ],
+    "reading_order": 13,
+    "text": "Theorem 6.4 : If in two triangles, sides of one triangle are proportional to\n(i.e., in the same ratio of ) the sides of the other triangle, then their corresponding\nangles are equal and hence the two triangles are similiar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      553.89,
+      420.0,
+      579.35
+    ],
+    "reading_order": 14,
+    "text": "This criterion is referred to as the SSS (Side–Side–Side) similarity criterion for\ntwo triangles.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b15",
+    "type": "paragraph",
+    "bbox": [
+      50.64,
+      584.13,
+      420.02,
+      626.89
+    ],
+    "reading_order": 15,
+    "text": "This theorem can be proved by taking two triangles ABC and DEF such that\nAB\nBC\nCA\nDE\nEF\nFD\n\n\n (< 1) (see Fig. 6.26):",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 16,
+    "block_id": "jemh106_p016_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

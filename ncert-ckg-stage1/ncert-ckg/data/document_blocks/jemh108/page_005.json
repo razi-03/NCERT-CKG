@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n117",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.12,
+      215.69,
+      117.11
+    ],
+    "reading_order": 3,
+    "text": "From this, we find\nMP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b04",
+    "type": "formula",
+    "bbox": [
+      200.88,
+      96.12,
+      292.43,
+      125.16
+    ],
+    "reading_order": 4,
+    "text": "AP = BC\nsin A\nAC \n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      128.04,
+      403.7,
+      157.69
+    ],
+    "reading_order": 5,
+    "text": "Similarly,\nAM\nAB\nAP\nAC\n\n = cos A, MP\nBC\ntan A\nAM\nAB\n\n\n and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      160.98,
+      419.99,
+      188.49
+    ],
+    "reading_order": 6,
+    "text": "This shows that the trigonometric ratios of angle A in  PAM not differ from\nthose of angle A in  CAB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      192.69,
+      420.03,
+      218.97
+    ],
+    "reading_order": 8,
+    "text": "In the same way, you should check that the value of sin A (and also of other\ntrigonometric ratios) remains the same in  QAN also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      222.51,
+      420.0,
+      261.59
+    ],
+    "reading_order": 9,
+    "text": "From our observations, it is now clear that the values of the trigonometric\nratios of an angle do not vary with the lengths of the sides of the triangle, if\nthe angle remains the same.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      266.19,
+      420.02,
+      332.49
+    ],
+    "reading_order": 10,
+    "text": "Note : For the sake of convenience, we may write sin2A, cos2A, etc., in place of\n(sin A)2, (cos A)2, etc., respectively. But cosec A = (sin A)–1  sin–1 A (it is called sine\ninverse A). sin–1 A has a different meaning, which will be discussed in higher classes.\nSimilar conventions hold for the other trigonometric ratios as well. Sometimes, the\nGreek letter  (theta) is also used to denote an angle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      336.69,
+      419.99,
+      362.15
+    ],
+    "reading_order": 11,
+    "text": "We have defined six trigonometric ratios of an acute angle. If we know any one\nof the ratios, can we obtain the other ratios? Let us see.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b12",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      363.0,
+      237.97,
+      383.75
+    ],
+    "reading_order": 12,
+    "text": "If in a right triangle ABC, sin A = 1,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      378.83,
+      240.01,
+      414.49
+    ],
+    "reading_order": 13,
+    "text": "3\nthen this means that BC\n1\nAC\n3\n\n, i.e., the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      412.05,
+      420.04,
+      503.51
+    ],
+    "reading_order": 14,
+    "text": "lengths of the sides BC and AC of the triangle\nABC are in the ratio 1 : 3 (see Fig. 8.7). So if\nBC is equal to k, then AC will be 3k, where\nk is any positive number. To determine other\ntrigonometric ratios for the angle A, we need to find the length of the third side\nAB. Do you remember the Pythagoras theorem? Let us use it to determine the\nrequired length AB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      317.28,
+      443.8,
+      354.0,
+      456.47
+    ],
+    "reading_order": 15,
+    "text": "Fig. 8.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b16",
+    "type": "formula",
+    "bbox": [
+      149.99,
+      505.17,
+      376.4,
+      517.66
+    ],
+    "reading_order": 16,
+    "text": "AB2 = AC2 – BC2 = (3k)2 – (k)2 = 8k2 = (2\n2 k)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      523.62,
+      219.68,
+      537.93
+    ],
+    "reading_order": 17,
+    "text": "Therefore,\nAB =\n2 2 k\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      546.21,
+      342.0,
+      559.43
+    ],
+    "reading_order": 18,
+    "text": "So, we get\nAB = 2 2 k\n(Why is AB not – 2 2 k ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      566.9,
+      256.27,
+      594.7
+    ],
+    "reading_order": 19,
+    "text": "Now,\ncos A = AB\n2 2\n2 2\nAC\n3\n3\nk\nk\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      598.77,
+      354.0,
+      611.03
+    ],
+    "reading_order": 20,
+    "text": "Similarly, you can obtain the other trigonometric ratios of the angle A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 5,
+    "block_id": "jemh108_p005_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "234\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      420.09,
+      118.09
+    ],
+    "reading_order": 3,
+    "text": "2. Write the converses of the following statements. Also, decide in each case whether the\nconverse is true or false.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b04",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      123.03,
+      332.9,
+      134.17
+    ],
+    "reading_order": 4,
+    "text": "(i) If triangle ABC is isosceles, then its base angles are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b05",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      139.11,
+      309.73,
+      150.25
+    ],
+    "reading_order": 5,
+    "text": "(ii) If an integer is odd, then its square is an odd integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b06",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      154.95,
+      174.0,
+      166.09
+    ],
+    "reading_order": 6,
+    "text": "(iii) If x2 = 1, then x = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b07",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      171.03,
+      348.86,
+      182.17
+    ],
+    "reading_order": 7,
+    "text": "(iv) If ABCD is a parallelogram, then AC and BD bisect each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b09",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      187.11,
+      343.54,
+      198.25
+    ],
+    "reading_order": 9,
+    "text": "(v) If a, b and c, are whole numbers, then a + (b + c) = (a + b) + c.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b10",
+    "type": "formula",
+    "bbox": [
+      77.28,
+      202.95,
+      342.83,
+      214.09
+    ],
+    "reading_order": 10,
+    "text": "(vi) If x and y are two odd numbers, then x + y is an even number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b11",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      219.03,
+      354.76,
+      230.17
+    ],
+    "reading_order": 11,
+    "text": "(vii) If vertices of a parallelogram lie on a circle, then it is a rectangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      239.34,
+      189.83,
+      253.16
+    ],
+    "reading_order": 12,
+    "text": "A1.7 Proof by Contradiction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      259.17,
+      420.09,
+      329.51
+    ],
+    "reading_order": 13,
+    "text": "So far, in all our examples, we used direct arguments to establish the truth of the\nresults. We now explore ‘indirect’ arguments, in particular, a very powerful tool in\nmathematics known as ‘proof by contradiction’. We have already used this method in\nChapter 1 to establish the irrationality of several numbers and also in other chapters to\nprove some theorems. Here, we do several more examples to illustrate the idea.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      335.73,
+      420.03,
+      377.03
+    ],
+    "reading_order": 14,
+    "text": "Before we proceed, let us explain what a contradiction is. In mathematics, a\ncontradiction occurs when we get a statement p such that p is true and ~p, its negation,\nis also true. For example,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.02,
+      383.32,
+      240.02,
+      411.36
+    ],
+    "reading_order": 15,
+    "text": "p: \na\nx\nb\n\n, where a and b are coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      411.33,
+      198.73,
+      423.59
+    ],
+    "reading_order": 16,
+    "text": "q: 2 divides both ‘a’ and ‘b’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      430.53,
+      420.03,
+      490.79
+    ],
+    "reading_order": 17,
+    "text": "If we assume that p is true and also manage to show that q is true, then we have\narrived at a contradiction, because q implies that the negation of p is true. If you\nremember, this is exactly what happened when we tried to prove that \n2 is irrational\n(see Chapter 1).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      496.53,
+      420.07,
+      508.79
+    ],
+    "reading_order": 18,
+    "text": "How does proof by contradiction work? Let us see this through a specific example.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      513.81,
+      234.75,
+      526.07
+    ],
+    "reading_order": 19,
+    "text": "Suppose we are given the following :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b20",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      531.09,
+      344.21,
+      543.35
+    ],
+    "reading_order": 20,
+    "text": "All women are mortal. A is a woman. Prove that A is mortal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b21",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      552.21,
+      420.01,
+      578.62
+    ],
+    "reading_order": 21,
+    "text": "Even though this is a rather easy example, let us see how we can prove this by\ncontradiction.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b22",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      584.85,
+      420.01,
+      597.11
+    ],
+    "reading_order": 22,
+    "text": "Let us assume that we want to establish the truth of a statement p (here we",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b23",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      598.54,
+      263.29,
+      610.79
+    ],
+    "reading_order": 23,
+    "text": "want to show that p : ‘A is mortal’ is true).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 17,
+    "block_id": "jemh1a1_p017_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

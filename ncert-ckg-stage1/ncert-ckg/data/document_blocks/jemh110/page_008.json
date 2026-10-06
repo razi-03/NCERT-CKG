@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "CIRCLES\n151",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      98.1,
+      333.14,
+      112.41
+    ],
+    "reading_order": 3,
+    "text": "Now,\n TPR +  RPO = 90° =  TPR +  PTR\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b04",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      115.14,
+      156.75,
+      129.45
+    ],
+    "reading_order": 4,
+    "text": "So,\n RPO =  PTR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      61.46,
+      133.65,
+      419.93,
+      145.91
+    ],
+    "reading_order": 5,
+    "text": "Therefore, right triangle TRP is similar to the right triangle PRO by AA similarity.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b06",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      156.12,
+      221.21,
+      184.33
+    ],
+    "reading_order": 6,
+    "text": "This gives\nTP\nPO = RP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      206.88,
+      156.12,
+      263.94,
+      184.33
+    ],
+    "reading_order": 7,
+    "text": "RO , i.e., TP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b08",
+    "type": "formula",
+    "bbox": [
+      254.64,
+      156.12,
+      368.16,
+      184.33
+    ],
+    "reading_order": 8,
+    "text": "5 = 4\n3 or TP = 20\n3 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      189.64,
+      380.2,
+      202.31
+    ],
+    "reading_order": 10,
+    "text": "Note : TP can also be found by using the Pythagoras Theorem, as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      207.34,
+      285.35,
+      219.59
+    ],
+    "reading_order": 11,
+    "text": "Let\nTP = x and TR = y.\nThen",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b12",
+    "type": "formula",
+    "bbox": [
+      161.75,
+      223.14,
+      419.28,
+      237.45
+    ],
+    "reading_order": 12,
+    "text": "x2 = y2 + 16\n(Taking right  PRT)\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b13",
+    "type": "formula",
+    "bbox": [
+      140.64,
+      240.42,
+      419.28,
+      254.73
+    ],
+    "reading_order": 13,
+    "text": "x2 + 52 = (y + 3)2\n(Taking right  OPT)\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      258.93,
+      188.9,
+      271.19
+    ],
+    "reading_order": 14,
+    "text": "Subtracting (1) from (2), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b15",
+    "type": "formula",
+    "bbox": [
+      160.09,
+      273.56,
+      298.31,
+      301.43
+    ],
+    "reading_order": 15,
+    "text": "25 = 6y – 7\nor\ny = 32\n16\n6\n3\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      186.24,
+      306.31,
+      419.28,
+      337.68
+    ],
+    "reading_order": 16,
+    "text": "2\n16\n16\n16\n25\n16\n(16\n9)\n3\n9\n9\n\n\n\n\n\n\n\n\n\n\n[From (1)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      317.25,
+      179.52,
+      329.51
+    ],
+    "reading_order": 17,
+    "text": "Therefore,\nx2 =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      345.72,
+      198.51,
+      366.73
+    ],
+    "reading_order": 18,
+    "text": "or\nx = 20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      190.32,
+      361.55,
+      195.87,
+      373.93
+    ],
+    "reading_order": 19,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      187.92,
+      393.42,
+      280.07,
+      407.24
+    ],
+    "reading_order": 20,
+    "text": "EXERCISE\n10.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      414.39,
+      288.06,
+      425.53
+    ],
+    "reading_order": 21,
+    "text": "In Q.1 to 3, choose the correct option and give justification.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      430.09,
+      419.81,
+      453.61
+    ],
+    "reading_order": 22,
+    "text": "1. From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from\nthe centre is 25 cm. The radius of the circle is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      458.31,
+      239.29,
+      469.45
+    ],
+    "reading_order": 23,
+    "text": "(A) 7 cm\n(B) 12 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b24",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      474.39,
+      246.01,
+      485.53
+    ],
+    "reading_order": 24,
+    "text": "(C)\n15 cm\n(D) 24.5 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      490.09,
+      261.6,
+      526.36
+    ],
+    "reading_order": 25,
+    "text": "2. In Fig. 10.11, if TP and TQ are the two tangents\nto a circle with centre O so that  POQ = 110°,\nthen PTQ is equal to",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b26",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      530.55,
+      229.44,
+      541.69
+    ],
+    "reading_order": 26,
+    "text": "(A) 60°\n(B) 70°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b27",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      546.39,
+      229.44,
+      557.53
+    ],
+    "reading_order": 27,
+    "text": "(C)\n80°\n(D) 90°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b28",
+    "type": "paragraph",
+    "bbox": [
+      311.04,
+      547.72,
+      359.02,
+      560.39
+    ],
+    "reading_order": 28,
+    "text": "Fig. 10.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b29",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      562.09,
+      420.05,
+      586.36
+    ],
+    "reading_order": 29,
+    "text": "3. If tangents PA and PB from a point P to a circle with centre O are inclined to each other\nat angle of 80°, then  POA is equal to",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b30",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      590.55,
+      229.44,
+      601.69
+    ],
+    "reading_order": 30,
+    "text": "(A) 50°\n(B) 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b31",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      606.39,
+      229.44,
+      617.53
+    ],
+    "reading_order": 31,
+    "text": "(C)\n70°\n(D) 80°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 8,
+    "block_id": "jemh110_p008_b32",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 32,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

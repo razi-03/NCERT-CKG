@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n191",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.53,
+      420.05,
+      160.81
+    ],
+    "reading_order": 3,
+    "text": "How many students have scored less than 20 marks? Observe that the number\nof students who have scored less than 20 include the number of students who have\nscored marks from 0 - 10 as well as the number of students who have scored marks\nfrom 10 - 20. So, the total number of students with marks less than 20 is 5 + 3, i.e., 8.\nWe say that the cumulative frequency of the class 10 -20 is 8.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      167.81,
+      420.09,
+      206.89
+    ],
+    "reading_order": 4,
+    "text": "Similarly, we can compute the cumulative frequencies of the other classes, i.e.,\nthe number of students with marks less than 30, less than 40, . . ., less than 100. We\ngive them in Table 13.13 given below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b06",
+    "type": "paragraph",
+    "bbox": [
+      205.44,
+      218.08,
+      262.57,
+      229.08
+    ],
+    "reading_order": 6,
+    "text": "Table 13.13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b07",
+    "type": "paragraph",
+    "bbox": [
+      116.64,
+      244.24,
+      368.89,
+      268.44
+    ],
+    "reading_order": 7,
+    "text": "Marks obtained\nNumber of students\n(Cumulative frequency)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b08",
+    "type": "paragraph",
+    "bbox": [
+      127.92,
+      279.89,
+      314.14,
+      290.89
+    ],
+    "reading_order": 8,
+    "text": "Less than 10\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b09",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      297.17,
+      331.2,
+      308.17
+    ],
+    "reading_order": 9,
+    "text": "Less than 20\n5 + 3 = 8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b10",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      314.45,
+      333.61,
+      325.45
+    ],
+    "reading_order": 10,
+    "text": "Less than 30\n8 + 4 = 12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b11",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      331.49,
+      336.25,
+      342.49
+    ],
+    "reading_order": 11,
+    "text": "Less than 40\n12 + 3 = 15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b12",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      348.77,
+      336.25,
+      359.77
+    ],
+    "reading_order": 12,
+    "text": "Less than 50\n15 + 3 = 18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b13",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      366.05,
+      336.25,
+      377.05
+    ],
+    "reading_order": 13,
+    "text": "Less than 60\n18 + 4 = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b14",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      383.33,
+      336.25,
+      394.33
+    ],
+    "reading_order": 14,
+    "text": "Less than 70\n22 + 7 = 29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b15",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      400.61,
+      336.25,
+      411.61
+    ],
+    "reading_order": 15,
+    "text": "Less than 80\n29 + 9 = 38",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b16",
+    "type": "formula",
+    "bbox": [
+      127.92,
+      417.89,
+      336.25,
+      428.89
+    ],
+    "reading_order": 16,
+    "text": "Less than 90\n38 + 7 = 45",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b17",
+    "type": "formula",
+    "bbox": [
+      124.8,
+      435.17,
+      336.25,
+      446.17
+    ],
+    "reading_order": 17,
+    "text": "Less than 100\n45 + 8 = 53",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      466.52,
+      420.03,
+      506.41
+    ],
+    "reading_order": 18,
+    "text": "The distribution given above is called the cumulative frequency distribution of\nthe less than type. Here 10, 20, 30, . . . 100, are the upper limits of the respective\nclass intervals.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      513.65,
+      420.04,
+      553.21
+    ],
+    "reading_order": 19,
+    "text": "We can similarly make the table for the number of students with scores, more\nthan or equal to 0, more than or equal to 10, more than or equal to 20, and so on. From\nTable 13.12, we observe that all 53 students have scored marks more than or equal to",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      559.01,
+      420.04,
+      614.17
+    ],
+    "reading_order": 20,
+    "text": "0. Since there are 5 students scoring marks in the interval 0 - 10, this means that there\nare 53 – 5 = 48 students getting more than or equal to 10 marks. Continuing in the\nsame manner, we get the number of students scoring 20 or above as 48 – 3 = 45, 30 or\nabove as 45 – 4 = 41, and so on, as shown in Table 13.14.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 21,
+    "block_id": "jemh113_p021_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

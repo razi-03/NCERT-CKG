@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "CIRCLES\n147",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.53,
+      330.73,
+      107.53
+    ],
+    "reading_order": 3,
+    "text": "Take a point Q on XY other than P and join OQ (see Fig. 10.5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.81,
+      261.63,
+      177.61
+    ],
+    "reading_order": 4,
+    "text": "The point Q must lie outside the circle.\n(Why? Note that if Q lies inside the circle, XY\nwill become a secant and not a tangent to the\ncircle). Therefore, OQ is longer than the radius\nOP of the circle. That is,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      179.81,
+      185.15,
+      190.81
+    ],
+    "reading_order": 6,
+    "text": "OQ > OP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      196.85,
+      261.71,
+      260.65
+    ],
+    "reading_order": 7,
+    "text": "Since this happens for every point on the\nline XY except the point P, OP is the\nshortest of all the distances of the point O to the\npoints of XY. So OP is perpendicular to XY.\n(as shown in Theorem A1.7.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      319.44,
+      246.88,
+      362.16,
+      257.88
+    ],
+    "reading_order": 8,
+    "text": "Fig. 10.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      285.04,
+      92.88,
+      296.04
+    ],
+    "reading_order": 9,
+    "text": "Remarks",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      302.45,
+      420.05,
+      326.65
+    ],
+    "reading_order": 10,
+    "text": "1. By theorem above, we can also conclude that at any point on a circle there can be\none and only one tangent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      332.69,
+      420.04,
+      356.89
+    ],
+    "reading_order": 11,
+    "text": "2. The line containing the radius through the point of contact is also sometimes called\nthe ‘normal’ to the circle at the point.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      190.8,
+      373.07,
+      277.2,
+      385.07
+    ],
+    "reading_order": 12,
+    "text": "EXERCISE 10.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      393.33,
+      229.45,
+      403.45
+    ],
+    "reading_order": 13,
+    "text": "1. How many tangents can a circle have?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      409.41,
+      145.45,
+      419.53
+    ],
+    "reading_order": 14,
+    "text": "2. Fill in the blanks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      425.61,
+      335.28,
+      435.61
+    ],
+    "reading_order": 15,
+    "text": "(i) A tangent to a circle intersects it in \n point (s).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      441.45,
+      361.44,
+      451.45
+    ],
+    "reading_order": 16,
+    "text": "(ii) A line intersecting a circle in two points is called a \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      457.53,
+      342.73,
+      467.53
+    ],
+    "reading_order": 17,
+    "text": "(iii) A circle can have \n parallel tangents at the most.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      473.61,
+      418.56,
+      483.61
+    ],
+    "reading_order": 18,
+    "text": "(iv) The common point of a tangent to a circle and the circle is called \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      489.33,
+      419.78,
+      511.45
+    ],
+    "reading_order": 19,
+    "text": "3. A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at\na point Q so that OQ = 12 cm. Length PQ is :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      520.89,
+      419.79,
+      557.53
+    ],
+    "reading_order": 20,
+    "text": "(A) 12 cm\n(B) 13 cm\n(C) 8.5 cm\n(D)\n119 cm.\n4. Draw a circle and two lines parallel to a given line such that one is a tangent and the\nother, a secant to the circle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b21",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      568.43,
+      297.6,
+      580.43
+    ],
+    "reading_order": 21,
+    "text": "10.3 Number of Tangents from a Point on a Circle",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      586.85,
+      420.04,
+      611.05
+    ],
+    "reading_order": 22,
+    "text": "To get an idea of the number of tangents from a point on a circle, let us perform the\nfollowing activity:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 4,
+    "block_id": "jemh110_p004_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

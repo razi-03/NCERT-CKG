@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "130\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b03",
+    "type": "paragraph",
+    "bbox": [
+      379.68,
+      96.84,
+      383.23,
+      104.74
+    ],
+    "reading_order": 3,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b04",
+    "type": "formula",
+    "bbox": [
+      241.92,
+      96.95,
+      395.5,
+      126.46
+    ],
+    "reading_order": 4,
+    "text": "2\n2\n(1\nsin A)(1 + sin A)\n1\nsin A\ncos A\ncos A\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b05",
+    "type": "formula",
+    "bbox": [
+      228.72,
+      107.73,
+      234.92,
+      119.99
+    ],
+    "reading_order": 5,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b06",
+    "type": "paragraph",
+    "bbox": [
+      256.8,
+      129.48,
+      260.35,
+      137.38
+    ],
+    "reading_order": 6,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b07",
+    "type": "formula",
+    "bbox": [
+      241.92,
+      130.82,
+      288.68,
+      159.1
+    ],
+    "reading_order": 7,
+    "text": "2\ncos A\n1\ncos A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b08",
+    "type": "formula",
+    "bbox": [
+      275.28,
+      136.56,
+      323.04,
+      152.63
+    ],
+    "reading_order": 8,
+    "text": " = RHS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b09",
+    "type": "formula",
+    "bbox": [
+      228.72,
+      140.37,
+      234.92,
+      152.63
+    ],
+    "reading_order": 9,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      169.53,
+      299.57,
+      197.54
+    ],
+    "reading_order": 10,
+    "text": "Example 11 : Prove that cot A – cos A\ncosec A – 1\ncot A + cos A\ncosec A + 1\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b11",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 11,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b12",
+    "type": "formula",
+    "bbox": [
+      133.2,
+      209.01,
+      284.66,
+      265.68
+    ],
+    "reading_order": 12,
+    "text": "cos A\ncos A\ncot A – cos A\nsin A\ncos A\ncot A + cos A\ncos A\nsin A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b13",
+    "type": "paragraph",
+    "bbox": [
+      205.44,
+      214.51,
+      254.45,
+      244.18
+    ],
+    "reading_order": 13,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      230.92,
+      130.24,
+      243.59
+    ],
+    "reading_order": 14,
+    "text": "Solution : LHS =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b15",
+    "type": "paragraph",
+    "bbox": [
+      248.41,
+      243.79,
+      254.45,
+      258.1
+    ],
+    "reading_order": 15,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b16",
+    "type": "paragraph",
+    "bbox": [
+      192.48,
+      266.16,
+      325.96,
+      330.04
+    ],
+    "reading_order": 16,
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b17",
+    "type": "formula",
+    "bbox": [
+      165.6,
+      267.81,
+      383.98,
+      327.37
+    ],
+    "reading_order": 17,
+    "text": "1\n1\ncos A\n1\n1\nsin A\nsin A\ncosec A – 1\ncosec A + 1\n1\n1\ncos A\n1\n1\nsin A\nsin A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b18",
+    "type": "formula",
+    "bbox": [
+      153.84,
+      291.33,
+      162.81,
+      303.59
+    ],
+    "reading_order": 18,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b19",
+    "type": "formula",
+    "bbox": [
+      385.68,
+      291.33,
+      419.28,
+      303.59
+    ],
+    "reading_order": 19,
+    "text": "= RHS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      346.45,
+      419.29,
+      376.67
+    ],
+    "reading_order": 20,
+    "text": "Example 12 : Prove that sin\ncos\n1\n1\n,\nsin\ncos\n1\nsec\ntan\n\n\n\n\n\n\n using the identity",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      375.3,
+      134.28,
+      389.61
+    ],
+    "reading_order": 21,
+    "text": "sec2  = 1 + tan2 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      396.9,
+      419.32,
+      440.26
+    ],
+    "reading_order": 22,
+    "text": "Solution : Since we will apply the identity involving sec  and tan , let us first\nconvert the LHS (of the identity we need to prove) in terms of sec  and tan  by\ndividing numerator and denominator by cos ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b23",
+    "type": "formula",
+    "bbox": [
+      78.76,
+      449.17,
+      277.44,
+      479.39
+    ],
+    "reading_order": 23,
+    "text": "LHS = sin\n – cos\n+ 1\ntan\n1\nsec\nsin\n+ cos\n– 1\ntan\n1\nsec\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b24",
+    "type": "paragraph",
+    "bbox": [
+      102.72,
+      492.04,
+      366.11,
+      522.14
+    ],
+    "reading_order": 24,
+    "text": "= (tan\nsec )\n1\n{(tan\nsec )\n1} (tan\nsec )\n(tan\nsec )\n1\n{(tan\nsec )\n1} (tan\nsec )\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b25",
+    "type": "formula",
+    "bbox": [
+      115.2,
+      536.76,
+      263.1,
+      566.72
+    ],
+    "reading_order": 25,
+    "text": "2\n2\n(tan\nsec\n)\n(tan\nsec )\n{tan\nsec\n1} (tan\nsec )\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b26",
+    "type": "formula",
+    "bbox": [
+      102.72,
+      547.65,
+      108.92,
+      559.91
+    ],
+    "reading_order": 26,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b27",
+    "type": "formula",
+    "bbox": [
+      102.72,
+      579.49,
+      263.37,
+      609.71
+    ],
+    "reading_order": 27,
+    "text": "=\n– 1\ntan\nsec\n(tan\nsec\n1) (tan\nsec )\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 18,
+    "block_id": "jemh108_p018_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

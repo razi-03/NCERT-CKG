@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SOME APPLICATIONS OF TRIGONOMETRY\n135",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b03",
+    "type": "header",
+    "bbox": [
+      78.72,
+      93.78,
+      336.03,
+      108.09
+    ],
+    "reading_order": 3,
+    "text": "(ii) the angle of elevation,  BAC, of the top of the minar",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b04",
+    "type": "paragraph",
+    "bbox": [
+      76.56,
+      112.29,
+      224.41,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "(iii) the height AE of the student.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      129.33,
+      420.02,
+      154.79
+    ],
+    "reading_order": 5,
+    "text": "Assuming that the above three conditions are known, how can we determine the\nheight of the minar?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b06",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      159.81,
+      420.03,
+      172.07
+    ],
+    "reading_order": 6,
+    "text": "In the figure, CD = CB + BD. Here, BD = AE, which is the height of the student.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      175.86,
+      351.84,
+      190.17
+    ],
+    "reading_order": 8,
+    "text": "To find BC, we will use trigonometric ratios of  BAC or  A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      192.9,
+      420.08,
+      245.99
+    ],
+    "reading_order": 9,
+    "text": "In  ABC, the side BC is the opposite side in relation to the known  A. Now,\nwhich of the trigonometric ratios can we use? Which one of them has the two values\nthat we have and the one we need to determine? Our search narrows down to using\neither tan A or cot A, as these ratios involve AB and BC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b10",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      256.2,
+      157.89,
+      276.94
+    ],
+    "reading_order": 10,
+    "text": "Therefore,\ntan A = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b11",
+    "type": "formula",
+    "bbox": [
+      143.04,
+      256.2,
+      237.98,
+      284.41
+    ],
+    "reading_order": 11,
+    "text": "AB or cot A = AB,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      218.64,
+      264.69,
+      404.18,
+      284.41
+    ],
+    "reading_order": 12,
+    "text": "BC which on solving would give us BC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      290.37,
+      300.85,
+      302.62
+    ],
+    "reading_order": 13,
+    "text": "By adding AE to BC, you will get the height of the minar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      312.44,
+      420.02,
+      324.7
+    ],
+    "reading_order": 14,
+    "text": "Now let us explain the process, we have just discussed, by solving some problems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      334.35,
+      420.08,
+      373.43
+    ],
+    "reading_order": 15,
+    "text": "Example 1 : A tower stands vertically on the ground. From a point on the ground,\nwhich is 15 m away from the foot of the tower, the angle of elevation of the top of the\ntower is found to be 60°. Find the height of the tower.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      377.79,
+      276.05,
+      456.47
+    ],
+    "reading_order": 16,
+    "text": "Solution : First let us draw a simple diagram to\nrepresent the problem (see Fig. 9.4). Here AB\nrepresents the tower, CB is the distance of the point\nfrom the tower and  ACB is the angle of elevation.\nWe need to determine the height of the tower, i.e.,\nAB. Also, ACB is a triangle, right-angled at B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b17",
+    "type": "figure",
+    "bbox": [
+      346.05,
+      384.95,
+      419.13,
+      553.29
+    ],
+    "reading_order": 17,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      461.49,
+      276.13,
+      500.15
+    ],
+    "reading_order": 18,
+    "text": "To solve the problem, we choose the trigonometric\nratio tan 60° (or cot 60°), as the ratio involves AB\nand BC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      507.72,
+      203.73,
+      528.5
+    ],
+    "reading_order": 19,
+    "text": "Now,\ntan 60° = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      188.64,
+      523.55,
+      203.49,
+      535.93
+    ],
+    "reading_order": 20,
+    "text": "BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      547.08,
+      203.73,
+      575.29
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\n3 = AB\n15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      339.84,
+      567.16,
+      376.56,
+      579.83
+    ],
+    "reading_order": 22,
+    "text": "Fig. 9.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      587.09,
+      210.31,
+      600.03
+    ],
+    "reading_order": 23,
+    "text": "i.e.,\nAB = 15 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      611.25,
+      237.84,
+      624.51
+    ],
+    "reading_order": 24,
+    "text": "Hence, the height of the tower is 15 3 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 3,
+    "block_id": "jemh109_p003_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "262\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b03",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      96.24,
+      251.14,
+      106.33
+    ],
+    "reading_order": 3,
+    "text": "(ix) 2 does not divide the positive integer a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      74.16,
+      112.32,
+      223.44,
+      122.41
+    ],
+    "reading_order": 4,
+    "text": "(x) Integers a and b are not coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b05",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      128.36,
+      378.96,
+      138.49
+    ],
+    "reading_order": 5,
+    "text": "2.\n(i) Yes\n(ii) No\n(iii) No\n(iv) No\n(v) Yes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      159.03,
+      277.44,
+      170.03
+    ],
+    "reading_order": 6,
+    "text": "EXERCISE A1.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      178.76,
+      273.12,
+      188.89
+    ],
+    "reading_order": 8,
+    "text": "1.\n(i) If Sharan sweats a lot, then it is hot in Tokyo.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      194.73,
+      290.98,
+      204.73
+    ],
+    "reading_order": 9,
+    "text": "(ii) If Shalini’s stomach grumbles, then she is hungry.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      71.28,
+      210.81,
+      314.9,
+      220.81
+    ],
+    "reading_order": 10,
+    "text": "(iii) If Jaswant can get a degree, then she has a scholarship.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      226.89,
+      238.57,
+      236.89
+    ],
+    "reading_order": 11,
+    "text": "(iv) If a plant is alive, then it has flowers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      242.73,
+      238.57,
+      252.73
+    ],
+    "reading_order": 12,
+    "text": "(v) If an animal has a tail, then it is a cat.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      258.68,
+      370.32,
+      268.81
+    ],
+    "reading_order": 13,
+    "text": "2.\n(i) If the base angles of triangle ABC are equal, then it is isosceles. True.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b14",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      274.89,
+      343.46,
+      284.89
+    ],
+    "reading_order": 14,
+    "text": "(ii) If the square of an integer is odd, then the integer is odd. True.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b15",
+    "type": "formula",
+    "bbox": [
+      71.28,
+      290.55,
+      194.4,
+      300.73
+    ],
+    "reading_order": 15,
+    "text": "(iii) If x = 1, then x2 = 1. True.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      306.81,
+      363.6,
+      316.81
+    ],
+    "reading_order": 16,
+    "text": "(iv) If AC and BD bisect each other, then ABCD is a parallelogram. True.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b17",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      322.8,
+      360.01,
+      332.89
+    ],
+    "reading_order": 17,
+    "text": "(v) If a + (b + c) = (a + b) + c, then a, b and c are whole numbers. False.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b18",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      338.64,
+      307.45,
+      348.73
+    ],
+    "reading_order": 18,
+    "text": "(vi) If x + y is an even number, then x and y are odd. False.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      354.81,
+      344.18,
+      364.81
+    ],
+    "reading_order": 19,
+    "text": "(vii) If a parallelogram is a rectangle, its vertices lie on a circle. True.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      385.59,
+      277.44,
+      396.59
+    ],
+    "reading_order": 20,
+    "text": "EXERCISE A1.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      404.8,
+      193.54,
+      415.21
+    ],
+    "reading_order": 21,
+    "text": "1. Suppose to the contrary b ≤ d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      421.16,
+      185.29,
+      431.29
+    ],
+    "reading_order": 22,
+    "text": "3. See Example 10 of Chapter 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b23",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      437.0,
+      279.6,
+      447.13
+    ],
+    "reading_order": 23,
+    "text": "6. See Theorem 5.1 of Class IX Mathematics Textbook.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b24",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      467.91,
+      277.44,
+      478.91
+    ],
+    "reading_order": 24,
+    "text": "EXERCISE A2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b25",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      493.15,
+      138.72,
+      516.93
+    ],
+    "reading_order": 25,
+    "text": "1. (i)\n1\n5\n(ii) 160",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b26",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      524.8,
+      420.01,
+      546.97
+    ],
+    "reading_order": 26,
+    "text": "2. Take 1 cm2 area and count the number of dots in it. Total number of trees will be the\nproduct of this number and the area (in cm2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b27",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      552.92,
+      362.43,
+      563.05
+    ],
+    "reading_order": 27,
+    "text": "3. Rate of interest in instalment scheme is 17.74 %, which is less than 18 %.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b28",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      583.59,
+      277.44,
+      594.59
+    ],
+    "reading_order": 28,
+    "text": "EXERCISE A2.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b29",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      603.32,
+      203.29,
+      613.45
+    ],
+    "reading_order": 29,
+    "text": "1. Students find their own answers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 13,
+    "block_id": "jemh1an_p013_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

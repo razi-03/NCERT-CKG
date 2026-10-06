@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.28,
+      419.76,
+      82.28
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n173",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      99.58,
+      216.54,
+      121.16
+    ],
+    "reading_order": 3,
+    "text": "Now,\n \n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b04",
+    "type": "formula",
+    "bbox": [
+      223.68,
+      101.51,
+      272.87,
+      129.33
+    ],
+    "reading_order": 4,
+    "text": "f\n = 1779",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b05",
+    "type": "paragraph",
+    "bbox": [
+      191.04,
+      102.2,
+      231.22,
+      120.45
+    ],
+    "reading_order": 5,
+    "text": "f x\nx",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b06",
+    "type": "paragraph",
+    "bbox": [
+      223.2,
+      108.63,
+      232.66,
+      115.03
+    ],
+    "reading_order": 6,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b07",
+    "type": "formula",
+    "bbox": [
+      256.56,
+      110.16,
+      306.72,
+      128.12
+    ],
+    "reading_order": 7,
+    "text": "30 = 59.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      213.84,
+      115.66,
+      220.38,
+      126.72
+    ],
+    "reading_order": 8,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      227.04,
+      124.47,
+      228.82,
+      130.87
+    ],
+    "reading_order": 9,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      140.4,
+      243.89,
+      151.4
+    ],
+    "reading_order": 10,
+    "text": "Therefore, the mean marks obtained is 59.3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      159.6,
+      420.1,
+      200.6
+    ],
+    "reading_order": 11,
+    "text": "In most of our real life situations, data is usually so large that to make a meaningful\nstudy it needs to be condensed as grouped data. So, we need to convert given ungrouped\ndata into grouped data and devise some method to find its mean.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b12",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 12,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      208.56,
+      420.1,
+      294.44
+    ],
+    "reading_order": 13,
+    "text": "Let us convert the ungrouped data of Example 1 into grouped data by forming\nclass-intervals of width, say 15. Remember that, while allocating frequencies to each\nclass-interval, students falling in any upper class-limit would be considered in the next\nclass, e.g., 4 students who have obtained 40 marks would be considered in the class-\ninterval 40-55 and not in 25-40. With this convention in our mind, let us form a grouped\nfrequency distribution table (see Table 13.2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      208.56,
+      306.22,
+      259.45,
+      317.22
+    ],
+    "reading_order": 14,
+    "text": "Table 13.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      334.78,
+      414.72,
+      345.8
+    ],
+    "reading_order": 15,
+    "text": "Class interval\n10 - 25\n25 - 40\n40 - 55\n55 - 70\n70 - 85\n85 - 100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.2,
+      362.62,
+      399.57,
+      373.64
+    ],
+    "reading_order": 16,
+    "text": "Number of students\n2\n3\n7\n6\n6\n6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      392.4,
+      420.07,
+      403.4
+    ],
+    "reading_order": 17,
+    "text": "Now, for each class-interval, we require a point which would serve as the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      409.2,
+      420.02,
+      420.2
+    ],
+    "reading_order": 18,
+    "text": "representative of the whole class. It is assumed that the frequency of each class-",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      426.24,
+      420.01,
+      437.24
+    ],
+    "reading_order": 19,
+    "text": "interval is centred around its mid-point. So the mid-point (or class mark) of each",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      443.28,
+      420.1,
+      454.28
+    ],
+    "reading_order": 20,
+    "text": "class can be chosen to represent the observations falling in the class. Recall that we",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      460.32,
+      420.09,
+      471.32
+    ],
+    "reading_order": 21,
+    "text": "find the mid-point of a class (or its class mark) by finding the average of its upper and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      477.36,
+      137.31,
+      488.36
+    ],
+    "reading_order": 22,
+    "text": "lower limits. That is,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b23",
+    "type": "formula",
+    "bbox": [
+      115.44,
+      496.94,
+      353.6,
+      515.72
+    ],
+    "reading_order": 23,
+    "text": "Class mark = Upper class limit + Lower class limit",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b24",
+    "type": "paragraph",
+    "bbox": [
+      268.56,
+      512.78,
+      274.11,
+      523.88
+    ],
+    "reading_order": 24,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b25",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      529.26,
+      420.01,
+      558.71
+    ],
+    "reading_order": 25,
+    "text": "With reference to Table 13.2, for the class 10-25, the class mark is 10\n25\n2\n+\n, i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      562.8,
+      420.01,
+      615.8
+    ],
+    "reading_order": 26,
+    "text": "17.5. Similarly, we can find the class marks of the remaining class intervals. We put\nthem in Table 13.3. These class marks serve as our xi’s. Now, in general, for the ith\nclass interval, we have the frequency fi corresponding to the class mark xi. We can\nnow proceed to compute the mean in the same manner as in Example 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 3,
+    "block_id": "jemh113_p003_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

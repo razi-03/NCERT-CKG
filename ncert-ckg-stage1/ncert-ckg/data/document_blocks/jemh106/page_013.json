@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n85",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      275.76,
+      118.09
+    ],
+    "reading_order": 3,
+    "text": "5. In Fig. 6.20, DE || OQ and DF || OR. Show that\nEF || QR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b04",
+    "type": "figure",
+    "bbox": [
+      290.85,
+      96.0,
+      413.0,
+      179.5
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b05",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      122.65,
+      275.99,
+      158.17
+    ],
+    "reading_order": 5,
+    "text": "6. In Fig. 6.21, A, B and C are points on OP, OQ and\nOR respectively such that AB || PQ and AC || PR.\nShow that BC || QR.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      162.73,
+      275.81,
+      210.25
+    ],
+    "reading_order": 6,
+    "text": "7. Using Theorem 6.1, prove that a line drawn through\nthe mid-point of one side of a triangle parallel to\nanother side bisects the third side. (Recall that you\nhave proved it in Class IX).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      328.08,
+      183.63,
+      370.8,
+      196.31
+    ],
+    "reading_order": 8,
+    "text": "Fig. 6.20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      214.81,
+      275.77,
+      262.33
+    ],
+    "reading_order": 9,
+    "text": "8. Using Theorem 6.2, prove that the line joining the\nmid-points of any two sides of a triangle is parallel\nto the third side. (Recall that you have done it in\nClass IX).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      266.89,
+      276.0,
+      290.41
+    ],
+    "reading_order": 10,
+    "text": "9. ABCD is a trapezium in which AB || DC and its\ndiagonals intersect each other at the point O. Show",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      296.6,
+      141.92,
+      321.84
+    ],
+    "reading_order": 11,
+    "text": "that AO\nCO\nBO\nDO\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      328.08,
+      304.12,
+      370.8,
+      316.79
+    ],
+    "reading_order": 12,
+    "text": "Fig. 6.21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      328.33,
+      420.05,
+      339.85
+    ],
+    "reading_order": 13,
+    "text": "10. The diagonals of a quadrilateral ABCD intersect each other at the point O such that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b14",
+    "type": "paragraph",
+    "bbox": [
+      77.52,
+      346.04,
+      256.57,
+      371.28
+    ],
+    "reading_order": 14,
+    "text": "AO\nCO\nBO\nDO\n\n Show that ABCD is a trapezium.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b15",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      386.46,
+      238.56,
+      400.28
+    ],
+    "reading_order": 15,
+    "text": "6.4 Criteria for Similarity of Triangles",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      405.33,
+      420.06,
+      430.79
+    ],
+    "reading_order": 16,
+    "text": "In the previous section, we stated that two triangles are similar, if (i) their corresponding\nangles are equal and (ii) their corresponding sides are in the same ratio (or proportion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      434.58,
+      213.85,
+      448.89
+    ],
+    "reading_order": 17,
+    "text": "That is, in  ABC and  DEF, if",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b18",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      451.86,
+      260.13,
+      466.17
+    ],
+    "reading_order": 18,
+    "text": "(i)  A =  D,  B =  E,  C =  F and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      71.99,
+      475.32,
+      386.21,
+      503.53
+    ],
+    "reading_order": 19,
+    "text": "(ii) AB\nBC\nCA ,\nDE\nEF\nFD\n\n\n then the two triangles are similar (see Fig. 6.22).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      212.4,
+      599.07,
+      255.12,
+      611.74
+    ],
+    "reading_order": 20,
+    "text": "Fig. 6.22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 13,
+    "block_id": "jemh106_p013_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n127",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b03",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      101.58,
+      274.09,
+      115.4
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 8.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      122.17,
+      169.45,
+      133.69
+    ],
+    "reading_order": 4,
+    "text": "1. Evaluate the following :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b05",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      142.71,
+      391.44,
+      153.85
+    ],
+    "reading_order": 5,
+    "text": "(i) sin 60° cos 30° + sin 30° cos 60°\n(ii) 2 tan2 45° + cos2 30° – sin2 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b06",
+    "type": "formula",
+    "bbox": [
+      99.84,
+      164.55,
+      395.93,
+      190.09
+    ],
+    "reading_order": 6,
+    "text": "cos 45°\nsec 30° + cosec 30°\n(iv) sin 30° + tan 45° – cosec 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b08",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      174.15,
+      90.72,
+      185.29
+    ],
+    "reading_order": 8,
+    "text": "(iii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b09",
+    "type": "formula",
+    "bbox": [
+      277.68,
+      181.83,
+      391.36,
+      192.97
+    ],
+    "reading_order": 9,
+    "text": "sec 30° + cos 60° + cot 45°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b10",
+    "type": "paragraph",
+    "bbox": [
+      121.2,
+      208.06,
+      225.22,
+      215.24
+    ],
+    "reading_order": 10,
+    "text": "2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b11",
+    "type": "formula",
+    "bbox": [
+      99.84,
+      208.4,
+      243.49,
+      235.93
+    ],
+    "reading_order": 11,
+    "text": "2\n2\n5 cos\n60\n4 sec 30\ntan\n45\nsin\n30\ncos 30\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b12",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      216.39,
+      90.72,
+      227.53
+    ],
+    "reading_order": 12,
+    "text": "(v)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      246.73,
+      280.33,
+      258.25
+    ],
+    "reading_order": 13,
+    "text": "2. Choose the correct option and justify your choice :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b14",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      271.91,
+      158.85,
+      299.8
+    ],
+    "reading_order": 14,
+    "text": "(i)\n2\n2 tan 30\n1\ntan\n30\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b15",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      305.67,
+      396.0,
+      316.81
+    ],
+    "reading_order": 15,
+    "text": "(A)\nsin 60°\n(B) cos 60°\n(C) tan 60°\n(D) sin 30°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b16",
+    "type": "paragraph",
+    "bbox": [
+      128.16,
+      326.62,
+      131.38,
+      333.8
+    ],
+    "reading_order": 16,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b17",
+    "type": "formula",
+    "bbox": [
+      98.88,
+      326.96,
+      159.04,
+      354.5
+    ],
+    "reading_order": 17,
+    "text": "2\n1\ntan\n45\n1\ntan\n45\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b18",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      337.11,
+      90.72,
+      348.25
+    ],
+    "reading_order": 18,
+    "text": "(ii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b19",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      360.63,
+      374.12,
+      371.77
+    ],
+    "reading_order": 19,
+    "text": "(A)\ntan 90°\n(B) 1\n(C) sin 45°\n(D) 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b20",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      380.79,
+      228.0,
+      391.93
+    ],
+    "reading_order": 20,
+    "text": "(iii) sin 2A = 2 sin A is true when A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b21",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      396.87,
+      381.81,
+      408.01
+    ],
+    "reading_order": 21,
+    "text": "(A)\n0°\n(B) 30°\n(C) 45°\n(D) 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b22",
+    "type": "formula",
+    "bbox": [
+      77.28,
+      420.95,
+      158.85,
+      448.84
+    ],
+    "reading_order": 22,
+    "text": "(iv)\n2\n2 tan 30\n1\ntan\n30\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b23",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      456.87,
+      396.0,
+      468.01
+    ],
+    "reading_order": 23,
+    "text": "(A)\ncos 60°\n(B) sin 60°\n(C) tan 60°\n(D) sin 30°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b24",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      482.7,
+      236.41,
+      504.51
+    ],
+    "reading_order": 24,
+    "text": "3. If tan (A + B) = 3 and tan (A – B) = \n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b25",
+    "type": "formula",
+    "bbox": [
+      234.72,
+      490.31,
+      396.73,
+      509.31
+    ],
+    "reading_order": 25,
+    "text": "3 ; 0° < A + B  90°; A > B, find A and B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b26",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      520.33,
+      336.12,
+      531.85
+    ],
+    "reading_order": 26,
+    "text": "4. State whether the following are true or false. Justify your answer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b27",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      536.79,
+      204.0,
+      547.93
+    ],
+    "reading_order": 27,
+    "text": "(i) sin (A + B) = sin A + sin B.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b28",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      551.75,
+      272.16,
+      564.76
+    ],
+    "reading_order": 28,
+    "text": "(ii) The value of sin  increases as  increases.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b29",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      567.83,
+      274.56,
+      580.84
+    ],
+    "reading_order": 29,
+    "text": "(iii) The value of cos  increases as  increases.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b30",
+    "type": "formula",
+    "bbox": [
+      77.28,
+      583.67,
+      222.82,
+      596.68
+    ],
+    "reading_order": 30,
+    "text": "(iv) sin  = cos  for all values of .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b31",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      600.87,
+      218.88,
+      612.01
+    ],
+    "reading_order": 31,
+    "text": "(v) cot A is not defined for A = 0°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 15,
+    "block_id": "jemh108_p015_b32",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 32,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

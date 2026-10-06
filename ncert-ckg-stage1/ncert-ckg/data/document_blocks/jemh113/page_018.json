@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "188\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      200.89,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "13.4 Median of Grouped Data",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.25,
+      420.09,
+      151.91
+    ],
+    "reading_order": 4,
+    "text": "As you have studied in Class IX, the median is a measure of central tendency which\ngives the value of the middle-most observation in the data. Recall that for finding the\nmedian of ungrouped data, we first arrange the data values of the observations in",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b05",
+    "type": "paragraph",
+    "bbox": [
+      276.95,
+      158.2,
+      419.98,
+      188.92
+    ],
+    "reading_order": 5,
+    "text": "1\n2\nn \n\n\n\n\n\nth observation. And, if n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      168.93,
+      276.19,
+      181.19
+    ],
+    "reading_order": 6,
+    "text": "ascending order. Then, if n is odd, the median is the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      197.92,
+      359.05,
+      227.54
+    ],
+    "reading_order": 8,
+    "text": "is even, then the median will be the average of the \nth\n2\nn\nand the \n1 th\n2\nn\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b09",
+    "type": "paragraph",
+    "bbox": [
+      360.96,
+      205.65,
+      420.01,
+      217.91
+    ],
+    "reading_order": 9,
+    "text": "observations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      239.49,
+      420.06,
+      264.94
+    ],
+    "reading_order": 10,
+    "text": "Suppose, we have to find the median of the following data, which gives the\nmarks, out of 50, obtained by 100 students in a test :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b11",
+    "type": "paragraph",
+    "bbox": [
+      66.0,
+      278.67,
+      393.11,
+      291.34
+    ],
+    "reading_order": 11,
+    "text": "Marks obtained\n20\n29\n28\n33\n42\n38\n43\n25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b12",
+    "type": "paragraph",
+    "bbox": [
+      66.0,
+      306.75,
+      393.12,
+      319.43
+    ],
+    "reading_order": 12,
+    "text": "Number of students\n6\n28\n24\n15\n2\n4\n1\n20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      334.3,
+      420.06,
+      359.75
+    ],
+    "reading_order": 13,
+    "text": "First, we arrange the marks in ascending order and prepare a frequency table as\nfollows :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b14",
+    "type": "paragraph",
+    "bbox": [
+      208.55,
+      364.36,
+      259.44,
+      377.03
+    ],
+    "reading_order": 14,
+    "text": "Table 13.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b15",
+    "type": "paragraph",
+    "bbox": [
+      125.52,
+      386.68,
+      360.04,
+      399.35
+    ],
+    "reading_order": 15,
+    "text": "Marks obtained\nNumber of students",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b16",
+    "type": "paragraph",
+    "bbox": [
+      281.52,
+      399.88,
+      340.8,
+      412.55
+    ],
+    "reading_order": 16,
+    "text": "(Frequency)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b17",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      425.74,
+      316.06,
+      438.0
+    ],
+    "reading_order": 17,
+    "text": "20\n6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b18",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      445.66,
+      315.84,
+      457.92
+    ],
+    "reading_order": 18,
+    "text": "25\n20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b19",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      465.58,
+      315.84,
+      477.84
+    ],
+    "reading_order": 19,
+    "text": "28\n24",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b20",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      485.75,
+      315.84,
+      498.0
+    ],
+    "reading_order": 20,
+    "text": "29\n28",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b21",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      505.67,
+      315.84,
+      517.92
+    ],
+    "reading_order": 21,
+    "text": "33\n15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b22",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      525.59,
+      316.06,
+      537.84
+    ],
+    "reading_order": 22,
+    "text": "38\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b23",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      545.75,
+      316.06,
+      558.01
+    ],
+    "reading_order": 23,
+    "text": "42\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b24",
+    "type": "paragraph",
+    "bbox": [
+      159.84,
+      565.67,
+      316.06,
+      577.93
+    ],
+    "reading_order": 24,
+    "text": "43\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b25",
+    "type": "paragraph",
+    "bbox": [
+      152.64,
+      592.14,
+      320.17,
+      604.81
+    ],
+    "reading_order": 25,
+    "text": "Total\n100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 18,
+    "block_id": "jemh113_p018_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

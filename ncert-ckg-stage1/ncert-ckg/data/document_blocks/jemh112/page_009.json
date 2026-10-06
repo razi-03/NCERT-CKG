@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SURFACE AREAS AND VOLUMES\n169",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      95.8,
+      276.1,
+      199.31
+    ],
+    "reading_order": 3,
+    "text": "Example 7 : A solid toy is in the form of a\nhemisphere surmounted by a right circular cone. The\nheight of the cone is 2 cm and the diameter of the\nbase is 4 cm. Determine the volume of the toy.  If a\nright circular cylinder circumscribes the toy, find the\ndifference of the volumes of the cylinder and the toy.\n(Take  = 3.14)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      332.16,
+      186.99,
+      380.88,
+      199.67
+    ],
+    "reading_order": 5,
+    "text": "Fig. 12.14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      204.05,
+      420.04,
+      230.86
+    ],
+    "reading_order": 6,
+    "text": "Solution : Let BPC be the hemisphere and ABC be the cone standing on the base\nof the hemisphere (see Fig. 12.14). The radius BO of the hemisphere (as well as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b07",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      230.52,
+      124.83,
+      251.5
+    ],
+    "reading_order": 7,
+    "text": "of the cone) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b08",
+    "type": "formula",
+    "bbox": [
+      119.52,
+      239.25,
+      202.33,
+      258.73
+    ],
+    "reading_order": 8,
+    "text": "2 × 4 cm = 2 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      167.52,
+      255.96,
+      231.63,
+      284.17
+    ],
+    "reading_order": 9,
+    "text": "3\n2\n2\n1\n3\n3\n\n\n\nr\nr h",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      264.7,
+      160.34,
+      276.95
+    ],
+    "reading_order": 10,
+    "text": "So,\nvolume of the toy =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b11",
+    "type": "formula",
+    "bbox": [
+      154.56,
+      290.32,
+      356.22,
+      319.93
+    ],
+    "reading_order": 11,
+    "text": "=\n3\n2\n3\n2\n1\n3.14\n(2)\n3.14\n(2)\n2 cm\n3\n3\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b12",
+    "type": "formula",
+    "bbox": [
+      357.84,
+      297.81,
+      414.08,
+      310.07
+    ],
+    "reading_order": 12,
+    "text": "= 25.12 cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      323.01,
+      420.0,
+      348.47
+    ],
+    "reading_order": 13,
+    "text": "Now, let the right circular cylinder EFGH circumscribe the given solid. The radius of\nthe base of the right circular cylinder = HP = BO = 2 cm, and its height is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      355.41,
+      408.05,
+      382.79
+    ],
+    "reading_order": 14,
+    "text": "EH = AO + OP = (2 + 2) cm = 4 cm\nSo, the volume required = volume of the right circular cylinder – volume of the toy",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b15",
+    "type": "formula",
+    "bbox": [
+      142.56,
+      385.89,
+      287.36,
+      398.15
+    ],
+    "reading_order": 15,
+    "text": "=  (3.14 × 22 × 4 – 25.12) cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b16",
+    "type": "formula",
+    "bbox": [
+      142.56,
+      401.01,
+      210.8,
+      413.27
+    ],
+    "reading_order": 16,
+    "text": "=  25.12 cm3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      420.21,
+      329.15,
+      432.47
+    ],
+    "reading_order": 17,
+    "text": "Hence, the required difference of the two volumes = 25.12 cm3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      190.8,
+      451.02,
+      277.19,
+      464.84
+    ],
+    "reading_order": 18,
+    "text": "EXERCISE 12.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      469.4,
+      193.85,
+      489.16
+    ],
+    "reading_order": 19,
+    "text": "Unless stated otherwise, take  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b20",
+    "type": "paragraph",
+    "bbox": [
+      186.24,
+      477.27,
+      198.82,
+      494.65
+    ],
+    "reading_order": 20,
+    "text": "7 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b21",
+    "type": "paragraph",
+    "bbox": [
+      59.13,
+      496.16,
+      420.03,
+      509.47
+    ],
+    "reading_order": 21,
+    "text": "\n\n\n\nA solid is in the shape of a cone standing on a hemisphere with both their radii being",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b22",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      511.35,
+      419.78,
+      537.16
+    ],
+    "reading_order": 22,
+    "text": "equal to 1 cm and the height of the cone is equal to its radius.  Find the volume of the solid\nin terms of .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b23",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      543.13,
+      419.83,
+      610.57
+    ],
+    "reading_order": 23,
+    "text": "2. Rachel, an engineering student, was asked to make a model shaped like a cylinder with\ntwo cones attached at its two ends by using a thin aluminium sheet. The diameter of the\nmodel is 3 cm and its length is 12 cm.  If each cone has a height of 2 cm, find the volume\nof air contained in the model that Rachel made. (Assume the outer and inner dimensions\nof the model to be nearly the same.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 9,
+    "block_id": "jemh112_p009_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

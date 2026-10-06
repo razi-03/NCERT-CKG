@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n241",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.49,
+      420.07,
+      219.85
+    ],
+    "reading_order": 3,
+    "text": "For example, having taken a sample, as stated in Step 1, how do we estimate the\nentire population? We would have to then mark the sampled fishes, allow them to mix\nwith the remaining ones in the lake, again draw a sample from the lake, and see how\nmany of the previously marked ones are present in the new sample. Then, using ratio\nand proportion, we can come up with an estimate of the total population. For instance,\nlet us take a sample of 20 fishes from the lake and mark them, and then release them\nin the same lake, so as to mix with the remaining fishes. We then take another sample\n(say 50), from the mixed population and see how many are marked. So, we gather our\ndata and analyse it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      225.59,
+      420.08,
+      266.17
+    ],
+    "reading_order": 5,
+    "text": "One major assumption we are making is that the marked fishes mix uniformly\nwith the remaining fishes, and the sample we take is a good representative of the\nentire population.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      271.98,
+      420.06,
+      299.05
+    ],
+    "reading_order": 6,
+    "text": "Step 3 (Solving the mathematical problem) : The simplified mathematical problem\ndeveloped in Step 2 is then solved using various mathematical techniques.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      304.56,
+      420.03,
+      316.81
+    ],
+    "reading_order": 7,
+    "text": "For instance, suppose in the second sample in the example in Step 2, 5 fishes are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      323.0,
+      420.02,
+      350.87
+    ],
+    "reading_order": 8,
+    "text": "marked. So, 5\n1\n,\n,\ni.e.,\n50\n10 of the population is marked. If this is typical of the whole",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      357.96,
+      140.19,
+      378.94
+    ],
+    "reading_order": 9,
+    "text": "population, then 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b10",
+    "type": "formula",
+    "bbox": [
+      131.28,
+      366.69,
+      266.9,
+      386.17
+    ],
+    "reading_order": 10,
+    "text": "10 th of the population = 20.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b11",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      392.14,
+      276.03,
+      404.39
+    ],
+    "reading_order": 11,
+    "text": "So, the whole population = 20 × 10 = 200.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      408.76,
+      420.04,
+      447.83
+    ],
+    "reading_order": 12,
+    "text": "Step 4 (Interpreting the solution) : The solution obtained in the previous step\nis now looked at, in the context of the real-life situation that we had started with in\nStep 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      452.86,
+      420.06,
+      478.31
+    ],
+    "reading_order": 13,
+    "text": "For instance, our solution in the problem in Step 3 gives us the population of\nfishes as 200.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      483.4,
+      420.05,
+      524.15
+    ],
+    "reading_order": 14,
+    "text": "Step 5 (Validating the model) : We go back to the original situation and see if the\nresults of the mathematical work make sense. If so, we use the model until new\ninformation becomes available or assumptions change.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      529.89,
+      420.07,
+      612.24
+    ],
+    "reading_order": 15,
+    "text": "Sometimes, because of the simplification assumptions we make, we may lose\nessential  aspects of the real problem while giving its mathematical description. In\nsuch cases, the solution could very often be off the mark, and not make sense in the\nreal situation. If this happens, we reconsider the assumptions made in Step 1 and\nrevise them to be more realistic, possibly by including some factors which were not\nconsidered earlier.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 3,
+    "block_id": "jemh1a2_p003_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_025_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n195",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      99.14,
+      417.84,
+      128.41
+    ],
+    "reading_order": 3,
+    "text": "Now\nn = 51. So, \n51\n25.5\n2\n2\nn =\n=\n. This observation lies in the class 145 - 150. Then,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b04",
+    "type": "formula",
+    "bbox": [
+      126.0,
+      135.56,
+      234.01,
+      146.65
+    ],
+    "reading_order": 4,
+    "text": "l (the lower limit) = 145,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b05",
+    "type": "formula",
+    "bbox": [
+      120.0,
+      156.05,
+      420.0,
+      167.05
+    ],
+    "reading_order": 5,
+    "text": "cf (the cumulative frequency of the class preceding 145 - 150) = 11,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_025_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b07",
+    "type": "formula",
+    "bbox": [
+      125.28,
+      174.92,
+      360.03,
+      186.01
+    ],
+    "reading_order": 7,
+    "text": "f (the frequency of the median class 145 - 150) = 18,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b08",
+    "type": "formula",
+    "bbox": [
+      122.88,
+      192.2,
+      219.61,
+      203.29
+    ],
+    "reading_order": 8,
+    "text": "h (the class size) = 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b09",
+    "type": "formula",
+    "bbox": [
+      211.2,
+      212.8,
+      266.43,
+      264.89
+    ],
+    "reading_order": 9,
+    "text": "\n\n−\n\n×\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b10",
+    "type": "paragraph",
+    "bbox": [
+      219.36,
+      213.82,
+      248.69,
+      240.0
+    ],
+    "reading_order": 10,
+    "text": "cf\n2\nn",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b11",
+    "type": "paragraph",
+    "bbox": [
+      232.56,
+      233.26,
+      275.49,
+      252.87
+    ],
+    "reading_order": 11,
+    "text": "h\nf",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b12",
+    "type": "formula",
+    "bbox": [
+      61.68,
+      235.16,
+      209.13,
+      246.25
+    ],
+    "reading_order": 12,
+    "text": "Using the formula, Median = l +",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b13",
+    "type": "paragraph",
+    "bbox": [
+      278.4,
+      235.25,
+      320.88,
+      246.25
+    ],
+    "reading_order": 13,
+    "text": ", we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b14",
+    "type": "formula",
+    "bbox": [
+      147.84,
+      277.66,
+      285.13,
+      307.22
+    ],
+    "reading_order": 14,
+    "text": "Median =\n25.5\n11\n145\n5\n18\n−\n\n\n+\n×\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b15",
+    "type": "formula",
+    "bbox": [
+      183.84,
+      317.73,
+      243.86,
+      337.45
+    ],
+    "reading_order": 15,
+    "text": "= 145 + 72.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b16",
+    "type": "formula",
+    "bbox": [
+      228.24,
+      326.45,
+      290.16,
+      344.67
+    ],
+    "reading_order": 16,
+    "text": "18 = 149.03.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      347.81,
+      254.19,
+      358.81
+    ],
+    "reading_order": 17,
+    "text": "So, the median height of the girls is 149.03 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      364.61,
+      420.05,
+      388.81
+    ],
+    "reading_order": 18,
+    "text": "This means that the height of about 50% of the girls is less than this height, and\n50% are taller than this height.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      394.48,
+      420.0,
+      418.81
+    ],
+    "reading_order": 19,
+    "text": "Example 8 : The median of the following data is 525. Find the values of x and y, if the\ntotal frequency is 100.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b20",
+    "type": "paragraph",
+    "bbox": [
+      119.28,
+      431.68,
+      323.77,
+      442.68
+    ],
+    "reading_order": 20,
+    "text": "Class intervals\nFrequency",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b21",
+    "type": "paragraph",
+    "bbox": [
+      132.72,
+      454.13,
+      300.22,
+      609.37
+    ],
+    "reading_order": 21,
+    "text": "0 - 100\n2\n100 - 200\n5\n200 - 300\nx\n300 - 400\n12\n400 - 500\n17\n500 - 600\n20\n600 - 700\ny\n700 - 800\n9\n800 - 900\n7\n900 - 1000\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 25,
+    "block_id": "jemh113_p025_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

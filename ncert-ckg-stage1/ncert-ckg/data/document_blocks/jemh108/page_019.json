@@ -1,0 +1,597 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n131",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b03",
+    "type": "formula",
+    "bbox": [
+      116.15,
+      100.48,
+      249.0,
+      129.47
+    ],
+    "reading_order": 3,
+    "text": "–1\n1\n,\ntan\nsec\nsec\ntan\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b04",
+    "type": "formula",
+    "bbox": [
+      102.72,
+      110.85,
+      108.92,
+      123.11
+    ],
+    "reading_order": 4,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      137.73,
+      306.72,
+      149.99
+    ],
+    "reading_order": 5,
+    "text": "which is the RHS of the identity, we are required to prove.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b06",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      168.54,
+      274.09,
+      182.36
+    ],
+    "reading_order": 6,
+    "text": "EXERCISE 8.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_019_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b08",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      189.13,
+      365.33,
+      200.65
+    ],
+    "reading_order": 8,
+    "text": "1. Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      204.47,
+      329.29,
+      217.48
+    ],
+    "reading_order": 9,
+    "text": "2. Write all the other trigonometric ratios of  A in terms of sec A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      221.05,
+      264.74,
+      232.57
+    ],
+    "reading_order": 10,
+    "text": "3. Choose the correct option. Justify your choice.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b11",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      237.51,
+      177.84,
+      248.65
+    ],
+    "reading_order": 11,
+    "text": "(i) 9 sec2 A – 9 tan2 A =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b12",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      253.59,
+      374.12,
+      264.73
+    ],
+    "reading_order": 12,
+    "text": "(A) 1\n(B) 9\n(C) 8\n(D) 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b13",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      268.31,
+      261.84,
+      281.32
+    ],
+    "reading_order": 13,
+    "text": "(ii) (1 + tan  + sec ) (1 + cot  – cosec ) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b14",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      285.51,
+      378.96,
+      296.65
+    ],
+    "reading_order": 14,
+    "text": "(A) 0\n(B) 1\n(C) 2\n(D) –1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b15",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      301.59,
+      209.29,
+      312.73
+    ],
+    "reading_order": 15,
+    "text": "(iii) (sec A + tan A) (1 – sin A) =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b16",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      317.43,
+      392.38,
+      328.57
+    ],
+    "reading_order": 16,
+    "text": "(A) sec A\n(B) sin A\n(C) cosec A\n(D) cos A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b17",
+    "type": "paragraph",
+    "bbox": [
+      127.2,
+      338.86,
+      130.42,
+      346.04
+    ],
+    "reading_order": 17,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b18",
+    "type": "formula",
+    "bbox": [
+      98.88,
+      339.2,
+      152.57,
+      365.99
+    ],
+    "reading_order": 18,
+    "text": "2\n1\ntan\nA\n1 + cot\nA\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b19",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      349.11,
+      90.72,
+      360.25
+    ],
+    "reading_order": 19,
+    "text": "(iv)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b20",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      374.55,
+      393.86,
+      385.69
+    ],
+    "reading_order": 20,
+    "text": "(A) sec2 A\n(B) –1\n(C) cot2 A\n(D) tan2 A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b21",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      390.25,
+      419.79,
+      413.77
+    ],
+    "reading_order": 21,
+    "text": "4. Prove the following identities, where the angles involved are acute angles for which the\nexpressions are defined.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b22",
+    "type": "formula",
+    "bbox": [
+      176.88,
+      422.87,
+      401.55,
+      452.41
+    ],
+    "reading_order": 22,
+    "text": "1\ncos\n1\ncos\n\n\n\n\n(ii)\ncos A\n1\nsin A\n2 sec A\n1 + sin A\ncos A\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b23",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      432.47,
+      175.99,
+      445.48
+    ],
+    "reading_order": 23,
+    "text": "(i) (cosec  – cot )2 =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b24",
+    "type": "formula",
+    "bbox": [
+      98.88,
+      456.71,
+      263.21,
+      484.12
+    ],
+    "reading_order": 24,
+    "text": "tan\ncot\n1\nsec\ncosec\n1\ncot\n1\ntan\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b25",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      467.19,
+      90.72,
+      478.33
+    ],
+    "reading_order": 25,
+    "text": "(iii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b26",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      486.47,
+      320.37,
+      499.48
+    ],
+    "reading_order": 26,
+    "text": "[Hint : Write the expression in terms of sin  and cos ]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b27",
+    "type": "formula",
+    "bbox": [
+      98.88,
+      501.82,
+      378.73,
+      528.47
+    ],
+    "reading_order": 27,
+    "text": "2\n1\nsec A\nsin A\nsec A\n1 – cos A\n\n\n[Hint : Simplify LHS and RHS separately]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b28",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      512.07,
+      90.72,
+      523.21
+    ],
+    "reading_order": 28,
+    "text": "(iv)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b29",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      531.27,
+      420.0,
+      557.56
+    ],
+    "reading_order": 29,
+    "text": "(v)\ncos A – sin A + 1\ncosec A + cot A,\ncos A + sin A – 1 \n using the identity cosec2 A = 1 + cot2 A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b30",
+    "type": "formula",
+    "bbox": [
+      105.85,
+      562.18,
+      266.4,
+      589.0
+    ],
+    "reading_order": 30,
+    "text": "1\nsin A\nsec A + tan A\n1 – sin A\n\n\n(vii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b31",
+    "type": "formula",
+    "bbox": [
+      273.36,
+      563.52,
+      372.4,
+      591.4
+    ],
+    "reading_order": 31,
+    "text": "3\nsin\n2 sin\ntan\n2 cos\ncos\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b32",
+    "type": "paragraph",
+    "bbox": [
+      326.64,
+      563.46,
+      329.89,
+      570.69
+    ],
+    "reading_order": 32,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b33",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      572.31,
+      90.72,
+      583.45
+    ],
+    "reading_order": 33,
+    "text": "(vi)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b34",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      598.23,
+      326.9,
+      609.37
+    ],
+    "reading_order": 34,
+    "text": "(viii) (sin A + cosec A)2 + (cos A + sec A)2 = 7 + tan2 A + cot2 A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 19,
+    "block_id": "jemh108_p019_b35",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 35,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

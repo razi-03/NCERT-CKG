@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "102\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      100.05,
+      283.23,
+      165.11
+    ],
+    "reading_order": 3,
+    "text": "Let us now find the distance between any two\npoints P(x1, y1) and Q(x2, y2). Draw PR and QS\nperpendicular to the x-axis. A perpendicular from the\npoint P on QS is drawn to meet it at the point\nT (see Fig. 7.5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      170.13,
+      278.27,
+      184.99
+    ],
+    "reading_order": 4,
+    "text": "Then,\nOR = x1, OS = x2.\nSo, RS = x2 – x1 = PT.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b06",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      187.17,
+      282.83,
+      202.27
+    ],
+    "reading_order": 6,
+    "text": "Also,\nSQ = y2, ST = PR = y1.\nSo, QT = y2 – y1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      203.22,
+      288.0,
+      217.53
+    ],
+    "reading_order": 7,
+    "text": "Now, applying the Pythagoras theorem in  PTQ, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b08",
+    "type": "formula",
+    "bbox": [
+      142.8,
+      221.73,
+      222.08,
+      233.99
+    ],
+    "reading_order": 8,
+    "text": "PQ2 = PT2 + QT2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      336.47,
+      231.15,
+      373.2,
+      243.82
+    ],
+    "reading_order": 9,
+    "text": "Fig. 7.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b10",
+    "type": "formula",
+    "bbox": [
+      164.64,
+      239.01,
+      268.4,
+      253.87
+    ],
+    "reading_order": 10,
+    "text": "= (x2 – x1)2 + (y2 – y1)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      258.82,
+      281.72,
+      277.57
+    ],
+    "reading_order": 11,
+    "text": "Therefore,\nPQ =\n\n\n\n\n2\n2\n2\n1\n2\n1\nx\nx\ny\ny\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      285.09,
+      420.02,
+      313.15
+    ],
+    "reading_order": 12,
+    "text": "Note that since distance is always non-negative, we take only the positive square\nroot. So, the distance between the points P(x1, y1) and Q(x2, y2) is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b13",
+    "type": "formula",
+    "bbox": [
+      146.16,
+      318.1,
+      294.11,
+      336.85
+    ],
+    "reading_order": 13,
+    "text": "PQ =\n\n\n\n\n2\n2\n2\n1\n2\n1\n–\n+\n–\nx\nx\ny\ny\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      343.95,
+      216.83,
+      356.62
+    ],
+    "reading_order": 14,
+    "text": "which is called the distance formula.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      360.99,
+      99.85,
+      373.66
+    ],
+    "reading_order": 15,
+    "text": "Remarks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      378.69,
+      401.29,
+      390.94
+    ],
+    "reading_order": 16,
+    "text": "1. In particular, the distance of a point P(x, y) from the origin O(0, 0) is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b17",
+    "type": "formula",
+    "bbox": [
+      166.32,
+      402.77,
+      242.27,
+      417.47
+    ],
+    "reading_order": 17,
+    "text": "OP = \n2\n2\nx\ny\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      424.9,
+      327.84,
+      443.65
+    ],
+    "reading_order": 18,
+    "text": "2. We can also write, PQ = \n\n\n\n\n2\n2\n1\n2\n1\n2\nx\nx\ny\ny\n\n\n\n. (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      452.92,
+      420.01,
+      478.79
+    ],
+    "reading_order": 19,
+    "text": "Example 1 : Do the points (3, 2), (–2, –3) and (2, 3) form a triangle? If so, name the\ntype of triangle formed.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      483.16,
+      420.02,
+      509.03
+    ],
+    "reading_order": 20,
+    "text": "Solution : Let us apply the distance formula to find the distances PQ, QR and PR,\nwhere P(3, 2), Q(–2, –3) and R(2, 3) are the given points. We have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b21",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      520.85,
+      351.84,
+      535.55
+    ],
+    "reading_order": 21,
+    "text": "PQ = \n2\n2\n2\n2\n(3\n2)\n(2\n3)\n5\n5\n50\n\n\n\n\n\n\n = 7.07 (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b22",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      546.05,
+      391.68,
+      560.75
+    ],
+    "reading_order": 22,
+    "text": "QR = \n2\n2\n2\n2\n(–2 – 2)\n(–3 – 3)\n(– 4)\n(–6)\n52\n\n\n\n\n = 7.21 (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b23",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      571.25,
+      359.99,
+      585.95
+    ],
+    "reading_order": 23,
+    "text": "PR = \n2\n2\n2\n2\n(3 – 2)\n(2 – 3)\n1\n( 1)\n2\n\n\n\n\n = 1.41 (approx.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      593.73,
+      420.02,
+      619.18
+    ],
+    "reading_order": 24,
+    "text": "Since the sum of any two of these distances is greater than the third distance, therefore,\nthe points P, Q and R form a triangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 4,
+    "block_id": "jemh107_p004_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

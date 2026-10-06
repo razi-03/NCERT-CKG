@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "248\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      420.07,
+      167.05
+    ],
+    "reading_order": 3,
+    "text": "3. A T.V. can be purchased for ` 24000 cash or for ` 8000 cashdown payment and six\nmonthly instalments of ` 2800 each. Ali goes to market to buy a T.V., and he has\n` 8000 with him. He has now two options. One is to buy TV under instalment scheme\nor to make cash payment by taking loan from some financial society. The society\ncharges simple interest at the rate of 18% per annum simple interest. Which option\nis better for Ali?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      180.54,
+      297.11,
+      194.36
+    ],
+    "reading_order": 5,
+    "text": "A2.4 Why is Mathematical Modelling Important?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      199.65,
+      420.08,
+      251.51
+    ],
+    "reading_order": 6,
+    "text": "As we have seen in the examples, mathematical modelling is an interdisciplinary subject.\nMathematicians and specialists in other fields share their knowledge and expertise to\nimprove existing products, develop better ones, or predict the behaviour of certain\nproducts.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      256.29,
+      420.07,
+      281.75
+    ],
+    "reading_order": 7,
+    "text": "There are, of course, many specific reasons for the importance of modelling, but\nmost are related in some ways to the following :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      286.77,
+      420.04,
+      299.03
+    ],
+    "reading_order": 8,
+    "text": "To gain understanding. If we have a mathematical model which reflects the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      299.97,
+      420.07,
+      351.83
+    ],
+    "reading_order": 9,
+    "text": "essential behaviour of a real-world system of interest, we can understand that\nsystem better through an analysis of the model. Furthermore, in the process of\nbuilding the model we find out which factors are most important in the system,\nand how the different aspects of the system are related.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      61.44,
+      356.85,
+      420.01,
+      369.11
+    ],
+    "reading_order": 10,
+    "text": "To predict, or forecast, or simulate. Very often, we wish to know what a real-",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      370.05,
+      420.09,
+      421.91
+    ],
+    "reading_order": 11,
+    "text": "world system will do in the future, but it is expensive, impractical or impossible to\nexperiment directly with the system. For example, in weather prediction, to study\ndrug efficacy in humans, finding an optimum design of a nuclear reactor, and so\non.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      426.93,
+      420.05,
+      465.59
+    ],
+    "reading_order": 12,
+    "text": "Forecasting is very important in many types of organisations, since\npredictions of future events have to be incorporated into the decision-making\nprocess. For example:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      470.62,
+      420.05,
+      496.07
+    ],
+    "reading_order": 13,
+    "text": "In marketing departments, reliable forecasts of demand help in planning of\nthe sale strategies.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      501.1,
+      420.03,
+      539.75
+    ],
+    "reading_order": 14,
+    "text": "A school board needs to able to forecast the increase in the number of\nschool going children in various districts so as to decide where and when to\nstart new schools.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      544.78,
+      420.04,
+      609.83
+    ],
+    "reading_order": 15,
+    "text": "Most often, forecasters use the past data to predict the future. They first analyse\nthe data in order to identify a pattern that can describe it. Then this data and\npattern is extended into the future in order to prepare a forecast. This basic\nstrategy is employed in most forecasting techniques, and is based on the assumption\nthat the pattern that has been identified will continue in the future also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 10,
+    "block_id": "jemh1a2_p010_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

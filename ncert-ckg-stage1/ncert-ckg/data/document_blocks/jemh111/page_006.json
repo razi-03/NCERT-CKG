@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "AREAS RELATED TO CIRCLES\n159",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b03",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      104.07,
+      266.67,
+      115.21
+    ],
+    "reading_order": 3,
+    "text": "(i) the area of that part of the field in which the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      116.55,
+      149.29,
+      127.69
+    ],
+    "reading_order": 4,
+    "text": "horse can graze.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b05",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      133.11,
+      266.68,
+      157.48
+    ],
+    "reading_order": 5,
+    "text": "(ii) the increase in the grazing area if the rope\nwere 10 m long instead of 5 m. (Use  = 3.14)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      161.77,
+      266.69,
+      223.21
+    ],
+    "reading_order": 6,
+    "text": "9. A brooch is made with silver wire in the form\nof a circle with diameter 35 mm. The wire is also\nused in making 5 diameters which divide the\ncircle into 10 equal sectors as shown in\nFig. 11.9. Find :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      327.36,
+      218.67,
+      369.36,
+      231.35
+    ],
+    "reading_order": 8,
+    "text": "Fig. 11.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      228.63,
+      257.36,
+      239.77
+    ],
+    "reading_order": 9,
+    "text": "(i) the total length of the silver wire required.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      245.19,
+      241.45,
+      256.33
+    ],
+    "reading_order": 10,
+    "text": "(ii) the area of each sector of the brooch.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b11",
+    "type": "figure",
+    "bbox": [
+      293.41,
+      252.51,
+      364.45,
+      344.83
+    ],
+    "reading_order": 11,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      261.85,
+      266.68,
+      313.93
+    ],
+    "reading_order": 12,
+    "text": "10. An umbrella has 8 ribs which are equally spaced\n(see Fig. 11.10). Assuming umbrella to be a flat\ncircle of radius 45 cm, find the area between the\ntwo consecutive ribs of the umbrella.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      319.93,
+      266.67,
+      372.01
+    ],
+    "reading_order": 13,
+    "text": "11. A car has two wipers which do not overlap. Each\nwiper has a blade of length 25 cm sweeping\nthrough an angle of 115°. Find the total area\ncleaned at each sweep of the blades.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      324.0,
+      351.39,
+      372.0,
+      364.07
+    ],
+    "reading_order": 14,
+    "text": "Fig. 11.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      378.01,
+      266.69,
+      444.28
+    ],
+    "reading_order": 15,
+    "text": "12. To warn ships for underwater rocks, a lighthouse\nspreads a red coloured light over a sector of\nangle 80° to a distance of 16.5 km. Find the area\nof the sea over which the ships are warned.\n(Use  = 3.14)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      449.53,
+      266.67,
+      503.51
+    ],
+    "reading_order": 16,
+    "text": "13. A round table cover has six equal designs as\nshown in Fig. 11.11. If the radius of the cover is\n28 cm, find the cost of making the designs at the\nrate of ` 0.35 per cm2. (Use 3 = 1.7)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      324.48,
+      491.55,
+      371.75,
+      504.23
+    ],
+    "reading_order": 17,
+    "text": "Fig. 11.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      506.41,
+      239.04,
+      517.93
+    ],
+    "reading_order": 18,
+    "text": "14. Tick the correct answer in the following :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      522.87,
+      266.66,
+      546.01
+    ],
+    "reading_order": 19,
+    "text": "Area of a sector of angle p (in degrees) of a circle\nwith radius R is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      555.17,
+      176.4,
+      581.52
+    ],
+    "reading_order": 20,
+    "text": "(A)\n2\nR\n180\np \n\n(B)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      182.64,
+      555.17,
+      340.08,
+      581.52
+    ],
+    "reading_order": 21,
+    "text": "2\nR\n180\np \n(C)\n2\nR\n360\np \n\n(D)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b22",
+    "type": "paragraph",
+    "bbox": [
+      347.28,
+      555.17,
+      397.79,
+      581.52
+    ],
+    "reading_order": 22,
+    "text": "2\n2\nR\n720\np \n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 6,
+    "block_id": "jemh111_p006_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "INTRODUCTION TO TRIGONOMETRY\n119",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      100.28,
+      248.71,
+      128.15
+    ],
+    "reading_order": 3,
+    "text": "Then\nAC\nAB = PR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      115.98,
+      249.31,
+      128.12
+    ],
+    "reading_order": 4,
+    "text": "PQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      137.34,
+      420.0,
+      164.84
+    ],
+    "reading_order": 5,
+    "text": "AB\n, say\nPQ\nk\n\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      137.72,
+      228.0,
+      165.59
+    ],
+    "reading_order": 6,
+    "text": "Therefore,\nAC\nPR =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      168.94,
+      191.26,
+      181.19
+    ],
+    "reading_order": 7,
+    "text": "Now, using Pythagoras theorem,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b09",
+    "type": "formula",
+    "bbox": [
+      204.0,
+      188.93,
+      291.34,
+      203.63
+    ],
+    "reading_order": 9,
+    "text": "BC =\n2\n2\nAB\nAC\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      214.13,
+      291.82,
+      228.0
+    ],
+    "reading_order": 10,
+    "text": "and\nQR =\n2\n2\nPQ – PR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      131.28,
+      241.56,
+      337.87,
+      249.46
+    ],
+    "reading_order": 11,
+    "text": "2\n2\n2\n2\n2\n2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      139.2,
+      241.91,
+      420.0,
+      275.12
+    ],
+    "reading_order": 12,
+    "text": "k\nk\nk\nk\n\n\n\n\n\n\n\n\n\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      115.92,
+      243.13,
+      334.27,
+      268.66
+    ],
+    "reading_order": 13,
+    "text": "2\n2\n2\n2\n2\n2\nAB\nAC\nPQ\nPR\nPQ\nPR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b14",
+    "type": "formula",
+    "bbox": [
+      76.08,
+      244.86,
+      106.11,
+      272.36
+    ],
+    "reading_order": 14,
+    "text": "BC\nQR =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      254.37,
+      62.4,
+      266.63
+    ],
+    "reading_order": 15,
+    "text": "So,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b16",
+    "type": "paragraph",
+    "bbox": [
+      116.88,
+      262.1,
+      329.85,
+      274.3
+    ],
+    "reading_order": 16,
+    "text": "PQ\nPR\nPQ\nPR\nPQ\nPR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      280.29,
+      164.88,
+      292.54
+    ],
+    "reading_order": 17,
+    "text": "From (1) and (2), we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b18",
+    "type": "formula",
+    "bbox": [
+      200.64,
+      298.68,
+      279.43,
+      326.89
+    ],
+    "reading_order": 18,
+    "text": "AC\nPR = AB\nBC\nPQ\nQR\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      333.3,
+      375.11,
+      347.61
+    ],
+    "reading_order": 19,
+    "text": "Then, by using Theorem 6.4,  ACB ~  PRQ and therefore,  B =  Q.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      356.58,
+      276.0,
+      400.07
+    ],
+    "reading_order": 20,
+    "text": "Example 3 : Consider  ACB, right-angled at C, in\nwhich AB = 29 units, BC = 21 units and  ABC = \n(see Fig. 8.10). Determine the values of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b21",
+    "type": "formula",
+    "bbox": [
+      58.55,
+      405.78,
+      139.56,
+      420.09
+    ],
+    "reading_order": 21,
+    "text": "(i) cos2  + sin2 ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b22",
+    "type": "paragraph",
+    "bbox": [
+      56.17,
+      424.74,
+      140.41,
+      439.05
+    ],
+    "reading_order": 22,
+    "text": "(ii) cos2  – sin2 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      442.51,
+      185.04,
+      456.82
+    ],
+    "reading_order": 23,
+    "text": "Solution : In  ACB, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b24",
+    "type": "formula",
+    "bbox": [
+      113.29,
+      467.81,
+      283.9,
+      482.51
+    ],
+    "reading_order": 24,
+    "text": "AC =\n2\n2\nAB\nBC\n\n = \n2\n2\n(29)\n(21)\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b25",
+    "type": "paragraph",
+    "bbox": [
+      339.6,
+      473.8,
+      382.32,
+      486.47
+    ],
+    "reading_order": 25,
+    "text": "Fig. 8.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b26",
+    "type": "formula",
+    "bbox": [
+      132.0,
+      495.23,
+      373.83,
+      509.32
+    ],
+    "reading_order": 26,
+    "text": "=\n(29\n21)(29\n21)\n(8)(50)\n400\n20units\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      518.28,
+      251.18,
+      546.49
+    ],
+    "reading_order": 27,
+    "text": "So, \nsin  = AC\n20\nBC\n21\n, cos\n=\nAB\n29\nAB\n29\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b28",
+    "type": "paragraph",
+    "bbox": [
+      183.84,
+      550.48,
+      281.68,
+      559.76
+    ],
+    "reading_order": 28,
+    "text": "2\n2\n2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b29",
+    "type": "paragraph",
+    "bbox": [
+      159.6,
+      552.31,
+      360.8,
+      582.22
+    ],
+    "reading_order": 29,
+    "text": "2\n20\n21\n20\n21\n400\n441\n1,\n29\n29\n841\n29\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b30",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      560.58,
+      157.94,
+      574.89
+    ],
+    "reading_order": 30,
+    "text": "Now, (i) cos2 + sin2 =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b31",
+    "type": "paragraph",
+    "bbox": [
+      181.92,
+      586.96,
+      226.48,
+      594.81
+    ],
+    "reading_order": 31,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b32",
+    "type": "paragraph",
+    "bbox": [
+      157.68,
+      588.79,
+      359.15,
+      618.7
+    ],
+    "reading_order": 32,
+    "text": "2\n21\n20\n(21\n20)(21\n20)\n41\n29\n29\n841\n29\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b33",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      597.3,
+      156.07,
+      611.61
+    ],
+    "reading_order": 33,
+    "text": "and (ii) cos2  – sin2  =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 7,
+    "block_id": "jemh108_p007_b34",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 34,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

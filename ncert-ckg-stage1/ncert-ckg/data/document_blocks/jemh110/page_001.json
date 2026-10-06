@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "144\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b03",
+    "type": "figure",
+    "bbox": [
+      193.3,
+      72.0,
+      278.25,
+      156.95
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b04",
+    "type": "paragraph",
+    "bbox": [
+      354.72,
+      164.7,
+      412.56,
+      233.82
+    ],
+    "reading_order": 4,
+    "text": "10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      259.68,
+      197.02,
+      348.23,
+      229.28
+    ],
+    "reading_order": 6,
+    "text": "CIRCLES",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      47.28,
+      257.1,
+      135.13,
+      270.92
+    ],
+    "reading_order": 7,
+    "text": "10.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      278.13,
+      418.72,
+      343.19
+    ],
+    "reading_order": 8,
+    "text": "You have studied in Class IX that a circle is a collection of all points in a plane\nwhich are at a constant distance (radius) from a fixed point (centre). You have\nalso studied various terms related to a circle like chord, segment, sector, arc etc.\nLet us now examine the different situations that can arise when a circle and a line\nare given in a plane.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      347.97,
+      419.3,
+      373.43
+    ],
+    "reading_order": 9,
+    "text": "So, let us consider a circle and a line PQ. There can be three possibilities given\nin Fig. 10.1 below:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      211.67,
+      525.15,
+      254.4,
+      537.82
+    ],
+    "reading_order": 10,
+    "text": "Fig. 10.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.27,
+      544.76,
+      419.56,
+      623.03
+    ],
+    "reading_order": 11,
+    "text": "In Fig. 10.1 (i), the line PQ and the circle have no common point. In this case,\nPQ is called a non-intersecting line with respect to the circle. In Fig. 10.1 (ii), there\nare two common points A and B that the line PQ and the circle have. In this case, we\ncall the line PQ a secant of the circle. In Fig. 10.1 (iii), there is only one point A which\nis common to the line PQ and the circle. In this case, the line is called a tangent to the\ncircle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 1,
+    "block_id": "jemh110_p001_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "204\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      57.12,
+      101.49,
+      312.14,
+      272.15
+    ],
+    "reading_order": 3,
+    "text": "Probability theory had its origin in the 16th century when\nan Italian physician and mathematician J.Cardan wrote the\nfirst book on the subject, The Book on Games of Chance.\nSince its inception, the study of probability has attracted\nthe attention of great mathematicians. James Bernoulli\n(1654 – 1705), A. de Moivre (1667 – 1754), and\nPierre Simon Laplace are among those who made significant\ncontributions to this field. Laplace’s Theorie Analytique\ndes Probabilités, 1812, is considered to be the greatest\ncontribution by a single person to the theory of probability.\nIn recent years, probability has been used extensively in\nmany areas such as biology, economics, genetics, physics,\nsociology etc.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b04",
+    "type": "figure",
+    "bbox": [
+      322.05,
+      105.2,
+      409.85,
+      217.4
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b06",
+    "type": "paragraph",
+    "bbox": [
+      318.96,
+      220.57,
+      411.14,
+      232.09
+    ],
+    "reading_order": 6,
+    "text": "Pierre  Simon Laplace",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      336.0,
+      232.57,
+      394.56,
+      244.09
+    ],
+    "reading_order": 7,
+    "text": "(1749 – 1827)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      287.02,
+      420.05,
+      312.47
+    ],
+    "reading_order": 8,
+    "text": "Let us find the probability for some of the events associated with experiments\nwhere the equally likely assumption holds.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      322.6,
+      420.06,
+      349.2
+    ],
+    "reading_order": 9,
+    "text": "Example 1 : Find the probability of getting a head when a coin is tossed once. Also\nfind the probability of getting a tail.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      354.53,
+      420.05,
+      395.27
+    ],
+    "reading_order": 10,
+    "text": "Solution : In the experiment of tossing a coin once, the number of possible outcomes\nis two — Head (H) and Tail (T). Let E be the event ‘getting a head’. The number of\noutcomes favourable to E, (i.e., of getting a head) is 1. Therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b11",
+    "type": "formula",
+    "bbox": [
+      198.24,
+      405.72,
+      377.79,
+      434.16
+    ],
+    "reading_order": 11,
+    "text": "Number of all possible outcomes\n = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b12",
+    "type": "formula",
+    "bbox": [
+      99.84,
+      406.0,
+      354.77,
+      426.48
+    ],
+    "reading_order": 12,
+    "text": "P(E) = P (head) = Number of outcomes favourable to E",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      372.48,
+      421.55,
+      378.04,
+      433.93
+    ],
+    "reading_order": 13,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      439.17,
+      247.51,
+      451.43
+    ],
+    "reading_order": 14,
+    "text": "Similarly, if F is the event ‘getting a tail’, then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b15",
+    "type": "formula",
+    "bbox": [
+      151.44,
+      453.72,
+      233.55,
+      474.47
+    ],
+    "reading_order": 15,
+    "text": "P(F) = P(tail) = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      228.0,
+      462.21,
+      283.92,
+      481.93
+    ],
+    "reading_order": 16,
+    "text": "2\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      494.67,
+      420.03,
+      535.2
+    ],
+    "reading_order": 17,
+    "text": "Example 2 : A bag contains a red ball, a blue ball and a yellow ball, all the balls being\nof the same size. Kritika takes out a ball from the bag without looking into it. What is\nthe probability that she takes out the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b18",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      541.41,
+      314.42,
+      553.68
+    ],
+    "reading_order": 18,
+    "text": "(i) yellow ball?\n(ii) red ball?\n(iii) blue ball?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      558.28,
+      420.06,
+      584.15
+    ],
+    "reading_order": 19,
+    "text": "Solution : Kritika takes out a ball from the bag without looking into it. So, it is equally\nlikely that she takes out any one of them.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 3,
+    "block_id": "jemh114_p003_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

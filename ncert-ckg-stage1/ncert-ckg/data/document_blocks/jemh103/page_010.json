@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n33",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      238.07,
+      122.39
+    ],
+    "reading_order": 3,
+    "text": "i.e.,\n8 – 12 = 0\ni.e.,\n– 4 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      127.42,
+      420.05,
+      168.0
+    ],
+    "reading_order": 4,
+    "text": "which is a false statement.\nTherefore, the equations do not have a common solution. So, the two rails will not\ncross each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      191.34,
+      274.09,
+      205.16
+    ],
+    "reading_order": 6,
+    "text": "EXERCISE 3.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      212.17,
+      362.9,
+      223.69
+    ],
+    "reading_order": 7,
+    "text": "1. Solve the following pair of linear equations by the substitution method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b08",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      228.39,
+      301.68,
+      239.53
+    ],
+    "reading_order": 8,
+    "text": "(i) x + y = 14\n(ii) s – t = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b09",
+    "type": "formula",
+    "bbox": [
+      97.44,
+      246.36,
+      313.85,
+      271.44
+    ],
+    "reading_order": 9,
+    "text": "x – y = 4\n6\n3\n2\ns\nt\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b10",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      274.95,
+      332.88,
+      298.09
+    ],
+    "reading_order": 10,
+    "text": "(iii) 3x – y = 3\n(iv) 0.2x + 0.3y = 1.3\n9x – 3y = 9\n0.4x + 0.5y = 2.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      308.36,
+      331.85,
+      333.61
+    ],
+    "reading_order": 11,
+    "text": "(v)\n2\n3\n0\nx\ny\n\n\n(vi) 3\n5\n2\n2\n3\nx\ny\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      273.36,
+      338.12,
+      320.09,
+      363.36
+    ],
+    "reading_order": 12,
+    "text": "13\n3\n2\n6\nx\ny\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      105.36,
+      345.42,
+      161.8,
+      358.65
+    ],
+    "reading_order": 13,
+    "text": "3\n8\n0\nx\ny\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b14",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      366.73,
+      420.0,
+      390.49
+    ],
+    "reading_order": 14,
+    "text": "2. Solve 2x + 3y = 11 and 2x – 4y = – 24 and hence find the value of ‘m’ for which\ny = mx + 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      395.29,
+      419.77,
+      419.05
+    ],
+    "reading_order": 15,
+    "text": "3. Form the pair of linear equations for the following problems and find their solution by\nsubstitution method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b16",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      424.23,
+      420.17,
+      435.37
+    ],
+    "reading_order": 16,
+    "text": "(i) The difference between two numbers is 26 and one number is three times the other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b17",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      436.47,
+      140.16,
+      447.61
+    ],
+    "reading_order": 17,
+    "text": "Find them.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      452.79,
+      420.04,
+      463.93
+    ],
+    "reading_order": 18,
+    "text": "(ii) The larger of two supplementary angles exceeds the smaller by 18 degrees. Find",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b19",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      465.27,
+      119.28,
+      476.41
+    ],
+    "reading_order": 19,
+    "text": "them.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b20",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      481.59,
+      420.0,
+      492.73
+    ],
+    "reading_order": 20,
+    "text": "(iii) The coach of a cricket team buys 7 bats and 6 balls for ` 3800. Later, she buys 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b21",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      493.83,
+      364.58,
+      504.97
+    ],
+    "reading_order": 21,
+    "text": "bats and 5 balls for ` 1750. Find the cost of each bat and each ball.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b22",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      509.91,
+      420.08,
+      521.05
+    ],
+    "reading_order": 22,
+    "text": "(iv) The taxi charges in a city consist of a fixed charge together with the charge for the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b23",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      521.91,
+      420.04,
+      581.05
+    ],
+    "reading_order": 23,
+    "text": "distance covered. For a distance of 10 km, the charge paid is ` 105 and for a\njourney of 15 km, the charge paid is ` 155. What are the fixed charges and the\ncharge per km? How much does a person have to pay for travelling a distance of\n25 km?\n(v) A fraction becomes 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b24",
+    "type": "paragraph",
+    "bbox": [
+      178.56,
+      569.91,
+      420.16,
+      589.87
+    ],
+    "reading_order": 24,
+    "text": "11\n, if 2 is added to both the numerator and the denominator.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b25",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      580.54,
+      378.91,
+      598.33
+    ],
+    "reading_order": 25,
+    "text": "If, 3 is added to both the numerator and the denominator it becomes 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b26",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      587.19,
+      420.0,
+      612.97
+    ],
+    "reading_order": 26,
+    "text": "6\n. Find the\nfraction.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 10,
+    "block_id": "jemh103_p010_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

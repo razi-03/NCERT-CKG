@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SOME APPLICATIONS OF TRIGONOMETRY\n139",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      100.77,
+      232.08,
+      113.03
+    ],
+    "reading_order": 3,
+    "text": "So,\nDB = (40 + x) m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      118.05,
+      268.54,
+      130.31
+    ],
+    "reading_order": 4,
+    "text": "Now, we have two right triangles ABC and ABD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      136.44,
+      203.73,
+      158.02
+    ],
+    "reading_order": 5,
+    "text": "In  ABC,\ntan 60° = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      188.64,
+      152.27,
+      203.49,
+      164.65
+    ],
+    "reading_order": 6,
+    "text": "BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b07",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      168.52,
+      420.0,
+      196.08
+    ],
+    "reading_order": 7,
+    "text": "or,\n3 = h\nx\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      199.56,
+      203.97,
+      221.37
+    ],
+    "reading_order": 9,
+    "text": "In  ABD,\ntan 30° = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      215.39,
+      203.85,
+      227.77
+    ],
+    "reading_order": 10,
+    "text": "BD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b11",
+    "type": "formula",
+    "bbox": [
+      162.72,
+      232.09,
+      420.0,
+      261.58
+    ],
+    "reading_order": 11,
+    "text": "3 =\n40\nh\nx\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      232.79,
+      164.61,
+      253.19
+    ],
+    "reading_order": 12,
+    "text": "i.e.,\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      270.21,
+      207.1,
+      283.43
+    ],
+    "reading_order": 13,
+    "text": "From (1), we have\nh =\n3\nx",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      286.2,
+      349.67,
+      312.04
+    ],
+    "reading_order": 14,
+    "text": "Putting this value in (2), we get \n\n3\n3\nx\n = x + 40, i.e., 3x = x + 40",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b15",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      318.7,
+      196.3,
+      330.95
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\nx = 20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b16",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      342.05,
+      420.0,
+      354.99
+    ],
+    "reading_order": 16,
+    "text": "So,\nh = 20 3\n[From (1)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      362.13,
+      250.32,
+      375.39
+    ],
+    "reading_order": 17,
+    "text": "Therefore, the height of the tower is 20 3 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      386.19,
+      420.03,
+      451.66
+    ],
+    "reading_order": 18,
+    "text": "Example 6 : The angles of depression of the top and the bottom of an 8 m tall building\nfrom the top of a multi-storeyed building are 30°\nand 45°, respectively. Find the height of the multi-\nstoreyed building and the distance between the\ntwo buildings.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b19",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      456.27,
+      259.0,
+      601.77
+    ],
+    "reading_order": 19,
+    "text": "Solution : In Fig. 9.9, PC denotes the multi-\nstoryed building and AB denotes the 8 m tall\nbuilding. We are interested to determine the height\nof the multi-storeyed building, i.e., PC and the\ndistance between the two buildings, i.e., AC.\nLook at the figure carefully. Observe that PB is\na transversal to the parallel lines PQ and BD.\nTherefore, QPB and PBD are alternate\nangles, \nand \nso \nare \nequal.\nSo PBD = 30°. Similarly,\n  PAC = 45°.\nIn right  PBD, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      331.44,
+      561.64,
+      368.16,
+      574.31
+    ],
+    "reading_order": 20,
+    "text": "Fig. 9.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 7,
+    "block_id": "jemh109_p007_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

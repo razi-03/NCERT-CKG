@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "158\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      100.28,
+      268.49,
+      128.15
+    ],
+    "reading_order": 3,
+    "text": "So,\narea of  OAB = 1 AB × OM\n2\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      271.2,
+      100.28,
+      356.85,
+      128.15
+    ],
+    "reading_order": 4,
+    "text": "2\n1\n21\n21 3\ncm\n2\n2\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      201.36,
+      131.4,
+      419.76,
+      159.61
+    ],
+    "reading_order": 5,
+    "text": "2\n441 3cm\n4\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b06",
+    "type": "formula",
+    "bbox": [
+      189.36,
+      139.89,
+      195.56,
+      152.15
+    ],
+    "reading_order": 6,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b07",
+    "type": "paragraph",
+    "bbox": [
+      225.6,
+      168.4,
+      420.01,
+      198.02
+    ],
+    "reading_order": 7,
+    "text": "2\n441\n462\n3\ncm\n4\n\n\n\n\n\n\n\n[From (1), (2) and (3)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      178.05,
+      223.57,
+      190.31
+    ],
+    "reading_order": 9,
+    "text": "Therefore, area of the segment AYB =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b10",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      206.04,
+      319.2,
+      234.25
+    ],
+    "reading_order": 10,
+    "text": "2\n21 (88 – 21 3)cm\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b11",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      214.53,
+      224.84,
+      226.78
+    ],
+    "reading_order": 11,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b12",
+    "type": "paragraph",
+    "bbox": [
+      192.72,
+      239.58,
+      275.28,
+      253.4
+    ],
+    "reading_order": 12,
+    "text": "EXERCISE 11.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      266.12,
+      193.13,
+      285.88
+    ],
+    "reading_order": 13,
+    "text": "Unless stated otherwise, use  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      185.52,
+      273.99,
+      198.1,
+      291.37
+    ],
+    "reading_order": 14,
+    "text": "7 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      298.09,
+      392.43,
+      309.61
+    ],
+    "reading_order": 15,
+    "text": "1. Find the area of a sector of a circle with radius 6 cm if angle of the sector is 60°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      314.65,
+      348.02,
+      326.17
+    ],
+    "reading_order": 16,
+    "text": "2. Find the area of a quadrant of a circle whose circumference is 22 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      330.97,
+      420.08,
+      354.97
+    ],
+    "reading_order": 17,
+    "text": "3. The length of the minute hand of a clock is 14 cm. Find the area swept by the minute\nhand in 5 minutes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      360.01,
+      420.07,
+      396.49
+    ],
+    "reading_order": 18,
+    "text": "4. A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area of\nthe corresponding : (i) minor segment\n(ii) major sector. (Use  = 3.14)\n5. In a circle of radius 21 cm, an arc subtends an angle of 60° at the centre. Find:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      401.91,
+      339.2,
+      413.05
+    ],
+    "reading_order": 19,
+    "text": "(i) the length of the arc\n(ii) area of the sector formed by the arc",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      418.47,
+      318.1,
+      429.61
+    ],
+    "reading_order": 20,
+    "text": "(iii) area of the segment formed by the corresponding chord",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      434.65,
+      420.03,
+      471.13
+    ],
+    "reading_order": 21,
+    "text": "6. A chord of a circle of radius 15 cm subtends an angle of 60° at the centre. Find\nthe areas of the corresponding minor and major\nsegments of the circle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b22",
+    "type": "figure",
+    "bbox": [
+      307.35,
+      460.6,
+      420.35,
+      572.6
+    ],
+    "reading_order": 22,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b23",
+    "type": "formula",
+    "bbox": [
+      75.12,
+      474.47,
+      190.56,
+      488.67
+    ],
+    "reading_order": 23,
+    "text": "(Use  = 3.14 and 3 = 1.73)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b24",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      493.93,
+      276.03,
+      530.65
+    ],
+    "reading_order": 24,
+    "text": "7. A chord of a circle of radius 12 cm subtends an\nangle of 120° at the centre. Find the area of the\ncorresponding segment of the circle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b25",
+    "type": "formula",
+    "bbox": [
+      75.12,
+      533.99,
+      190.56,
+      548.19
+    ],
+    "reading_order": 25,
+    "text": "(Use  = 3.14 and 3 = 1.73)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b26",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      553.69,
+      386.16,
+      590.17
+    ],
+    "reading_order": 26,
+    "text": "8. A horse is tied to a peg at one corner of a square\nshaped grass field of side 15 m by means of a 5 m\nlong rope (see Fig. 11.8). Find\nFig. 11.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH111",
+    "page": 5,
+    "block_id": "jemh111_p005_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

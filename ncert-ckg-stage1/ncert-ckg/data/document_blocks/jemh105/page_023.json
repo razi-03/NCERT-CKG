@@ -1,0 +1,818 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_17.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n71",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b03",
+    "type": "header",
+    "bbox": [
+      162.72,
+      94.38,
+      305.27,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 5.4 (Optional)*",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      114.97,
+      240.0,
+      153.89
+    ],
+    "reading_order": 4,
+    "text": "1. Which term of the AP : 121, 117, 113, . . ., is\nits first negative term?\n[Hint : Find n for an < 0]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b05",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      156.25,
+      239.98,
+      191.77
+    ],
+    "reading_order": 5,
+    "text": "2. The sum of the third and the seventh terms\nof an AP is 6 and their product is 8. Find\nthe sum of first sixteen terms of the AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_18.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      196.33,
+      239.8,
+      243.85
+    ],
+    "reading_order": 7,
+    "text": "3. A ladder has rungs 25 cm apart.\n(see Fig. 5.7). The rungs decrease\nuniformly in length from 45 cm at the\nbottom to 25 cm at the top. If the top and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b08",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      250.03,
+      240.01,
+      275.29
+    ],
+    "reading_order": 8,
+    "text": "the bottom rungs are \n1\n2 2 m apart, what is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b09",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      277.11,
+      239.79,
+      300.25
+    ],
+    "reading_order": 9,
+    "text": "the length of the wood required for the\nrungs?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b10",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      310.52,
+      218.37,
+      336.51
+    ],
+    "reading_order": 10,
+    "text": "[Hint : Number of rungs = 250\n1\n25 ]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b11",
+    "type": "paragraph",
+    "bbox": [
+      312.0,
+      312.03,
+      348.73,
+      324.71
+    ],
+    "reading_order": 11,
+    "text": "Fig. 5.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      342.01,
+      420.0,
+      377.53
+    ],
+    "reading_order": 12,
+    "text": "4. The houses of a row are numbered consecutively from 1 to 49. Show that there is a value\nof x such that the sum of the numbers of the houses preceding the house numbered x is\nequal to the sum of the numbers of the houses following it. Find this value of x.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b13",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      382.81,
+      162.69,
+      396.78
+    ],
+    "reading_order": 13,
+    "text": "[Hint : Sx – 1 = S49 – Sx]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      399.37,
+      419.82,
+      422.89
+    ],
+    "reading_order": 14,
+    "text": "5. A small terrace at a football ground comprises of 15 steps each of which is 50 m long and\nbuilt of solid concrete.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b15",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      425.71,
+      169.86,
+      444.25
+    ],
+    "reading_order": 15,
+    "text": "Each step has a rise of 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b16",
+    "type": "paragraph",
+    "bbox": [
+      165.12,
+      425.71,
+      420.01,
+      450.96
+    ],
+    "reading_order": 16,
+    "text": "4 m and a tread of 1\n2 m. (see Fig. 5.8). Calculate the total volume",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b17",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      449.67,
+      236.89,
+      460.81
+    ],
+    "reading_order": 17,
+    "text": "of concrete required to build the terrace.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b18",
+    "type": "paragraph",
+    "bbox": [
+      314.64,
+      458.99,
+      376.53,
+      484.57
+    ],
+    "reading_order": 18,
+    "text": "3\n1\n1\n50 m\n4\n2\n\n\n]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b19",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      466.09,
+      312.83,
+      477.61
+    ],
+    "reading_order": 19,
+    "text": "[Hint : Volume of concrete required to build the first step =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b20",
+    "type": "figure",
+    "bbox": [
+      186.3,
+      517.24,
+      295.82,
+      571.98
+    ],
+    "reading_order": 20,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b21",
+    "type": "figure",
+    "bbox": [
+      282.04,
+      517.24,
+      295.82,
+      521.09
+    ],
+    "reading_order": 21,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_05.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b22",
+    "type": "figure",
+    "bbox": [
+      281.21,
+      520.91,
+      282.0,
+      521.09
+    ],
+    "reading_order": 22,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_04.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b23",
+    "type": "figure",
+    "bbox": [
+      267.64,
+      521.13,
+      282.0,
+      535.48
+    ],
+    "reading_order": 23,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b24",
+    "type": "figure",
+    "bbox": [
+      282.04,
+      521.13,
+      295.82,
+      535.48
+    ],
+    "reading_order": 24,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_06.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b25",
+    "type": "figure",
+    "bbox": [
+      259.33,
+      528.17,
+      267.6,
+      535.48
+    ],
+    "reading_order": 25,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b26",
+    "type": "figure",
+    "bbox": [
+      238.81,
+      535.51,
+      253.21,
+      549.86
+    ],
+    "reading_order": 26,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_14.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b27",
+    "type": "figure",
+    "bbox": [
+      253.24,
+      535.51,
+      267.6,
+      549.86
+    ],
+    "reading_order": 27,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b28",
+    "type": "figure",
+    "bbox": [
+      267.64,
+      535.51,
+      282.0,
+      549.86
+    ],
+    "reading_order": 28,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b29",
+    "type": "figure",
+    "bbox": [
+      282.04,
+      535.51,
+      295.82,
+      549.86
+    ],
+    "reading_order": 29,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_06.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b30",
+    "type": "figure",
+    "bbox": [
+      230.1,
+      542.78,
+      238.78,
+      549.86
+    ],
+    "reading_order": 30,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_12.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b31",
+    "type": "figure",
+    "bbox": [
+      224.41,
+      549.9,
+      238.77,
+      564.29
+    ],
+    "reading_order": 31,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_13.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b32",
+    "type": "figure",
+    "bbox": [
+      238.81,
+      549.9,
+      253.21,
+      564.29
+    ],
+    "reading_order": 32,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_15.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b33",
+    "type": "figure",
+    "bbox": [
+      253.24,
+      549.9,
+      267.6,
+      564.29
+    ],
+    "reading_order": 33,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_13.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b34",
+    "type": "figure",
+    "bbox": [
+      267.64,
+      549.9,
+      282.0,
+      564.29
+    ],
+    "reading_order": 34,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_13.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b35",
+    "type": "figure",
+    "bbox": [
+      282.04,
+      549.9,
+      295.82,
+      564.29
+    ],
+    "reading_order": 35,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_07.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b36",
+    "type": "figure",
+    "bbox": [
+      210.02,
+      550.11,
+      224.38,
+      564.29
+    ],
+    "reading_order": 36,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b37",
+    "type": "figure",
+    "bbox": [
+      200.88,
+      557.38,
+      209.98,
+      564.29
+    ],
+    "reading_order": 37,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_09.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b38",
+    "type": "figure",
+    "bbox": [
+      195.62,
+      564.32,
+      209.98,
+      571.98
+    ],
+    "reading_order": 38,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b39",
+    "type": "figure",
+    "bbox": [
+      210.02,
+      564.32,
+      224.38,
+      571.98
+    ],
+    "reading_order": 39,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b40",
+    "type": "figure",
+    "bbox": [
+      224.41,
+      564.32,
+      238.77,
+      571.98
+    ],
+    "reading_order": 40,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b41",
+    "type": "figure",
+    "bbox": [
+      238.81,
+      564.32,
+      253.21,
+      571.98
+    ],
+    "reading_order": 41,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_16.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b42",
+    "type": "figure",
+    "bbox": [
+      253.24,
+      564.32,
+      267.6,
+      571.98
+    ],
+    "reading_order": 42,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b43",
+    "type": "figure",
+    "bbox": [
+      267.64,
+      564.32,
+      282.0,
+      571.98
+    ],
+    "reading_order": 43,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b44",
+    "type": "figure",
+    "bbox": [
+      282.04,
+      564.32,
+      295.82,
+      571.98
+    ],
+    "reading_order": 44,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_08.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b45",
+    "type": "figure",
+    "bbox": [
+      186.26,
+      564.72,
+      195.58,
+      571.98
+    ],
+    "reading_order": 45,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_023_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b46",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      582.76,
+      252.0,
+      595.43
+    ],
+    "reading_order": 46,
+    "text": "Fig. 5.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b47",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      601.83,
+      292.47,
+      614.41
+    ],
+    "reading_order": 47,
+    "text": "* These exercises are not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 23,
+    "block_id": "jemh105_p023_b48",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 48,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

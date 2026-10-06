@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "46\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      95.01,
+      270.84,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Now, AB = 13m, and since AB is a diameter,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      110.82,
+      383.77,
+      137.51
+    ],
+    "reading_order": 4,
+    "text": "APB = 90°\n(Why?)\nTherefore,\nAP2 + PB2 = AB2\n(By Pythagoras theorem)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      142.53,
+      248.0,
+      154.79
+    ],
+    "reading_order": 5,
+    "text": "i.e.,\n(x + 7)2 + x2 = 132",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      159.81,
+      249.6,
+      172.07
+    ],
+    "reading_order": 6,
+    "text": "i.e.,\nx2 + 14x + 49 + x2 = 169",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      176.85,
+      239.26,
+      189.11
+    ],
+    "reading_order": 8,
+    "text": "i.e.,\n2x2 + 14x – 120 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      194.13,
+      334.59,
+      206.39
+    ],
+    "reading_order": 9,
+    "text": "So, the distance ‘x’ of the pole from gate B satisfies the equation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b10",
+    "type": "formula",
+    "bbox": [
+      166.07,
+      211.41,
+      239.25,
+      223.67
+    ],
+    "reading_order": 10,
+    "text": "x2 + 7x – 60 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      228.45,
+      419.34,
+      253.91
+    ],
+    "reading_order": 11,
+    "text": "So,  it would be possible to place the pole if this equation has real roots. To see if this\nis so or not, let us consider its discriminant. The discriminant is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b12",
+    "type": "formula",
+    "bbox": [
+      86.64,
+      258.93,
+      269.76,
+      271.19
+    ],
+    "reading_order": 12,
+    "text": "b2 – 4ac = 72 – 4 × 1 × (– 60) = 289 > 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      276.21,
+      420.01,
+      301.67
+    ],
+    "reading_order": 13,
+    "text": "So, the given quadratic equation has two real roots, and it is possible to erect the\npole on the boundary of the park.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      306.45,
+      420.01,
+      318.71
+    ],
+    "reading_order": 14,
+    "text": "Solving the quadratic equation x2 + 7x – 60 = 0, by the quadratic formula, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b15",
+    "type": "formula",
+    "bbox": [
+      214.8,
+      328.97,
+      336.95,
+      358.78
+    ],
+    "reading_order": 15,
+    "text": "x =\n7\n289\n2\n\n = 7\n17\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      360.69,
+      158.17,
+      372.95
+    ],
+    "reading_order": 16,
+    "text": "Therefore, x = 5 or – 12.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      378.69,
+      419.34,
+      405.1
+    ],
+    "reading_order": 17,
+    "text": "Since x is the distance between the pole and the gate B, it must be positive.\nTherefore, x = – 12 will have to be ignored. So, x = 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      411.08,
+      419.32,
+      437.5
+    ],
+    "reading_order": 18,
+    "text": "Thus, the pole has to be erected on the boundary of the park at a distance of 5m\nfrom the gate B and 12m from the gate A.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b19",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      449.16,
+      319.47,
+      469.93
+    ],
+    "reading_order": 19,
+    "text": "Example 9 : Find the discriminant of the equation 3x2 – 2x + 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b20",
+    "type": "formula",
+    "bbox": [
+      314.16,
+      457.65,
+      420.02,
+      477.37
+    ],
+    "reading_order": 20,
+    "text": "3 = 0 and hence find the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      475.89,
+      248.88,
+      488.14
+    ],
+    "reading_order": 21,
+    "text": "nature of its roots. Find them, if they are real.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      494.36,
+      234.83,
+      522.23
+    ],
+    "reading_order": 22,
+    "text": "Solution : Here a = 3, b = – 2 and \n1\n3\nc \n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b23",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      529.32,
+      283.71,
+      550.07
+    ],
+    "reading_order": 23,
+    "text": "Therefore, discriminant b2 – 4ac = (– 2)2 – 4 × 3 × 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b24",
+    "type": "formula",
+    "bbox": [
+      278.4,
+      537.81,
+      341.28,
+      557.53
+    ],
+    "reading_order": 24,
+    "text": "3 = 4 – 4 = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      563.49,
+      318.75,
+      575.74
+    ],
+    "reading_order": 25,
+    "text": "Hence, the given quadratic equation has two equal real roots.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      584.71,
+      259.34,
+      614.17
+    ],
+    "reading_order": 26,
+    "text": "The roots are \n2\n2\n1\n1\n,\n,\n,\n,\n.\ni.e.,\n, i.e.,\n2\n2\n6\n6\n3\n3\nb\nb\na\na\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 9,
+    "block_id": "jemh104_p009_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

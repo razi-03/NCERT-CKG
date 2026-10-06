@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.01,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "So, the value of p(x) = 2x2 – 8x + 6 is zero when x – 1 = 0 or x – 3 = 0, i.e., when\nx = 1 or x = 3. So, the zeroes of 2x2 – 8x + 6 are 1 and 3. Observe that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      240.72,
+      129.73,
+      406.91,
+      159.59
+    ],
+    "reading_order": 4,
+    "text": "x\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b05",
+    "type": "formula",
+    "bbox": [
+      127.2,
+      130.96,
+      410.86,
+      159.6
+    ],
+    "reading_order": 5,
+    "text": "Sum of its zeroes\n=\n2\n( 8)\n(Coefficient of\n)\n1\n3\n4\n2\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      401.04,
+      131.13,
+      405.95,
+      143.27
+    ],
+    "reading_order": 6,
+    "text": "x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b07",
+    "type": "formula",
+    "bbox": [
+      127.2,
+      161.92,
+      377.98,
+      190.56
+    ],
+    "reading_order": 7,
+    "text": "Product of its zeroes =\n2\n6\nConstant term\n1\n3\n3\n2\nCoefficient of x\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      199.17,
+      420.0,
+      224.63
+    ],
+    "reading_order": 9,
+    "text": "Let us take one more quadratic polynomial, say, p(x) = 3x2 + 5x – 2. By the\nmethod of splitting the middle term,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b10",
+    "type": "formula",
+    "bbox": [
+      164.88,
+      228.45,
+      400.54,
+      241.91
+    ],
+    "reading_order": 10,
+    "text": "3x2 + 5x – 2 = 3x2 + 6x – x – 2 = 3x(x + 2) –1(x + 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b11",
+    "type": "formula",
+    "bbox": [
+      221.98,
+      246.93,
+      297.81,
+      259.19
+    ],
+    "reading_order": 11,
+    "text": "= (3x – 1)(x + 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b12",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      263.97,
+      420.0,
+      276.23
+    ],
+    "reading_order": 12,
+    "text": "Hence, the value of 3x2 + 5x – 2 is zero when either 3x – 1 = 0 or x + 2 = 0, i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b13",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      282.36,
+      100.11,
+      303.11
+    ],
+    "reading_order": 13,
+    "text": "when x = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b14",
+    "type": "formula",
+    "bbox": [
+      94.8,
+      282.36,
+      417.84,
+      310.57
+    ],
+    "reading_order": 14,
+    "text": "3 or x = –2. So, the zeroes of 3x2 + 5x – 2 are 1\n3 and – 2. Observe that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      241.92,
+      318.76,
+      391.35,
+      348.49
+    ],
+    "reading_order": 15,
+    "text": "x\nx\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b16",
+    "type": "formula",
+    "bbox": [
+      127.2,
+      320.01,
+      395.15,
+      348.5
+    ],
+    "reading_order": 16,
+    "text": "Sum of its zeroes\n=\n2\n1\n5\n(Coefficient of\n)\n( 2)\n3\n3\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b17",
+    "type": "formula",
+    "bbox": [
+      127.2,
+      355.81,
+      386.86,
+      385.68
+    ],
+    "reading_order": 17,
+    "text": "Product of its zeroes =\n2\n1\n2\nConstant term\n( 2)\n3\n3\nCoefficient of x\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      393.06,
+      419.86,
+      420.57
+    ],
+    "reading_order": 18,
+    "text": "In general, if * and * are the zeroes of the quadratic polynomial p(x) = ax2 + bx + c,\na  0, then you know that x –  and x –  are the factors of p(x). Therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b19",
+    "type": "formula",
+    "bbox": [
+      163.43,
+      423.54,
+      404.14,
+      437.85
+    ],
+    "reading_order": 19,
+    "text": "ax2 + bx + c = k(x – ) (x – ), where k is a constant",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b20",
+    "type": "formula",
+    "bbox": [
+      221.98,
+      440.82,
+      333.91,
+      455.13
+    ],
+    "reading_order": 20,
+    "text": "= k[x2 – ( + )x + ]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b21",
+    "type": "formula",
+    "bbox": [
+      222.0,
+      458.1,
+      341.27,
+      472.41
+    ],
+    "reading_order": 21,
+    "text": "= kx2 – k( + )x + k ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b22",
+    "type": "paragraph",
+    "bbox": [
+      71.98,
+      476.37,
+      420.0,
+      488.63
+    ],
+    "reading_order": 22,
+    "text": "Comparing the coefficients of x2, x and constant terms on both the sides, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b23",
+    "type": "formula",
+    "bbox": [
+      182.88,
+      492.42,
+      341.99,
+      506.73
+    ],
+    "reading_order": 23,
+    "text": "a = k, b = – k( + ) and c = k",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b24",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      512.11,
+      247.43,
+      534.02
+    ],
+    "reading_order": 24,
+    "text": "This gives\n +  = –b",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b25",
+    "type": "paragraph",
+    "bbox": [
+      238.32,
+      520.36,
+      252.83,
+      540.23
+    ],
+    "reading_order": 25,
+    "text": "a ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b26",
+    "type": "formula",
+    "bbox": [
+      200.16,
+      547.78,
+      240.37,
+      569.78
+    ],
+    "reading_order": 26,
+    "text": "\n\n\n\n = c",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b27",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      563.62,
+      240.75,
+      576.25
+    ],
+    "reading_order": 27,
+    "text": "a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      589.19,
+      419.99,
+      614.2
+    ],
+    "reading_order": 28,
+    "text": "* ,are Greek letters pronounced as ‘alpha’ and ‘beta’ respectively. We will use later one\nmore letter ‘’ pronounced as ‘gamma’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 10,
+    "block_id": "jemh102_p010_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_029_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n199",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b03",
+    "type": "paragraph",
+    "bbox": [
+      126.72,
+      99.61,
+      371.51,
+      111.13
+    ],
+    "reading_order": 3,
+    "text": "Age (in years)\nNumber of policy holders",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b04",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      124.95,
+      323.0,
+      136.09
+    ],
+    "reading_order": 4,
+    "text": "Below 20\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b05",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      147.03,
+      323.0,
+      158.17
+    ],
+    "reading_order": 5,
+    "text": "Below 25\n6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b06",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      169.11,
+      322.52,
+      180.25
+    ],
+    "reading_order": 6,
+    "text": "Below 30\n24",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_029_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b08",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      191.19,
+      322.52,
+      202.33
+    ],
+    "reading_order": 8,
+    "text": "Below 35\n45",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b09",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      213.27,
+      322.52,
+      224.41
+    ],
+    "reading_order": 9,
+    "text": "Below 40\n78",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b10",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      235.35,
+      322.52,
+      246.49
+    ],
+    "reading_order": 10,
+    "text": "Below 45\n89",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b11",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      257.43,
+      322.52,
+      268.57
+    ],
+    "reading_order": 11,
+    "text": "Below 50\n92",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b12",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      279.27,
+      322.52,
+      290.41
+    ],
+    "reading_order": 12,
+    "text": "Below 55\n98",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b13",
+    "type": "paragraph",
+    "bbox": [
+      138.0,
+      301.35,
+      322.52,
+      312.49
+    ],
+    "reading_order": 13,
+    "text": "Below 60\n100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      335.05,
+      419.79,
+      358.57
+    ],
+    "reading_order": 14,
+    "text": "4. The lengths of 40 leaves of a plant are measured correct to the nearest millimetre, and\nthe data obtained is represented in the following table :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b15",
+    "type": "paragraph",
+    "bbox": [
+      124.08,
+      373.21,
+      355.43,
+      384.73
+    ],
+    "reading_order": 15,
+    "text": "Length (in mm)\nNumber of leaves",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b16",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      399.57,
+      323.0,
+      411.83
+    ],
+    "reading_order": 16,
+    "text": "118 - 126\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b17",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      421.41,
+      323.0,
+      433.67
+    ],
+    "reading_order": 17,
+    "text": "127 - 135\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b18",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      443.49,
+      323.0,
+      455.75
+    ],
+    "reading_order": 18,
+    "text": "136 - 144\n9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b19",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      465.33,
+      322.52,
+      477.59
+    ],
+    "reading_order": 19,
+    "text": "145 - 153\n12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b20",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      487.41,
+      323.0,
+      499.67
+    ],
+    "reading_order": 20,
+    "text": "154 - 162\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b21",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      509.25,
+      323.0,
+      521.51
+    ],
+    "reading_order": 21,
+    "text": "163 - 171\n4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b22",
+    "type": "paragraph",
+    "bbox": [
+      138.24,
+      531.33,
+      323.0,
+      543.59
+    ],
+    "reading_order": 22,
+    "text": "172 - 180\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b23",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      560.07,
+      223.45,
+      571.21
+    ],
+    "reading_order": 23,
+    "text": "Find the median length of the leaves.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b24",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      575.77,
+      420.07,
+      612.01
+    ],
+    "reading_order": 24,
+    "text": "(Hint : The data needs to be converted to continuous classes for finding the median,\nsince the formula assumes continuous classes. The classes then change to\n117.5 - 126.5, 126.5 - 135.5, . . ., 171.5 - 180.5.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 29,
+    "block_id": "jemh113_p029_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

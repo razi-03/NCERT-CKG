@@ -1,0 +1,580 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "252\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      97.11,
+      272.88,
+      108.11
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 3.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b04",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      122.29,
+      116.57,
+      140.17
+    ],
+    "reading_order": 4,
+    "text": "1.\n(i) x = 19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b05",
+    "type": "formula",
+    "bbox": [
+      109.44,
+      122.29,
+      370.69,
+      146.41
+    ],
+    "reading_order": 5,
+    "text": "5 , y = 6\n5\n(ii) x = 2, y = 1\n(iii) x = 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b06",
+    "type": "formula",
+    "bbox": [
+      362.88,
+      123.79,
+      412.93,
+      147.57
+    ],
+    "reading_order": 6,
+    "text": "13 , y = \n5\n13\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b07",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      154.09,
+      141.12,
+      164.17
+    ],
+    "reading_order": 7,
+    "text": "(iv) x = 2, y = –3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b08",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      170.12,
+      420.01,
+      180.25
+    ],
+    "reading_order": 8,
+    "text": "2.\n(i) x – y + 2 = 0, 2x – y – 1 = 0, where x and y are the numerator and denominator of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      129.6,
+      187.87,
+      138.54,
+      211.65
+    ],
+    "reading_order": 10,
+    "text": "3\n5 ⋅",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      195.69,
+      127.64,
+      205.69
+    ],
+    "reading_order": 11,
+    "text": "fraction;",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b12",
+    "type": "formula",
+    "bbox": [
+      73.44,
+      219.61,
+      420.01,
+      229.69
+    ],
+    "reading_order": 12,
+    "text": "(ii) x – 3y + 10 = 0, x – 2y – 10 = 0, where x and y are the ages (in years) of Nuri and Sonu",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b13",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      231.61,
+      312.0,
+      241.69
+    ],
+    "reading_order": 13,
+    "text": "respectively. Age of Nuri (x) = 50, Age of Sonu (y) = 20.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b14",
+    "type": "formula",
+    "bbox": [
+      71.28,
+      247.69,
+      420.02,
+      257.77
+    ],
+    "reading_order": 14,
+    "text": "(iii) x + y = 9, 8x – y = 0, where x and y are respectively the tens and units digits of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      259.77,
+      138.0,
+      269.77
+    ],
+    "reading_order": 15,
+    "text": "number; 18.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b16",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      274.49,
+      420.0,
+      285.85
+    ],
+    "reading_order": 16,
+    "text": "(iv) x + 2y = 40, x + y = 25, where x and y are respectively the number of  ` 50 and ` 100",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b17",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      287.77,
+      171.84,
+      297.85
+    ],
+    "reading_order": 17,
+    "text": "notes; x = 10, y = 15.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b18",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      302.57,
+      420.01,
+      313.93
+    ],
+    "reading_order": 18,
+    "text": "(v) x + 4y = 27, x + 2y = 21, where x is the fixed charge (in `) and y is the additional",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b19",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      314.57,
+      234.0,
+      325.93
+    ],
+    "reading_order": 19,
+    "text": "charge (in `) per day; x = 15, y = 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      195.36,
+      345.94,
+      272.64,
+      357.94
+    ],
+    "reading_order": 20,
+    "text": "EXERCISE 4.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      366.2,
+      392.88,
+      376.33
+    ],
+    "reading_order": 21,
+    "text": "1.\n(i) Yes\n(ii) Yes\n(iii) No\n(iv) Yes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      382.41,
+      392.88,
+      392.41
+    ],
+    "reading_order": 22,
+    "text": "(v) Yes\n(vi) No\n(vii) No\n(viii) Yes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b23",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      398.32,
+      324.01,
+      408.49
+    ],
+    "reading_order": 23,
+    "text": "2.\n(i) 2x2 + x – 528 = 0, where x is breadth (in metres) of the plot.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b24",
+    "type": "formula",
+    "bbox": [
+      73.44,
+      414.4,
+      272.26,
+      424.57
+    ],
+    "reading_order": 24,
+    "text": "(ii) x2 + x – 306 = 0, where x is the smaller integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b25",
+    "type": "formula",
+    "bbox": [
+      71.28,
+      430.24,
+      351.13,
+      440.41
+    ],
+    "reading_order": 25,
+    "text": "(iii) x2 + 32x – 273 = 0, where x (in years) is the present age of Rohan.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b26",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      446.32,
+      334.33,
+      456.49
+    ],
+    "reading_order": 26,
+    "text": "(iv) u2 – 8u – 1280 = 0, where u (in km/h) is the speed of the train.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b27",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      473.19,
+      272.88,
+      484.19
+    ],
+    "reading_order": 27,
+    "text": "EXERCISE 4.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b28",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      498.6,
+      252.9,
+      522.72
+    ],
+    "reading_order": 28,
+    "text": "1.\n(i) – 2, 5\n(ii)\n3\n– 2, 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b29",
+    "type": "formula",
+    "bbox": [
+      330.0,
+      498.73,
+      395.29,
+      524.19
+    ],
+    "reading_order": 29,
+    "text": "(iii)\n5 ,\n2\n2\n−\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b30",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      533.33,
+      256.25,
+      557.78
+    ],
+    "reading_order": 30,
+    "text": "(iv)\n1\n1\n,\n4\n4\n(v)\n1\n1\n,\n10 10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b31",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      565.4,
+      250.56,
+      575.53
+    ],
+    "reading_order": 31,
+    "text": "2.\n(i) 9, 36\n(ii) 25, 30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b32",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      582.2,
+      341.29,
+      592.33
+    ],
+    "reading_order": 32,
+    "text": "3. Numbers are 13 and 14.\n4. Positive integers are 13 and 14.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b33",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      597.02,
+      413.28,
+      609.37
+    ],
+    "reading_order": 33,
+    "text": "5. 5 cm and 12 cm\n6. Number of articles = 6, Cost of each article = ` 15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 3,
+    "block_id": "jemh1an_p003_b34",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 34,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

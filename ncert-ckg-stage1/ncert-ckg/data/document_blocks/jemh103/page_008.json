@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES\n31",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b03",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      101.81,
+      195.35,
+      121.22
+    ],
+    "reading_order": 3,
+    "text": "Verification : Substituting x = 49",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b04",
+    "type": "formula",
+    "bbox": [
+      184.32,
+      101.81,
+      420.02,
+      128.42
+    ],
+    "reading_order": 4,
+    "text": "29 and y = 19\n29 , you can verify that both the Equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      131.58,
+      155.29,
+      142.58
+    ],
+    "reading_order": 5,
+    "text": "(1) and (2) are satisfied.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      149.34,
+      417.86,
+      160.34
+    ],
+    "reading_order": 6,
+    "text": "To understand the substitution method more clearly, let us consider it stepwise:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      167.19,
+      420.0,
+      192.26
+    ],
+    "reading_order": 7,
+    "text": "Step 1 : Find the value of one variable, say y in terms of the other variable, i.e., x from\neither equation, whichever is convenient.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      198.87,
+      420.05,
+      265.7
+    ],
+    "reading_order": 9,
+    "text": "Step 2 : Substitute this value of y in the other equation, and reduce it to an equation in\none variable, i.e., in terms of x, which can be solved. Sometimes, as in Examples 9 and\n10 below, you can get statements with no variable. If this statement is true, you can\nconclude that the pair of linear equations has infinitely many solutions. If the statement\nis false, then the pair of linear equations is inconsistent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      272.55,
+      420.02,
+      297.62
+    ],
+    "reading_order": 10,
+    "text": "Step 3 : Substitute the value of x (or y) obtained in Step 2 in the equation used in\nStep 1 to obtain the value of the other variable.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      309.27,
+      420.04,
+      348.26
+    ],
+    "reading_order": 11,
+    "text": "Remark : We have substituted the value of one variable by expressing it in terms of\nthe other variable to solve the pair of linear equations. That is why the method is\nknown as the substitution method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      359.91,
+      420.04,
+      411.38
+    ],
+    "reading_order": 12,
+    "text": "Example 5 : Solve the following question—Aftab tells his daughter, “Seven years\nago, I was seven times as old as you were then. Also, three years from now, I shall be\nthree times as old as you will be.” (Isn’t this interesting?) Represent this situation\nalgebraically and graphically by the method of substitution.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      418.23,
+      419.87,
+      443.3
+    ],
+    "reading_order": 13,
+    "text": "Solution : Let s and t be the ages (in years) of Aftab and his daughter, respectively.\nThen, the pair of linear equations that represent the situation is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b14",
+    "type": "formula",
+    "bbox": [
+      128.88,
+      449.95,
+      419.76,
+      461.06
+    ],
+    "reading_order": 14,
+    "text": "s – 7 = 7 (t – 7), i.e., s – 7t + 42 = 0\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      467.95,
+      419.76,
+      479.06
+    ],
+    "reading_order": 15,
+    "text": "and\ns + 3 = 3 (t + 3), i.e., s – 3t = 6\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      485.71,
+      214.56,
+      496.82
+    ],
+    "reading_order": 16,
+    "text": "Using Equation (2), we get s = 3t + 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      503.71,
+      246.73,
+      514.82
+    ],
+    "reading_order": 17,
+    "text": "Putting this value of s in Equation (1), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b18",
+    "type": "formula",
+    "bbox": [
+      143.28,
+      521.71,
+      240.0,
+      532.82
+    ],
+    "reading_order": 18,
+    "text": "(3t + 6) – 7t + 42 = 0,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      539.47,
+      332.4,
+      550.58
+    ],
+    "reading_order": 19,
+    "text": "i.e.,\n4t = 48, which gives t = 12.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      557.47,
+      245.29,
+      568.58
+    ],
+    "reading_order": 20,
+    "text": "Putting this value of t in Equation (2), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b21",
+    "type": "formula",
+    "bbox": [
+      214.56,
+      575.47,
+      299.29,
+      586.58
+    ],
+    "reading_order": 21,
+    "text": "s = 3 (12) + 6 = 42",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 8,
+    "block_id": "jemh103_p008_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "MATHEMATICAL MODELLING\n249",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b03",
+    "type": "header",
+    "bbox": [
+      61.44,
+      95.01,
+      420.03,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "To estimate. Often, we need to estimate large values. You’ve seen examples of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      108.21,
+      420.1,
+      186.47
+    ],
+    "reading_order": 4,
+    "text": "the trees in a forest, fish in a lake, etc. For another example, before elections, the\ncontesting parties want to predict the probability of their party winning the elections.\nIn particular, they want to estimate how many people in their constituency would\nvote for their party. Based on their predictions, they may want to decide on the\ncampaign strategy. Exit polls have been used widely to predict the number of\nseats, a party is expected to get in elections.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      189.84,
+      204.78,
+      278.39,
+      218.6
+    ],
+    "reading_order": 6,
+    "text": "EXERCISE A2.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      225.61,
+      419.79,
+      261.13
+    ],
+    "reading_order": 7,
+    "text": "1. Based upon the data of the past five years, try and forecast the average percentage of\nmarks in Mathematics that your school would obtain in the Class X board examination\nat the end of the year.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      274.14,
+      124.33,
+      287.96
+    ],
+    "reading_order": 8,
+    "text": "A2.5 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      293.25,
+      293.08,
+      305.51
+    ],
+    "reading_order": 9,
+    "text": "In this Appendix, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      310.09,
+      419.85,
+      345.61
+    ],
+    "reading_order": 10,
+    "text": "1. A mathematical model is a mathematical description of a real-life situation. Mathematical\nmodelling is the process of creating a mathematical model, solving it and using it to\nunderstand the real-life problem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      350.17,
+      419.83,
+      385.69
+    ],
+    "reading_order": 11,
+    "text": "2. The various steps involved in modelling are : understanding the problem, formulating\nthe mathematical model, solving it, interpreting it in the real-life situation, and, most\nimportantly, validating the model.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      390.25,
+      230.19,
+      401.77
+    ],
+    "reading_order": 12,
+    "text": "3. Developed some mathematical models.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      406.09,
+      247.47,
+      417.61
+    ],
+    "reading_order": 13,
+    "text": "4. The importance of mathematical modelling.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 11,
+    "block_id": "jemh1a2_p011_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

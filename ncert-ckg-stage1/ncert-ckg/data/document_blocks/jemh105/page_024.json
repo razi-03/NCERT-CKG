@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "72\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      116.37,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "5.5 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.43,
+      269.3,
+      124.57
+    ],
+    "reading_order": 4,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b05",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      129.13,
+      420.03,
+      164.65
+    ],
+    "reading_order": 5,
+    "text": "1. An arithmetic progression (AP) is a list of numbers in which each term is obtained by\nadding a fixed number d to the preceding term, except the first term. The fixed number d\nis called the common difference.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b06",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      170.31,
+      302.88,
+      181.45
+    ],
+    "reading_order": 6,
+    "text": "The general form of an AP is a, a + d, a + 2d, a + 3d, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_024_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      186.25,
+      420.1,
+      212.22
+    ],
+    "reading_order": 8,
+    "text": "2. A given list of numbers a1, a2, a3, . . . is an AP, if the differences a2 – a1, a3 – a2,\na4 – a3, . . ., give the same value, i.e., if ak + 1 – ak is the same for different values of k.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      214.33,
+      420.02,
+      241.01
+    ],
+    "reading_order": 9,
+    "text": "3. In an AP with first term a and common difference d, the nth term (or the general term) is\ngiven by\n an = a + (n – 1) d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      244.33,
+      272.41,
+      255.85
+    ],
+    "reading_order": 10,
+    "text": "4. The sum of the first n terms of an AP is given by :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b11",
+    "type": "formula",
+    "bbox": [
+      179.28,
+      266.74,
+      272.32,
+      291.84
+    ],
+    "reading_order": 11,
+    "text": "S =\n\n\n2\n(\n1)\n2\nn\na\nn\nd\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      297.13,
+      420.04,
+      320.65
+    ],
+    "reading_order": 12,
+    "text": "5. If l is the last term of the finite AP, say the nth term, then the sum of all terms of the AP\nis given by :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b13",
+    "type": "formula",
+    "bbox": [
+      181.44,
+      331.06,
+      233.71,
+      356.16
+    ],
+    "reading_order": 13,
+    "text": "S =\n(\n)\n2\nn a\nl\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b14",
+    "type": "paragraph",
+    "bbox": [
+      170.64,
+      389.63,
+      295.92,
+      405.76
+    ],
+    "reading_order": 14,
+    "text": "A NOTE TO THE READER",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b15",
+    "type": "formula",
+    "bbox": [
+      68.16,
+      420.32,
+      398.43,
+      449.77
+    ],
+    "reading_order": 15,
+    "text": "If a, b, c are in AP, then b = \n2\na\nc\n\n and b is called the arithmetic",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b16",
+    "type": "paragraph",
+    "bbox": [
+      68.15,
+      451.42,
+      152.26,
+      463.67
+    ],
+    "reading_order": 16,
+    "text": "mean of a and c.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 24,
+    "block_id": "jemh105_p024_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

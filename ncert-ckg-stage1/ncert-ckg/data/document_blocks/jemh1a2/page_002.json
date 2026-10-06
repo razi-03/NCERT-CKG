@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "240\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b03",
+    "type": "header",
+    "bbox": [
+      78.0,
+      95.01,
+      276.74,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "(v) Predicting the trend of the stock market.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      112.29,
+      358.38,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "(vi) Estimating the volume of blood inside the body of a person.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      73.45,
+      129.33,
+      313.49,
+      141.59
+    ],
+    "reading_order": 5,
+    "text": "(vii) Predicting the population of a city after 10 years.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      71.29,
+      146.61,
+      282.04,
+      158.87
+    ],
+    "reading_order": 6,
+    "text": "(viii) Estimating the number of leaves in a tree.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      163.89,
+      402.91,
+      176.15
+    ],
+    "reading_order": 7,
+    "text": "(ix) Estimating the ppm of different pollutants in the atmosphere of a city.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      78.01,
+      181.18,
+      336.75,
+      193.43
+    ],
+    "reading_order": 9,
+    "text": "(x) Estimating the effect of pollutants on the environment.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      75.86,
+      198.46,
+      313.5,
+      210.71
+    ],
+    "reading_order": 10,
+    "text": "(xi) Estimating the temperature on the Sun’s surface.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      215.74,
+      420.1,
+      280.79
+    ],
+    "reading_order": 11,
+    "text": "In this chapter we shall revisit the process of mathematical modelling, and take\nexamples from the world around us to illustrate this. In Section A2.2 we take you\nthrough all the stages of building a model. In Section A2.3, we discuss a variety of\nexamples. In Section A2.4, we look at reasons for the importance of mathematical\nmodelling.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      285.58,
+      420.09,
+      337.43
+    ],
+    "reading_order": 12,
+    "text": "A point to remember is that here we aim to make you aware of an important way\nin which mathematics helps to solve real-world problems. However, you need to know\nsome more mathematics to really appreciate the power of mathematical modelling. In\nhigher classes some examples giving this flavour will be found.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      346.86,
+      248.88,
+      360.68
+    ],
+    "reading_order": 13,
+    "text": "A2.2 Stages in Mathematical Modelling",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      365.97,
+      420.06,
+      404.63
+    ],
+    "reading_order": 14,
+    "text": "In Class IX, we considered some examples of the use of modelling. Did they give you\nan insight into the process and the steps involved in it? Let us quickly revisit the main\nsteps in mathematical modelling.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      408.99,
+      420.03,
+      448.07
+    ],
+    "reading_order": 15,
+    "text": "Step 1 (Understanding the problem) : Define the real problem, and if working in a\nteam, discuss the issues that you wish to understand. Simplify by making assumptions\nand ignoring certain factors so that the problem is manageable.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      453.09,
+      420.06,
+      491.75
+    ],
+    "reading_order": 16,
+    "text": "For example, suppose our problem is to estimate the number of fishes in a lake. It is\nnot possible to capture each of these fishes and count them. We could possibly capture\na sample and from it try and estimate the total number of fishes in the lake.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      496.36,
+      420.03,
+      535.43
+    ],
+    "reading_order": 17,
+    "text": "Step 2 (Mathematical description and formulation) : Describe, in mathematical\nterms, the different aspects of the problem. Some ways to describe the features\nmathematically, include:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      62.16,
+      538.53,
+      142.58,
+      550.79
+    ],
+    "reading_order": 18,
+    "text": "define variables",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b19",
+    "type": "paragraph",
+    "bbox": [
+      62.16,
+      553.65,
+      203.31,
+      565.91
+    ],
+    "reading_order": 19,
+    "text": "write equations or inequalities",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b20",
+    "type": "paragraph",
+    "bbox": [
+      62.16,
+      568.77,
+      229.45,
+      581.03
+    ],
+    "reading_order": 20,
+    "text": "gather data and organise into tables",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b21",
+    "type": "paragraph",
+    "bbox": [
+      62.16,
+      584.13,
+      128.88,
+      596.39
+    ],
+    "reading_order": 21,
+    "text": "make graphs",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b22",
+    "type": "paragraph",
+    "bbox": [
+      62.16,
+      599.25,
+      167.31,
+      611.51
+    ],
+    "reading_order": 22,
+    "text": "calculate probabilities",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 2,
+    "block_id": "jemh1a2_p002_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

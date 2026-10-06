@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n229",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      100.29,
+      420.05,
+      125.5
+    ],
+    "reading_order": 3,
+    "text": "Now consider the following table in which we make a new statement from each\nof the given statements.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b04",
+    "type": "paragraph",
+    "bbox": [
+      65.99,
+      139.96,
+      368.16,
+      152.63
+    ],
+    "reading_order": 4,
+    "text": "Original statement\n                New statement",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b05",
+    "type": "paragraph",
+    "bbox": [
+      65.99,
+      162.7,
+      399.62,
+      188.15
+    ],
+    "reading_order": 5,
+    "text": "p: It rained in Delhi on\n~p: It is false that it rained in Delhi\n1 September 2005\non 1 September 2005.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      65.99,
+      192.93,
+      401.3,
+      218.39
+    ],
+    "reading_order": 7,
+    "text": "q: All teachers are female.\n~ q: It is false that all teachers are\nfemale.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b08",
+    "type": "paragraph",
+    "bbox": [
+      65.99,
+      223.42,
+      401.28,
+      248.87
+    ],
+    "reading_order": 8,
+    "text": "r: Mike’s dog has a black tail.\n~r: It is false that Mike’s dog has a\nblack  tail.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b09",
+    "type": "formula",
+    "bbox": [
+      65.99,
+      253.9,
+      368.17,
+      266.15
+    ],
+    "reading_order": 9,
+    "text": "s: 2 + 2 = 4.\n~s: It is false that 2 + 2 = 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      65.99,
+      270.94,
+      401.3,
+      296.39
+    ],
+    "reading_order": 10,
+    "text": "t: Triangle ABC is equilateral.\n~t: It is false that triangle ABC is\nequilateral.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      311.98,
+      419.41,
+      548.2
+    ],
+    "reading_order": 11,
+    "text": "Each new statement in the table is a negation of the corresponding old statement.\nThat is, ~p, ~q, ~r, ~s and ~t are negations of the statements p, q, r, s and t, respectively.\nHere, ~p is read as ‘not p’. The statement ~p negates the assertion that the statement\np makes. Notice that in our usual talk we would simply mean ~p as ‘It did not rain in\nDelhi on 1 September 2005.’ However, we need to be careful while doing so. You\nmight think that one can obtain the negation of a statement by simply inserting the\nword ‘not’ in the given statement at a suitable place. While this works in the case of\np, the difficulty comes when we have a statement that begins with ‘all’. Consider, for\nexample, the statement q: All teachers are female. We said the negation of this statement\nis ~q: It is false that all teachers are female. This is the same as the statement ‘There\nare some teachers who are males.’ Now let us see what happens if we simply insert\n‘not’ in q. We obtain the statement: ‘All teachers are not female’, or we can obtain the\nstatement: ‘Not all teachers are female.’ The first statement can confuse people. It\ncould imply (if we lay emphasis on the word ‘All’) that all teachers are male! This is\ncertainly not the negation of q. However, the second statement gives the meaning of\n~q, i.e., that there is at least one teacher who is not a female. So, be careful when\nwriting the negation of a statement!",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      553.94,
+      419.33,
+      580.36
+    ],
+    "reading_order": 12,
+    "text": "So, how do we decide that we have the correct negation? We use the following\ncriterion.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      586.26,
+      419.31,
+      612.27
+    ],
+    "reading_order": 13,
+    "text": "Let p be a statement and ~p its negation. Then ~p is false whenever p is\ntrue, and ~p is true whenever p is false.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 12,
+    "block_id": "jemh1a1_p012_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "70\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b03",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 3,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_022_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b04",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      227.55,
+      252.0,
+      240.23
+    ],
+    "reading_order": 4,
+    "text": "Fig. 5.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b05",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      248.65,
+      420.01,
+      272.17
+    ],
+    "reading_order": 5,
+    "text": "[Hint : Length of successive semicircles is l1, l2, l3, l4, . . . with centres at A, B, A, B, . . .,\nrespectively.]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b06",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      276.49,
+      420.16,
+      312.97
+    ],
+    "reading_order": 6,
+    "text": "19. 200 logs are stacked in the following manner: 20 logs in the bottom row, 19 in the next row,\n18 in the row next to it and so on (see Fig. 5.5). In how many rows are the 200 logs placed\nand how many logs are in the top row?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b07",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      385.71,
+      252.0,
+      398.39
+    ],
+    "reading_order": 7,
+    "text": "Fig. 5.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b08",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      406.57,
+      420.09,
+      442.09
+    ],
+    "reading_order": 8,
+    "text": "20. In a potato race, a bucket is placed at the starting point, which is 5 m from the first potato,\nand the other potatoes are placed 3 m apart in a straight line. There are ten potatoes in the\nline (see Fig. 5.6).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b09",
+    "type": "paragraph",
+    "bbox": [
+      215.28,
+      514.36,
+      252.0,
+      527.03
+    ],
+    "reading_order": 9,
+    "text": "Fig. 5.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b10",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      535.83,
+      420.07,
+      582.97
+    ],
+    "reading_order": 10,
+    "text": "A competitor starts from the bucket, picks up the nearest potato, runs back with it, drops\nit in the bucket, runs back to pick up the next potato, runs to the bucket to drop it in, and\nshe continues in the same way until all the potatoes are in the bucket. What is the total\ndistance the competitor has to run?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b11",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      587.29,
+      420.06,
+      611.77
+    ],
+    "reading_order": 11,
+    "text": "[Hint : To pick up the first potato and the second  potato, the total distance (in metres)\nrun by a competitor is 2 × 5 + 2 × (5 + 3)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 22,
+    "block_id": "jemh105_p022_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n23",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b03",
+    "type": "header",
+    "bbox": [
+      193.92,
+      94.38,
+      274.09,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      114.97,
+      419.8,
+      138.49
+    ],
+    "reading_order": 4,
+    "text": "1. Find the zeroes of the following quadratic polynomials and verify the relationship between\nthe zeroes and the coefficients.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b05",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      143.43,
+      382.92,
+      154.57
+    ],
+    "reading_order": 5,
+    "text": "(i) x2 – 2x – 8\n(ii) 4s2 – 4s + 1\n(iii) 6x2 – 3 – 7x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b06",
+    "type": "formula",
+    "bbox": [
+      77.28,
+      159.51,
+      377.52,
+      170.65
+    ],
+    "reading_order": 6,
+    "text": "(iv) 4u2 + 8u\n(v) t2 – 15\n(vi) 3x2 – x – 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      174.97,
+      419.81,
+      198.49
+    ],
+    "reading_order": 8,
+    "text": "2. Find a quadratic polynomial each with the given numbers as the sum and product of its\nzeroes respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      201.79,
+      361.0,
+      227.78
+    ],
+    "reading_order": 9,
+    "text": "(i)\n1 ,\n1\n4 \n(ii)\n1\n2 , 3\n(iii) 0,\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b10",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      231.31,
+      350.65,
+      256.56
+    ],
+    "reading_order": 10,
+    "text": "(iv) 1, 1\n(v)\n1\n1\n,\n4\n4\n\n(vi) 4, 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b11",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      266.7,
+      116.37,
+      280.52
+    ],
+    "reading_order": 11,
+    "text": "2.4 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      285.75,
+      266.89,
+      296.89
+    ],
+    "reading_order": 12,
+    "text": "In this chapter, you have studied the following points:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      301.45,
+      420.03,
+      324.97
+    ],
+    "reading_order": 13,
+    "text": "1. Polynomials of degrees 1, 2 and 3 are called linear, quadratic and cubic polynomials\nrespectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      329.29,
+      419.88,
+      353.56
+    ],
+    "reading_order": 14,
+    "text": "2. A quadratic polynomial in x with real coefficients is of the form ax2 + bx + c, where a, b, c\nare real numbers with a  0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      357.37,
+      420.01,
+      380.89
+    ],
+    "reading_order": 15,
+    "text": "3. The zeroes of a polynomial p(x) are precisely the x-coordinates of the points, where the\ngraph of y = p(x) intersects the x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      385.45,
+      419.81,
+      408.97
+    ],
+    "reading_order": 16,
+    "text": "4. A quadratic polynomial can have at most 2 zeroes and a cubic polynomial can have\nat most 3 zeroes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b17",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      412.55,
+      356.17,
+      425.56
+    ],
+    "reading_order": 17,
+    "text": "5. If  and  are the zeroes of the quadratic polynomial ax2 + bx + c, then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b18",
+    "type": "paragraph",
+    "bbox": [
+      99.12,
+      435.23,
+      196.42,
+      460.31
+    ],
+    "reading_order": 18,
+    "text": "b\na\n\n,\nc\na\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b19",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      466.07,
+      356.4,
+      479.08
+    ],
+    "reading_order": 19,
+    "text": "6. If , ,  are the zeroes of the cubic polynomial ax3 + bx2 + cx + d, then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b20",
+    "type": "paragraph",
+    "bbox": [
+      121.67,
+      487.49,
+      188.26,
+      513.83
+    ],
+    "reading_order": 20,
+    "text": "b\na\n\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b21",
+    "type": "paragraph",
+    "bbox": [
+      121.68,
+      526.19,
+      200.98,
+      551.27
+    ],
+    "reading_order": 21,
+    "text": "c\na\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b22",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      562.37,
+      170.26,
+      588.71
+    ],
+    "reading_order": 22,
+    "text": "and\nd\na\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 14,
+    "block_id": "jemh102_p014_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

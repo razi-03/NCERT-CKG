@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "STATISTICS\n185",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b03",
+    "type": "paragraph",
+    "bbox": [
+      186.72,
+      100.69,
+      290.9,
+      133.93
+    ],
+    "reading_order": 3,
+    "text": "1\n0\n2\n2\nf\nf\nl\nh\nf\nf\nf\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b04",
+    "type": "formula",
+    "bbox": [
+      146.16,
+      109.0,
+      253.19,
+      122.63
+    ],
+    "reading_order": 4,
+    "text": "Mode =\n1\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b05",
+    "type": "formula",
+    "bbox": [
+      174.72,
+      147.5,
+      365.77,
+      179.79
+    ],
+    "reading_order": 5,
+    "text": "=\n8\n7\n2\n3\n2\n3\n3.286\n2\n8\n7\n2\n7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      187.65,
+      258.75,
+      199.91
+    ],
+    "reading_order": 7,
+    "text": "Therefore, the mode of the data above is 3.286.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      210.04,
+      420.02,
+      250.78
+    ],
+    "reading_order": 8,
+    "text": "Example 6 : The marks distribution of 30 students in a mathematics examination are\ngiven in Table 13.3 of Example 1. Find the mode of this data. Also compare and\ninterpret the mode and the mean.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      256.1,
+      420.04,
+      282.71
+    ],
+    "reading_order": 9,
+    "text": "Solution : Refer to Table 13.3 of Example 1. Since the maximum number of students\n(i.e., 7) have got marks in the interval 40 - 55, the modal class is 40 - 55. Therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b10",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      288.7,
+      259.42,
+      300.95
+    ],
+    "reading_order": 10,
+    "text": "the lower limit (l) of the modal class = 40,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b11",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      306.69,
+      173.02,
+      318.95
+    ],
+    "reading_order": 11,
+    "text": "the class size (h) = 15,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b12",
+    "type": "formula",
+    "bbox": [
+      71.98,
+      324.69,
+      242.41,
+      339.55
+    ],
+    "reading_order": 12,
+    "text": "the frequency ( f1) of modal class = 7,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      342.69,
+      346.36,
+      357.55
+    ],
+    "reading_order": 13,
+    "text": "the frequency ( f0) of the class preceding the modal class = 3,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      360.69,
+      353.29,
+      375.79
+    ],
+    "reading_order": 14,
+    "text": "the frequency ( f2) of the class succeeding the modal class = 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      378.22,
+      152.87,
+      390.47
+    ],
+    "reading_order": 15,
+    "text": "Now, using the formula:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b16",
+    "type": "paragraph",
+    "bbox": [
+      234.01,
+      395.65,
+      336.03,
+      428.89
+    ],
+    "reading_order": 16,
+    "text": "1\n0\n2\n2\nf\nf\nl\nh\nf\nf\nf\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b17",
+    "type": "formula",
+    "bbox": [
+      193.44,
+      403.96,
+      299.27,
+      417.6
+    ],
+    "reading_order": 17,
+    "text": "Mode =\n1\n0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b18",
+    "type": "paragraph",
+    "bbox": [
+      337.68,
+      405.33,
+      340.43,
+      417.59
+    ],
+    "reading_order": 18,
+    "text": ",",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b19",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      435.74,
+      333.87,
+      468.03
+    ],
+    "reading_order": 19,
+    "text": "we get\nMode =\n7\n3\n40\n15\n14\n6\n3\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b20",
+    "type": "formula",
+    "bbox": [
+      335.28,
+      445.65,
+      357.84,
+      457.91
+    ],
+    "reading_order": 20,
+    "text": "= 52",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      472.54,
+      162.02,
+      484.79
+    ],
+    "reading_order": 21,
+    "text": "So, the mode marks is 52.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      490.53,
+      313.69,
+      502.79
+    ],
+    "reading_order": 22,
+    "text": "Now, from Example 1, you know that the mean marks is 62.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      508.53,
+      420.03,
+      534.71
+    ],
+    "reading_order": 23,
+    "text": "So, the maximum number of students obtained 52 marks, while on an average a\nstudent obtained 62 marks.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      539.56,
+      99.84,
+      552.23
+    ],
+    "reading_order": 24,
+    "text": "Remarks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      557.74,
+      420.08,
+      583.92
+    ],
+    "reading_order": 25,
+    "text": "1. In Example 6, the mode is less than the mean. But for some other problems it may\nbe equal or more than the mean also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      589.19,
+      420.07,
+      614.65
+    ],
+    "reading_order": 26,
+    "text": "2. It depends upon the demand of the situation whether we are interested in finding the\naverage marks obtained by the students or the average of the marks obtained by most",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 15,
+    "block_id": "jemh113_p015_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

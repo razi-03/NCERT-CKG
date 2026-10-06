@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "150\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b03",
+    "type": "header",
+    "bbox": [
+      47.99,
+      93.78,
+      420.01,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Now AB is a chord of the circle C1 and OP  AB. Therefore, OP is the bisector of the\nchord AB, as the perpendicular from the centre bisects the chord,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b04",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      125.49,
+      165.59,
+      137.75
+    ],
+    "reading_order": 4,
+    "text": "i.e.,\nAP = BP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      142.11,
+      261.75,
+      182.01
+    ],
+    "reading_order": 5,
+    "text": "Example 2 : Two tangents TP and TQ are drawn\nto a circle with centre O from an external point T.\nProve that  PTQ = 2  OPQ.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      185.8,
+      261.64,
+      238.07
+    ],
+    "reading_order": 7,
+    "text": "Solution : We are given a circle with centre O,\nan external point T and two tangents TP and TQ\nto the circle, where P, Q are the points of contact\n(see Fig. 10.9). We need to prove that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b08",
+    "type": "formula",
+    "bbox": [
+      187.2,
+      249.06,
+      276.47,
+      263.37
+    ],
+    "reading_order": 8,
+    "text": " PTQ = 2  OPQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      333.12,
+      251.8,
+      375.84,
+      264.47
+    ],
+    "reading_order": 9,
+    "text": "Fig. 10.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      273.06,
+      239.5,
+      287.37
+    ],
+    "reading_order": 10,
+    "text": "Let\n PTQ = ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b11",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      298.29,
+      344.41,
+      310.55
+    ],
+    "reading_order": 11,
+    "text": "Now, by Theorem 10.2, TP = TQ. So, TPQ is an isosceles triangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b12",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      320.52,
+      343.23,
+      348.49
+    ],
+    "reading_order": 12,
+    "text": "Therefore,\n TPQ =  TQP = 1\n1\n(180°\n)\n90°\n2\n2\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      352.98,
+      247.84,
+      367.29
+    ],
+    "reading_order": 13,
+    "text": "Also, by Theorem 10.1,\n OPT = 90°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      373.86,
+      316.0,
+      403.48
+    ],
+    "reading_order": 14,
+    "text": "So,\n OPQ =  OPT –  TPQ =\n1\n90°\n90° – 2\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b15",
+    "type": "formula",
+    "bbox": [
+      223.2,
+      411.48,
+      304.42,
+      439.69
+    ],
+    "reading_order": 15,
+    "text": "= 1\n1\nPTQ\n2\n2\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      444.18,
+      276.47,
+      458.49
+    ],
+    "reading_order": 16,
+    "text": "This gives\n PTQ = 2  OPQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      467.31,
+      261.63,
+      519.59
+    ],
+    "reading_order": 17,
+    "text": "Example 3 : PQ is a chord of length 8 cm of a\ncircle of radius 5 cm. The tangents at P and Q\nintersect at a point T (see Fig. 10.10). Find the\nlength TP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      524.2,
+      261.62,
+      589.67
+    ],
+    "reading_order": 18,
+    "text": "Solution : Join OT. Let it intersect PQ at the\npoint R. Then  TPQ is isosceles and TO is the\nangle bisector of  PTQ. So, OT  PQ\nand therefore, OT bisects PQ which gives\nPR = RQ = 4 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b19",
+    "type": "paragraph",
+    "bbox": [
+      327.36,
+      595.24,
+      376.08,
+      607.91
+    ],
+    "reading_order": 19,
+    "text": "Fig. 10.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      601.56,
+      272.99,
+      615.95
+    ],
+    "reading_order": 20,
+    "text": "Also,\nOR = \n2\n2\n2\n2\nOP\nPR\n5\n4 cm\n3 cm\n\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH110",
+    "page": 7,
+    "block_id": "jemh110_p007_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

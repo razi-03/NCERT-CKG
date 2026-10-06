@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "208\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b03",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      99.57,
+      244.58,
+      111.83
+    ],
+    "reading_order": 3,
+    "text": "The number of possible outcomes = 52",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b04",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      120.12,
+      234.75,
+      148.33
+    ],
+    "reading_order": 4,
+    "text": "Therefore,\nP(F) = 48\n12\n52\n13\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      154.36,
+      420.02,
+      167.53
+    ],
+    "reading_order": 5,
+    "text": "Remark : Note that F is nothing but E . Therefore, we can also calculate P(F) as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b07",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      175.32,
+      261.98,
+      203.53
+    ],
+    "reading_order": 7,
+    "text": "follows: P(F) = P( E ) = 1 – P(E) = \n1\n12\n1\n13\n13\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      213.88,
+      420.06,
+      252.95
+    ],
+    "reading_order": 8,
+    "text": "Example 5 : Two players, Sangeeta and Reshma, play a tennis match. It is known\nthat the probability of Sangeeta winning the match is 0.62. What is the probability of\nReshma winning the match?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      259.47,
+      420.05,
+      285.34
+    ],
+    "reading_order": 9,
+    "text": "Solution : Let S and R denote the events that Sangeeta wins the match and Reshma\nwins the match, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b10",
+    "type": "formula",
+    "bbox": [
+      59.28,
+      292.28,
+      327.91,
+      304.54
+    ],
+    "reading_order": 10,
+    "text": "The probability of Sangeeta’s winning = P(S) = 0.62 (given)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b11",
+    "type": "formula",
+    "bbox": [
+      63.83,
+      311.48,
+      310.59,
+      323.74
+    ],
+    "reading_order": 11,
+    "text": "The probability of Reshma’s winning = P(R) = 1 – P(S)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      224.16,
+      328.76,
+      420.01,
+      341.02
+    ],
+    "reading_order": 12,
+    "text": "[As the events R and S are complementary]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b13",
+    "type": "formula",
+    "bbox": [
+      228.71,
+      346.05,
+      306.71,
+      358.3
+    ],
+    "reading_order": 13,
+    "text": "= 1 – 0.62 = 0.38",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      367.7,
+      420.06,
+      393.59
+    ],
+    "reading_order": 14,
+    "text": "Example 6 : Savita and Hamida are friends. What is the probability that both will\nhave (i) different birthdays? (ii) the same birthday? (ignoring a leap year).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      398.2,
+      420.05,
+      424.07
+    ],
+    "reading_order": 15,
+    "text": "Solution : Out of the two friends, one girl, say, Savita’s birthday can be any day of the\nyear. Now, Hamida’s birthday can also be any day of 365 days in the year.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      429.09,
+      288.87,
+      441.35
+    ],
+    "reading_order": 16,
+    "text": "We assume that these 365 outcomes are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      446.38,
+      419.99,
+      458.63
+    ],
+    "reading_order": 17,
+    "text": "(i) If Hamida’s birthday is different from Savita’s, the number of favourable outcomes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b18",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      459.58,
+      215.28,
+      471.83
+    ],
+    "reading_order": 18,
+    "text": "for her birthday is 365 – 1 = 364",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b19",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      477.96,
+      372.03,
+      498.71
+    ],
+    "reading_order": 19,
+    "text": "So, P (Hamida’s birthday is different from Savita’s birthday) = 364",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      493.79,
+      372.27,
+      520.07
+    ],
+    "reading_order": 20,
+    "text": "365\n(ii) P(Savita and Hamida have the same birthday)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b21",
+    "type": "formula",
+    "bbox": [
+      174.73,
+      525.09,
+      347.12,
+      537.35
+    ],
+    "reading_order": 21,
+    "text": "= 1 – P (both have different birthdays)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b22",
+    "type": "formula",
+    "bbox": [
+      174.73,
+      543.48,
+      387.36,
+      571.69
+    ],
+    "reading_order": 22,
+    "text": "=\n364\n1\n365\n\n[Using P( E ) = 1 – P(E)]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b23",
+    "type": "formula",
+    "bbox": [
+      174.72,
+      578.76,
+      204.52,
+      606.97
+    ],
+    "reading_order": 23,
+    "text": "=\n1\n365",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 7,
+    "block_id": "jemh114_p007_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

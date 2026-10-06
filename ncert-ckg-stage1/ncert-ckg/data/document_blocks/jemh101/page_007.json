@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.28,
+      419.96,
+      82.29
+    ],
+    "reading_order": 2,
+    "text": "REAL NUMBERS\n7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      92.3,
+      304.43,
+      117.81
+    ],
+    "reading_order": 3,
+    "text": "So, we can find integers r and s (¹ 0) such that \n2 = r\ns .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      120.46,
+      420.08,
+      131.48
+    ],
+    "reading_order": 4,
+    "text": "Suppose r and s have a common factor other than 1. Then, we divide by the common",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      138.38,
+      273.86,
+      165.33
+    ],
+    "reading_order": 5,
+    "text": "factor to get \n,\n2\na\nb\n\n where a and b are coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      165.58,
+      109.55,
+      178.22
+    ],
+    "reading_order": 6,
+    "text": "So, b\n2 = a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      184.47,
+      404.99,
+      195.8
+    ],
+    "reading_order": 8,
+    "text": "Squaring on both sides and rearranging, we get 2b2 = a2. Therefore, 2 divides a2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      201.82,
+      263.15,
+      212.84
+    ],
+    "reading_order": 9,
+    "text": "Now, by Theorem 1.2, it follows that 2 divides a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      219.1,
+      241.55,
+      230.12
+    ],
+    "reading_order": 10,
+    "text": "So, we can write a = 2c for some integer c.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      236.31,
+      278.99,
+      247.4
+    ],
+    "reading_order": 11,
+    "text": "Substituting for a, we get 2b2 = 4c2, that is, b2 = 2c2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      253.59,
+      420.0,
+      264.68
+    ],
+    "reading_order": 12,
+    "text": "This means that 2 divides b2, and so 2 divides b (again using Theorem 1.2 with p = 2).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      270.94,
+      292.43,
+      281.96
+    ],
+    "reading_order": 13,
+    "text": "Therefore, a and b have at least 2 as a common factor.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      288.22,
+      399.16,
+      299.24
+    ],
+    "reading_order": 14,
+    "text": "But this contradicts the fact that a and b have no common factors other than 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      308.88,
+      420.02,
+      322.26
+    ],
+    "reading_order": 15,
+    "text": "This contradiction has arisen because of our incorrect assumption that 2 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      329.28,
+      215.78,
+      342.62
+    ],
+    "reading_order": 16,
+    "text": "So, we conclude that \n2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      353.74,
+      230.18,
+      366.48
+    ],
+    "reading_order": 17,
+    "text": "Example 5 : Prove that \n3 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      373.9,
+      322.58,
+      386.64
+    ],
+    "reading_order": 18,
+    "text": "Solution : Let us assume, to the contrary, that \n3 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      393.57,
+      324.35,
+      420.19
+    ],
+    "reading_order": 19,
+    "text": "That is, we can find integers a and b (¹ 0) such that \n3 = a\nb ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      424.06,
+      420.07,
+      448.28
+    ],
+    "reading_order": 20,
+    "text": "Suppose a and b have a common factor other than 1, then we can divide by the\ncommon factor, and assume that a and b are coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      455.56,
+      107.63,
+      469.16
+    ],
+    "reading_order": 21,
+    "text": "So, \n3\nb\na\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      475.59,
+      300.11,
+      486.68
+    ],
+    "reading_order": 22,
+    "text": "Squaring on both sides, and rearranging, we get 3b2 = a2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      492.87,
+      420.02,
+      517.16
+    ],
+    "reading_order": 23,
+    "text": "Therefore, a2 is divisible by 3, and by Theorem 1.2, it follows that a is also divisible\nby 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      523.42,
+      241.55,
+      534.44
+    ],
+    "reading_order": 24,
+    "text": "So, we can write a = 3c for some integer c.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b25",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      540.39,
+      278.99,
+      551.48
+    ],
+    "reading_order": 25,
+    "text": "Substituting for a, we get 3b2 = 9c2, that is, b2 = 3c2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      557.67,
+      420.04,
+      581.96
+    ],
+    "reading_order": 26,
+    "text": "This means that b2 is divisible by 3, and so b is also divisible by 3 (using Theorem 1.2\nwith p = 3).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 7,
+    "block_id": "jemh101_p007_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

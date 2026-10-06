@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b02",
+    "type": "figure",
+    "bbox": [
+      192.0,
+      72.0,
+      276.95,
+      156.95
+    ],
+    "reading_order": 2,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 3,
+    "text": "ARITHMETIC PROGRESSIONS\n49",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b05",
+    "type": "paragraph",
+    "bbox": [
+      382.8,
+      174.56,
+      412.8,
+      234.56
+    ],
+    "reading_order": 5,
+    "text": "5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      63.84,
+      201.62,
+      348.24,
+      229.62
+    ],
+    "reading_order": 6,
+    "text": "ARITHMETIC PROGRESSIONS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      47.28,
+      259.07,
+      129.12,
+      271.07
+    ],
+    "reading_order": 7,
+    "text": "5.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      279.65,
+      418.6,
+      317.05
+    ],
+    "reading_order": 8,
+    "text": "You must have observed that in nature, many things follow a certain pattern, such as\nthe petals of a sunflower, the holes of a honeycomb, the grains on a maize cob, the\nspirals on a pineapple and on a pine cone, etc.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.28,
+      323.09,
+      419.32,
+      347.29
+    ],
+    "reading_order": 9,
+    "text": "We now look for some patterns which occur in our day-to-day life. Some such\nexamples are :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      57.84,
+      353.57,
+      275.31,
+      364.57
+    ],
+    "reading_order": 10,
+    "text": "(i) Reena applied for a job and got selected. She",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      366.77,
+      275.54,
+      417.37
+    ],
+    "reading_order": 11,
+    "text": "has been offered a job with a starting monthly\nsalary of ` 8000, with an annual increment of\n` 500 in her salary. Her salary (in `) for the 1st,\n2nd, 3rd, . . . years will be, respectively",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      115.2,
+      423.65,
+      232.33,
+      434.65
+    ],
+    "reading_order": 12,
+    "text": "8000,\n8500,\n9000, . . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.68,
+      440.93,
+      275.3,
+      451.93
+    ],
+    "reading_order": 13,
+    "text": "(ii) The lengths of the rungs of a ladder decrease",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      454.13,
+      275.31,
+      517.93
+    ],
+    "reading_order": 14,
+    "text": "uniformly by 2 cm from bottom to top\n(see Fig. 5.1). The bottom rung is 45 cm in\nlength. The lengths (in cm) of the 1st, 2nd,\n3rd, . . ., 8th rung from the bottom to the top\nare, respectively",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b15",
+    "type": "paragraph",
+    "bbox": [
+      336.48,
+      513.28,
+      373.2,
+      524.28
+    ],
+    "reading_order": 15,
+    "text": "Fig. 5.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b16",
+    "type": "paragraph",
+    "bbox": [
+      113.28,
+      524.21,
+      237.13,
+      535.21
+    ],
+    "reading_order": 16,
+    "text": "45, 43, 41, 39, 37, 35, 33, 31",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b17",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      544.05,
+      266.67,
+      563.53
+    ],
+    "reading_order": 17,
+    "text": "(iii) In a savings scheme, the amount becomes 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b18",
+    "type": "paragraph",
+    "bbox": [
+      261.36,
+      552.53,
+      419.3,
+      570.99
+    ],
+    "reading_order": 18,
+    "text": "4 times of itself after every 3 years.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      569.9,
+      419.29,
+      595.69
+    ],
+    "reading_order": 19,
+    "text": "The maturity amount (in `) of an investment of ` 8000 after 3, 6, 9 and 12 years\nwill be, respectively :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b20",
+    "type": "paragraph",
+    "bbox": [
+      113.28,
+      601.73,
+      269.52,
+      612.73
+    ],
+    "reading_order": 20,
+    "text": "10000,\n12500,\n15625, 19531.25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 1,
+    "block_id": "jemh105_p001_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

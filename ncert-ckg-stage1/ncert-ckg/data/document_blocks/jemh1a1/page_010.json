@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n227",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      95.8,
+      240.04,
+      183.34
+    ],
+    "reading_order": 3,
+    "text": "Theorem A1.1 (Converse of the\nPythagoras Theorem) : If in a triangle the\nsquare of the length of one side is equal\nto the sum of the squares of the other two\nsides, then the angle opposite the first side\nis a right angle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      189.89,
+      80.88,
+      202.56
+    ],
+    "reading_order": 5,
+    "text": "Proof :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      314.88,
+      192.76,
+      359.28,
+      205.43
+    ],
+    "reading_order": 6,
+    "text": "Fig. A1.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      55.21,
+      212.69,
+      374.64,
+      225.36
+    ],
+    "reading_order": 7,
+    "text": "S.No.\nStatements\nAnalysis",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      61.92,
+      228.9,
+      410.18,
+      281.99
+    ],
+    "reading_order": 8,
+    "text": "1.\nLet ABC satisfy the hypothesis\nSince we are proving a\nAC2 = AB2 + BC2.\nstatement about such a\ntriangle, we begin by taking\nthis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      61.93,
+      287.01,
+      410.2,
+      338.87
+    ],
+    "reading_order": 9,
+    "text": "2.\nConstruct line BD perpendicular to\nThis is the intuitive step we\n AB, such that BD = BC, and join A to D.\nhave talked about that we\noften need to take for\nproving theorems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      61.93,
+      342.66,
+      404.2,
+      382.55
+    ],
+    "reading_order": 10,
+    "text": "3.\nBy construction, ABD is a right\nWe use the Pythagoras\ntriangle, and from the Pythagoras\ntheorem, which is already\nTheorem, we have AD2 = AB2 + BD2.\nproved.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b11",
+    "type": "formula",
+    "bbox": [
+      61.92,
+      392.61,
+      371.76,
+      418.07
+    ],
+    "reading_order": 11,
+    "text": "4.\nBy construction, BD = BC. Therefore,\nLogical deduction.\nwe have AD2 = AB2 + BC2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b12",
+    "type": "formula",
+    "bbox": [
+      61.92,
+      427.89,
+      410.16,
+      453.35
+    ],
+    "reading_order": 12,
+    "text": "5.\nTherefore, AC2 = AB2 + BC2 = AD2.\nUsing assumption, and\nprevious statement.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b13",
+    "type": "formula",
+    "bbox": [
+      61.93,
+      463.41,
+      401.02,
+      488.87
+    ],
+    "reading_order": 13,
+    "text": "6.\nSince AC and AD are positive, we\nUsing known property of\nhave AC = AD.\nnumbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      61.93,
+      498.69,
+      391.46,
+      551.37
+    ],
+    "reading_order": 14,
+    "text": "7.\nWe have just shown AC = AD. Also\nUsing known theorem.\nBC = BD by construction, and AB is\ncommon. Therefore, by SSS,\nABC ABD.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      61.93,
+      559.38,
+      410.21,
+      586.89
+    ],
+    "reading_order": 15,
+    "text": "8.\nSince ABC  ABD, we get\nLogical deduction, based on\nABC =ABD, which is a right angle.\npreviously established fact.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 10,
+    "block_id": "jemh1a1_p010_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

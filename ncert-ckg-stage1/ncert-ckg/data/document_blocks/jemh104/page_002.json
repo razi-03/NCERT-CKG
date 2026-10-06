@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "QUADRATIC EQUATIONS\n39",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.05,
+      173.27
+    ],
+    "reading_order": 3,
+    "text": "Sridharacharya (C.E. 1025) derived a formula, now known as the quadratic formula,\n(as quoted by Bhaskara II) for solving a quadratic equation by the method of completing\nthe square. An  Arab mathematician Al-Khwarizmi (about C.E. 800) also studied\nquadratic equations of different types. Abraham bar Hiyya Ha-Nasi, in his book\n‘Liber embadorum’ published in Europe in C.E. 1145 gave complete solutions of\ndifferent quadratic equations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      178.29,
+      420.09,
+      216.95
+    ],
+    "reading_order": 5,
+    "text": "In this chapter, you will study quadratic equations, and various ways of finding\ntheir roots. You will also see some applications of quadratic equations in daily life\nsituations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b06",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      226.14,
+      171.15,
+      239.96
+    ],
+    "reading_order": 6,
+    "text": "4.2 Quadratic Equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      245.25,
+      420.01,
+      297.11
+    ],
+    "reading_order": 7,
+    "text": "A quadratic equation in the variable x is an equation of the form ax2 + bx + c = 0, where\na, b, c are real numbers, a  0. For example, 2x2 + x – 300 = 0 is a quadratic equation.\nSimilarly, 2x2 – 3x + 1 = 0, 4x – 3x2 + 2 = 0 and 1 – x2 + 300 = 0 are also quadratic\nequations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      302.62,
+      420.01,
+      357.69
+    ],
+    "reading_order": 8,
+    "text": "In fact, any equation of the form p(x) = 0, where p(x) is a polynomial of degree\n2, is a quadratic equation. But when we write the terms of p(x) in descending order of\ntheir degrees, then we get the standard form of the equation. That is, ax2 + bx + c = 0,\na  0 is called the standard form of a quadratic equation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      361.89,
+      420.03,
+      387.35
+    ],
+    "reading_order": 9,
+    "text": "Quadratic equations arise in several situations in the world around us and in\ndifferent fields of mathematics. Let us consider a few examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      396.99,
+      330.07,
+      409.66
+    ],
+    "reading_order": 10,
+    "text": "Example 1 : Represent the following situations mathematically:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      414.69,
+      420.06,
+      453.35
+    ],
+    "reading_order": 11,
+    "text": "(i)\nJohn and Jivanti together have 45 marbles. Both of them lost 5 marbles each, and\nthe product of the number of marbles they now have is 124. We would like to find\nout how many marbles they had to start with.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      458.38,
+      420.06,
+      510.23
+    ],
+    "reading_order": 12,
+    "text": "(ii)\nA cottage industry produces a certain number of toys in a day. The cost of\nproduction of each toy (in rupees) was found to be 55 minus the number of toys\nproduced in a day. On a particular day, the total cost of production was\n` 750. We would like to find out the number of toys produced on that day.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      514.6,
+      94.57,
+      527.27
+    ],
+    "reading_order": 13,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      532.29,
+      255.71,
+      544.55
+    ],
+    "reading_order": 14,
+    "text": "(i)\nLet the number of marbles John had be x.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b15",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      549.58,
+      326.91,
+      561.83
+    ],
+    "reading_order": 15,
+    "text": "Then the number of marbles Jivanti had = 45 – x (Why?).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b16",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      566.86,
+      380.14,
+      579.11
+    ],
+    "reading_order": 16,
+    "text": "The number of marbles left with John, when he lost 5 marbles = x – 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b17",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      584.14,
+      414.94,
+      596.39
+    ],
+    "reading_order": 17,
+    "text": "The number of marbles left with Jivanti, when she lost 5 marbles = 45 – x – 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b18",
+    "type": "formula",
+    "bbox": [
+      361.42,
+      601.42,
+      399.69,
+      613.67
+    ],
+    "reading_order": 18,
+    "text": "= 40 – x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 2,
+    "block_id": "jemh104_p002_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

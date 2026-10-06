@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n211",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      372.06,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Let E be the event that ‘the music is stopped within the first half-minute’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      115.56,
+      367.71,
+      134.39
+    ],
+    "reading_order": 4,
+    "text": "The outcomes favourable to E are points on the number line from 0 to 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      362.4,
+      122.13,
+      373.55,
+      143.77
+    ],
+    "reading_order": 5,
+    "text": "2\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      141.48,
+      314.91,
+      162.23
+    ],
+    "reading_order": 6,
+    "text": "The distance from 0 to 2 is 2, while the distance from 0 to 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      309.6,
+      141.48,
+      344.99,
+      169.69
+    ],
+    "reading_order": 7,
+    "text": "2 is 1\n2 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      172.29,
+      420.05,
+      184.55
+    ],
+    "reading_order": 8,
+    "text": "Since all the outcomes are equally likely, we can argue that, of the total distance",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b09",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 9,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      190.76,
+      259.67,
+      211.43
+    ],
+    "reading_order": 10,
+    "text": "of 2, the distance favourable to the event E is 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      254.4,
+      199.17,
+      265.55,
+      218.63
+    ],
+    "reading_order": 11,
+    "text": "2 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      342.24,
+      226.47,
+      368.65,
+      267.12
+    ],
+    "reading_order": 12,
+    "text": "1\n1\n2\n2\n4\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      241.05,
+      339.05,
+      269.06
+    ],
+    "reading_order": 13,
+    "text": "So,\nP(E) =\nDistance favourable to the event E\nTotal distance in which outcomes can lie =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      278.37,
+      420.03,
+      303.83
+    ],
+    "reading_order": 14,
+    "text": "Can we now extend the idea of Example 10 for finding the probability as the ratio of\nthe favourable area to the total area?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      313.23,
+      420.03,
+      352.3
+    ],
+    "reading_order": 15,
+    "text": "Example 11* : A missing helicopter is reported to have crashed somewhere in the\nrectangular region shown in Fig. 14.2. What is the probability that it crashed inside the\nlake shown in the figure?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b16",
+    "type": "figure",
+    "bbox": [
+      93.95,
+      358.25,
+      390.95,
+      517.25
+    ],
+    "reading_order": 16,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b17",
+    "type": "paragraph",
+    "bbox": [
+      212.39,
+      525.63,
+      255.12,
+      538.3
+    ],
+    "reading_order": 17,
+    "text": "Fig. 14.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      546.51,
+      376.38,
+      559.18
+    ],
+    "reading_order": 18,
+    "text": "Solution : The helicopter is equally likely to crash anywhere in the region.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b19",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      564.21,
+      296.92,
+      576.46
+    ],
+    "reading_order": 19,
+    "text": "Area of the entire region where the helicopter can crash",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b20",
+    "type": "formula",
+    "bbox": [
+      174.71,
+      581.49,
+      296.0,
+      593.75
+    ],
+    "reading_order": 20,
+    "text": "= (4.5 × 9) km2 = 40.5 km2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      603.99,
+      216.85,
+      615.13
+    ],
+    "reading_order": 21,
+    "text": "* Not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 10,
+    "block_id": "jemh114_p010_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

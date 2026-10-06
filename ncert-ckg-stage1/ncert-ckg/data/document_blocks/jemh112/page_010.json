@@ -1,0 +1,274 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "170\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      276.06,
+      154.09
+    ],
+    "reading_order": 3,
+    "text": "3. A gulab jamun, contains sugar syrup up to about\n30% of its volume.  Find approximately how much\nsyrup would be found in 45 gulab jamuns, each\nshaped like a cylinder with two hemispherical ends\nwith length 5 cm and diameter 2.8 cm (see Fig. 12.15).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      323.76,
+      192.27,
+      372.48,
+      204.95
+    ],
+    "reading_order": 5,
+    "text": "Fig. 12.15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      193.69,
+      276.02,
+      265.21
+    ],
+    "reading_order": 6,
+    "text": "4. A pen stand made of wood is in the shape of a\ncuboid with four conical depressions to hold pens.\nThe dimensions of the cuboid are 15 cm by 10 cm by\n3.5 cm.  The radius of each of the depressions is 0.5\ncm and the depth is 1.4 cm.  Find the volume of\nwood in the entire stand (see Fig. 12.16).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      269.77,
+      276.04,
+      353.05
+    ],
+    "reading_order": 7,
+    "text": "5. A vessel is in the form of an inverted cone.  Its\nheight is 8 cm and the radius of its top, which is\nopen, is 5 cm. It is filled with water up to the brim.\nWhen lead shots, each of which is a sphere of radius\n0.5 cm are dropped into the vessel, one-fourth of\nthe water flows out.  Find the number of lead shots\ndropped in the vessel.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      323.04,
+      335.55,
+      371.76,
+      348.23
+    ],
+    "reading_order": 8,
+    "text": "Fig. 12.16",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      357.61,
+      420.02,
+      393.88
+    ],
+    "reading_order": 9,
+    "text": "6. A solid iron pole consists of a cylinder of height 220 cm and base diameter 24 cm, which\nis surmounted by another cylinder of height 60 cm and radius 8 cm.  Find the mass of the\npole, given that 1 cm3 of iron has approximately 8g mass.  (Use = 3.14)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      397.69,
+      420.07,
+      445.21
+    ],
+    "reading_order": 10,
+    "text": "7. A solid consisting of a right circular cone of height 120 cm and radius 60 cm standing on\na hemisphere of radius 60 cm is placed upright in a right circular cylinder full of water\nsuch that it touches the bottom.  Find the volume of water left in the cylinder, if the radius\nof the cylinder is 60 cm and its height is 180 cm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      449.77,
+      420.07,
+      498.04
+    ],
+    "reading_order": 11,
+    "text": "8. A spherical glass vessel has a cylindrical neck 8 cm long, 2 cm in diameter; the diameter\nof the spherical part is 8.5 cm. By measuring the amount of water it holds, a child finds its\nvolume to be 345 cm3. Check whether she is correct, taking the above as the inside\nmeasurements, and  = 3.14.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b12",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      510.54,
+      122.15,
+      524.36
+    ],
+    "reading_order": 12,
+    "text": "12.4 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      530.07,
+      266.14,
+      541.21
+    ],
+    "reading_order": 13,
+    "text": "In this chapter, you have studied the following points:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      546.73,
+      420.15,
+      571.45
+    ],
+    "reading_order": 14,
+    "text": "1. To determine the surface area of an object formed by combining any two of the basic\nsolids, namely, cuboid, cone, cylinder, sphere and hemisphere.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      576.73,
+      420.12,
+      601.45
+    ],
+    "reading_order": 15,
+    "text": "2. To find the volume of objects formed by combining any two of a cuboid, cone, cylinder,\nsphere and hemisphere.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 10,
+    "block_id": "jemh112_p010_b16",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 16,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

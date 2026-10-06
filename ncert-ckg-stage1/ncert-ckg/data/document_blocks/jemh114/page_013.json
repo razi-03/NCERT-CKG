@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "214\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b03",
+    "type": "paragraph",
+    "bbox": [
+      192.48,
+      102.3,
+      275.75,
+      116.12
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 14.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      122.89,
+      216.99,
+      134.41
+    ],
+    "reading_order": 4,
+    "text": "1. Complete the following statements:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b05",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      139.35,
+      384.0,
+      150.49
+    ],
+    "reading_order": 5,
+    "text": "(i) Probability of an event E + Probability of the event ‘not E’ = \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b06",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      155.43,
+      420.02,
+      178.57
+    ],
+    "reading_order": 6,
+    "text": "(ii) The probability of an event that cannot happen is \n . Such an event is\ncalled \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      183.27,
+      419.99,
+      206.41
+    ],
+    "reading_order": 8,
+    "text": "(iii) The probability of an event that is certain to happen is \n . Such an event\nis called \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      211.35,
+      420.03,
+      222.49
+    ],
+    "reading_order": 9,
+    "text": "(iv) The sum of the probabilities of all the elementary events of an experiment is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      137.76,
+      223.35,
+      140.26,
+      234.49
+    ],
+    "reading_order": 10,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      239.43,
+      420.0,
+      262.57
+    ],
+    "reading_order": 11,
+    "text": "(v) The probability of an event is greater than or equal to \n and less than or\nequal to \n .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      267.13,
+      375.91,
+      278.65
+    ],
+    "reading_order": 12,
+    "text": "2. Which of the following experiments have equally likely outcomes? Explain.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      283.35,
+      350.44,
+      294.49
+    ],
+    "reading_order": 13,
+    "text": "(i) A driver attempts to start a car. The car starts or does not start.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b14",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      299.43,
+      396.73,
+      310.57
+    ],
+    "reading_order": 14,
+    "text": "(ii) A player attempts to shoot a basketball. She/he shoots or misses the shot.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b15",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      315.51,
+      404.19,
+      326.65
+    ],
+    "reading_order": 15,
+    "text": "(iii) A trial is made to answer a true-false question. The answer is right or wrong.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      331.35,
+      236.88,
+      342.49
+    ],
+    "reading_order": 16,
+    "text": "(iv) A baby is born. It is a boy or a girl.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      347.05,
+      420.03,
+      370.57
+    ],
+    "reading_order": 17,
+    "text": "3. Why is tossing a coin considered to be a fair way of deciding which team should get the\nball at the beginning of a football game?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      375.13,
+      325.01,
+      386.65
+    ],
+    "reading_order": 18,
+    "text": "4. Which of the following cannot be the probability of an event?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b19",
+    "type": "paragraph",
+    "bbox": [
+      96.0,
+      397.0,
+      318.0,
+      421.9
+    ],
+    "reading_order": 19,
+    "text": "2\n3\n(B) –1.5\n(C) 15%\n(D) 0.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b20",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      404.79,
+      88.56,
+      415.93
+    ],
+    "reading_order": 20,
+    "text": "(A)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b21",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      428.41,
+      265.69,
+      439.93
+    ],
+    "reading_order": 21,
+    "text": "5. If P(E) = 0.05, what is the probability of ‘not E’?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b22",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      444.49,
+      420.03,
+      468.01
+    ],
+    "reading_order": 22,
+    "text": "6. A bag contains lemon flavoured candies only. Malini takes out one candy without\nlooking into the bag. What is the probability that she takes out",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b23",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      472.71,
+      210.73,
+      483.85
+    ],
+    "reading_order": 23,
+    "text": "(i) an orange flavoured candy?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b24",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      488.79,
+      200.89,
+      499.93
+    ],
+    "reading_order": 24,
+    "text": "(ii) a lemon flavoured candy?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      504.49,
+      420.04,
+      540.01
+    ],
+    "reading_order": 25,
+    "text": "7. It is given that in a group of 3 students, the probability of 2 students not having the\nsame birthday is 0.992. What is the probability that the 2 students have the same\nbirthday?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b26",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      544.33,
+      420.03,
+      567.85
+    ],
+    "reading_order": 26,
+    "text": "8. A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag.\nWhat is the probability that the ball drawn is (i) red ?\n(ii) not red?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b27",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      577.45,
+      420.07,
+      612.97
+    ],
+    "reading_order": 27,
+    "text": "9. A box contains 5 red marbles, 8 white marbles and 4 green marbles. One marble is taken\nout of the box at random. What is the probability that the marble taken out will be\n(i) red ?\n(ii) white ?\n(iii) not green?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 13,
+    "block_id": "jemh114_p013_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

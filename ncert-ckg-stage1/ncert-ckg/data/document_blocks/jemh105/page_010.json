@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "58\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b03",
+    "type": "header",
+    "bbox": [
+      47.99,
+      94.59,
+      420.02,
+      123.07
+    ],
+    "reading_order": 3,
+    "text": "an is also called the general term of the AP. If there are m terms in the AP, then\nam represents the last term which is sometimes also denoted by l.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      125.25,
+      213.86,
+      137.51
+    ],
+    "reading_order": 4,
+    "text": "Let us consider some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      147.15,
+      299.27,
+      159.83
+    ],
+    "reading_order": 5,
+    "text": "Example 3 : Find the 10th term of the AP :  2, 7, 12, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      165.39,
+      293.28,
+      178.07
+    ],
+    "reading_order": 6,
+    "text": "Solution : Here, a = 2,\nd = 7 – 2 = 5\nand\nn =  10.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      184.05,
+      199.42,
+      198.9
+    ],
+    "reading_order": 8,
+    "text": "We have\nan = a + (n – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      202.05,
+      278.16,
+      217.15
+    ],
+    "reading_order": 9,
+    "text": "So,\na10 = 2 + (10 – 1) × 5 = 2 + 45 = 47",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      220.29,
+      255.17,
+      232.55
+    ],
+    "reading_order": 10,
+    "text": "Therefore, the 10th term of the given AP is 47.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      242.19,
+      420.0,
+      268.07
+    ],
+    "reading_order": 11,
+    "text": "Example 4 : Which term of the AP : 21, 18, 15, . . . is – 81? Also, is any term 0? Give\nreason for your answer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      273.63,
+      414.12,
+      288.9
+    ],
+    "reading_order": 12,
+    "text": "Solution : Here, a = 21, d = 18 – 21 = – 3 and an = – 81, and we have to find n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b13",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      292.05,
+      201.0,
+      307.15
+    ],
+    "reading_order": 13,
+    "text": "As\nan = a + ( n – 1) d,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b14",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      310.29,
+      212.89,
+      322.55
+    ],
+    "reading_order": 14,
+    "text": "we have\n– 81 = 21 + (n – 1)(– 3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b15",
+    "type": "formula",
+    "bbox": [
+      105.13,
+      328.53,
+      171.84,
+      340.78
+    ],
+    "reading_order": 15,
+    "text": "– 81 = 24 – 3n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b16",
+    "type": "formula",
+    "bbox": [
+      99.85,
+      346.77,
+      158.15,
+      359.02
+    ],
+    "reading_order": 16,
+    "text": "– 105 = – 3n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b17",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      365.01,
+      264.03,
+      393.34
+    ],
+    "reading_order": 17,
+    "text": "So,\nn = 35\nTherefore, the 35th term of the given AP is – 81.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b18",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      399.33,
+      419.3,
+      414.18
+    ],
+    "reading_order": 18,
+    "text": "Next, we want to know if there is any n for which an = 0. If such an n is there, then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b19",
+    "type": "formula",
+    "bbox": [
+      145.21,
+      417.57,
+      241.22,
+      429.83
+    ],
+    "reading_order": 19,
+    "text": "21 + (n – 1) (–3) = 0,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b20",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      435.81,
+      244.34,
+      448.06
+    ],
+    "reading_order": 20,
+    "text": "i.e.,\n3(n – 1) = 21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b21",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      453.81,
+      239.27,
+      482.38
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\nn = 8\nSo, the eighth term is 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      491.79,
+      377.34,
+      504.47
+    ],
+    "reading_order": 22,
+    "text": "Example 5 : Determine the AP whose 3rd term is 5 and the 7th term is 9.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      509.08,
+      136.57,
+      521.75
+    ],
+    "reading_order": 23,
+    "text": "Solution : We have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b24",
+    "type": "formula",
+    "bbox": [
+      141.37,
+      526.77,
+      419.3,
+      541.63
+    ],
+    "reading_order": 24,
+    "text": "a3 = a + (3 – 1) d = a + 2d = 5\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b25",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      544.05,
+      419.3,
+      558.91
+    ],
+    "reading_order": 25,
+    "text": "and\na7 = a + (7 – 1) d = a + 6d = 9\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      561.33,
+      285.9,
+      573.59
+    ],
+    "reading_order": 26,
+    "text": "Solving the pair of linear equations (1) and (2), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b27",
+    "type": "formula",
+    "bbox": [
+      189.14,
+      578.37,
+      251.79,
+      590.63
+    ],
+    "reading_order": 27,
+    "text": "a = 3,\nd = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.03,
+      595.65,
+      233.3,
+      607.91
+    ],
+    "reading_order": 28,
+    "text": "Hence, the required AP is 3, 4, 5, 6, 7, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 10,
+    "block_id": "jemh105_p010_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

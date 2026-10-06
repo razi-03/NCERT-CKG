@@ -1,0 +1,580 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.28,
+      419.76,
+      82.28
+    ],
+    "reading_order": 2,
+    "text": "ANSWERS/HINTS\n251",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b03",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      96.28,
+      230.91,
+      106.28
+    ],
+    "reading_order": 3,
+    "text": "(ii) Required pair of linear equations is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b04",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      110.06,
+      420.02,
+      134.36
+    ],
+    "reading_order": 4,
+    "text": "5x + 7y = 50; 7x + 5y = 46, where x and y represent the cost (in `) of a pencil and of\na pen respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      140.44,
+      420.04,
+      162.44
+    ],
+    "reading_order": 5,
+    "text": "To solve graphically, draw the graphs of these equations on the same axes on graph\npaper.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b06",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      166.22,
+      276.72,
+      178.52
+    ],
+    "reading_order": 6,
+    "text": "Cost of one pencil = ` 3, Cost of one pen = ` 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      182.45,
+      375.85,
+      194.6
+    ],
+    "reading_order": 8,
+    "text": "2.\n(i) Intersect at a point\n(ii) Coincident\n(iii) Parallel",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      198.53,
+      391.45,
+      210.68
+    ],
+    "reading_order": 9,
+    "text": "3.\n(i) Consistent\n(ii) Inconsistent\n(iii) Consistent",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      216.76,
+      272.17,
+      226.76
+    ],
+    "reading_order": 10,
+    "text": "(iv) Consistent\n(v) Consistent",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      230.45,
+      416.17,
+      242.6
+    ],
+    "reading_order": 11,
+    "text": "4.\n(i) Consistent\n(ii) Inconsistent\n(iii) Consistent\n(iv) Inconsistent",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b12",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      248.68,
+      420.04,
+      270.68
+    ],
+    "reading_order": 12,
+    "text": "The solution of (i) above, is given by y = 5 – x, where x can take any value, i.e., there are\ninfinitely many solutions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b13",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      276.76,
+      315.86,
+      286.81
+    ],
+    "reading_order": 13,
+    "text": "The solution of (iii) above is x = 2, y = 2, i.e., unique solution.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b14",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      290.69,
+      208.59,
+      302.84
+    ],
+    "reading_order": 14,
+    "text": "5. Length = 20 m and breadth = 16 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b15",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      306.77,
+      231.86,
+      318.92
+    ],
+    "reading_order": 15,
+    "text": "6. One possible answer for the three parts:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b16",
+    "type": "formula",
+    "bbox": [
+      75.84,
+      325.0,
+      408.72,
+      335.05
+    ],
+    "reading_order": 16,
+    "text": "(i) 3x + 2y – 7 = 0\n(ii) 2x + 3y – 12 = 0\n(iii) 4x + 6y – 16 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b17",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      338.93,
+      269.32,
+      351.08
+    ],
+    "reading_order": 17,
+    "text": "7. Vertices of the triangle are (–1, 0), (4, 0) and (2, 3).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b18",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      369.63,
+      272.88,
+      380.63
+    ],
+    "reading_order": 18,
+    "text": "EXERCISE 3.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b19",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      389.33,
+      387.12,
+      401.53
+    ],
+    "reading_order": 19,
+    "text": "1.\n(i) x = 9, y = 5\n(ii) s = 9, t = 6\n(iii) y = 3x – 3,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b20",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      407.56,
+      318.78,
+      417.61
+    ],
+    "reading_order": 20,
+    "text": "where x can take any real value, i.e., infinitely many solutions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b21",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      423.64,
+      392.4,
+      433.69
+    ],
+    "reading_order": 21,
+    "text": "(iv) x = 2, y = 3\n(v) x = 0, y = 0\n(vi) x = 2, y = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b22",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      437.57,
+      155.28,
+      449.77
+    ],
+    "reading_order": 22,
+    "text": "2. x = –2, y = 5; m = –1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b23",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      453.41,
+      372.72,
+      465.61
+    ],
+    "reading_order": 23,
+    "text": "3.\n(i) x – y = 26, x = 3y, where x and y are two numbers (x > y); x = 39, y = 13.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b24",
+    "type": "formula",
+    "bbox": [
+      73.44,
+      471.64,
+      420.04,
+      481.69
+    ],
+    "reading_order": 24,
+    "text": "(ii) x – y = 18, x + y = 180, where x and y are the measures of the two angles in degrees;",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b25",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      483.64,
+      147.12,
+      493.69
+    ],
+    "reading_order": 25,
+    "text": "x = 99, y = 81.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b26",
+    "type": "formula",
+    "bbox": [
+      71.28,
+      498.41,
+      420.02,
+      509.77
+    ],
+    "reading_order": 26,
+    "text": "(iii) 7x + 6y = 3800, 3x + 5y = 1750, where x and y are the costs (in `) of one bat and one",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b27",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      511.72,
+      220.32,
+      521.77
+    ],
+    "reading_order": 27,
+    "text": "ball respectively; x = 500, y = 50.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b28",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      526.49,
+      420.02,
+      537.85
+    ],
+    "reading_order": 28,
+    "text": "(iv) x + 10y = 105, x + 15y = 155, where x is the fixed charge (in `) and y is the charge (in",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b29",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      538.49,
+      210.72,
+      549.85
+    ],
+    "reading_order": 29,
+    "text": "` per km); x =5, y = 10; ` 255.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b30",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      555.88,
+      420.04,
+      565.93
+    ],
+    "reading_order": 30,
+    "text": "(v) 11x – 9y + 4 = 0, 6x – 5y + 3 = 0, where x and y are numerator and denominator of the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b31",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      573.21,
+      201.2,
+      597.31
+    ],
+    "reading_order": 31,
+    "text": "fraction; 7 (\n7,\n9).\n9\nx\ny\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b32",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      605.33,
+      420.03,
+      615.37
+    ],
+    "reading_order": 32,
+    "text": "(vi) x – 3y – 10 = 0, x – 7y + 30 = 0, where x and y are the ages in years of Jacob and his",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b33",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      617.33,
+      164.16,
+      627.37
+    ],
+    "reading_order": 33,
+    "text": "son; x = 40, y = 10.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 2,
+    "block_id": "jemh1an_p002_b34",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 34,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n225",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      275.99,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Now, consider Fig. A1.3, where PQ and PR\nare tangents to the circle drawn  from P.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      125.49,
+      276.04,
+      190.55
+    ],
+    "reading_order": 4,
+    "text": "You have proved that PQ = PR (Theorem 10.2).\nYou were not satisfied by only drawing several such\nfigures, measuring the lengths of the respective\ntangents, and verifying for yourselves that the result\nwas true in each case.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      325.92,
+      174.51,
+      370.08,
+      187.19
+    ],
+    "reading_order": 6,
+    "text": "Fig. A1.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      195.33,
+      420.07,
+      273.59
+    ],
+    "reading_order": 7,
+    "text": "Do you remember what did the proof consist of ? It consisted of a sequence of\nstatements (called valid arguments), each following from the earlier statements in\nthe proof, or from previously proved (and known) results independent from the result\nto be proved, or from axioms, or from definitions, or from the assumptions you had\nmade. And you concluded your proof with the statement PQ = PR, i.e., the statement\nyou wanted to prove. This is the way any proof is constructed.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      278.61,
+      419.93,
+      304.07
+    ],
+    "reading_order": 8,
+    "text": "We shall now look at some examples and theorems and analyse their proofs to\nhelp us in getting a better understanding of how they are constructed.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      309.1,
+      420.08,
+      360.95
+    ],
+    "reading_order": 9,
+    "text": "We begin by using the so-called ‘direct’ or ‘deductive’ method of proof. In this\nmethod, we make several statements. Each is based on previous statements. If\neach statement is logically correct (i.e., a valid argument), it leads to a logically correct\nconclusion.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      370.35,
+      354.86,
+      383.03
+    ],
+    "reading_order": 10,
+    "text": "Example 10 : The sum of two rational numbers is a rational number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      387.64,
+      94.57,
+      400.31
+    ],
+    "reading_order": 11,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b12",
+    "type": "formula",
+    "bbox": [
+      55.21,
+      409.95,
+      402.96,
+      422.63
+    ],
+    "reading_order": 12,
+    "text": "S.No.\nStatements\nAnalysis/Comments",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      61.95,
+      432.45,
+      410.16,
+      471.1
+    ],
+    "reading_order": 13,
+    "text": "1.\nLet x and y be rational numbers.\nSince the result is about\nrationals, we start with x and\ny which are rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      61.9,
+      483.21,
+      227.77,
+      512.38
+    ],
+    "reading_order": 14,
+    "text": "2.\nLet \nm\nx\nn\n\n, n  0 and \np\ny",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      211.68,
+      488.77,
+      260.41,
+      511.19
+    ],
+    "reading_order": 15,
+    "text": "q\n\n, q  0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      290.89,
+      490.78,
+      389.05,
+      518.63
+    ],
+    "reading_order": 16,
+    "text": "Apply the definition of\nrationals.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      520.3,
+      248.88,
+      532.55
+    ],
+    "reading_order": 17,
+    "text": "where m, n, p and q are integers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      127.91,
+      543.25,
+      216.06,
+      564.59
+    ],
+    "reading_order": 18,
+    "text": "\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b19",
+    "type": "paragraph",
+    "bbox": [
+      61.92,
+      544.65,
+      229.2,
+      563.75
+    ],
+    "reading_order": 19,
+    "text": "3.\nSo, \nm\np\nmq\nnp\nx\ny",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b20",
+    "type": "formula",
+    "bbox": [
+      289.2,
+      548.13,
+      412.08,
+      586.78
+    ],
+    "reading_order": 20,
+    "text": "The result talks about the\nsum of rationals, so we look\nat x + y.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      155.51,
+      560.49,
+      217.2,
+      572.63
+    ],
+    "reading_order": 21,
+    "text": "n\nq\nnq",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 8,
+    "block_id": "jemh1a1_p008_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

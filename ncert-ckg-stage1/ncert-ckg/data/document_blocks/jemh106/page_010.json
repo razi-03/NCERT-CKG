@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "82\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.6,
+      276.03,
+      133.66
+    ],
+    "reading_order": 3,
+    "text": "Theorem 6.2 : If a line divides any two sides of a\ntriangle in the same ratio, then the line is parallel\nto the third side.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      138.46,
+      276.04,
+      150.71
+    ],
+    "reading_order": 4,
+    "text": "This theorem can be proved by taking a line DE such",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      156.84,
+      276.04,
+      185.05
+    ],
+    "reading_order": 5,
+    "text": "that AD\nAE\nDB\nEC\n\n and assuming that DE is not parallel",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      186.94,
+      144.72,
+      199.19
+    ],
+    "reading_order": 7,
+    "text": "to BC (see Fig. 6.12).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      202.99,
+      276.07,
+      229.67
+    ],
+    "reading_order": 8,
+    "text": "If DE is not parallel to BC, draw a line DE\nparallel to BC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b09",
+    "type": "paragraph",
+    "bbox": [
+      330.96,
+      214.11,
+      373.68,
+      226.79
+    ],
+    "reading_order": 9,
+    "text": "Fig. 6.12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b10",
+    "type": "paragraph",
+    "bbox": [
+      197.53,
+      238.0,
+      266.88,
+      267.93
+    ],
+    "reading_order": 10,
+    "text": "\n\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      239.96,
+      204.73,
+      267.83
+    ],
+    "reading_order": 11,
+    "text": "So,\nAD\nDB = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b12",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      255.56,
+      207.27,
+      267.83
+    ],
+    "reading_order": 12,
+    "text": "E C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b13",
+    "type": "paragraph",
+    "bbox": [
+      197.52,
+      277.28,
+      266.88,
+      307.33
+    ],
+    "reading_order": 13,
+    "text": "\n\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      279.0,
+      204.78,
+      307.21
+    ],
+    "reading_order": 14,
+    "text": "Therefore,\nAE\nEC = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      294.83,
+      207.33,
+      307.21
+    ],
+    "reading_order": 15,
+    "text": "E C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      311.7,
+      419.3,
+      338.39
+    ],
+    "reading_order": 16,
+    "text": "Adding 1 to both sides of above, you can see that E and E must coincide.\n(Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      343.42,
+      360.08,
+      355.67
+    ],
+    "reading_order": 17,
+    "text": "Let us take some examples to illustrate the use of the above theorems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      364.5,
+      419.28,
+      378.82
+    ],
+    "reading_order": 18,
+    "text": "Example 1 : If a line intersects sides AB and AC of a  ABC at D and E respectively",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      384.2,
+      210.51,
+      404.87
+    ],
+    "reading_order": 19,
+    "text": "and is parallel to BC, prove that AD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b20",
+    "type": "formula",
+    "bbox": [
+      195.36,
+      384.2,
+      242.41,
+      412.07
+    ],
+    "reading_order": 20,
+    "text": "AB = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b21",
+    "type": "paragraph",
+    "bbox": [
+      227.76,
+      392.61,
+      315.62,
+      412.07
+    ],
+    "reading_order": 21,
+    "text": "AC (see Fig. 6.13).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      417.64,
+      419.05,
+      430.31
+    ],
+    "reading_order": 22,
+    "text": "Solution :\nDE || BC\n(Given)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b23",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      440.52,
+      204.78,
+      468.73
+    ],
+    "reading_order": 23,
+    "text": "So,\nAD\nDB = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b24",
+    "type": "paragraph",
+    "bbox": [
+      190.56,
+      449.01,
+      419.29,
+      468.73
+    ],
+    "reading_order": 24,
+    "text": "EC\n(Theorem 6.1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b25",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      475.56,
+      204.69,
+      503.77
+    ],
+    "reading_order": 25,
+    "text": "or,\nDB\nAD = EC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b26",
+    "type": "paragraph",
+    "bbox": [
+      190.32,
+      491.39,
+      204.78,
+      503.77
+    ],
+    "reading_order": 26,
+    "text": "AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      510.84,
+      222.75,
+      539.88
+    ],
+    "reading_order": 27,
+    "text": "or,\nDB\n1\nAD  = EC\n1\nAE ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b28",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      546.12,
+      205.41,
+      574.33
+    ],
+    "reading_order": 28,
+    "text": "or,\nAB\nAD = AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b29",
+    "type": "paragraph",
+    "bbox": [
+      190.32,
+      561.95,
+      205.03,
+      574.33
+    ],
+    "reading_order": 29,
+    "text": "AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b30",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      585.24,
+      205.02,
+      613.45
+    ],
+    "reading_order": 30,
+    "text": "So,\nAD\nAB = AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b31",
+    "type": "paragraph",
+    "bbox": [
+      323.76,
+      601.0,
+      366.48,
+      613.67
+    ],
+    "reading_order": 31,
+    "text": "Fig. 6.13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b32",
+    "type": "paragraph",
+    "bbox": [
+      190.08,
+      601.07,
+      205.4,
+      613.45
+    ],
+    "reading_order": 32,
+    "text": "AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 10,
+    "block_id": "jemh106_p010_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

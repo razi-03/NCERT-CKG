@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n57",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.21,
+      420.04,
+      183.36
+    ],
+    "reading_order": 3,
+    "text": "Now, looking at the pattern formed above, can you find her monthly salary for\nthe 6th year? The 15th year? And, assuming that she will still be working in the job,\nwhat about the monthly salary for the 25th year? You would calculate this by adding\n` 500 each time to the salary of the previous year to give the answer. Can we make\nthis process shorter? Let us see. You may have already got some idea from the way\nwe have obtained the salaries above.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b05",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      190.07,
+      176.9,
+      202.32
+    ],
+    "reading_order": 5,
+    "text": "Salary for the 15th year",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b06",
+    "type": "formula",
+    "bbox": [
+      124.56,
+      208.05,
+      277.47,
+      220.32
+    ],
+    "reading_order": 6,
+    "text": "=  Salary for the 14th year + ` 500",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b07",
+    "type": "paragraph",
+    "bbox": [
+      187.68,
+      234.09,
+      290.35,
+      245.14
+    ],
+    "reading_order": 7,
+    "text": "",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b08",
+    "type": "formula",
+    "bbox": [
+      124.56,
+      236.38,
+      136.52,
+      248.63
+    ],
+    "reading_order": 8,
+    "text": "=",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b09",
+    "type": "formula",
+    "bbox": [
+      124.56,
+      263.49,
+      224.4,
+      275.75
+    ],
+    "reading_order": 9,
+    "text": "=  ` [8000 + 14 × 500]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b10",
+    "type": "formula",
+    "bbox": [
+      124.56,
+      283.95,
+      296.88,
+      296.63
+    ],
+    "reading_order": 10,
+    "text": "=  ` [8000 + (15 – 1) × 500] = ` 15000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b11",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      305.49,
+      326.88,
+      317.75
+    ],
+    "reading_order": 11,
+    "text": "i.e.,\nFirst salary + (15 – 1) × Annual increment.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      326.37,
+      352.56,
+      338.62
+    ],
+    "reading_order": 12,
+    "text": "In the same way, her monthly salary for the 25th year would be",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b13",
+    "type": "formula",
+    "bbox": [
+      128.16,
+      347.07,
+      289.44,
+      359.75
+    ],
+    "reading_order": 13,
+    "text": "` [8000 + (25 – 1) × 500] = ` 20000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b14",
+    "type": "formula",
+    "bbox": [
+      120.0,
+      367.95,
+      318.03,
+      380.62
+    ],
+    "reading_order": 14,
+    "text": "= First salary + (25 – 1) × Annual increment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      387.57,
+      420.03,
+      415.42
+    ],
+    "reading_order": 15,
+    "text": "This example would have given you some idea about how to write the 15th term,\nor the 25th term, and more generally, the nth term of the AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      422.36,
+      420.0,
+      450.22
+    ],
+    "reading_order": 16,
+    "text": "Let a1, a2, a3, . . . be an AP whose first term a1 is a and the common\ndifference is d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      456.45,
+      72.72,
+      468.7
+    ],
+    "reading_order": 17,
+    "text": "Then,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b18",
+    "type": "formula",
+    "bbox": [
+      106.56,
+      473.55,
+      307.42,
+      488.83
+    ],
+    "reading_order": 18,
+    "text": "the second term a2 = a + d = a + (2 – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b19",
+    "type": "formula",
+    "bbox": [
+      106.56,
+      490.59,
+      413.99,
+      505.87
+    ],
+    "reading_order": 19,
+    "text": "the third term\na3 = a2 + d = (a + d) + d = a + 2d = a + (3 – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b20",
+    "type": "formula",
+    "bbox": [
+      106.57,
+      507.88,
+      419.29,
+      523.15
+    ],
+    "reading_order": 20,
+    "text": "the fourth term\na4 = a3 + d = (a + 2d) + d = a + 3d = a + (4 – 1) d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b21",
+    "type": "paragraph",
+    "bbox": [
+      192.98,
+      525.74,
+      241.46,
+      537.82
+    ],
+    "reading_order": 21,
+    "text": ". . . . . . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b22",
+    "type": "paragraph",
+    "bbox": [
+      192.98,
+      542.78,
+      241.46,
+      554.86
+    ],
+    "reading_order": 22,
+    "text": ". . . . . . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b23",
+    "type": "formula",
+    "bbox": [
+      72.03,
+      559.48,
+      389.17,
+      574.74
+    ],
+    "reading_order": 23,
+    "text": "Looking at the pattern, we can say that the nth term an = a + (n – 1) d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      578.2,
+      420.0,
+      609.07
+    ],
+    "reading_order": 24,
+    "text": "So, the nth term an of the AP with first term a and common difference d is\ngiven by an = a + (n – 1) d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 9,
+    "block_id": "jemh105_p009_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

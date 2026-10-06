@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "64\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      95.01,
+      417.87,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "We will now use the same technique to find the sum of the first n terms of an AP :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b04",
+    "type": "formula",
+    "bbox": [
+      115.92,
+      112.29,
+      206.87,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "a, a + d, a + 2d, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b05",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      129.33,
+      420.0,
+      154.79
+    ],
+    "reading_order": 5,
+    "text": "The nth term of this AP is a + (n – 1) d. Let S denote the sum of the first n terms\nof the AP. We have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b06",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      159.81,
+      419.79,
+      172.07
+    ],
+    "reading_order": 6,
+    "text": "S = a + (a + d) + (a + 2d) + . . . + [a + (n – 1) d]\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.03,
+      177.09,
+      251.32,
+      189.35
+    ],
+    "reading_order": 8,
+    "text": "Rewriting the terms in reverse order, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b09",
+    "type": "formula",
+    "bbox": [
+      72.03,
+      194.13,
+      419.81,
+      206.39
+    ],
+    "reading_order": 9,
+    "text": "S = [a + (n – 1) d] + [a + (n – 2) d] + . . . + (a + d) + a\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.05,
+      211.41,
+      230.23,
+      223.67
+    ],
+    "reading_order": 10,
+    "text": "On adding (1) and (2), term-wise. we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b11",
+    "type": "paragraph",
+    "bbox": [
+      72.77,
+      232.93,
+      418.4,
+      262.32
+    ],
+    "reading_order": 11,
+    "text": "2S = \n[2\n(\n1) ]\n[2\n(\n1) ]\n...\n[2\n(\n1) ]\n[2\n(\n1) ]\ntimes\n\n\n\n\n\n\n\n\n\n\n\n\n\na\nn\nd\na\nn\nd\na\nn\nd\na\nn\nd\nn",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      271.65,
+      314.89,
+      283.91
+    ],
+    "reading_order": 12,
+    "text": "or,\n2S = n [2a + (n – 1) d]\n(Since, there are n terms)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b13",
+    "type": "formula",
+    "bbox": [
+      100.32,
+      294.05,
+      183.92,
+      314.63
+    ],
+    "reading_order": 13,
+    "text": "n [2a + (n – 1) d]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      302.28,
+      105.87,
+      322.09
+    ],
+    "reading_order": 14,
+    "text": "or,\nS = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      327.63,
+      296.86,
+      340.3
+    ],
+    "reading_order": 15,
+    "text": "So, the sum of the first n terms of an AP is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b16",
+    "type": "formula",
+    "bbox": [
+      226.08,
+      346.42,
+      312.78,
+      367.19
+    ],
+    "reading_order": 16,
+    "text": "n [2a + (n – 1) d]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b17",
+    "type": "formula",
+    "bbox": [
+      203.3,
+      354.41,
+      232.11,
+      374.65
+    ],
+    "reading_order": 17,
+    "text": "S = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b18",
+    "type": "formula",
+    "bbox": [
+      226.32,
+      381.65,
+      322.63,
+      402.47
+    ],
+    "reading_order": 18,
+    "text": "n [a + a + (n – 1) d]",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      390.12,
+      231.87,
+      409.69
+    ],
+    "reading_order": 19,
+    "text": "We can also write this as\nS = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b20",
+    "type": "formula",
+    "bbox": [
+      226.08,
+      416.5,
+      419.28,
+      440.35
+    ],
+    "reading_order": 20,
+    "text": "n (a + an)\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b21",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      424.74,
+      232.11,
+      444.97
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\nS = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b22",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      450.93,
+      373.7,
+      476.39
+    ],
+    "reading_order": 22,
+    "text": "Now, if there are only n terms in an AP, then an = l, the last term.\nFrom (3), we see that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b23",
+    "type": "formula",
+    "bbox": [
+      226.08,
+      476.26,
+      419.28,
+      497.27
+    ],
+    "reading_order": 23,
+    "text": "n (a + l )\n(4)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b24",
+    "type": "formula",
+    "bbox": [
+      203.28,
+      484.49,
+      232.11,
+      504.73
+    ],
+    "reading_order": 24,
+    "text": "S = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      511.65,
+      419.27,
+      537.59
+    ],
+    "reading_order": 25,
+    "text": "This form of the result is useful when the first and the last terms of an AP are\ngiven and the common difference is not given.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      543.34,
+      420.16,
+      583.2
+    ],
+    "reading_order": 26,
+    "text": "Now we return to the question that was posed to us in the beginning. The amount\nof money (in Rs) in the money box of Shakila’s daughter on 1st, 2nd, 3rd, 4th birthday,\n. . ., were 100, 150, 200, 250, . . ., respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      588.71,
+      420.04,
+      614.89
+    ],
+    "reading_order": 27,
+    "text": "This is an AP. We have to find the total money collected on her 21st birthday, i.e.,\nthe sum of the first 21 terms of this AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 16,
+    "block_id": "jemh105_p016_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

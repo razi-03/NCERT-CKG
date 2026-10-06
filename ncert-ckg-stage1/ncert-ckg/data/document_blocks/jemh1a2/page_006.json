@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "244\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      168.0,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "A2.3 Some Illustrations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.25,
+      330.75,
+      125.51
+    ],
+    "reading_order": 4,
+    "text": "Let us now consider some examples of mathematical modelling.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      135.15,
+      420.03,
+      200.63
+    ],
+    "reading_order": 5,
+    "text": "Example 1 (Rolling of a pair of dice) : Suppose your teacher challenges you to the\nfollowing guessing game: She would throw a pair of dice. Before that you need to\nguess the sum of the numbers that show up on the dice. For every correct answer, you\nget two points and for every wrong guess you lose two points. What numbers would\nbe the best guess?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      205.24,
+      94.56,
+      217.91
+    ],
+    "reading_order": 7,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      222.27,
+      420.01,
+      248.15
+    ],
+    "reading_order": 8,
+    "text": "Step 1 (Understanding the problem) : You need to know a few numbers which\nhave higher chances of showing up.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      252.76,
+      420.05,
+      291.83
+    ],
+    "reading_order": 9,
+    "text": "Step 2 (Mathematical description) : In mathematical terms, the problem translates\nto finding out the probabilities of the various possible sums of numbers that the dice\ncould show.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      296.85,
+      420.04,
+      322.31
+    ],
+    "reading_order": 10,
+    "text": "We can model the situation very simply by representing a roll of the dice as a random\nchoice of one of the following thirty six pairs of numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b11",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      327.34,
+      366.01,
+      339.59
+    ],
+    "reading_order": 11,
+    "text": "(1, 1)\n(1, 2)\n(1, 3)\n(1, 4)\n(1, 5)\n(1, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      344.62,
+      366.01,
+      356.87
+    ],
+    "reading_order": 12,
+    "text": "(2, 1)\n(2, 2)\n(2, 3)\n(2, 4)\n(2, 5)\n(2, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b13",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      361.9,
+      366.01,
+      374.15
+    ],
+    "reading_order": 13,
+    "text": "(3, 1)\n(3, 2)\n(3, 3)\n(3, 4)\n(3, 5)\n(3, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      378.94,
+      366.01,
+      391.19
+    ],
+    "reading_order": 14,
+    "text": "(4, 1)\n(4, 2)\n(4, 3)\n(4, 4)\n(4, 5)\n(4, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      396.22,
+      366.01,
+      408.47
+    ],
+    "reading_order": 15,
+    "text": "(5, 1)\n(5, 2)\n(5, 3)\n(5, 4)\n(5, 5)\n(5, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      413.5,
+      366.01,
+      425.75
+    ],
+    "reading_order": 16,
+    "text": "(6, 1)\n(6, 2)\n(6, 3)\n(6, 4)\n(6, 5)\n(6, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      430.78,
+      420.02,
+      456.23
+    ],
+    "reading_order": 17,
+    "text": "The first number in each pair represents the number showing on the first die, and the\nsecond number is the number showing on the second die.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      460.84,
+      420.03,
+      499.91
+    ],
+    "reading_order": 18,
+    "text": "Step 3 (Solving the mathematical problem) : Summing the numbers in each pair\nabove, we find that possible sums are 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12. We have to find\nthe probability for each of them, assuming all 36 pairs are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      504.93,
+      192.01,
+      517.19
+    ],
+    "reading_order": 19,
+    "text": "We do this in the following table.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      52.08,
+      528.76,
+      404.87,
+      541.43
+    ],
+    "reading_order": 20,
+    "text": "Sum\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      52.08,
+      547.32,
+      405.15,
+      575.53
+    ],
+    "reading_order": 21,
+    "text": "Probability\n1\n36\n2\n36\n3\n36\n4\n36\n5\n36\n6\n36\n5\n36\n4\n36\n3\n36\n2\n36\n1\n36",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      585.33,
+      420.03,
+      610.79
+    ],
+    "reading_order": 22,
+    "text": "Observe that the chance of getting a sum of a seven is 1/6, which is larger than the\nchances of getting other numbers as sums.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 6,
+    "block_id": "jemh1a2_p006_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

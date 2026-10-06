@@ -1,0 +1,155 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "16\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b03",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      96.21,
+      204.09,
+      243.36
+    ],
+    "reading_order": 3,
+    "text": "We see from the table above\nthat – 2, 0 and 2 are zeroes of the\ncubic polynomial x3 – 4x. Observe\nthat – 2, 0 and 2 are, in fact, the\nx-coordinates of the only points\nwhere the graph of y = x3 – 4x\nintersects the x-axis. Since the curve\nmeets the x-axis in only these 3\npoints, their x-coordinates are the\nonly zeroes of the polynomial.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      250.07,
+      204.08,
+      307.43
+    ],
+    "reading_order": 5,
+    "text": "Let us take a few more\nexamples. Consider the cubic\npolynomials x3 and x3 – x2. We draw\nthe graphs of y = x3 and y = x3 – x2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      310.05,
+      204.13,
+      322.31
+    ],
+    "reading_order": 6,
+    "text": "in Fig. 2.7 and Fig. 2.8 respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      295.44,
+      320.2,
+      332.16,
+      332.87
+    ],
+    "reading_order": 7,
+    "text": "Fig. 2.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      129.12,
+      611.55,
+      338.17,
+      624.22
+    ],
+    "reading_order": 8,
+    "text": "Fig. 2.7\nFig. 2.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 7,
+    "block_id": "jemh102_p007_b09",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 9,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

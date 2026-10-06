@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "230\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      419.32,
+      133.67
+    ],
+    "reading_order": 3,
+    "text": "For example, if it is true that Mike’s dog has a black tail, then it is false that\nMike’s dog does not have a black tail. If it is false that ‘Mike’s dog has a black tail’,\nthen it is true that ‘Mike’s dog does not have a black tail’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      136.54,
+      307.45,
+      148.79
+    ],
+    "reading_order": 4,
+    "text": "Similarly, the negations for the statements s and t are:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.04,
+      150.43,
+      419.41,
+      220.8
+    ],
+    "reading_order": 5,
+    "text": "s: 2 + 2 = 4; negation, ~s: 2 + 2  4.\nt: Triangle ABC is equilateral; negation, ~t: Triangle ABC is not equilateral.\nNow, what is ~(~s)? It would be 2 + 2 = 4, which is s. And what is ~(~t)? This\nwould be ‘the triangle ABC is equilateral’, i.e., t. In fact, for any statement p, ~(~p)\nis p.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_013_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.08,
+      230.44,
+      328.66,
+      243.12
+    ],
+    "reading_order": 7,
+    "text": "Example 12 : State the negations for the following statements:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b08",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      245.98,
+      248.9,
+      303.83
+    ],
+    "reading_order": 8,
+    "text": "(i) Mike’s dog does not have a black tail.\n(ii) All irrational numbers are real numbers.\n(iii)\n2 is irrational.\n(iv) Some rational numbers are integers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b09",
+    "type": "paragraph",
+    "bbox": [
+      51.11,
+      306.7,
+      273.6,
+      349.44
+    ],
+    "reading_order": 9,
+    "text": "(v) Not all teachers are males.\n(vi) Some horses are not brown.\n(vii) There is no real number x, such that x2 = – 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      353.79,
+      94.56,
+      366.47
+    ],
+    "reading_order": 10,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b11",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      371.49,
+      420.07,
+      383.75
+    ],
+    "reading_order": 11,
+    "text": "(i) It is false that Mike’s dog does not have a black tail, i.e., Mike’s dog has a black",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      384.69,
+      420.04,
+      412.3
+    ],
+    "reading_order": 12,
+    "text": "tail.\n(ii) It is false that all irrational numbers are real numbers, i.e., some (at least one)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b13",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      413.25,
+      420.02,
+      470.38
+    ],
+    "reading_order": 13,
+    "text": "irrational numbers are not real numbers. One can also write this as, ‘Not all\nirrational numbers are real numbers.’\n(iii) It is false that \n2 is irrational, i.e., \n2 is not irrational.\n(iv) It is false that some rational numbers are integers, i.e., no rational number is an",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b14",
+    "type": "paragraph",
+    "bbox": [
+      51.13,
+      471.33,
+      420.01,
+      529.19
+    ],
+    "reading_order": 14,
+    "text": "integer.\n(v) It is false that not all teachers are males, i.e., all teachers are males.\n(vi) It is false that some horses are not brown, i.e., all horses are brown.\n(vii) It is false that there is no real number x, such that x2 = – 1, i.e., there is at least",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b15",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      530.13,
+      240.0,
+      542.39
+    ],
+    "reading_order": 15,
+    "text": "one real number x, such that x2 = – 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      546.75,
+      420.01,
+      572.63
+    ],
+    "reading_order": 16,
+    "text": "Remark : From the above discussion, you may arrive at the following Working Rule\nfor obtaining the negation of a statement :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b17",
+    "type": "paragraph",
+    "bbox": [
+      56.17,
+      575.73,
+      420.08,
+      603.11
+    ],
+    "reading_order": 17,
+    "text": "(i) First write the statement with a ‘not’.\n(ii) If there is any confusion, make suitable modification , specially in the statements",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.73,
+      604.05,
+      184.59,
+      616.31
+    ],
+    "reading_order": 18,
+    "text": "involving ‘All’ or ‘Some’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 13,
+    "block_id": "jemh1a1_p013_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

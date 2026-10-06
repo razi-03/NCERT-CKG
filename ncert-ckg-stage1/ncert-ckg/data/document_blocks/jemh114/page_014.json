@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n215",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b03",
+    "type": "header",
+    "bbox": [
+      55.44,
+      94.57,
+      420.05,
+      142.09
+    ],
+    "reading_order": 3,
+    "text": "10. A piggy bank contains hundred 50p coins,  fifty ` 1 coins, twenty ` 2 coins and ten ` 5\ncoins. If it is equally likely that one of the coins will fall out when the bank is turned\nupside down, what is the probability that the coin (i) will be a 50 p coin ? (ii) will not be\na ` 5 coin?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b04",
+    "type": "figure",
+    "bbox": [
+      294.59,
+      134.62,
+      399.01,
+      222.44
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b05",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      146.65,
+      275.81,
+      206.17
+    ],
+    "reading_order": 5,
+    "text": "11. Gopi buys  a fish from a shop for his aquarium. The\nshopkeeper takes out one fish at random from a\ntank containing 5 male fish and 8 female fish (see\nFig. 14.4). What is the probability that the fish taken\nout is a male fish?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b07",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      215.77,
+      283.01,
+      275.29
+    ],
+    "reading_order": 7,
+    "text": "12. A game of chance consists of spinning an arrow\nwhich comes to rest pointing at one of the numbers\n1, 2, 3, 4, 5, 6, 7, 8 (see Fig. 14.5 ), and these are equally\nlikely outcomes. What is the probability that it will\npoint at",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b08",
+    "type": "paragraph",
+    "bbox": [
+      326.64,
+      225.64,
+      369.36,
+      238.31
+    ],
+    "reading_order": 8,
+    "text": "Fig. 14.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      77.28,
+      278.07,
+      196.35,
+      331.21
+    ],
+    "reading_order": 9,
+    "text": "(i) 8 ?\n(ii) an odd number?\n(iii) a number greater than 2?\n(iv) a number less than 9?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b10",
+    "type": "paragraph",
+    "bbox": [
+      331.92,
+      324.76,
+      374.64,
+      337.43
+    ],
+    "reading_order": 10,
+    "text": "Fig. 14.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b11",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      335.77,
+      420.1,
+      361.21
+    ],
+    "reading_order": 11,
+    "text": "13. A die is thrown once. Find the probability of getting\n(i) a prime number;\n(ii) a number lying between 2 and 6;\n(iii) an odd number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      365.77,
+      419.82,
+      405.13
+    ],
+    "reading_order": 12,
+    "text": "14. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting\n(i) a king of red colour\n(ii) a face card\n(iii) a red face card\n(iv) the jack of hearts\n(v) a spade\n(vi) the queen of diamonds",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b13",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      409.69,
+      420.03,
+      433.21
+    ],
+    "reading_order": 13,
+    "text": "15. Five cards—the ten, jack, queen, king and ace of diamonds, are well-shuffled with their\nface downwards. One card is then picked up at random.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b14",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      436.23,
+      420.03,
+      461.29
+    ],
+    "reading_order": 14,
+    "text": "(i) What is the probability that the card is the queen?\n(ii) If the queen is drawn and put aside, what is the probability that the second card",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b15",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      462.15,
+      243.59,
+      473.29
+    ],
+    "reading_order": 15,
+    "text": "picked up is (a) an ace? (b) a queen?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      477.85,
+      419.84,
+      513.37
+    ],
+    "reading_order": 16,
+    "text": "16. 12 defective pens are accidentally mixed with 132 good ones. It is not possible to just\nlook at a pen and tell whether or not it is defective. One pen is taken out at random from\nthis lot. Determine the probability that the pen taken out is a good one.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b17",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      517.69,
+      420.06,
+      555.37
+    ],
+    "reading_order": 17,
+    "text": "17. (i) A lot of 20 bulbs contain 4 defective ones. One bulb is drawn at random from the lot.\nWhat is the probability that this bulb is defective?\n(ii) Suppose the bulb drawn in (i) is not defective and is not replaced. Now one bulb",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b18",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      556.23,
+      420.05,
+      579.37
+    ],
+    "reading_order": 18,
+    "text": "is drawn at random from the rest. What is the probability that this bulb is not\ndefective ?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b19",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      583.69,
+      420.09,
+      619.21
+    ],
+    "reading_order": 19,
+    "text": "18. A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random\nfrom the box, find the probability that it bears (i) a two-digit number\n(ii) a perfect\nsquare number\n(iii) a number divisible by 5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 14,
+    "block_id": "jemh114_p014_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

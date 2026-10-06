@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.06,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Example 4 : Find a quadratic polynomial, the sum and product of whose zeroes are\n– 3 and 2, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      124.26,
+      419.87,
+      150.95
+    ],
+    "reading_order": 4,
+    "text": "Solution : Let the quadratic polynomial be ax2 + bx + c, and its zeroes be  and .\nWe have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b05",
+    "type": "paragraph",
+    "bbox": [
+      216.0,
+      159.67,
+      233.15,
+      189.12
+    ],
+    "reading_order": 5,
+    "text": "a\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b06",
+    "type": "formula",
+    "bbox": [
+      148.57,
+      161.08,
+      227.55,
+      182.73
+    ],
+    "reading_order": 6,
+    "text": " +  = – 3 = b",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      200.44,
+      213.01,
+      221.86
+    ],
+    "reading_order": 8,
+    "text": "and\n = 2 = c",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      216.24,
+      205.17,
+      218.99,
+      217.43
+    ],
+    "reading_order": 9,
+    "text": ".",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      207.84,
+      216.28,
+      213.39,
+      228.48
+    ],
+    "reading_order": 10,
+    "text": "a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b11",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      234.46,
+      179.29,
+      246.71
+    ],
+    "reading_order": 11,
+    "text": "If a = 1, then b = 3 and c = 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b12",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      251.49,
+      375.12,
+      263.75
+    ],
+    "reading_order": 12,
+    "text": "So, one quadratic polynomial which fits the given conditions is x2 + 3x + 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      268.77,
+      420.04,
+      294.23
+    ],
+    "reading_order": 13,
+    "text": "You can check that any other quadratic polynomial that fits these conditions will\nbe of the form k(x2 + 3x + 2), where k is real.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      299.25,
+      420.02,
+      324.71
+    ],
+    "reading_order": 14,
+    "text": "Let us now look at cubic polynomials. Do you think a similar relation holds\nbetween the zeroes of a cubic polynomial and its coefficients?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b15",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      329.73,
+      262.32,
+      341.99
+    ],
+    "reading_order": 15,
+    "text": "Let us consider p(x) = 2x3 – 5x2 – 14x + 8.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b16",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      348.2,
+      266.63,
+      367.43
+    ],
+    "reading_order": 16,
+    "text": "You can check that p(x) = 0 for x = 4, – 2, 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b17",
+    "type": "paragraph",
+    "bbox": [
+      261.36,
+      353.93,
+      420.01,
+      376.89
+    ],
+    "reading_order": 17,
+    "text": "2  Since p(x) can have atmost three",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b18",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      377.97,
+      300.83,
+      390.23
+    ],
+    "reading_order": 18,
+    "text": "zeroes, these are the zeores of 2x3 – 5x2 – 14x + 8. Now,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b19",
+    "type": "paragraph",
+    "bbox": [
+      401.28,
+      397.56,
+      404.83,
+      405.46
+    ],
+    "reading_order": 19,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b20",
+    "type": "paragraph",
+    "bbox": [
+      197.76,
+      397.67,
+      415.55,
+      427.16
+    ],
+    "reading_order": 20,
+    "text": "x\nx\n\n\n\n\n\n\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b21",
+    "type": "paragraph",
+    "bbox": [
+      189.36,
+      398.9,
+      409.97,
+      427.18
+    ],
+    "reading_order": 21,
+    "text": "3\n1\n5\n( 5)\n(Coefficient of\n)\n4\n( 2)\n2\n2\n2\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b22",
+    "type": "formula",
+    "bbox": [
+      95.28,
+      406.3,
+      183.12,
+      418.55
+    ],
+    "reading_order": 22,
+    "text": "sum of the zeroes =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b23",
+    "type": "formula",
+    "bbox": [
+      80.16,
+      436.21,
+      391.55,
+      466.08
+    ],
+    "reading_order": 23,
+    "text": "product of the zeroes =\n3\n1\n8\n– Constant term\n4\n( 2)\n4\n2\n2\nCoefficient of x\n\n\n\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      474.69,
+      420.02,
+      500.15
+    ],
+    "reading_order": 24,
+    "text": "However, there is one more relationship here. Consider the sum of the products\nof the zeroes taken two at a time. We have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b25",
+    "type": "paragraph",
+    "bbox": [
+      72.96,
+      511.36,
+      228.18,
+      540.97
+    ],
+    "reading_order": 25,
+    "text": "\n\n1\n1\n4\n( 2)\n( 2)\n4\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b26",
+    "type": "formula",
+    "bbox": [
+      153.6,
+      549.91,
+      352.57,
+      579.86
+    ],
+    "reading_order": 26,
+    "text": "=\n14\n– 8\n1\n2\n7\n2\n\n\n\n\n = \n3\nCoefficient of\nCoefficient of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b27",
+    "type": "paragraph",
+    "bbox": [
+      343.92,
+      551.54,
+      358.91,
+      579.85
+    ],
+    "reading_order": 27,
+    "text": "x\nx .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b28",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      585.06,
+      420.0,
+      611.75
+    ],
+    "reading_order": 28,
+    "text": "In general, it can be proved that if , ,  are the zeroes of the cubic polynomial\nax3 + bx2 + cx + d, then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 12,
+    "block_id": "jemh102_p012_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

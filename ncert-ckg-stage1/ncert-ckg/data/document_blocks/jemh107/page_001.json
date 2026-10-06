@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b02",
+    "type": "figure",
+    "bbox": [
+      192.0,
+      72.0,
+      276.95,
+      156.95
+    ],
+    "reading_order": 2,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.41,
+      420.0,
+      82.41
+    ],
+    "reading_order": 3,
+    "text": "COORDINATE GEOMETRY\n99",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b04",
+    "type": "paragraph",
+    "bbox": [
+      370.32,
+      162.07,
+      400.32,
+      222.07
+    ],
+    "reading_order": 4,
+    "text": "7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      94.68,
+      195.91,
+      348.23,
+      223.91
+    ],
+    "reading_order": 6,
+    "text": "COORDINATE GEOMETRY",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b07",
+    "type": "section_heading",
+    "bbox": [
+      47.4,
+      256.57,
+      129.12,
+      268.57
+    ],
+    "reading_order": 7,
+    "text": "7.1 Introduction",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.4,
+      279.48,
+      418.74,
+      343.28
+    ],
+    "reading_order": 8,
+    "text": "In Class IX, you have studied that to locate the position of a point on a plane, we\nrequire a pair of coordinate axes. The distance of a point from the y-axis is called its\nx-coordinate, or abscissa. The distance of a point from the x-axis is called its\ny-coordinate, or ordinate. The coordinates of a point on the x-axis are of the form\n(x, 0), and of a point on the y-axis are of the form (0, y).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.4,
+      350.28,
+      419.46,
+      447.08
+    ],
+    "reading_order": 9,
+    "text": "Here is a play for you. Draw a set of a pair of perpendicular axes on a graph\npaper. Now plot the following points and join them as directed: Join the point A(4, 8) to\nB(3, 9) to C(3, 8) to D(1, 6) to E(1, 5) to F(3, 3) to G(6, 3) to H(8, 5) to I(8, 6) to\nJ(6, 8) to K(6, 9) to L(5, 8) to A. Then join the points P(3.5, 7), Q (3, 6) and R(4, 6) to\nform a triangle. Also join the points X(5.5, 7), Y(5, 6) and Z(6, 6) to form a triangle.\nNow join S(4, 5), T(4.5, 4) and U(5, 5) to form a triangle. Lastly join S to the points\n(0, 5) and (0, 6) and join U to the points (9, 5) and (9, 6). What picture have you got?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.4,
+      453.6,
+      418.74,
+      558.8
+    ],
+    "reading_order": 10,
+    "text": "Also, you have seen that a linear equation in two variables of the form\nax + by + c = 0, (a, b are not simultaneously zero), when represented graphically,\ngives a straight line. Further, in Chapter 2, you have seen the graph of\ny = ax2 + bx + c (a ¹ 0), is a parabola. In fact, coordinate geometry has been developed\nas an algebraic tool for studying geometry of figures. It helps us to study geometry\nusing algebra, and understand algebra with the help of geometry. Because of this,\ncoordinate geometry is widely applied in various fields such as physics, engineering,\nnavigation, seismology and art!",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.4,
+      565.08,
+      418.61,
+      602.48
+    ],
+    "reading_order": 11,
+    "text": "In this chapter, you will learn how to find the distance between the two points\nwhose coordinates are given. You will also study how to find the coordinates of the\npoint which divides a line segment joining two given points in a given ratio.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 1,
+    "block_id": "jemh107_p001_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "246\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.09,
+      199.67
+    ],
+    "reading_order": 3,
+    "text": "Example 2 : Juhi wants to buy a bicycle. She goes to the market and finds that the\nbicycle she likes is available for ` 1800. Juhi has ` 600 with her. So, she tells the\nshopkeeper that she would not be able to buy it. The shopkeeper, after a bit of\ncalculation, makes the following offer. He tells Juhi that she could take the bicycle by\nmaking a payment of ` 600 cash down and the remaining money could be made in two\nmonthly instalments of ` 610 each. Juhi has two options one is to go for instalment\nscheme or to make cash payment by taking loan from a bank which is available at the\nrate of 10% per annum simple interest. Which option is more economical to her?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      204.28,
+      94.56,
+      216.95
+    ],
+    "reading_order": 5,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      221.32,
+      420.06,
+      273.59
+    ],
+    "reading_order": 6,
+    "text": "Step 1 (Understanding the problem) : What Juhi needs to determine is whether\nshe should take the offer made by the shopkeeper or not. For this, she should know the\ntwo rates of interest—one charged in the instalment scheme and the other charged\nby the bank (i.e., 10%).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      278.2,
+      420.05,
+      330.47
+    ],
+    "reading_order": 7,
+    "text": "Step 2 (Mathematical description) : In order to accept or reject the scheme, she\nneeds to determine the interest that the shopkeeper is charging in comparison to the\nbank. Observe that since the entire money shall be paid in less than a year, simple\ninterest shall be charged.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      335.49,
+      282.0,
+      347.75
+    ],
+    "reading_order": 8,
+    "text": "We know that the cash price of the bicycle = ` 1800.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      352.77,
+      344.13,
+      365.03
+    ],
+    "reading_order": 9,
+    "text": "Also, the cashdown payment under the instalment scheme = ` 600.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      370.05,
+      420.0,
+      395.51
+    ],
+    "reading_order": 10,
+    "text": "So, the balance price that needs to be paid in the instalment scheme = ` (1800 – 600)\n= ` 1200.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      400.53,
+      356.29,
+      412.79
+    ],
+    "reading_order": 11,
+    "text": "Let r % per annum be the rate of interest charged by the shopkeeper.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b12",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      417.81,
+      203.28,
+      430.07
+    ],
+    "reading_order": 12,
+    "text": "Amount of each instalment = ` 610",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      435.09,
+      282.0,
+      447.35
+    ],
+    "reading_order": 13,
+    "text": "Amount paid in instalments = ` 610 + ` 610 = ` 1220",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      452.13,
+      419.74,
+      464.39
+    ],
+    "reading_order": 14,
+    "text": "Interest paid in instalment scheme = ` 1220 – ` 1200 = ` 20\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      469.41,
+      303.86,
+      481.67
+    ],
+    "reading_order": 15,
+    "text": "Since, Juhi kept a sum of ` 1200 for one month, therefore,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b16",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      486.69,
+      234.72,
+      498.95
+    ],
+    "reading_order": 16,
+    "text": "Principal for the first month = ` 1200",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b17",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      503.97,
+      320.16,
+      516.23
+    ],
+    "reading_order": 17,
+    "text": "Principal for the second month = ` (1200 – 610) = ` 590",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      521.25,
+      420.02,
+      546.71
+    ],
+    "reading_order": 18,
+    "text": "Balance of the second principal ` 590 + interest charged (` 20) = monthly instalment\n(` 610) = 2nd instalment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      551.73,
+      324.0,
+      563.99
+    ],
+    "reading_order": 19,
+    "text": "So, the total principal for one month = ` 1200 + ` 590 = ` 1790",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      573.25,
+      419.76,
+      603.47
+    ],
+    "reading_order": 20,
+    "text": "Now,\ninterest = ` 1790\n1\n100\n12\nr\n\n\n\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 8,
+    "block_id": "jemh1a2_p008_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "210\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      420.0,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Example 9 : Harpreet tosses two different coins simultaneously (say, one is of ` 1\nand other of ` 2). What is the probability that she gets at least one head?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      126.99,
+      420.04,
+      192.47
+    ],
+    "reading_order": 4,
+    "text": "Solution : We write H for ‘head’ and T for ‘tail’. When two coins are tossed\nsimultaneously, the possible outcomes are (H, H), (H, T), (T, H), (T, T), which are all\nequally likely. Here (H, H) means head up on the first coin (say on ` 1) and head up\non the second coin (` 2). Similarly (H, T) means head up on the first coin and tail up on\nthe second coin and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      197.49,
+      419.99,
+      222.95
+    ],
+    "reading_order": 6,
+    "text": "The outcomes favourable to the event E, ‘at least one head’ are (H, H), (H, T)\nand (T, H). (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      227.73,
+      264.04,
+      239.99
+    ],
+    "reading_order": 7,
+    "text": "So, the number of outcomes favourable to E is 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      246.12,
+      173.31,
+      266.89
+    ],
+    "reading_order": 8,
+    "text": "Therefore,\nP(E) = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      167.76,
+      261.95,
+      173.31,
+      274.33
+    ],
+    "reading_order": 9,
+    "text": "4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      272.36,
+      311.99,
+      293.03
+    ],
+    "reading_order": 10,
+    "text": "i.e., the probability that Harpreet gets at least one head is 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      306.48,
+      278.09,
+      316.44,
+      301.05
+    ],
+    "reading_order": 11,
+    "text": "4 ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      299.79,
+      231.13,
+      312.47
+    ],
+    "reading_order": 12,
+    "text": "Note : You can also find P(E) as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      314.8,
+      420.03,
+      372.95
+    ],
+    "reading_order": 13,
+    "text": "1\nSince P(E) = P(no head) = 4\n\n\n\n\n\n\nDid you observe that in all the examples discussed so far, the number of possible\noutcomes in each experiment was finite? If not, check it now.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b14",
+    "type": "formula",
+    "bbox": [
+      128.16,
+      317.4,
+      258.51,
+      345.61
+    ],
+    "reading_order": 14,
+    "text": "P (E) =\n1\n3\n1 – P(E) = 1 – 4\n4\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      377.73,
+      420.07,
+      523.43
+    ],
+    "reading_order": 15,
+    "text": "There are many experiments in which the outcome is any number between two\ngiven numbers, or in which the outcome is every point within a circle or rectangle, etc.\nCan you now count the number of all possible outcomes? As you know, this is not\npossible since there are infinitely many numbers between two given numbers, or there\nare infinitely many  points within a circle. So, the definition of (theoretical) probability\nwhich you have learnt so far cannot be applied in the present form. What is the way\nout? To answer this, let us consider the following example :\nExample 10* : In a musical chair game, the person playing the music has been\nadvised to stop playing the music at any time within 2 minutes after she starts\nplaying. What is the probability that the music will stop within the first half-minute\nafter starting?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      528.04,
+      420.05,
+      553.91
+    ],
+    "reading_order": 16,
+    "text": "Solution : Here the possible outcomes are all the numbers between 0 and 2. This is\nthe portion of the number line from 0 to 2 (see Fig. 14.1).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      205.2,
+      576.52,
+      247.92,
+      589.19
+    ],
+    "reading_order": 17,
+    "text": "Fig. 14.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      601.83,
+      216.85,
+      612.97
+    ],
+    "reading_order": 18,
+    "text": "* Not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 9,
+    "block_id": "jemh114_p009_b19",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 19,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

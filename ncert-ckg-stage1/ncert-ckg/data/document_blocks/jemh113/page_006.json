@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "176\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b03",
+    "type": "header",
+    "bbox": [
+      72.0,
+      93.88,
+      362.41,
+      109.97
+    ],
+    "reading_order": 3,
+    "text": "Substituting the values of a, Σfidi and Σfi from Table 13.4, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b04",
+    "type": "formula",
+    "bbox": [
+      148.56,
+      118.77,
+      310.43,
+      145.71
+    ],
+    "reading_order": 4,
+    "text": "x =\n435\n47.5\n47.5\n14.5\n62\n30\n+\n=\n+\n=\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      152.93,
+      333.87,
+      163.93
+    ],
+    "reading_order": 5,
+    "text": "Therefore, the mean of the marks obtained by the students is 62.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      170.08,
+      380.27,
+      181.21
+    ],
+    "reading_order": 6,
+    "text": "The method discussed above is called the Assumed Mean Method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      192.16,
+      420.02,
+      229.69
+    ],
+    "reading_order": 8,
+    "text": "Activity 1 : From the Table 13.3 find the mean by taking each of xi (i.e., 17.5, 32.5,\nand so on) as ‘a’. What do you observe? You will find that the mean determined in\neach case is the same, i.e., 62. (Why ?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      235.97,
+      420.04,
+      260.17
+    ],
+    "reading_order": 9,
+    "text": "So, we can say that the value of the mean obtained does not depend on the\nchoice of ‘a’.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      266.45,
+      420.04,
+      306.29
+    ],
+    "reading_order": 10,
+    "text": "Observe that in Table 13.4, the values in Column 4 are all multiples of 15. So, if\nwe divide the values in the entire Column 4 by 15, we would get smaller numbers to\nmultiply with fi. (Here, 15 is the class size of each class interval.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b11",
+    "type": "formula",
+    "bbox": [
+      137.52,
+      312.65,
+      393.85,
+      334.81
+    ],
+    "reading_order": 11,
+    "text": "−\n, where a is the assumed mean and h is the class size.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b12",
+    "type": "paragraph",
+    "bbox": [
+      126.48,
+      315.24,
+      152.43,
+      342.18
+    ],
+    "reading_order": 12,
+    "text": "ix\na\nh",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      323.72,
+      122.92,
+      337.25
+    ],
+    "reading_order": 13,
+    "text": "So, let ui =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      349.16,
+      420.0,
+      376.13
+    ],
+    "reading_order": 14,
+    "text": "Now, we calculate ui in this way and continue as before (i.e., find fi ui and\nthen Σfiui). Taking h = 15, let us form Table 13.5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      208.56,
+      384.64,
+      259.45,
+      395.64
+    ],
+    "reading_order": 15,
+    "text": "Table 13.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      322.56,
+      403.01,
+      348.75,
+      415.87
+    ],
+    "reading_order": 16,
+    "text": "ix – a",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b17",
+    "type": "formula",
+    "bbox": [
+      49.92,
+      411.49,
+      318.36,
+      425.05
+    ],
+    "reading_order": 17,
+    "text": "Class interval\nfi\nx i\ndi = xi – a\nui =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      332.64,
+      411.49,
+      401.14,
+      429.96
+    ],
+    "reading_order": 18,
+    "text": "h\nfiui",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      70.56,
+      443.33,
+      396.94,
+      525.85
+    ],
+    "reading_order": 19,
+    "text": "10 - 25\n2\n17.5\n–30\n–2\n–4\n25 - 40\n3\n32.5\n–15\n–1\n–3\n40 - 55\n7\n47.5\n0\n0\n0\n55 - 70\n6\n62.5\n15\n1\n6\n70 - 85\n6\n77.5\n30\n2\n12\n85 - 100\n6\n92.5\n45\n3\n18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b20",
+    "type": "formula",
+    "bbox": [
+      71.52,
+      534.28,
+      416.64,
+      550.37
+    ],
+    "reading_order": 20,
+    "text": "Total\nΣfi = 30\nΣfiui = 29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b21",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      566.78,
+      246.46,
+      596.35
+    ],
+    "reading_order": 21,
+    "text": "f\nΣ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b22",
+    "type": "paragraph",
+    "bbox": [
+      239.28,
+      569.37,
+      250.85,
+      580.51
+    ],
+    "reading_order": 22,
+    "text": "f u",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      575.26,
+      252.57,
+      588.97
+    ],
+    "reading_order": 23,
+    "text": "Let\nu =\ni\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b24",
+    "type": "paragraph",
+    "bbox": [
+      236.64,
+      582.62,
+      243.23,
+      593.76
+    ],
+    "reading_order": 24,
+    "text": "Σ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b25",
+    "type": "paragraph",
+    "bbox": [
+      246.72,
+      591.1,
+      248.73,
+      598.32
+    ],
+    "reading_order": 25,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      604.61,
+      285.71,
+      616.33
+    ],
+    "reading_order": 26,
+    "text": "Here, again let us find the relation between u and x .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 6,
+    "block_id": "jemh113_p006_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

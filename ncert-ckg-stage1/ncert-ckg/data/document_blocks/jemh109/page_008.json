@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "140\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b03",
+    "type": "formula",
+    "bbox": [
+      153.36,
+      100.28,
+      244.97,
+      128.15
+    ],
+    "reading_order": 3,
+    "text": "PD\nBD = tan 30° = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b04",
+    "type": "formula",
+    "bbox": [
+      242.88,
+      108.69,
+      331.75,
+      129.8
+    ],
+    "reading_order": 4,
+    "text": "3\nor BD = PD\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      134.82,
+      162.0,
+      149.13
+    ],
+    "reading_order": 5,
+    "text": "In right  PAC, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b06",
+    "type": "formula",
+    "bbox": [
+      153.36,
+      158.28,
+      236.65,
+      186.49
+    ],
+    "reading_order": 6,
+    "text": "PC\nAC = tan 45° = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      192.46,
+      201.6,
+      204.71
+    ],
+    "reading_order": 8,
+    "text": "i.e.,\nPC = AC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      209.74,
+      360.47,
+      221.99
+    ],
+    "reading_order": 9,
+    "text": "Also,\nPC = PD + DC, therefore, PD + DC = AC.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      232.29,
+      406.56,
+      245.55
+    ],
+    "reading_order": 10,
+    "text": "Since, AC = BD and DC = AB = 8 m, we get PD + 8 = BD = PD 3 (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      252.07,
+      387.48,
+      299.51
+    ],
+    "reading_order": 11,
+    "text": "This gives\nPD =\n\n\n\n\n\n\n\n8\n3\n1\n8\n4\n3\n1 m.\n3\n1\n3\n1\n3\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      205.43,
+      258.87,
+      362.93,
+      295.06
+    ],
+    "reading_order": 12,
+    "text": "\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      297.41,
+      417.42,
+      325.51
+    ],
+    "reading_order": 13,
+    "text": "So, the height of the multi-storeyed building is \n\n\n\n\n\n\n4\n3\n1\n8 m = 4 3 +\n3 m\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      321.24,
+      344.78,
+      347.08
+    ],
+    "reading_order": 14,
+    "text": "and the distance between the two buildings is also \n\n4 3\n3 m.\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      353.55,
+      420.14,
+      392.63
+    ],
+    "reading_order": 15,
+    "text": "Example 7 : From a point on a bridge across a river, the angles of depression of\nthe banks on opposite sides of the river are 30° and 45°, respectively. If the bridge\nis at a height of 3 m from the banks, find the width of the river.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      396.99,
+      194.91,
+      515.27
+    ],
+    "reading_order": 16,
+    "text": "Solution : In Fig 9.10, A and B\nrepresent points on the bank on\nopposite sides of the river, so that\nAB is the width of the river. P is a\npoint on the bridge at a height of 3\nm, i.e., DP = 3 m. We are\ninterested to determine the width\nof the river, which is the length of\nthe side AB of the D APB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b17",
+    "type": "figure",
+    "bbox": [
+      207.0,
+      407.15,
+      420.0,
+      463.15
+    ],
+    "reading_order": 17,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      293.28,
+      473.8,
+      336.0,
+      486.47
+    ],
+    "reading_order": 18,
+    "text": "Fig. 9.10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      520.29,
+      197.29,
+      532.55
+    ],
+    "reading_order": 19,
+    "text": "Now,\nAB = AD + DB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      536.34,
+      174.01,
+      550.65
+    ],
+    "reading_order": 20,
+    "text": "In right  APD,  A = 30°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      560.04,
+      169.3,
+      580.81
+    ],
+    "reading_order": 21,
+    "text": "So,\ntan 30° = PD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      154.08,
+      575.87,
+      170.02,
+      588.25
+    ],
+    "reading_order": 22,
+    "text": "AD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 8,
+    "block_id": "jemh109_p008_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

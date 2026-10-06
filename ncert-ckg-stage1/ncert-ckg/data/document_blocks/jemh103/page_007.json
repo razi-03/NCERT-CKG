@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "30\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b03",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      96.34,
+      351.13,
+      108.34
+    ],
+    "reading_order": 3,
+    "text": "3.3 Algebraic Methods of Solving a Pair of Linear Equations",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      120.54,
+      420.11,
+      144.74
+    ],
+    "reading_order": 4,
+    "text": "In the previous section, we discussed how to solve a pair of linear equations graphically.\nThe graphical method is not convenient in cases when the point representing the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      150.71,
+      420.11,
+      165.38
+    ],
+    "reading_order": 5,
+    "text": "solution of the linear equations has non-integral coordinates like (\n)\n3, 2 7 ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b07",
+    "type": "paragraph",
+    "bbox": [
+      103.92,
+      176.89,
+      420.04,
+      202.36
+    ],
+    "reading_order": 7,
+    "text": "4\n1\n,\n13 19\n\n\n\n\n\n, etc. There is every possibility of making mistakes while reading",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      185.82,
+      103.4,
+      196.82
+    ],
+    "reading_order": 8,
+    "text": "(–1.75, 3.3),",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      207.42,
+      420.04,
+      231.62
+    ],
+    "reading_order": 9,
+    "text": "such coordinates. Is there any alternative method of finding the solution? There are\nseveral algebraic methods, which we shall now discuss.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b10",
+    "type": "subsection_heading",
+    "bbox": [
+      48.0,
+      242.74,
+      420.03,
+      268.1
+    ],
+    "reading_order": 10,
+    "text": "3.3.1 Substitution Method : We shall explain the method of substitution by taking\nsome examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      279.27,
+      373.72,
+      290.42
+    ],
+    "reading_order": 11,
+    "text": "Example 4 : Solve the following pair of equations by substitution method:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b12",
+    "type": "formula",
+    "bbox": [
+      180.72,
+      296.59,
+      419.76,
+      307.7
+    ],
+    "reading_order": 12,
+    "text": "7x – 15y = 2\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b13",
+    "type": "formula",
+    "bbox": [
+      191.28,
+      313.87,
+      419.76,
+      324.98
+    ],
+    "reading_order": 13,
+    "text": "x + 2y = 3\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      331.11,
+      94.57,
+      342.11
+    ],
+    "reading_order": 14,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      348.15,
+      420.11,
+      372.5
+    ],
+    "reading_order": 15,
+    "text": "Step 1 : We pick either of the equations and write one variable in terms of the other.\nLet us consider the Equation (2) :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b16",
+    "type": "formula",
+    "bbox": [
+      191.28,
+      382.27,
+      238.06,
+      393.38
+    ],
+    "reading_order": 16,
+    "text": "x + 2y = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      399.55,
+      419.76,
+      410.66
+    ],
+    "reading_order": 17,
+    "text": "and write it as\nx = 3 – 2y\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      416.79,
+      300.0,
+      427.94
+    ],
+    "reading_order": 18,
+    "text": "Step 2 : Substitute the value of x in Equation (1). We get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b19",
+    "type": "formula",
+    "bbox": [
+      150.72,
+      434.11,
+      238.06,
+      445.22
+    ],
+    "reading_order": 19,
+    "text": "7(3 – 2y) – 15y = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      451.39,
+      238.06,
+      462.5
+    ],
+    "reading_order": 20,
+    "text": "i.e.,\n21 – 14y – 15y = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      468.67,
+      249.12,
+      479.78
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\n– 29y = –19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      487.18,
+      245.79,
+      506.93
+    ],
+    "reading_order": 22,
+    "text": "Therefore,\ny = 19",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      503.02,
+      306.73,
+      528.98
+    ],
+    "reading_order": 23,
+    "text": "29\nStep 3 : Substituting this value of y in Equation (3), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b24",
+    "type": "formula",
+    "bbox": [
+      283.2,
+      538.54,
+      309.39,
+      558.02
+    ],
+    "reading_order": 24,
+    "text": "= 49",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b25",
+    "type": "formula",
+    "bbox": [
+      213.84,
+      538.88,
+      281.21,
+      566.67
+    ],
+    "reading_order": 25,
+    "text": "x = 3 – \n19\n2 29\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b26",
+    "type": "paragraph",
+    "bbox": [
+      298.32,
+      554.38,
+      309.39,
+      565.49
+    ],
+    "reading_order": 26,
+    "text": "29",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b27",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      567.58,
+      192.27,
+      587.06
+    ],
+    "reading_order": 27,
+    "text": "Therefore, the solution is x = 49",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b28",
+    "type": "formula",
+    "bbox": [
+      181.2,
+      567.58,
+      237.71,
+      594.53
+    ],
+    "reading_order": 28,
+    "text": "29 , y = 19\n29 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 7,
+    "block_id": "jemh103_p007_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

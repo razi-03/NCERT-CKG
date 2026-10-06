@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "242\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.01,
+      160.07
+    ],
+    "reading_order": 3,
+    "text": "For instance, in Step 3 we had obtained an estimate of the entire population of\nfishes. It may  not be the actual number of fishes in the pond. We next see whether\nthis is a good estimate of the population by repeating Steps 2 and 3 a few times, and\ntaking the mean of the results obtained. This would give a closer estimate of the\npopulation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      164.43,
+      419.99,
+      190.31
+    ],
+    "reading_order": 4,
+    "text": "Another way of visualising the process of mathematical modelling is shown\nin Fig. A2.1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      194.92,
+      266.41,
+      208.28
+    ],
+    "reading_order": 6,
+    "text": "Real-life problem",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b07",
+    "type": "paragraph",
+    "bbox": [
+      242.16,
+      217.48,
+      278.17,
+      230.84
+    ],
+    "reading_order": 7,
+    "text": "Simplify",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      176.4,
+      246.76,
+      278.41,
+      274.52
+    ],
+    "reading_order": 8,
+    "text": "Describe the problem\nin mathematical terms",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      205.2,
+      313.0,
+      249.36,
+      326.36
+    ],
+    "reading_order": 9,
+    "text": "Solve the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      207.84,
+      327.4,
+      246.73,
+      340.76
+    ],
+    "reading_order": 10,
+    "text": "problem",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      63.84,
+      328.6,
+      118.56,
+      356.36
+    ],
+    "reading_order": 11,
+    "text": "Change\nassumptions",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      381.4,
+      266.43,
+      423.56
+    ],
+    "reading_order": 12,
+    "text": "Interpret the\nsolution in the\nreal-life situation",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      181.68,
+      460.6,
+      273.13,
+      488.36
+    ],
+    "reading_order": 13,
+    "text": "Does the solution\ncapture the real-life",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b14",
+    "type": "paragraph",
+    "bbox": [
+      120.0,
+      465.16,
+      313.2,
+      481.88
+    ],
+    "reading_order": 14,
+    "text": "No\nYes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      344.4,
+      466.36,
+      385.68,
+      479.72
+    ],
+    "reading_order": 15,
+    "text": "Model is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b16",
+    "type": "paragraph",
+    "bbox": [
+      347.28,
+      480.76,
+      382.57,
+      494.12
+    ],
+    "reading_order": 16,
+    "text": "suitable",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      205.2,
+      489.4,
+      249.37,
+      502.76
+    ],
+    "reading_order": 17,
+    "text": "situation?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      211.44,
+      514.84,
+      255.84,
+      527.51
+    ],
+    "reading_order": 18,
+    "text": "Fig. A2.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      536.13,
+      420.09,
+      614.39
+    ],
+    "reading_order": 19,
+    "text": "Modellers look for a balance between simplification (for ease of solution) and\naccuracy. They hope to approximate reality closely enough to make some progress.\nThe best outcome is to be able to predict what will happen, or estimate an outcome,\nwith reasonable accuracy. Remember that different assumptions we use for simplifying\nthe problem can lead to different models. So, there are no perfect models. There are\ngood ones and yet better ones.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A2",
+    "page": 4,
+    "block_id": "jemh1a2_p004_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

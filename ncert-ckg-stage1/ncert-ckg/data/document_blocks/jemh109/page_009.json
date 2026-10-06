@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SOME APPLICATIONS OF TRIGONOMETRY\n141",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b03",
+    "type": "formula",
+    "bbox": [
+      125.52,
+      100.38,
+      257.28,
+      129.37
+    ],
+    "reading_order": 3,
+    "text": "1\n3 =\n3\nAD or AD = 3 3 m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      109.89,
+      64.56,
+      122.15
+    ],
+    "reading_order": 4,
+    "text": "i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b05",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      134.82,
+      298.3,
+      149.13
+    ],
+    "reading_order": 5,
+    "text": "Also, in right  PBD,  B = 45°. So, BD = PD = 3 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b06",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      159.09,
+      363.36,
+      171.63
+    ],
+    "reading_order": 6,
+    "text": "Now,\nAB = BD + AD = 3 + 3 3 = 3 (1 + \n3 ) m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      177.48,
+      271.55,
+      203.32
+    ],
+    "reading_order": 8,
+    "text": "Therefore, the width of the river is 3\n\n3\n1 m\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      223.5,
+      274.09,
+      237.32
+    ],
+    "reading_order": 9,
+    "text": "EXERCISE 9.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      244.33,
+      275.8,
+      303.85
+    ],
+    "reading_order": 10,
+    "text": "1. A circus artist is climbing a 20 m long rope, which is\ntightly stretched and tied from the top of a vertical\npole to the ground. Find the height of the pole, if\nthe angle made by the rope with the ground level is\n30° (see Fig. 9.11).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      308.41,
+      275.81,
+      379.93
+    ],
+    "reading_order": 11,
+    "text": "2. A tree breaks due to storm and the broken part\nbends so that the top of the tree touches the ground\nmaking an angle 30° with it. The distance between\nthe foot of the tree to the point where the top\ntouches the ground is 8 m. Find the height of\nthe tree.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b12",
+    "type": "paragraph",
+    "bbox": [
+      332.16,
+      331.23,
+      374.14,
+      343.91
+    ],
+    "reading_order": 12,
+    "text": "Fig. 9.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      384.25,
+      420.07,
+      443.77
+    ],
+    "reading_order": 13,
+    "text": "3. A contractor plans to install two slides for the children to play in a park. For the children\nbelow the age of 5 years, she prefers to have a slide whose top is at a height of 1.5 m, and\nis inclined at an angle of 30° to the ground, whereas for elder children, she wants to have\na steep slide at a height of 3m, and inclined at an angle of 60° to the ground. What\nshould be the length of the slide in each case?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      448.33,
+      419.79,
+      471.85
+    ],
+    "reading_order": 14,
+    "text": "4. The angle of elevation of the top of a tower from a point on the ground, which is 30 m\naway from the foot of the tower, is 30°. Find the height of the tower.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      476.41,
+      419.83,
+      511.93
+    ],
+    "reading_order": 15,
+    "text": "5. A kite is flying at a height of 60 m above the ground. The string attached to the kite is\ntemporarily tied to a point on the ground. The inclination of the string with the ground\nis 60°. Find the length of the string, assuming that there is no slack in the string.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      516.25,
+      419.79,
+      551.77
+    ],
+    "reading_order": 16,
+    "text": "6. A 1.5 m tall boy is standing at some distance from a 30 m tall building. The angle of\nelevation from his eyes to the top of the building increases from 30° to 60° as he walks\ntowards the building. Find the distance he walked towards the building.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      556.33,
+      420.16,
+      591.85
+    ],
+    "reading_order": 17,
+    "text": "7. From a point on the ground, the angles of elevation of the bottom and the top of a\ntransmission tower fixed at the top of a 20 m high building are 45° and 60° respectively.\nFind the height of the tower.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 9,
+    "block_id": "jemh109_p009_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

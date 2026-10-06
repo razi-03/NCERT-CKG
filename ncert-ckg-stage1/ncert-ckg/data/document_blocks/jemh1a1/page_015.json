@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "232\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b03",
+    "type": "header",
+    "bbox": [
+      48.02,
+      93.78,
+      420.02,
+      121.29
+    ],
+    "reading_order": 3,
+    "text": "In general, the converse of the statement p  q is q  p, where p and q are\nstatements. Note that p  q and q  p are the converses of each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.05,
+      129.87,
+      332.42,
+      142.54
+    ],
+    "reading_order": 4,
+    "text": "Example 13 : Write the converses of the following statements :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b05",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      147.57,
+      344.27,
+      159.83
+    ],
+    "reading_order": 5,
+    "text": "(i) If Jamila is riding a bicycle, then 17 August falls on a Sunday.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b06",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      164.85,
+      319.46,
+      177.11
+    ],
+    "reading_order": 6,
+    "text": "(ii) If 17 August is a Sunday, then Jamila is riding a bicycle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_015_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b08",
+    "type": "paragraph",
+    "bbox": [
+      53.99,
+      182.14,
+      262.32,
+      194.39
+    ],
+    "reading_order": 8,
+    "text": "(iii) If Pauline is angry, then her face turns red.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b09",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      199.17,
+      367.46,
+      211.43
+    ],
+    "reading_order": 9,
+    "text": "(iv) If a person has a degree in education, then she is allowed to teach.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.43,
+      216.46,
+      359.31,
+      228.71
+    ],
+    "reading_order": 10,
+    "text": "(v) If a person has a viral infection, then he runs a high temperature.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b11",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      233.74,
+      261.62,
+      245.99
+    ],
+    "reading_order": 11,
+    "text": "(vi) If Ahmad is in Mumbai, then he is in India.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b12",
+    "type": "paragraph",
+    "bbox": [
+      51.12,
+      250.78,
+      362.21,
+      263.03
+    ],
+    "reading_order": 12,
+    "text": "(vii) If triangle ABC is equilateral, then all its interior angles are equal.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.72,
+      268.06,
+      420.01,
+      280.31
+    ],
+    "reading_order": 13,
+    "text": "(viii) If x is an irrational number, then the decimal expansion of x is non-terminating",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b14",
+    "type": "paragraph",
+    "bbox": [
+      72.73,
+      281.26,
+      135.61,
+      293.51
+    ],
+    "reading_order": 14,
+    "text": "non-recurring.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b15",
+    "type": "formula",
+    "bbox": [
+      53.29,
+      298.54,
+      320.87,
+      310.79
+    ],
+    "reading_order": 15,
+    "text": "(ix) If x – a is a factor of the polynomial p(x), then p(a) = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      319.63,
+      420.02,
+      347.14
+    ],
+    "reading_order": 16,
+    "text": "Solution : Each statement above is of the form p  q. So, to find the converse, we\nfirst identify p and q, and then write q  p.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b17",
+    "type": "paragraph",
+    "bbox": [
+      58.57,
+      351.33,
+      419.99,
+      363.59
+    ],
+    "reading_order": 17,
+    "text": "(i) p: Jamila is riding a bicycle, and q: 17 August falls on a Sunday. Therefore, the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      364.53,
+      399.12,
+      376.79
+    ],
+    "reading_order": 18,
+    "text": "converse is: If 17 August falls on a Sunday, then Jamila is riding a bicycle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b19",
+    "type": "paragraph",
+    "bbox": [
+      56.15,
+      381.57,
+      420.01,
+      393.83
+    ],
+    "reading_order": 19,
+    "text": "(ii) This is the converse of (i). Therefore, its converse is the statement given in",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b20",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      394.77,
+      114.74,
+      407.03
+    ],
+    "reading_order": 20,
+    "text": "(i) above.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b21",
+    "type": "paragraph",
+    "bbox": [
+      54.0,
+      412.05,
+      270.83,
+      424.31
+    ],
+    "reading_order": 21,
+    "text": "(iii) If Pauline’s face turns red, then she is angry.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b22",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      429.34,
+      367.46,
+      441.59
+    ],
+    "reading_order": 22,
+    "text": "(iv) If a person is allowed to teach, then she has a degree in education.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b23",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      446.62,
+      359.32,
+      458.87
+    ],
+    "reading_order": 23,
+    "text": "(v) If a person runs a high temperature, then he has a viral infection.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b24",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      463.66,
+      261.63,
+      475.91
+    ],
+    "reading_order": 24,
+    "text": "(vi) If Ahmad is in India, then he is in Mumbai.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b25",
+    "type": "paragraph",
+    "bbox": [
+      51.13,
+      480.94,
+      386.25,
+      493.19
+    ],
+    "reading_order": 25,
+    "text": "(vii) If all the interior angles of triangle ABC are equal, then it is equilateral.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.73,
+      498.22,
+      419.99,
+      510.47
+    ],
+    "reading_order": 26,
+    "text": "(viii) If the decimal expansion of x is non-terminating non-recurring, then x is an",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b27",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      511.42,
+      150.13,
+      523.67
+    ],
+    "reading_order": 27,
+    "text": "irrational number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b28",
+    "type": "formula",
+    "bbox": [
+      53.28,
+      528.46,
+      321.84,
+      540.71
+    ],
+    "reading_order": 28,
+    "text": "(ix) If p(a) = 0, then x – a is a factor of the polynomial p(x).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b29",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      545.74,
+      420.05,
+      610.79
+    ],
+    "reading_order": 29,
+    "text": "Notice that we have simply written the converse of each of the statements\nabove without worrying if they are true or false. For example, consider the following\nstatement: If Ahmad is in Mumbai, then he is in India. This statement is true. Now\nconsider the converse: If Ahmad is in India, then he is in Mumbai. This need not be\ntrue always – he could be in any other part of India.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 15,
+    "block_id": "jemh1a1_p015_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

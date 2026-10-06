@@ -1,0 +1,614 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "128\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      188.85,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "8.4 Trigonometric Identities",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.25,
+      276.07,
+      178.31
+    ],
+    "reading_order": 4,
+    "text": "You may recall that an equation is called an identity\nwhen it is true for all values of the variables involved.\nSimilarly, an equation involving trigonometric ratios\nof an angle is called a trigonometric identity, if it is\ntrue for all values of the angle(s) involved.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      183.33,
+      276.03,
+      221.99
+    ],
+    "reading_order": 6,
+    "text": "In this section, we will prove one trigonometric\nidentity, and use it further to prove other useful\ntrigonometric identities.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b07",
+    "type": "paragraph",
+    "bbox": [
+      349.44,
+      206.2,
+      392.16,
+      218.87
+    ],
+    "reading_order": 7,
+    "text": "Fig. 8.21",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      225.78,
+      309.62,
+      240.09
+    ],
+    "reading_order": 8,
+    "text": "In  ABC, right-angled at B (see Fig. 8.21), we have:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b09",
+    "type": "formula",
+    "bbox": [
+      168.73,
+      244.29,
+      419.28,
+      256.55
+    ],
+    "reading_order": 9,
+    "text": "AB2 + BC2 = AC2\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      261.33,
+      254.4,
+      273.59
+    ],
+    "reading_order": 10,
+    "text": "Dividing each term of (1) by AC2, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b11",
+    "type": "paragraph",
+    "bbox": [
+      179.04,
+      284.26,
+      215.34,
+      291.88
+    ],
+    "reading_order": 11,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b12",
+    "type": "paragraph",
+    "bbox": [
+      249.84,
+      284.26,
+      253.26,
+      291.88
+    ],
+    "reading_order": 12,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b13",
+    "type": "formula",
+    "bbox": [
+      164.64,
+      285.73,
+      228.0,
+      313.09
+    ],
+    "reading_order": 13,
+    "text": "2\n2\nAB\nBC\nAC\nAC\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b14",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      285.73,
+      253.26,
+      313.09
+    ],
+    "reading_order": 14,
+    "text": "2\nAC\nAC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b15",
+    "type": "formula",
+    "bbox": [
+      145.44,
+      320.84,
+      228.0,
+      351.24
+    ],
+    "reading_order": 15,
+    "text": "2\n2\nAB\nBC\nAC\nAC\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b16",
+    "type": "paragraph",
+    "bbox": [
+      234.0,
+      320.84,
+      264.25,
+      351.23
+    ],
+    "reading_order": 16,
+    "text": "2\nAC\nAC\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      331.17,
+      63.84,
+      343.43
+    ],
+    "reading_order": 17,
+    "text": "i.e.,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      358.77,
+      238.06,
+      371.03
+    ],
+    "reading_order": 18,
+    "text": "i.e.,\n(cos A)2 + (sin A)2 = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b19",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      376.59,
+      419.28,
+      389.27
+    ],
+    "reading_order": 19,
+    "text": "i.e.,\ncos2 A + sin2 A = 1\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b20",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      399.78,
+      419.19,
+      414.09
+    ],
+    "reading_order": 20,
+    "text": "This is true for all A such that 0°  A  90°. So, this is a trigonometric identity.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b21",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      418.29,
+      240.01,
+      430.55
+    ],
+    "reading_order": 21,
+    "text": "Let us now divide (1) by AB2. We get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b22",
+    "type": "paragraph",
+    "bbox": [
+      179.04,
+      440.74,
+      215.1,
+      448.36
+    ],
+    "reading_order": 22,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b23",
+    "type": "paragraph",
+    "bbox": [
+      249.84,
+      440.74,
+      253.26,
+      448.36
+    ],
+    "reading_order": 23,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b24",
+    "type": "formula",
+    "bbox": [
+      164.64,
+      442.21,
+      228.0,
+      469.57
+    ],
+    "reading_order": 24,
+    "text": "2\n2\nAB\nBC\nAB\nAB\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b25",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      442.21,
+      253.26,
+      469.57
+    ],
+    "reading_order": 25,
+    "text": "2\nAC\nAB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b26",
+    "type": "formula",
+    "bbox": [
+      146.16,
+      477.32,
+      228.0,
+      507.72
+    ],
+    "reading_order": 26,
+    "text": "2\n2\nAB\nBC\nAB\nAB\n\n\n\n\n\n\n\n\n\n\n\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b27",
+    "type": "paragraph",
+    "bbox": [
+      234.0,
+      477.32,
+      264.25,
+      507.71
+    ],
+    "reading_order": 27,
+    "text": "2\nAC\nAB\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b28",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      487.65,
+      58.43,
+      499.91
+    ],
+    "reading_order": 28,
+    "text": "or,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b29",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      514.12,
+      419.29,
+      526.79
+    ],
+    "reading_order": 29,
+    "text": "i.e.,\n1 + tan2 A = sec2 A\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b30",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      531.57,
+      419.31,
+      557.85
+    ],
+    "reading_order": 30,
+    "text": "Is this equation true for A = 0°? Yes, it is. What about A = 90°? Well, tan A and\nsec A are not defined for A = 90°. So, (3) is true for all A such that 0°  A  90°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b31",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      562.05,
+      314.89,
+      574.31
+    ],
+    "reading_order": 31,
+    "text": "Let us see what we get on dividing (1) by BC2. We get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b32",
+    "type": "paragraph",
+    "bbox": [
+      179.04,
+      583.45,
+      214.81,
+      591.49
+    ],
+    "reading_order": 32,
+    "text": "2\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b33",
+    "type": "paragraph",
+    "bbox": [
+      250.8,
+      583.45,
+      254.41,
+      591.49
+    ],
+    "reading_order": 33,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b34",
+    "type": "formula",
+    "bbox": [
+      163.92,
+      584.97,
+      228.0,
+      613.69
+    ],
+    "reading_order": 34,
+    "text": "2\n2\nAB\nBC\nBC\nBC\n\n =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b35",
+    "type": "paragraph",
+    "bbox": [
+      235.2,
+      584.97,
+      254.17,
+      613.69
+    ],
+    "reading_order": 35,
+    "text": "2\nAC\nBC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 16,
+    "block_id": "jemh108_p016_b36",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 36,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

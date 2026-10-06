@@ -1,0 +1,291 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_04.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n75",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.09,
+      160.07
+    ],
+    "reading_order": 3,
+    "text": "What can you say about the two quadrilaterals ABCD and PQRS\n(see Fig 6.2)?Are they similar? These  figures appear to be similar but we cannot be\ncertain about it.Therefore, we must have some definition of similarity of figures and\nbased on this definition some rules to decide whether the two given figures are similar\nor not. For this, let us look at the photographs given in Fig. 6.3:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b04",
+    "type": "figure",
+    "bbox": [
+      63.79,
+      169.71,
+      180.05,
+      248.14
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_05.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b06",
+    "type": "figure",
+    "bbox": [
+      210.57,
+      186.45,
+      304.05,
+      249.54
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b07",
+    "type": "figure",
+    "bbox": [
+      334.12,
+      202.96,
+      403.47,
+      249.65
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      215.27,
+      261.4,
+      252.0,
+      274.07
+    ],
+    "reading_order": 8,
+    "text": "Fig. 6.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      282.45,
+      420.06,
+      321.11
+    ],
+    "reading_order": 9,
+    "text": "You will at once say that they are the photographs of the same monument\n(Taj Mahal) but are in different sizes. Would you say that the three photographs  are\nsimilar? Yes,they are.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      326.13,
+      420.06,
+      377.99
+    ],
+    "reading_order": 10,
+    "text": "What can you say about the two photographs of the same size of the same\nperson one at the age of 10 years and the other at the age of 40 years? Are these\nphotographs similar? These photographs are of the same size but certainly they are\nnot of the same shape. So, they are not similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      383.02,
+      420.05,
+      448.07
+    ],
+    "reading_order": 11,
+    "text": "What does the photographer do when she prints photographs of different sizes\nfrom the same negative? You must  have heard about the stamp size, passport size and\npostcard size photographs. She generally takes a photograph on a small size film, say\nof 35mm size and then enlarges it into a bigger size, say 45mm (or 55mm). Thus, if we\nconsider any line segment in the smaller photograph (figure), its corresponding line",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      270.96,
+      450.8,
+      420.03,
+      480.75
+    ],
+    "reading_order": 12,
+    "text": "55\nor 35\n\n\n\n\n\n of that of the line segment.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      452.28,
+      267.63,
+      473.05
+    ],
+    "reading_order": 13,
+    "text": "segment in the bigger photograph (figure) will be 45",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      256.56,
+      468.11,
+      267.63,
+      480.49
+    ],
+    "reading_order": 14,
+    "text": "35",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      479.97,
+      420.06,
+      571.42
+    ],
+    "reading_order": 15,
+    "text": "This really means that every line segment of the smaller photograph is enlarged\n(increased) in the ratio 35:45 (or 35:55).  It can also be said that every line segment\nof the bigger photograph is reduced (decreased) in the ratio 45:35 (or 55:35). Further,\nif you consider inclinations (or angles) between any pair of corresponding line segments\nin the two photographs of different sizes, you shall see that these inclinations(or angles)\nare always equal. This is the essence of the similarity of two figures and in particular\nof two polygons. We say that:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.97,
+      576.21,
+      419.98,
+      614.86
+    ],
+    "reading_order": 16,
+    "text": "Two polygons of the same number of sides are similar, if (i) their\ncorresponding angles are equal and (ii) their corresponding sides are in the\nsame ratio (or proportion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 3,
+    "block_id": "jemh106_p003_b17",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 17,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

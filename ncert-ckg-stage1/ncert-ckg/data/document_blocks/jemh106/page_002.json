@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "74\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.49,
+      420.05,
+      149.76
+    ],
+    "reading_order": 3,
+    "text": "been measured directly with the help of a measuring tape? In fact, all these heights\nand distances have been found out using the idea of indirect measurements, which is\nbased on the principle of similarity of figures (see Example 7, Q.15 of Exercise 6.3\nand also Chapters 8 and 9 of this book).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b04",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      163.5,
+      144.74,
+      177.32
+    ],
+    "reading_order": 4,
+    "text": "6.2 Similar Figures",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      182.85,
+      420.05,
+      223.19
+    ],
+    "reading_order": 6,
+    "text": "In Class IX, you have seen that all circles with the same radii are congruent, all\nsquares with the same side lengths are congruent and all equilateral triangles with the\nsame side lengths are congruent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      228.93,
+      211.36,
+      465.39
+    ],
+    "reading_order": 7,
+    "text": "Now consider any two (or more)\ncircles [see Fig. 6.1 (i)]. Are they\ncongruent? Since all of them do not\nhave the same radius, they are not\ncongruent to each other. Note that\nsome are congruent and some are not,\nbut all of them have the same shape.\nSo they all are, what we call, similar.\nTwo similar figures have the same\nshape but not necessarily the same\nsize. Therefore, all circles are similar.\nWhat about two (or more) squares or\ntwo (or more) equilateral triangles\n[see Fig. 6.1 (ii) and (iii)]? As observed\nin the case of circles, here also all\nsquares are similar and all equilateral\ntriangles are similar.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      471.13,
+      204.1,
+      525.38
+    ],
+    "reading_order": 8,
+    "text": "From the above, we can say\nthat all congruent figures are\nsimilar but the similar figures need\nnot be congruent.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      294.0,
+      509.55,
+      330.72,
+      522.23
+    ],
+    "reading_order": 9,
+    "text": "Fig. 6.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      530.66,
+      204.04,
+      608.92
+    ],
+    "reading_order": 10,
+    "text": "Can a circle and a square be\nsimilar? Can a triangle and a square\nbe similar? These questions can be\nanswered by just looking at the\nfigures (see Fig. 6.1). Evidently\nthese figures are not similar. (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      294.0,
+      608.19,
+      330.72,
+      620.86
+    ],
+    "reading_order": 11,
+    "text": "Fig. 6.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 2,
+    "block_id": "jemh106_p002_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

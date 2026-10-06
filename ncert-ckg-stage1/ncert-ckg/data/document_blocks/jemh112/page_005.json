@@ -1,0 +1,359 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SURFACE AREAS AND VOLUMES\n165",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      99.39,
+      240.05,
+      252.84
+    ],
+    "reading_order": 3,
+    "text": "Example 3 : A wooden toy rocket is in the\nshape of a cone mounted on a cylinder, as\nshown in Fig. 12.8. The height of the entire\nrocket is 26 cm, while the height of the conical\npart is 6 cm. The base of the conical portion\nhas a diameter of 5 cm, while the base\ndiameter of the cylindrical portion is 3 cm. If\nthe conical portion is to be painted orange\nand the cylindrical portion yellow, find the\narea of the rocket painted with each of these\ncolours. (Take  = 3.14)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      257.34,
+      240.11,
+      327.01
+    ],
+    "reading_order": 5,
+    "text": "Solution : Denote radius of cone by r, slant\nheight of cone by l, height of cone by h, radius\nof cylinder by r and height of cylinder by h.\nThen r = 2.5 cm, h = 6 cm, r = 1.5 cm,\nh = 26 – 6 = 20 cm and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      313.44,
+      307.95,
+      356.16,
+      320.63
+    ],
+    "reading_order": 6,
+    "text": "Fig. 12.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b07",
+    "type": "formula",
+    "bbox": [
+      130.58,
+      338.29,
+      316.59,
+      352.63
+    ],
+    "reading_order": 7,
+    "text": "l =\n2\n2\nr\nh\n\n = \n2\n2\n2.5\n6\ncm\n\n = 6.5 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      360.45,
+      420.08,
+      399.1
+    ],
+    "reading_order": 8,
+    "text": "Here, the conical portion has its circular base resting on the base of the cylinder, but\nthe base of the cone is larger than the base of the cylinder. So, a part of the base of the\ncone (a ring) is to be painted.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      404.13,
+      412.33,
+      430.54
+    ],
+    "reading_order": 9,
+    "text": "So,\nthe area to be painted orange = CSA of the cone + base area of the cone\n                                                           – base area of the cylinder",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b10",
+    "type": "formula",
+    "bbox": [
+      218.65,
+      434.34,
+      308.96,
+      448.65
+    ],
+    "reading_order": 10,
+    "text": "= rl + r2 – r2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b11",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      451.62,
+      388.4,
+      465.93
+    ],
+    "reading_order": 11,
+    "text": "= [(2.5 × 6.5) + (2.5)2  – (1.5)2] cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b12",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      468.9,
+      376.4,
+      483.21
+    ],
+    "reading_order": 12,
+    "text": "= [20.25] cm2 = 3.14 × 20.25 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b13",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      487.41,
+      279.68,
+      499.67
+    ],
+    "reading_order": 13,
+    "text": "= 63.585 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      504.69,
+      318.74,
+      516.95
+    ],
+    "reading_order": 14,
+    "text": "Now,\nthe area to be painted yellow = CSA of the cylinder",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b15",
+    "type": "formula",
+    "bbox": [
+      230.16,
+      518.85,
+      379.46,
+      531.1
+    ],
+    "reading_order": 15,
+    "text": "+ area of one base of the cylinder",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b16",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      534.9,
+      296.24,
+      549.21
+    ],
+    "reading_order": 16,
+    "text": "= 2rh + (r)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b17",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      552.18,
+      288.79,
+      566.49
+    ],
+    "reading_order": 17,
+    "text": "= r (2h + r)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b18",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      570.69,
+      366.8,
+      582.95
+    ],
+    "reading_order": 18,
+    "text": "= (3.14 × 1.5) (2 × 20 + 1.5) cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b19",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      587.73,
+      300.8,
+      599.99
+    ],
+    "reading_order": 19,
+    "text": "= 4.71 × 41.5 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b20",
+    "type": "formula",
+    "bbox": [
+      218.64,
+      605.01,
+      284.96,
+      617.27
+    ],
+    "reading_order": 20,
+    "text": "= 195.465 cm2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH112",
+    "page": 5,
+    "block_id": "jemh112_p005_b21",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 21,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

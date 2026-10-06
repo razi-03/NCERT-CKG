@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "124\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      93.78,
+      420.04,
+      108.09
+    ],
+    "reading_order": 3,
+    "text": "When  A is very close to 0°, BC gets very close to 0 and so the value of",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      109.32,
+      100.29,
+      130.31
+    ],
+    "reading_order": 4,
+    "text": "sin A = BC",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b05",
+    "type": "paragraph",
+    "bbox": [
+      85.2,
+      116.82,
+      420.02,
+      137.53
+    ],
+    "reading_order": 5,
+    "text": "AC is very close to 0. Also, when  A is very close to 0°, AC is nearly the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b06",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      141.24,
+      246.45,
+      161.99
+    ],
+    "reading_order": 6,
+    "text": "same as AB and so the value of cos A = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b07",
+    "type": "paragraph",
+    "bbox": [
+      231.12,
+      149.73,
+      331.45,
+      169.45
+    ],
+    "reading_order": 7,
+    "text": "AC is very close to 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_012_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      176.62,
+      419.99,
+      203.75
+    ],
+    "reading_order": 9,
+    "text": "This helps us to see how we can define the values of sin A and cos A when\nA = 0°. We define : sin 0° = 0 and cos 0° = 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      210.69,
+      172.57,
+      222.95
+    ],
+    "reading_order": 10,
+    "text": "Using these, we have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b11",
+    "type": "formula",
+    "bbox": [
+      72.01,
+      233.92,
+      139.3,
+      254.39
+    ],
+    "reading_order": 11,
+    "text": "tan 0° = sin 0°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b12",
+    "type": "formula",
+    "bbox": [
+      112.56,
+      233.92,
+      372.01,
+      262.08
+    ],
+    "reading_order": 12,
+    "text": "cos 0° = 0, cot 0° = \n1\n,\ntan 0° which is not defined. (Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      271.36,
+      420.0,
+      300.35
+    ],
+    "reading_order": 13,
+    "text": "sec 0° = \n1\ncos 0 = 1 and cosec 0° = \n1\n,\nsin 0 which is again not defined.(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      302.58,
+      420.1,
+      393.57
+    ],
+    "reading_order": 14,
+    "text": "Now, let us see what happens to the trigonometric ratios of  A, when it is made\nlarger and larger in  ABC till it becomes 90°. As  A gets larger and larger,  C gets\nsmaller and smaller. Therefore, as in the case above, the length of the side AB goes on\ndecreasing. The point A gets closer to point B. Finally when  A is very close to 90°,\n C becomes very close to 0° and the side AC almost coincides with side BC\n(see Fig. 8.18).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b15",
+    "type": "paragraph",
+    "bbox": [
+      212.39,
+      474.01,
+      255.11,
+      486.68
+    ],
+    "reading_order": 15,
+    "text": "Fig. 8.18",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      495.52,
+      420.01,
+      540.81
+    ],
+    "reading_order": 16,
+    "text": "When  C is very close to 0°,  A is very close to 90°, side AC is nearly the\nsame as side BC, and so sin A is very close to 1. Also when  A is very close to 90°,\n C is very close to 0°, and the side AB is nearly zero, so cos A is very close to 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b17",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      546.75,
+      326.16,
+      559.42
+    ],
+    "reading_order": 17,
+    "text": "So, we define :\nsin 90° = 1 and cos 90° = 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b18",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      566.6,
+      348.0,
+      578.86
+    ],
+    "reading_order": 18,
+    "text": "Now, why don’t you find the other trigonometric ratios of 90°?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      586.28,
+      420.07,
+      613.89
+    ],
+    "reading_order": 19,
+    "text": "We shall now give the values of all the trigonometric ratios of 0°, 30°, 45°, 60°\nand 90° in Table 8.1, for ready reference.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 12,
+    "block_id": "jemh108_p012_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

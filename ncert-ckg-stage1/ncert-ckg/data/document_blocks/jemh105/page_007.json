@@ -1,0 +1,529 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n55",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b03",
+    "type": "header",
+    "bbox": [
+      53.28,
+      94.77,
+      156.0,
+      109.63
+    ],
+    "reading_order": 3,
+    "text": "(iv) a2 – a1 = 1 – 1 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b04",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      107.73,
+      156.0,
+      135.79
+    ],
+    "reading_order": 4,
+    "text": "a3 – a2 = 1 – 1 = 0\na4 – a3 = 2 – 1 = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      136.26,
+      198.11,
+      152.35
+    ],
+    "reading_order": 5,
+    "text": "Here, a2 – a1 = a3 – a2  a4 – a3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      154.06,
+      270.14,
+      166.31
+    ],
+    "reading_order": 6,
+    "text": "So, the given list of numbers does not form an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      180.78,
+      274.09,
+      194.6
+    ],
+    "reading_order": 8,
+    "text": "EXERCISE 5.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      201.37,
+      419.79,
+      224.89
+    ],
+    "reading_order": 9,
+    "text": "1. In which of the following situations, does the list of numbers involved make an arithmetic\nprogression, and why?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      89.28,
+      228.87,
+      420.0,
+      240.01
+    ],
+    "reading_order": 10,
+    "text": "(i) The taxi fare after each km when the fare is ` 15 for the first km and ` 8 for each",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      240.87,
+      158.17,
+      252.01
+    ],
+    "reading_order": 11,
+    "text": "additional km.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      86.88,
+      250.27,
+      392.58,
+      268.09
+    ],
+    "reading_order": 12,
+    "text": "(ii) The amount of air present in a cylinder when a vacuum pump removes 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      256.95,
+      420.0,
+      280.09
+    ],
+    "reading_order": 13,
+    "text": "4 of the\nair remaining in the cylinder at a time.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      84.72,
+      285.03,
+      420.0,
+      296.17
+    ],
+    "reading_order": 14,
+    "text": "(iii) The cost of digging a well after every metre of digging, when it costs ` 150 for the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      297.03,
+      324.73,
+      308.17
+    ],
+    "reading_order": 15,
+    "text": "first metre and rises by ` 50 for each subsequent metre.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b16",
+    "type": "paragraph",
+    "bbox": [
+      84.0,
+      312.87,
+      420.01,
+      324.01
+    ],
+    "reading_order": 16,
+    "text": "(iv) The amount of money in the account every year, when ` 10000 is deposited at",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      102.0,
+      324.87,
+      252.02,
+      336.01
+    ],
+    "reading_order": 17,
+    "text": "compound interest at 8 % per annum.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      340.57,
+      419.76,
+      365.53
+    ],
+    "reading_order": 18,
+    "text": "2. Write first four terms of the AP, when the first term a and the common difference d are\ngiven as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b19",
+    "type": "formula",
+    "bbox": [
+      89.28,
+      371.43,
+      321.6,
+      382.57
+    ],
+    "reading_order": 19,
+    "text": "(i) a = 10,\nd = 10\n(ii) a = –2,\nd = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b20",
+    "type": "formula",
+    "bbox": [
+      84.72,
+      380.75,
+      326.86,
+      399.37
+    ],
+    "reading_order": 20,
+    "text": "(iii) a = 4,\nd = – 3\n(iv) a = – 1, d =  1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b21",
+    "type": "formula",
+    "bbox": [
+      86.16,
+      395.15,
+      327.1,
+      416.41
+    ],
+    "reading_order": 21,
+    "text": "2\n(v) a = – 1.25, d = – 0.25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b22",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      421.69,
+      354.04,
+      433.21
+    ],
+    "reading_order": 22,
+    "text": "3. For the following APs, write the first term and the common difference:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      89.28,
+      437.91,
+      341.53,
+      449.05
+    ],
+    "reading_order": 23,
+    "text": "(i) 3, 1, – 1, – 3, . . .\n(ii) – 5, – 1, 3, 7, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b24",
+    "type": "paragraph",
+    "bbox": [
+      84.72,
+      455.72,
+      354.49,
+      480.96
+    ],
+    "reading_order": 24,
+    "text": "(iii) 1\n5\n9\n13\n,\n,\n,\n,\n3\n3\n3\n3\n . . .\n(iv) 0.6, 1.7, 2.8, 3.9, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      488.17,
+      420.0,
+      511.69
+    ],
+    "reading_order": 25,
+    "text": "4. Which of the following are APs ? If they form an AP, find the common difference d and\nwrite three more terms.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b26",
+    "type": "paragraph",
+    "bbox": [
+      89.28,
+      521.96,
+      348.0,
+      547.43
+    ],
+    "reading_order": 26,
+    "text": "(i) 2, 4, 8, 16, . . .\n(ii)\n5\n7\n2,\n, 3,\n,\n2\n2\n . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b27",
+    "type": "paragraph",
+    "bbox": [
+      84.72,
+      549.99,
+      361.44,
+      561.13
+    ],
+    "reading_order": 27,
+    "text": "(iii) – 1.2, – 3.2, – 5.2, – 7.2, . . .\n(iv) – 10, – 6, – 2, 2, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b28",
+    "type": "paragraph",
+    "bbox": [
+      86.16,
+      570.54,
+      389.28,
+      584.49
+    ],
+    "reading_order": 28,
+    "text": "(v) 3, 3\n2\n\n, 3\n2 2\n\n, 3\n3 2 ,\n\n . . .\n(vi) 0.2, 0.22, 0.222, 0.2222, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b29",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      590.59,
+      301.14,
+      609.13
+    ],
+    "reading_order": 29,
+    "text": "(vii) 0, – 4, – 8, –12, . . .\n(viii) – 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b30",
+    "type": "paragraph",
+    "bbox": [
+      296.4,
+      590.59,
+      384.96,
+      615.85
+    ],
+    "reading_order": 30,
+    "text": "2 , – 1\n2 , – 1\n2 , – 1\n2 , . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 7,
+    "block_id": "jemh105_p007_b31",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 31,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

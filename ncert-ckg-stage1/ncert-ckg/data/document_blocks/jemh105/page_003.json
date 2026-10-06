@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n51",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      420.04,
+      146.87
+    ],
+    "reading_order": 3,
+    "text": "In the examples above, we observe some patterns. In some, we find that the\nsucceeding terms are obtained by adding a fixed number, in other by multiplying\nwith a fixed number, in another we find that they are squares of consecutive\nnumbers, and so on.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      151.65,
+      420.07,
+      203.51
+    ],
+    "reading_order": 4,
+    "text": "In this chapter, we shall discuss one of these patterns in which succeeding terms\nare obtained by adding a fixed number to the preceding terms. We shall also see how\nto find their nth terms and the sum of n consecutive terms, and use this knowledge in\nsolving some daily life problems.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b06",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      212.94,
+      189.11,
+      226.76
+    ],
+    "reading_order": 6,
+    "text": "5.2 Arithmetic Progressions",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      232.05,
+      224.88,
+      244.31
+    ],
+    "reading_order": 7,
+    "text": "Consider the following lists of numbers :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      58.56,
+      249.09,
+      139.44,
+      261.35
+    ],
+    "reading_order": 8,
+    "text": "(i) 1, 2, 3, 4, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      266.37,
+      165.59,
+      278.63
+    ],
+    "reading_order": 9,
+    "text": "(ii) 100, 70, 40, 10, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      54.01,
+      283.65,
+      168.01,
+      295.91
+    ],
+    "reading_order": 10,
+    "text": "(iii) –3, –2, –1, 0, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      53.28,
+      300.69,
+      139.44,
+      312.95
+    ],
+    "reading_order": 11,
+    "text": "(iv) 3, 3, 3, 3, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      317.97,
+      187.43,
+      330.23
+    ],
+    "reading_order": 12,
+    "text": "(v) –1.0, –1.5, –2.0, –2.5, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b13",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      334.84,
+      282.84,
+      347.51
+    ],
+    "reading_order": 13,
+    "text": "Each of the numbers in the list is called a term.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      352.29,
+      420.13,
+      390.95
+    ],
+    "reading_order": 14,
+    "text": "Given a term, can you write the next term in each of the lists above? If so, how\nwill you write it? Perhaps by following a pattern or rule. Let us observe and write the\nrule.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b15",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      391.89,
+      306.78,
+      404.15
+    ],
+    "reading_order": 15,
+    "text": "In (i), each term is 1 more than the term preceding it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      409.18,
+      308.93,
+      421.43
+    ],
+    "reading_order": 16,
+    "text": "In (ii), each term is 30 less than the term preceding it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      426.46,
+      363.87,
+      438.71
+    ],
+    "reading_order": 17,
+    "text": "In (iii), each term is obtained by adding 1 to  the term preceding it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      443.5,
+      420.12,
+      468.95
+    ],
+    "reading_order": 18,
+    "text": "In (iv), all the terms in the list are 3 , i.e., each term is obtained by adding\n(or subtracting) 0 to the term preceding it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      473.02,
+      420.07,
+      498.47
+    ],
+    "reading_order": 19,
+    "text": "In (v), each term is obtained by adding – 0.5 to (i.e., subtracting 0.5 from) the\nterm preceding it.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      502.3,
+      420.01,
+      540.96
+    ],
+    "reading_order": 20,
+    "text": "In all the lists above, we see that successive terms are obtained by adding a fixed\nnumber to the preceding terms. Such list of numbers is said to form an  Arithmetic\nProgression ( AP ).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      544.61,
+      420.0,
+      583.68
+    ],
+    "reading_order": 21,
+    "text": "So, an arithmetic progression is a list of numbers in which each term  is\nobtained by adding a fixed number to the preceding term except the first\nterm.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      587.09,
+      420.06,
+      612.96
+    ],
+    "reading_order": 22,
+    "text": "This fixed number is called the common difference of the AP. Remember that\nit can be positive, negative or zero.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 3,
+    "block_id": "jemh105_p003_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

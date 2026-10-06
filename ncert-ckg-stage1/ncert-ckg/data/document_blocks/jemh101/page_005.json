@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.96,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "REAL NUMBERS\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      294.72,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Solution : The prime factorisation of 96 and 404 gives :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b04",
+    "type": "formula",
+    "bbox": [
+      176.88,
+      112.29,
+      296.88,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "96 = 25 × 3, 404 = 22 × 101",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b05",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      129.33,
+      274.56,
+      141.59
+    ],
+    "reading_order": 5,
+    "text": "Therefore, the HCF of these two integers is 22 = 4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      151.0,
+      384.29,
+      180.26
+    ],
+    "reading_order": 6,
+    "text": "Also,\nLCM (96, 404) =\n96\n404\n96\n404\n9696\nHCF(96, 404)\n4\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      193.95,
+      420.05,
+      219.83
+    ],
+    "reading_order": 8,
+    "text": "Example 4 : Find the HCF and LCM of 6, 72 and 120, using the prime factorisation\nmethod.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      224.44,
+      141.85,
+      237.11
+    ],
+    "reading_order": 9,
+    "text": "Solution : We have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b10",
+    "type": "formula",
+    "bbox": [
+      185.99,
+      242.13,
+      361.66,
+      254.39
+    ],
+    "reading_order": 10,
+    "text": "6 = 2 × 3, 72 = 23 × 32, 120 = 23 × 3 × 5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      259.41,
+      419.91,
+      271.67
+    ],
+    "reading_order": 11,
+    "text": "Here, 21 and 31 are the smallest powers of the common factors 2 and 3, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      277.41,
+      314.16,
+      289.67
+    ],
+    "reading_order": 12,
+    "text": "So,\nHCF (6, 72, 120) = 21 × 31 = 2 × 3 = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      295.89,
+      420.01,
+      322.79
+    ],
+    "reading_order": 13,
+    "text": "23, 32 and 51 are the greatest powers of the prime factors 2, 3 and 5 respectively\ninvolved in the three numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      329.01,
+      309.87,
+      341.27
+    ],
+    "reading_order": 14,
+    "text": "So,\nLCM (6, 72, 120) = 23 × 32 × 51 = 360",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      351.3,
+      419.99,
+      379.18
+    ],
+    "reading_order": 15,
+    "text": "Remark : Notice, 6 × 72 × 120  HCF (6, 72, 120) × LCM (6, 72, 120). So, the\nproduct of three numbers is not equal to the product of their HCF and LCM.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b16",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      398.22,
+      274.09,
+      412.04
+    ],
+    "reading_order": 16,
+    "text": "EXERCISE 1.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      419.53,
+      405.61,
+      445.93
+    ],
+    "reading_order": 17,
+    "text": "1. Express each number as a product of its prime factors:\n(i) 140\n(ii) 156\n(iii) 3825\n(iv) 5005\n(v) 7429",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      451.45,
+      419.78,
+      475.93
+    ],
+    "reading_order": 18,
+    "text": "2. Find the LCM and HCF of the following pairs of integers and verify that LCM × HCF =\nproduct of the two numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b19",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      479.91,
+      367.44,
+      491.05
+    ],
+    "reading_order": 19,
+    "text": "(i) 26 and 91\n(ii) 510 and 92\n(iii) 336 and 54",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b20",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      496.57,
+      419.81,
+      521.05
+    ],
+    "reading_order": 20,
+    "text": "3. Find the LCM and HCF of the following integers by applying the prime factorisation\nmethod.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b21",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      524.79,
+      368.17,
+      535.93
+    ],
+    "reading_order": 21,
+    "text": "(i) 12, 15 and 21\n(ii) 17, 23 and 29\n(iii) 8, 9 and 25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b22",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      541.45,
+      277.46,
+      552.97
+    ],
+    "reading_order": 22,
+    "text": "4. Given that HCF (306, 657) = 9, find LCM (306, 657).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b23",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      558.49,
+      344.98,
+      570.01
+    ],
+    "reading_order": 23,
+    "text": "5. Check whether 6n can end with the digit 0 for any natural number n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b24",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      575.53,
+      410.21,
+      587.05
+    ],
+    "reading_order": 24,
+    "text": "6. Explain why 7 × 11 × 13 + 13 and 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 are composite numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b25",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      592.57,
+      419.87,
+      617.05
+    ],
+    "reading_order": 25,
+    "text": "7. There is a circular path around a sports field. Sonia takes 18 minutes to drive one round\nof the field, while Ravi takes 12 minutes for the same. Suppose they both start at the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 5,
+    "block_id": "jemh101_p005_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

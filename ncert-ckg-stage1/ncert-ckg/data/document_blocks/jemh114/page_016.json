@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROBABILITY\n217",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b03",
+    "type": "header",
+    "bbox": [
+      55.44,
+      94.57,
+      419.84,
+      118.09
+    ],
+    "reading_order": 3,
+    "text": "25. Which of the following arguments are correct and which are not correct? Give reasons\nfor your answer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b04",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      123.03,
+      420.02,
+      134.17
+    ],
+    "reading_order": 4,
+    "text": "(i) If two coins are tossed simultaneously there are three possible outcomes—two",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b05",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      135.03,
+      420.05,
+      146.17
+    ],
+    "reading_order": 5,
+    "text": "heads, two tails or one of each. Therefore, for each of these outcomes, the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b06",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      148.76,
+      160.25,
+      167.77
+    ],
+    "reading_order": 6,
+    "text": "probability is 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b07",
+    "type": "paragraph",
+    "bbox": [
+      155.28,
+      153.88,
+      164.01,
+      174.0
+    ],
+    "reading_order": 7,
+    "text": "3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_016_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b09",
+    "type": "paragraph",
+    "bbox": [
+      80.16,
+      177.75,
+      420.03,
+      188.89
+    ],
+    "reading_order": 9,
+    "text": "(ii) If a die is thrown, there are two possible outcomes—an odd number or an even",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b10",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      191.63,
+      358.06,
+      210.25
+    ],
+    "reading_order": 10,
+    "text": "number. Therefore, the probability of getting an odd number is 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b11",
+    "type": "paragraph",
+    "bbox": [
+      353.28,
+      199.11,
+      362.98,
+      217.22
+    ],
+    "reading_order": 11,
+    "text": "2 .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b12",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      222.3,
+      122.15,
+      236.12
+    ],
+    "reading_order": 12,
+    "text": "14.2 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      241.59,
+      269.3,
+      252.73
+    ],
+    "reading_order": 13,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      257.05,
+      396.06,
+      268.57
+    ],
+    "reading_order": 14,
+    "text": "1. The theoretical (classical) probability of an event E, written as P(E), is defined as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b15",
+    "type": "formula",
+    "bbox": [
+      121.92,
+      284.79,
+      364.96,
+      310.33
+    ],
+    "reading_order": 15,
+    "text": "P (E) = \nNumber of outcomes favourable to E\nNumber of all possible outcomes of the experiment",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b16",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      318.39,
+      361.59,
+      329.53
+    ],
+    "reading_order": 16,
+    "text": "where we assume that the outcomes of the experiment are equally likely.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      335.29,
+      287.33,
+      346.81
+    ],
+    "reading_order": 17,
+    "text": "2. The probability of a sure event (or certain event) is 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      352.33,
+      246.72,
+      363.85
+    ],
+    "reading_order": 18,
+    "text": "3. The probability of an impossible event is 0.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      369.61,
+      298.6,
+      381.13
+    ],
+    "reading_order": 19,
+    "text": "4. The probability of an event E is a number P(E) such that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b20",
+    "type": "paragraph",
+    "bbox": [
+      172.8,
+      386.15,
+      218.16,
+      399.16
+    ],
+    "reading_order": 20,
+    "text": "0  P (E)  1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b21",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      403.45,
+      420.03,
+      427.69
+    ],
+    "reading_order": 21,
+    "text": "5. An event having only one outcome is called an elementary event. The sum of the\nprobabilities of all the elementary events of an experiment is 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b22",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      435.85,
+      420.01,
+      459.61
+    ],
+    "reading_order": 22,
+    "text": "6. For any event E, P (E) + P ( E ) = 1, where E stands for ‘not E’. E and E are called\ncomplementary events.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b23",
+    "type": "paragraph",
+    "bbox": [
+      170.64,
+      496.91,
+      295.92,
+      513.04
+    ],
+    "reading_order": 23,
+    "text": "A NOTE TO THE READER",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b24",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      523.65,
+      398.22,
+      601.91
+    ],
+    "reading_order": 24,
+    "text": "The experimental or empirical probability of an event is based on\nwhat has actually happened while the theoretical probability of the\nevent attempts to predict what will happen on the basis of certain\nassumptions. As the number of trials in an experiment, go on\nincreasing we may expect the experimental and theoretical\nprobabilities to be nearly the same.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH114",
+    "page": 16,
+    "block_id": "jemh114_p016_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "COORDINATE GEOMETRY\n109",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      419.35,
+      120.47
+    ],
+    "reading_order": 3,
+    "text": "Therefore, the point (– 4, 6) divides the line segment joining the points A(– 6, 10) and\nB(3, – 8) in the ratio 2 : 7.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      299.29,
+      131.12,
+      326.53,
+      160.92
+    ],
+    "reading_order": 4,
+    "text": "2\n:1,\nm\nm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      137.32,
+      310.54,
+      152.59
+    ],
+    "reading_order": 5,
+    "text": "Alternatively : The ratio m1 : m2 can also be written as \n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      328.8,
+      137.73,
+      419.28,
+      149.99
+    ],
+    "reading_order": 6,
+    "text": "or k : 1. Let (– 4, 6)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      164.13,
+      362.9,
+      176.39
+    ],
+    "reading_order": 7,
+    "text": "divide AB internally in the ratio k : 1. Using the section formula, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b09",
+    "type": "formula",
+    "bbox": [
+      184.56,
+      187.58,
+      318.9,
+      219.87
+    ],
+    "reading_order": 9,
+    "text": "(– 4, 6) =\n3\n6\n8\n10\n,\n1\n1\nk\nk\nk\nk\n\n\n\n\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      406.56,
+      197.49,
+      419.28,
+      209.75
+    ],
+    "reading_order": 10,
+    "text": "(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      245.04,
+      232.21,
+      252.79,
+      262.43
+    ],
+    "reading_order": 11,
+    "text": "\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      233.44,
+      261.37,
+      261.6
+    ],
+    "reading_order": 12,
+    "text": "So,\n– 4 = 3\n6\n1\nk\nk",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      270.69,
+      258.72,
+      282.95
+    ],
+    "reading_order": 13,
+    "text": "i.e.,\n– 4k – 4 = 3k – 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      287.97,
+      235.65,
+      300.23
+    ],
+    "reading_order": 14,
+    "text": "i.e.,\n7k = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b15",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      305.26,
+      248.86,
+      317.51
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\nk : 1 = 2 : 7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      322.54,
+      228.01,
+      334.79
+    ],
+    "reading_order": 16,
+    "text": "You can check for the y-coordinate also.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      339.82,
+      419.28,
+      365.27
+    ],
+    "reading_order": 17,
+    "text": "So, the point (– 4, 6) divides the line segment joining the points A(– 6, 10) and\nB(3, – 8) in the ratio 2 : 7.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      369.88,
+      419.32,
+      395.75
+    ],
+    "reading_order": 18,
+    "text": "Note : You can also find this ratio by calculating the distances PA and PB and taking\ntheir ratios provided you know that A, P and B are collinear.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b19",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      405.16,
+      420.05,
+      431.03
+    ],
+    "reading_order": 19,
+    "text": "Example 8 : Find the coordinates of the points of trisection (i.e., points dividing in\nthree equal parts) of the line segment joining the points A(2, – 2) and B(– 7, 4).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      436.84,
+      225.62,
+      479.51
+    ],
+    "reading_order": 20,
+    "text": "Solution : Let P and Q be the points of\ntrisection of AB i.e., AP = PQ = QB\n(see Fig. 7.11).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b21",
+    "type": "paragraph",
+    "bbox": [
+      305.76,
+      467.8,
+      347.74,
+      480.47
+    ],
+    "reading_order": 21,
+    "text": "Fig. 7.11",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      486.22,
+      420.04,
+      513.6
+    ],
+    "reading_order": 22,
+    "text": "Therefore, P divides AB internally in the ratio 1 : 2. Therefore, the coordinates of P, by\napplying the section formula, are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b23",
+    "type": "paragraph",
+    "bbox": [
+      113.76,
+      521.26,
+      300.01,
+      553.47
+    ],
+    "reading_order": 23,
+    "text": "1( 7)\n2(2) 1(4)\n2( 2)\n,\n1\n2\n1\n2\n\n\n\n\n\n\n\n\n\n\n\n, i.e., (–1, 0)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      561.58,
+      400.55,
+      573.83
+    ],
+    "reading_order": 24,
+    "text": "Now, Q also divides AB internally in the ratio 2 : 1. So, the coordinates of Q are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b25",
+    "type": "paragraph",
+    "bbox": [
+      114.0,
+      585.02,
+      302.9,
+      617.31
+    ],
+    "reading_order": 25,
+    "text": "2( 7)\n1(2) 2(4)\n1( 2)\n,\n2\n1\n2\n1\n\n\n\n\n\n\n\n\n\n\n\n, i.e., (– 4, 2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 11,
+    "block_id": "jemh107_p011_b26",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 26,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

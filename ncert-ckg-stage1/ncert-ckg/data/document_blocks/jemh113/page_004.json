@@ -1,0 +1,427 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "174\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b03",
+    "type": "paragraph",
+    "bbox": [
+      208.56,
+      96.4,
+      259.45,
+      107.4
+    ],
+    "reading_order": 3,
+    "text": "Table 13.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      54.48,
+      118.45,
+      392.98,
+      132.01
+    ],
+    "reading_order": 4,
+    "text": "Class interval\nNumber of students ( fi)\nClass mark (xi)\nfixi",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b05",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      140.21,
+      396.0,
+      151.21
+    ],
+    "reading_order": 5,
+    "text": "10 - 25\n2\n17.5\n35.0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      157.49,
+      396.0,
+      168.49
+    ],
+    "reading_order": 6,
+    "text": "25 - 40\n3\n32.5\n97.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      174.53,
+      396.0,
+      185.53
+    ],
+    "reading_order": 8,
+    "text": "40 - 55\n7\n47.5\n332.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      191.81,
+      396.0,
+      202.81
+    ],
+    "reading_order": 9,
+    "text": "55 - 70\n6\n62.5\n375.0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      208.85,
+      396.0,
+      219.85
+    ],
+    "reading_order": 10,
+    "text": "70 - 85\n6\n77.5\n465.0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      75.12,
+      225.89,
+      396.0,
+      236.89
+    ],
+    "reading_order": 11,
+    "text": "85 - 100\n6\n92.5\n555.0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b12",
+    "type": "formula",
+    "bbox": [
+      76.08,
+      241.0,
+      418.8,
+      257.33
+    ],
+    "reading_order": 12,
+    "text": "Total\nΣ fi = 30\nΣ fixi = 1860.0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      263.32,
+      420.0,
+      290.17
+    ],
+    "reading_order": 13,
+    "text": "The sum of the values in the last column gives us Σ fixi. So, the mean x of the\ngiven data is given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b14",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      286.46,
+      387.71,
+      332.41
+    ],
+    "reading_order": 14,
+    "text": "f\nΣ\n=\n=\nΣ\nThis new method of finding the mean is known as the Direct Method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b15",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      289.05,
+      206.78,
+      300.19
+    ],
+    "reading_order": 15,
+    "text": "f x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b16",
+    "type": "formula",
+    "bbox": [
+      164.4,
+      289.38,
+      278.69,
+      316.12
+    ],
+    "reading_order": 16,
+    "text": "x =\n1860.0\n62\n30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b17",
+    "type": "paragraph",
+    "bbox": [
+      198.48,
+      295.53,
+      208.19,
+      301.98
+    ],
+    "reading_order": 17,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b18",
+    "type": "paragraph",
+    "bbox": [
+      204.0,
+      311.37,
+      205.79,
+      317.82
+    ],
+    "reading_order": 18,
+    "text": "i",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      339.17,
+      420.05,
+      406.09
+    ],
+    "reading_order": 19,
+    "text": "We observe that Tables 13.1 and 13.3 are using the same data and employing the\nsame formula for the calculation of the mean but the results obtained are different.\nCan you think why this is so, and which one is more accurate? The difference in the\ntwo values is because of the mid-point assumption in Table 13.3, 59.3 being the exact\nmean, while 62 an approximate mean.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      413.0,
+      420.04,
+      452.17
+    ],
+    "reading_order": 20,
+    "text": "Sometimes when the numerical values of xi and fi are large, finding the product\nof xi and fi becomes tedious and time consuming. So, for such situations, let us think of\na method of reducing these calculations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      459.08,
+      420.01,
+      500.69
+    ],
+    "reading_order": 21,
+    "text": "We can do nothing with the fi’s, but we can change each xi to a smaller number\nso that our calculations become easy. How do we do this? What about subtracting a\nfixed number from each of these xi’s? Let us try this method.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      505.16,
+      420.1,
+      558.25
+    ],
+    "reading_order": 22,
+    "text": "The first step is to choose one among the xi’s as the assumed mean, and denote\nit by ‘a’. Also, to further reduce our calculation work, we may take ‘a’ to be that xi\nwhich lies in the centre of x1, x2, . . ., xn. So, we can choose a = 47.5 or a = 62.5. Let\nus choose a = 47.5.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b23",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      565.16,
+      420.0,
+      592.85
+    ],
+    "reading_order": 23,
+    "text": "The next step is to find the difference di between a and each of the xi’s, that is,\nthe deviation of ‘a’ from each of the xi’s.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b24",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      596.84,
+      263.04,
+      610.37
+    ],
+    "reading_order": 24,
+    "text": "i.e.,\ndi = xi – a = xi – 47.5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 4,
+    "block_id": "jemh113_p004_b25",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 25,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

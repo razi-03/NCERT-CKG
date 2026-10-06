@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "44\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      386.17,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Example 6 : Find the dimensions of the prayer hall discussed in Section 4.1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      111.88,
+      419.36,
+      150.95
+    ],
+    "reading_order": 4,
+    "text": "Solution : In Section 4.1, we found that if the breadth of the hall is x m, then x\nsatisfies the equation 2x2 + x – 300 = 0. Applying the factorisation method, we write\nthis equation as",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b05",
+    "type": "formula",
+    "bbox": [
+      123.83,
+      155.73,
+      240.21,
+      167.99
+    ],
+    "reading_order": 5,
+    "text": "2x2 – 24x + 25x – 300 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b06",
+    "type": "formula",
+    "bbox": [
+      111.11,
+      173.01,
+      240.2,
+      185.27
+    ],
+    "reading_order": 6,
+    "text": "2x (x – 12) + 25 (x – 12) = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b08",
+    "type": "formula",
+    "bbox": [
+      47.98,
+      190.29,
+      240.19,
+      202.55
+    ],
+    "reading_order": 8,
+    "text": "i.e.,\n(x – 12)(2x + 25) = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.96,
+      207.58,
+      419.96,
+      233.03
+    ],
+    "reading_order": 9,
+    "text": "So, the roots of the given equation are x = 12 or x = – 12.5. Since x is the breadth\nof the hall, it cannot be negative.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b10",
+    "type": "formula",
+    "bbox": [
+      47.96,
+      237.82,
+      330.67,
+      250.07
+    ],
+    "reading_order": 10,
+    "text": "Thus, the breadth of the hall is 12 m. Its length = 2x + 1 = 25 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b11",
+    "type": "paragraph",
+    "bbox": [
+      195.36,
+      264.54,
+      272.63,
+      278.36
+    ],
+    "reading_order": 11,
+    "text": "EXERCISE 4.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      285.13,
+      349.02,
+      296.65
+    ],
+    "reading_order": 12,
+    "text": "1. Find the roots of the following quadratic equations by factorisation:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b13",
+    "type": "formula",
+    "bbox": [
+      82.56,
+      306.63,
+      325.44,
+      317.77
+    ],
+    "reading_order": 13,
+    "text": "(i) x2 – 3x – 10 = 0\n(ii) 2x2 + x – 6 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      308.4,
+      319.58,
+      313.41,
+      330.73
+    ],
+    "reading_order": 14,
+    "text": "1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b15",
+    "type": "formula",
+    "bbox": [
+      78.0,
+      326.98,
+      306.84,
+      340.72
+    ],
+    "reading_order": 15,
+    "text": "(iii)\n2\n2\n7\n5 2\n0\nx\nx\n\n\n\n(iv) 2x2 – x +",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b16",
+    "type": "formula",
+    "bbox": [
+      308.4,
+      327.99,
+      330.72,
+      346.33
+    ],
+    "reading_order": 16,
+    "text": "8 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b17",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      346.47,
+      171.84,
+      357.61
+    ],
+    "reading_order": 17,
+    "text": "(v) 100x2 – 20x + 1 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      362.17,
+      231.16,
+      373.69
+    ],
+    "reading_order": 18,
+    "text": "2. Solve the problems given in Example 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b19",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      377.29,
+      353.99,
+      403.69
+    ],
+    "reading_order": 19,
+    "text": "3. Find two numbers whose sum is 27 and product is 182.\n4. Find two consecutive positive integers, sum of whose squares is 365.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      407.29,
+      420.08,
+      481.69
+    ],
+    "reading_order": 20,
+    "text": "5. The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, find\nthe other two sides.\n6. A cottage industry produces a certain number of pottery articles in a day. It was observed\non a particular day that the cost of production of each article (in rupees) was 3 more than\ntwice the number of articles produced on that day. If the total cost of production on that\nday was ` 90, find the number of articles produced and the cost of each article.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b21",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      490.86,
+      149.98,
+      504.68
+    ],
+    "reading_order": 21,
+    "text": "4.4 Nature of Roots",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      509.97,
+      239.29,
+      522.23
+    ],
+    "reading_order": 22,
+    "text": "The equation ax2 + bx + c = 0 are given by",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      188.4,
+      531.48,
+      252.3,
+      561.34
+    ],
+    "reading_order": 23,
+    "text": "2\n–\n4\n2\nb\nb\nac\na\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b24",
+    "type": "formula",
+    "bbox": [
+      166.57,
+      541.65,
+      180.73,
+      553.91
+    ],
+    "reading_order": 24,
+    "text": "x =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b25",
+    "type": "paragraph",
+    "bbox": [
+      321.6,
+      563.68,
+      394.11,
+      593.24
+    ],
+    "reading_order": 25,
+    "text": "2\n4\n2\n2\nb\nac\nb",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b26",
+    "type": "paragraph",
+    "bbox": [
+      313.45,
+      563.83,
+      420.0,
+      593.23
+    ],
+    "reading_order": 26,
+    "text": "a\na\n\n\n\n and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b27",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      572.13,
+      309.66,
+      584.39
+    ],
+    "reading_order": 27,
+    "text": "If b2 – 4ac > 0, we get two distinct real roots",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b28",
+    "type": "paragraph",
+    "bbox": [
+      59.76,
+      596.04,
+      130.39,
+      625.9
+    ],
+    "reading_order": 28,
+    "text": "2\n4\n–\n2\n2\nb\nac\nb",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b29",
+    "type": "paragraph",
+    "bbox": [
+      49.93,
+      596.39,
+      137.15,
+      625.89
+    ],
+    "reading_order": 29,
+    "text": "a\na\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH104",
+    "page": 7,
+    "block_id": "jemh104_p007_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

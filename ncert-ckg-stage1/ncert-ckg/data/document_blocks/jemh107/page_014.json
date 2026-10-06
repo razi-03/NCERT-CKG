@@ -1,0 +1,342 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "112\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      116.37,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "7.4 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.43,
+      269.3,
+      124.57
+    ],
+    "reading_order": 4,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b05",
+    "type": "paragraph",
+    "bbox": [
+      59.28,
+      132.75,
+      390.84,
+      148.03
+    ],
+    "reading_order": 5,
+    "text": "1. The distance between P(x1, y1) and Q(x2, y2) is \n2\n2\n2\n1\n2\n1\n(\n)\n(\n) .\nx\nx\ny\ny\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b06",
+    "type": "paragraph",
+    "bbox": [
+      59.28,
+      149.97,
+      420.01,
+      197.47
+    ],
+    "reading_order": 6,
+    "text": "2. The distance of a point P(x, y) from the origin is \n2\n2 .\nx\ny\n\n3. The coordinates of the point P(x, y) which divides the line segment joining the\npoints A(x1, y1) and B(x2, y2) internally in the ratio m1 : m2 are",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b08",
+    "type": "paragraph",
+    "bbox": [
+      59.28,
+      200.88,
+      420.0,
+      246.67
+    ],
+    "reading_order": 8,
+    "text": "1\n2\n1\n2\n,\nm x\nm x\nm y\nm y\nm\nm\nm\nm\n\n\n\n\n\n\n\n\n\n\n\n4. The mid-point of the line segment joining the points P(x1, y1) and Q(x2, y2) is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      86.64,
+      208.23,
+      189.5,
+      215.5
+    ],
+    "reading_order": 9,
+    "text": "1 2\n2 1\n1\n2\n2\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b10",
+    "type": "paragraph",
+    "bbox": [
+      74.16,
+      248.4,
+      157.55,
+      276.51
+    ],
+    "reading_order": 10,
+    "text": "1\n2\n1\n2\n,\n2\n2\nx\nx\ny\ny\n\n\n\n\n\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b11",
+    "type": "paragraph",
+    "bbox": [
+      176.16,
+      293.87,
+      290.4,
+      310.0
+    ],
+    "reading_order": 11,
+    "text": "A NOTE TO THE READER",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b12",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      320.37,
+      398.21,
+      361.63
+    ],
+    "reading_order": 12,
+    "text": "Section 7.3 discusses the Section Formula for the coordinates (x, y) of a\npoint P which  divides internally the line segment joining the points\nA(x1, y1) and B(x2, y2) in the ratio m1 : m2 as follows :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b13",
+    "type": "formula",
+    "bbox": [
+      162.96,
+      370.21,
+      311.26,
+      400.43
+    ],
+    "reading_order": 13,
+    "text": "m x\nm x\nm\nm\n\n\n ,\ny = \n1\n2\n2\n1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b14",
+    "type": "paragraph",
+    "bbox": [
+      256.8,
+      370.21,
+      308.27,
+      400.43
+    ],
+    "reading_order": 14,
+    "text": "m y\nm y\nm\nm\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b15",
+    "type": "formula",
+    "bbox": [
+      141.6,
+      377.82,
+      214.54,
+      392.15
+    ],
+    "reading_order": 15,
+    "text": "x = \n1 2\n2 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b16",
+    "type": "paragraph",
+    "bbox": [
+      179.04,
+      393.42,
+      204.7,
+      401.4
+    ],
+    "reading_order": 16,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b17",
+    "type": "paragraph",
+    "bbox": [
+      274.08,
+      393.42,
+      300.22,
+      401.4
+    ],
+    "reading_order": 17,
+    "text": "1\n2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b18",
+    "type": "formula",
+    "bbox": [
+      68.16,
+      410.85,
+      228.83,
+      425.71
+    ],
+    "reading_order": 18,
+    "text": "Note that, here, PA : PB = m1 : m2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b19",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      430.05,
+      398.41,
+      481.91
+    ],
+    "reading_order": 19,
+    "text": "However, if P does not lie between A and B but lies on the line AB,\noutside the line segment AB, and PA : PB = m1 : m2, we say that P divides\nexternally the line segment joining the points A and B. You will study\nSection Formula for such case in higher classes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 14,
+    "block_id": "jemh107_p014_b20",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 20,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

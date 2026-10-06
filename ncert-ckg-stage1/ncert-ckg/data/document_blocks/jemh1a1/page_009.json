@@ -1,0 +1,308 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "226\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b03",
+    "type": "paragraph",
+    "bbox": [
+      61.92,
+      100.77,
+      408.03,
+      126.23
+    ],
+    "reading_order": 3,
+    "text": "4.\nUsing the properties of integers, we see\nUsing known properties of\nthat mq + np and nq are integers.\nintegers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b04",
+    "type": "paragraph",
+    "bbox": [
+      61.94,
+      134.82,
+      408.06,
+      162.33
+    ],
+    "reading_order": 4,
+    "text": "5.\nSince n  0 and q  0, it follows that\nUsing known properties of\nnq  0.\nintegers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_009_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b06",
+    "type": "paragraph",
+    "bbox": [
+      102.01,
+      174.37,
+      396.99,
+      208.07
+    ],
+    "reading_order": 6,
+    "text": "\n\n\n is a rational\nUsing the definition of a\nnumber\nrational number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b07",
+    "type": "paragraph",
+    "bbox": [
+      61.94,
+      175.77,
+      222.24,
+      194.87
+    ],
+    "reading_order": 7,
+    "text": "6.\nTherefore, \nmq\nnp\nx\ny",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b08",
+    "type": "paragraph",
+    "bbox": [
+      199.2,
+      191.61,
+      210.01,
+      203.75
+    ],
+    "reading_order": 8,
+    "text": "nq",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      219.64,
+      420.05,
+      245.51
+    ],
+    "reading_order": 9,
+    "text": "Remark : Note that, each statement in the proof above is based on a previously\nestablished fact, or definition.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      250.12,
+      419.99,
+      275.99
+    ],
+    "reading_order": 10,
+    "text": "Example 11 : Every prime number greater than 3 is of the form 6k + 1 or 6k + 5,\nwhere k is some integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      280.6,
+      94.56,
+      293.27
+    ],
+    "reading_order": 11,
+    "text": "Solution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b12",
+    "type": "formula",
+    "bbox": [
+      55.21,
+      307.72,
+      402.97,
+      320.39
+    ],
+    "reading_order": 12,
+    "text": "S.No.\nStatements\nAnalysis/Comments",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b13",
+    "type": "paragraph",
+    "bbox": [
+      61.96,
+      330.45,
+      410.44,
+      382.31
+    ],
+    "reading_order": 13,
+    "text": "1.\nLet p be a prime number greater than 3.\nSince the result has to do\nwith a prime number\ngreater than 3, we start with\nsuch a number.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b14",
+    "type": "paragraph",
+    "bbox": [
+      61.92,
+      392.13,
+      359.28,
+      447.1
+    ],
+    "reading_order": 14,
+    "text": "2.\nDividing p by 6, we find that p can be of\nUsing Euclid’s\nthe form 6k, 6k + 1, 6k + 2,\ndivision lemma.\n6k + 3, 6k + 4, or 6k + 5, where k is\nan integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b15",
+    "type": "paragraph",
+    "bbox": [
+      61.89,
+      456.92,
+      386.36,
+      511.89
+    ],
+    "reading_order": 15,
+    "text": "3.\nBut 6k = 2(3k), 6k + 2 = 2(3k + 1),\nWe now analyse the\n6k + 4 = 2(3k + 2),\nremainders given that\nand 6k + 3 = 3(2k + 1). So, they are\np is prime.\nnot primes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b16",
+    "type": "paragraph",
+    "bbox": [
+      61.87,
+      521.71,
+      410.11,
+      562.52
+    ],
+    "reading_order": 16,
+    "text": "4.\nSo, p is forced to be of the\nWe arrive at this conclusion\nform 6k + 1 or 6k + 5, for some\nhaving eliminated the other\ninteger k.\noptions.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.92,
+      576.25,
+      420.03,
+      602.12
+    ],
+    "reading_order": 17,
+    "text": "Remark : In the above example, we have arrived at the conclusion by eliminating\ndifferent options. This method is sometimes referred to as the Proof by Exhaustion.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 9,
+    "block_id": "jemh1a1_p009_b18",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 18,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n79",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.38,
+      179.29,
+      108.2
+    ],
+    "reading_order": 3,
+    "text": "6.3 Similarity of Triangles",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      113.25,
+      290.93,
+      125.51
+    ],
+    "reading_order": 4,
+    "text": "What can you say about the similarity of two triangles?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      130.53,
+      420.01,
+      155.99
+    ],
+    "reading_order": 5,
+    "text": "You may recall that triangle is also a polygon. So, we can state the same conditions\nfor the similarity of two triangles. That is:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b06",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      161.18,
+      202.57,
+      173.26
+    ],
+    "reading_order": 6,
+    "text": "Two triangles are similiar, if",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b08",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      178.3,
+      282.0,
+      190.55
+    ],
+    "reading_order": 8,
+    "text": "(i) their corresponding angles are equal and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      195.34,
+      386.26,
+      207.59
+    ],
+    "reading_order": 9,
+    "text": "(ii) their corresponding sides are in the same ratio (or proportion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      212.62,
+      276.05,
+      277.67
+    ],
+    "reading_order": 10,
+    "text": "Note that if corresponding angles of two\ntriangles are equal, then they are known as\nequiangular triangles. A famous Greek\nmathematician Thales gave an important truth relating\nto two equiangular triangles which is as follows:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b11",
+    "type": "figure",
+    "bbox": [
+      308.93,
+      222.32,
+      389.94,
+      330.43
+    ],
+    "reading_order": 11,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_007_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b12",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      282.86,
+      276.02,
+      308.14
+    ],
+    "reading_order": 12,
+    "text": "The ratio of any two corresponding sides in\ntwo equiangular triangles is always the same.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b13",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      313.18,
+      276.01,
+      351.83
+    ],
+    "reading_order": 13,
+    "text": "It is believed that he had used a result called\nthe Basic Proportionality Theorem (now known as\nthe Thales Theorem) for the same.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b14",
+    "type": "paragraph",
+    "bbox": [
+      308.4,
+      336.04,
+      390.24,
+      361.67
+    ],
+    "reading_order": 14,
+    "text": "Thales\n(640 – 546 B.C.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      356.86,
+      276.03,
+      382.31
+    ],
+    "reading_order": 15,
+    "text": "To understand the Basic Proportionality\nTheorem, let us perform the following activity:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      386.68,
+      276.06,
+      425.75
+    ],
+    "reading_order": 16,
+    "text": "Activity 2 : Draw any angle XAY and on its one\narm AX, mark points (say five points) P, Q, D, R and\nB such that AP = PQ = QD = DR = RB.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      430.77,
+      276.02,
+      456.23
+    ],
+    "reading_order": 17,
+    "text": "Now, through B, draw any line intersecting arm\nAY at C (see Fig. 6.9).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      461.26,
+      276.04,
+      486.71
+    ],
+    "reading_order": 18,
+    "text": "Also, through the point D, draw a line parallel\nto BC to intersect AC at E. Do you observe from",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b19",
+    "type": "paragraph",
+    "bbox": [
+      329.76,
+      486.04,
+      366.48,
+      498.71
+    ],
+    "reading_order": 19,
+    "text": "Fig. 6.9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      492.84,
+      275.99,
+      521.05
+    ],
+    "reading_order": 20,
+    "text": "your constructions that AD\n3\nDB\n2\n\n? Measure AE and",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      524.36,
+      139.69,
+      545.03
+    ],
+    "reading_order": 21,
+    "text": "EC. What about AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b22",
+    "type": "paragraph",
+    "bbox": [
+      125.52,
+      524.36,
+      227.53,
+      552.23
+    ],
+    "reading_order": 22,
+    "text": "EC ? Observe that AE",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b23",
+    "type": "paragraph",
+    "bbox": [
+      213.36,
+      524.36,
+      311.75,
+      552.23
+    ],
+    "reading_order": 23,
+    "text": "EC is also equal to 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b24",
+    "type": "paragraph",
+    "bbox": [
+      306.24,
+      532.77,
+      420.02,
+      552.23
+    ],
+    "reading_order": 24,
+    "text": "2 . Thus, you can see that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b25",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      555.96,
+      420.06,
+      584.17
+    ],
+    "reading_order": 25,
+    "text": "in  ABC, DE || BC and AD\nAE\nDB\nEC\n\n. Is it a coincidence? No, it is due to the following",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b26",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      586.05,
+      294.02,
+      598.31
+    ],
+    "reading_order": 26,
+    "text": "theorem (known as the Basic Proportionality Theorem):",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 7,
+    "block_id": "jemh106_p007_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

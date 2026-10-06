@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "34\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b03",
+    "type": "header",
+    "bbox": [
+      77.28,
+      94.95,
+      420.05,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "(vi) Five years hence, the age of Jacob will be three times that of his son. Five years",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b04",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      106.95,
+      414.01,
+      118.09
+    ],
+    "reading_order": 4,
+    "text": "ago, Jacob’s age was seven times that of his son. What are their present ages?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b05",
+    "type": "subsection_heading",
+    "bbox": [
+      48.0,
+      131.34,
+      176.88,
+      145.16
+    ],
+    "reading_order": 5,
+    "text": "3.3.2 Elimination Method",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      150.45,
+      420.07,
+      189.83
+    ],
+    "reading_order": 6,
+    "text": "Now let us consider another method of eliminating (i.e., removing) one variable. This\nis sometimes more convenient than the substitution method. Let us see how this method\nworks.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      199.72,
+      420.04,
+      239.27
+    ],
+    "reading_order": 8,
+    "text": "Example 8 : The ratio of incomes of two persons is 9 : 7 and the ratio of their\nexpenditures is 4 : 3. If each of them manages to save ` 2000 per month, find their\nmonthly incomes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      244.12,
+      420.04,
+      283.91
+    ],
+    "reading_order": 9,
+    "text": "Solution : Let us denote the incomes of the two person by ` 9x and ` 7x and their\nexpenditures by ` 4y and ` 3y respectively. Then the equations formed in the situation\nis given by :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b10",
+    "type": "formula",
+    "bbox": [
+      186.0,
+      288.94,
+      419.76,
+      301.19
+    ],
+    "reading_order": 10,
+    "text": "9x – 4y = 2000\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      306.46,
+      419.75,
+      318.71
+    ],
+    "reading_order": 11,
+    "text": "and\n7x – 3y = 2000\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      323.57,
+      420.04,
+      349.67
+    ],
+    "reading_order": 12,
+    "text": "Step 1 : Multiply Equation (1) by 3 and Equation (2) by 4 to make the coefficients of\ny equal. Then we get the equations:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b13",
+    "type": "formula",
+    "bbox": [
+      175.43,
+      354.94,
+      419.75,
+      367.19
+    ],
+    "reading_order": 13,
+    "text": "27x – 12y = 6000\n(3)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b14",
+    "type": "formula",
+    "bbox": [
+      175.42,
+      372.46,
+      419.74,
+      384.71
+    ],
+    "reading_order": 14,
+    "text": "28x – 12y = 8000\n(4)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      389.57,
+      420.04,
+      415.67
+    ],
+    "reading_order": 15,
+    "text": "Step 2 : Subtract Equation (3) from Equation (4) to eliminate y, because the coefficients\nof y are the same. So, we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b16",
+    "type": "formula",
+    "bbox": [
+      105.12,
+      420.94,
+      286.55,
+      433.19
+    ],
+    "reading_order": 16,
+    "text": "(28x – 27x) – (12y – 12y) = 8000 – 6000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      438.46,
+      253.43,
+      450.71
+    ],
+    "reading_order": 17,
+    "text": "i.e.,\nx = 2000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      455.57,
+      266.16,
+      468.24
+    ],
+    "reading_order": 18,
+    "text": "Step 3 : Substituting this value of x in (1), we get",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b19",
+    "type": "formula",
+    "bbox": [
+      162.71,
+      473.5,
+      253.44,
+      485.76
+    ],
+    "reading_order": 19,
+    "text": "9(2000) – 4y = 2000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b20",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      491.02,
+      420.0,
+      532.8
+    ],
+    "reading_order": 20,
+    "text": "i.e.,\ny = 4000\nSo, the solution of the equations is x = 2000, y = 4000. Therefore, the monthly incomes\nof the persons are ` 18,000 and ` 14,000, respectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      542.19,
+      420.0,
+      568.06
+    ],
+    "reading_order": 21,
+    "text": "Verification : 18000 : 14000 = 9 : 7. Also, the ratio of their expenditures =\n18000 – 2000 : 14000 – 2000 = 16000 : 12000 = 4 : 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      577.71,
+      99.84,
+      590.38
+    ],
+    "reading_order": 22,
+    "text": "Remarks :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b23",
+    "type": "paragraph",
+    "bbox": [
+      60.0,
+      594.21,
+      420.06,
+      619.67
+    ],
+    "reading_order": 23,
+    "text": "1. The method used in solving the example above is called the elimination method,\nbecause we eliminate one variable first, to get a linear equation in one variable.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH103",
+    "page": 11,
+    "block_id": "jemh103_p011_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

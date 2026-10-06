@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "178\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      95.8,
+      420.07,
+      153.36
+    ],
+    "reading_order": 3,
+    "text": "Example 2 : The table below gives the percentage distribution of female teachers in\nthe primary schools of rural areas of various states and union territories (U.T.) of\nIndia. Find the mean percentage of female teachers by all the three methods discussed\nin this section.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b04",
+    "type": "paragraph",
+    "bbox": [
+      53.03,
+      164.69,
+      414.24,
+      191.29
+    ],
+    "reading_order": 4,
+    "text": "Percentage of\n15 - 25\n25 - 35\n35 - 45\n45 - 55\n55 - 65\n65 - 75\n75 - 85\nfemale teachers",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b06",
+    "type": "formula",
+    "bbox": [
+      53.03,
+      200.69,
+      401.73,
+      226.56
+    ],
+    "reading_order": 6,
+    "text": "Number of\n6\n11\n7\n4\n4\n2\n1\nStates/U.T.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      242.45,
+      398.92,
+      255.12
+    ],
+    "reading_order": 7,
+    "text": "Source : Seventh All India School Education Survey conducted by NCERT",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b08",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      266.45,
+      420.04,
+      293.99
+    ],
+    "reading_order": 8,
+    "text": "Solution : Let us find the class marks, xi, of each class, and put them in a column\n(see Table 13.6):",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      208.57,
+      309.16,
+      259.45,
+      321.83
+    ],
+    "reading_order": 9,
+    "text": "Table 13.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b10",
+    "type": "formula",
+    "bbox": [
+      63.85,
+      336.27,
+      376.18,
+      368.83
+    ],
+    "reading_order": 10,
+    "text": "Percentage of female\nNumber of\nx i\nteachers\nStates /U.T. ( fi)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b11",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      377.25,
+      377.27,
+      389.5
+    ],
+    "reading_order": 11,
+    "text": "15 - 25\n6\n20",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      401.25,
+      377.27,
+      413.5
+    ],
+    "reading_order": 12,
+    "text": "25 - 35\n11\n30",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b13",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      425.25,
+      377.27,
+      437.51
+    ],
+    "reading_order": 13,
+    "text": "35 - 45\n7\n40",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      449.26,
+      377.27,
+      461.51
+    ],
+    "reading_order": 14,
+    "text": "45 - 55\n4\n50",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b15",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      473.26,
+      377.27,
+      485.51
+    ],
+    "reading_order": 15,
+    "text": "55 - 65\n4\n60",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      497.26,
+      377.27,
+      509.51
+    ],
+    "reading_order": 16,
+    "text": "65 - 75\n2\n70",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      100.08,
+      521.26,
+      377.27,
+      533.52
+    ],
+    "reading_order": 17,
+    "text": "75 - 85\n1\n80",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      300.24,
+      553.0,
+      349.55,
+      573.35
+    ],
+    "reading_order": 18,
+    "text": "x\nu\n\n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b19",
+    "type": "formula",
+    "bbox": [
+      71.99,
+      554.11,
+      343.62,
+      579.84
+    ],
+    "reading_order": 19,
+    "text": "Here we take a = 50, h = 10, then di = xi – 50 and \n50\n10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b20",
+    "type": "paragraph",
+    "bbox": [
+      305.28,
+      560.6,
+      323.92,
+      573.65
+    ],
+    "reading_order": 20,
+    "text": "i\ni",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b21",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      590.61,
+      292.33,
+      606.47
+    ],
+    "reading_order": 21,
+    "text": "We now find di and ui and put them in Table 13.7.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH113",
+    "page": 8,
+    "block_id": "jemh113_p008_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

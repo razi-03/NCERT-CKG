@@ -1,0 +1,410 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      420.0,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "250\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b03",
+    "type": "paragraph",
+    "bbox": [
+      352.56,
+      146.05,
+      416.96,
+      162.05
+    ],
+    "reading_order": 3,
+    "text": "APPENDIX 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_001_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b05",
+    "type": "formula",
+    "bbox": [
+      173.28,
+      179.03,
+      294.72,
+      193.03
+    ],
+    "reading_order": 5,
+    "text": "ANSWERS/HINTS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b06",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      224.55,
+      272.88,
+      235.55
+    ],
+    "reading_order": 6,
+    "text": "EXERCISE 1.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b07",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      244.0,
+      375.12,
+      254.17
+    ],
+    "reading_order": 7,
+    "text": "1.\n(i) 22 × 5 × 7\n(ii) 22 × 3 × 13\n(iii) 32 × 52 × 17",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b08",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      260.25,
+      259.44,
+      270.25
+    ],
+    "reading_order": 8,
+    "text": "(iv) 5 × 7 × 11 × 13\n(v) 17 × 19 × 23",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b09",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      276.2,
+      417.61,
+      286.33
+    ],
+    "reading_order": 9,
+    "text": "2.\n(i) LCM = 182; HCF = 13\n(ii) LCM = 23460; HCF = 2\n(iii) LCM = 3024; HCF = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b10",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      292.28,
+      417.61,
+      302.41
+    ],
+    "reading_order": 10,
+    "text": "3.\n(i) LCM = 420; HCF = 3\n(ii) LCM = 11339; HCF = 1\n(iii) LCM = 1800; HCF = 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b11",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      308.36,
+      255.6,
+      318.49
+    ],
+    "reading_order": 11,
+    "text": "4. 22338\n7. 36 minutes",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b12",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      339.27,
+      272.88,
+      350.27
+    ],
+    "reading_order": 12,
+    "text": "EXERCISE 2.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      358.76,
+      389.24,
+      368.89
+    ],
+    "reading_order": 13,
+    "text": "1.\n(i) No zeroes\n(ii) 1\n(iii) 3\n(iv) 2\n(v) 4\n(vi) 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b14",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      385.59,
+      272.88,
+      396.59
+    ],
+    "reading_order": 14,
+    "text": "EXERCISE 2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b15",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      403.01,
+      358.49,
+      428.87
+    ],
+    "reading_order": 15,
+    "text": "1.\n(i) –2, 4\n(ii) 1\n1\n,\n2\n2\n(iii)\n1\n3\n,\n3\n2\n−",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b16",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      434.77,
+      355.13,
+      458.87
+    ],
+    "reading_order": 16,
+    "text": "(iv) –2, 0\n(v)\n15,\n15\n−\n(vi)\n4\n–1, 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b17",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      470.73,
+      366.93,
+      482.65
+    ],
+    "reading_order": 17,
+    "text": "2.\n(i) 4x2 – x – 4\n(ii)\n2\n3\n3 2\n1\nx\nx\n−\n+\n(iii)\n2\n5\nx\n+",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b18",
+    "type": "formula",
+    "bbox": [
+      70.56,
+      491.44,
+      372.0,
+      501.61
+    ],
+    "reading_order": 18,
+    "text": "(iv) x2 – x + 1\n(v) 4x2 + x + 1\n(vi) x2 – 4x + 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b19",
+    "type": "paragraph",
+    "bbox": [
+      195.12,
+      530.31,
+      272.88,
+      541.31
+    ],
+    "reading_order": 19,
+    "text": "EXERCISE 3.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b20",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      549.8,
+      230.89,
+      559.93
+    ],
+    "reading_order": 20,
+    "text": "1.\n(i) Required pair of linear equations is",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b21",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      565.93,
+      406.57,
+      576.01
+    ],
+    "reading_order": 21,
+    "text": "x + y = 10; x – y = 4, where x is the number of girls and y is the number of boys.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b22",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      582.09,
+      420.02,
+      604.09
+    ],
+    "reading_order": 22,
+    "text": "To solve graphically draw the graphs of these equations on the same axes on graph\npaper.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b23",
+    "type": "formula",
+    "bbox": [
+      90.72,
+      610.17,
+      165.61,
+      620.17
+    ],
+    "reading_order": 23,
+    "text": "Girls = 7, Boys = 3.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 1,
+    "block_id": "jemh1an_p001_b24",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 24,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,3096 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_166.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "COORDINATE GEOMETRY\n103",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      93.78,
+      419.99,
+      108.09
+    ],
+    "reading_order": 3,
+    "text": "Also, PQ2 + PR2 = QR2, by the converse of Pythagoras theorem, we have  P = 90°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      112.29,
+      200.17,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "Therefore, PQR is a right triangle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      133.95,
+      420.02,
+      159.82
+    ],
+    "reading_order": 5,
+    "text": "Example 2 : Show that the points (1, 7), (4, 2), (–1, –1) and (– 4, 4) are the vertices\nof a square.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      164.43,
+      420.0,
+      203.51
+    ],
+    "reading_order": 6,
+    "text": "Solution : Let A(1, 7), B(4, 2), C(–1, –1) and D(– 4, 4) be the given points. One way\nof showing that ABCD is a square is to use the property that all its sides should be\nequal and both its digonals should also be equal. Now,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_167.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b08",
+    "type": "formula",
+    "bbox": [
+      72.01,
+      208.69,
+      267.55,
+      223.03
+    ],
+    "reading_order": 8,
+    "text": "AB =\n2\n2\n(1 – 4)\n(7\n2)\n9\n25\n34\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b09",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      231.17,
+      264.49,
+      245.87
+    ],
+    "reading_order": 9,
+    "text": "BC =\n2\n2\n(4\n1)\n(2\n1)\n25\n9\n34\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b10",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      253.81,
+      277.63,
+      268.15
+    ],
+    "reading_order": 10,
+    "text": "CD =\n2\n2\n(–1\n4)\n(–1 – 4)\n9\n25\n34\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b11",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      276.61,
+      273.07,
+      290.95
+    ],
+    "reading_order": 11,
+    "text": "DA =\n2\n2\n(1\n4)\n(7 – 4)\n25\n9\n34\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b12",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      298.85,
+      261.85,
+      313.55
+    ],
+    "reading_order": 12,
+    "text": "AC =\n2\n2\n(1 1)\n(7\n1)\n4\n64\n68\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      321.65,
+      271.45,
+      336.35
+    ],
+    "reading_order": 13,
+    "text": "BD =\n2\n2\n(4\n4)\n(2\n4)\n64\n4\n68\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b14",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      344.13,
+      420.03,
+      382.79
+    ],
+    "reading_order": 14,
+    "text": "Since, AB = BC = CD = DA and AC = BD, all the four sides of the quadrilateral\nABCD are equal and its diagonals AC and BD are also equal. Thereore, ABCD is a\nsquare.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      387.15,
+      196.92,
+      505.43
+    ],
+    "reading_order": 15,
+    "text": "Alternative Solution : We find\nthe four sides and one diagonal, say,\nAC as above. Here AD2 + DC2 =\n34 + 34 = 68 = AC2. Therefore, by\nthe converse of Pythagoras\ntheorem,  D = 90°. A quadrilateral\nwith all four sides equal and one\nangle 90° is a square. So, ABCD\nis a square.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b16",
+    "type": "figure",
+    "bbox": [
+      385.65,
+      448.99,
+      389.76,
+      449.28
+    ],
+    "reading_order": 16,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_74.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b17",
+    "type": "figure",
+    "bbox": [
+      384.93,
+      449.23,
+      390.24,
+      449.52
+    ],
+    "reading_order": 17,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_73.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b18",
+    "type": "figure",
+    "bbox": [
+      383.98,
+      449.46,
+      390.95,
+      449.76
+    ],
+    "reading_order": 18,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_72.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b19",
+    "type": "figure",
+    "bbox": [
+      383.5,
+      449.7,
+      391.19,
+      449.99
+    ],
+    "reading_order": 19,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_71.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b20",
+    "type": "figure",
+    "bbox": [
+      383.02,
+      449.94,
+      391.43,
+      450.23
+    ],
+    "reading_order": 20,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_70.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b21",
+    "type": "figure",
+    "bbox": [
+      383.02,
+      450.17,
+      391.67,
+      450.47
+    ],
+    "reading_order": 21,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_68.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b22",
+    "type": "figure",
+    "bbox": [
+      382.54,
+      450.41,
+      391.91,
+      450.71
+    ],
+    "reading_order": 22,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_67.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b23",
+    "type": "figure",
+    "bbox": [
+      381.83,
+      450.65,
+      392.15,
+      450.94
+    ],
+    "reading_order": 23,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_66.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b24",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      450.89,
+      392.15,
+      451.18
+    ],
+    "reading_order": 24,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_65.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b25",
+    "type": "figure",
+    "bbox": [
+      381.35,
+      451.12,
+      392.39,
+      451.65
+    ],
+    "reading_order": 25,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_64.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b26",
+    "type": "figure",
+    "bbox": [
+      381.35,
+      451.6,
+      392.62,
+      451.89
+    ],
+    "reading_order": 26,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_63.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b27",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      451.83,
+      392.86,
+      452.36
+    ],
+    "reading_order": 27,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_62.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b28",
+    "type": "figure",
+    "bbox": [
+      381.83,
+      452.31,
+      393.1,
+      452.84
+    ],
+    "reading_order": 28,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_61.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b29",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      452.78,
+      393.1,
+      453.07
+    ],
+    "reading_order": 29,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_60.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b30",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      453.02,
+      393.34,
+      453.79
+    ],
+    "reading_order": 30,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_59.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b31",
+    "type": "figure",
+    "bbox": [
+      381.35,
+      453.73,
+      393.34,
+      455.44
+    ],
+    "reading_order": 31,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_57.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b32",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      455.39,
+      393.34,
+      456.15
+    ],
+    "reading_order": 32,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_56.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b33",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      456.1,
+      393.1,
+      456.39
+    ],
+    "reading_order": 33,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_55.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b34",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      456.34,
+      393.58,
+      456.63
+    ],
+    "reading_order": 34,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_54.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b35",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      456.57,
+      393.82,
+      456.87
+    ],
+    "reading_order": 35,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_53.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b36",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      456.81,
+      394.53,
+      457.1
+    ],
+    "reading_order": 36,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_52.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b37",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      457.05,
+      395.01,
+      457.34
+    ],
+    "reading_order": 37,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_51.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b38",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      457.28,
+      395.49,
+      457.58
+    ],
+    "reading_order": 38,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_50.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b39",
+    "type": "figure",
+    "bbox": [
+      381.35,
+      457.52,
+      395.73,
+      458.05
+    ],
+    "reading_order": 39,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_49.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b40",
+    "type": "figure",
+    "bbox": [
+      381.11,
+      457.99,
+      395.96,
+      458.52
+    ],
+    "reading_order": 40,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_48.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b41",
+    "type": "figure",
+    "bbox": [
+      381.11,
+      458.47,
+      396.2,
+      458.76
+    ],
+    "reading_order": 41,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_46.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b42",
+    "type": "figure",
+    "bbox": [
+      381.35,
+      458.71,
+      396.2,
+      459.0
+    ],
+    "reading_order": 42,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_45.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b43",
+    "type": "figure",
+    "bbox": [
+      381.59,
+      458.94,
+      396.44,
+      459.24
+    ],
+    "reading_order": 43,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_44.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b44",
+    "type": "figure",
+    "bbox": [
+      381.83,
+      459.18,
+      396.44,
+      459.71
+    ],
+    "reading_order": 44,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_43.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b45",
+    "type": "figure",
+    "bbox": [
+      382.07,
+      459.65,
+      396.44,
+      459.95
+    ],
+    "reading_order": 45,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_42.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b46",
+    "type": "figure",
+    "bbox": [
+      382.3,
+      459.89,
+      396.44,
+      460.42
+    ],
+    "reading_order": 46,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_41.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b47",
+    "type": "figure",
+    "bbox": [
+      382.54,
+      460.36,
+      396.44,
+      460.89
+    ],
+    "reading_order": 47,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_40.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b48",
+    "type": "figure",
+    "bbox": [
+      382.78,
+      460.84,
+      396.44,
+      461.37
+    ],
+    "reading_order": 48,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_39.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b49",
+    "type": "figure",
+    "bbox": [
+      382.54,
+      461.31,
+      396.44,
+      461.6
+    ],
+    "reading_order": 49,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_38.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b50",
+    "type": "figure",
+    "bbox": [
+      382.54,
+      461.55,
+      385.46,
+      461.84
+    ],
+    "reading_order": 50,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_35.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b51",
+    "type": "figure",
+    "bbox": [
+      385.88,
+      461.55,
+      396.2,
+      461.84
+    ],
+    "reading_order": 51,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_37.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b52",
+    "type": "figure",
+    "bbox": [
+      382.78,
+      461.79,
+      384.75,
+      462.08
+    ],
+    "reading_order": 52,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_33.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b53",
+    "type": "figure",
+    "bbox": [
+      386.12,
+      461.79,
+      396.2,
+      462.08
+    ],
+    "reading_order": 53,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_34.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b54",
+    "type": "figure",
+    "bbox": [
+      386.36,
+      462.02,
+      395.97,
+      462.32
+    ],
+    "reading_order": 54,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_32.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b55",
+    "type": "figure",
+    "bbox": [
+      386.6,
+      462.26,
+      395.96,
+      462.79
+    ],
+    "reading_order": 55,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_31.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b56",
+    "type": "figure",
+    "bbox": [
+      386.84,
+      462.73,
+      392.39,
+      463.03
+    ],
+    "reading_order": 56,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_29.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b57",
+    "type": "figure",
+    "bbox": [
+      393.04,
+      462.73,
+      395.96,
+      463.03
+    ],
+    "reading_order": 57,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_30.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b58",
+    "type": "figure",
+    "bbox": [
+      387.08,
+      462.97,
+      392.62,
+      463.26
+    ],
+    "reading_order": 58,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_27.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b59",
+    "type": "figure",
+    "bbox": [
+      393.28,
+      462.97,
+      395.97,
+      463.26
+    ],
+    "reading_order": 59,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_28.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b60",
+    "type": "figure",
+    "bbox": [
+      386.6,
+      463.21,
+      392.86,
+      463.5
+    ],
+    "reading_order": 60,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_24.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b61",
+    "type": "figure",
+    "bbox": [
+      393.52,
+      463.21,
+      395.73,
+      463.5
+    ],
+    "reading_order": 61,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_26.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b62",
+    "type": "figure",
+    "bbox": [
+      386.36,
+      463.44,
+      393.1,
+      463.74
+    ],
+    "reading_order": 62,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_22.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b63",
+    "type": "figure",
+    "bbox": [
+      394.0,
+      463.44,
+      395.73,
+      463.74
+    ],
+    "reading_order": 63,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_23.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b64",
+    "type": "figure",
+    "bbox": [
+      386.12,
+      463.68,
+      393.34,
+      463.97
+    ],
+    "reading_order": 64,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_21.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b65",
+    "type": "figure",
+    "bbox": [
+      386.12,
+      463.92,
+      393.58,
+      464.21
+    ],
+    "reading_order": 65,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_20.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b66",
+    "type": "figure",
+    "bbox": [
+      335.48,
+      499.8,
+      340.02,
+      500.1
+    ],
+    "reading_order": 66,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_19.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b67",
+    "type": "figure",
+    "bbox": [
+      335.01,
+      500.04,
+      340.25,
+      500.33
+    ],
+    "reading_order": 67,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_18.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b68",
+    "type": "figure",
+    "bbox": [
+      334.3,
+      500.27,
+      340.96,
+      500.57
+    ],
+    "reading_order": 68,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_17.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b69",
+    "type": "figure",
+    "bbox": [
+      334.06,
+      500.51,
+      341.2,
+      500.81
+    ],
+    "reading_order": 69,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_16.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b70",
+    "type": "figure",
+    "bbox": [
+      333.59,
+      500.75,
+      341.9,
+      501.28
+    ],
+    "reading_order": 70,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_15.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b71",
+    "type": "figure",
+    "bbox": [
+      333.12,
+      501.22,
+      342.61,
+      501.75
+    ],
+    "reading_order": 71,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_13.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b72",
+    "type": "figure",
+    "bbox": [
+      332.88,
+      501.7,
+      342.61,
+      501.99
+    ],
+    "reading_order": 72,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_12.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b73",
+    "type": "figure",
+    "bbox": [
+      332.65,
+      501.93,
+      342.85,
+      502.46
+    ],
+    "reading_order": 73,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_11.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b74",
+    "type": "figure",
+    "bbox": [
+      332.41,
+      502.41,
+      342.85,
+      502.7
+    ],
+    "reading_order": 74,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_10.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b75",
+    "type": "figure",
+    "bbox": [
+      332.41,
+      502.64,
+      343.08,
+      502.94
+    ],
+    "reading_order": 75,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_09.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b76",
+    "type": "figure",
+    "bbox": [
+      332.18,
+      502.88,
+      343.08,
+      503.17
+    ],
+    "reading_order": 76,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_08.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b77",
+    "type": "figure",
+    "bbox": [
+      332.18,
+      503.11,
+      343.32,
+      503.65
+    ],
+    "reading_order": 77,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_07.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b78",
+    "type": "figure",
+    "bbox": [
+      331.94,
+      503.59,
+      343.32,
+      504.36
+    ],
+    "reading_order": 78,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_06.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b79",
+    "type": "figure",
+    "bbox": [
+      331.94,
+      504.3,
+      343.55,
+      504.59
+    ],
+    "reading_order": 79,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_05.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b80",
+    "type": "figure",
+    "bbox": [
+      331.7,
+      504.54,
+      343.32,
+      504.83
+    ],
+    "reading_order": 80,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_04.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b81",
+    "type": "figure",
+    "bbox": [
+      331.7,
+      504.77,
+      343.55,
+      505.54
+    ],
+    "reading_order": 81,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_165.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b82",
+    "type": "figure",
+    "bbox": [
+      331.7,
+      505.48,
+      343.79,
+      506.25
+    ],
+    "reading_order": 82,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_164.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b83",
+    "type": "figure",
+    "bbox": [
+      331.47,
+      506.19,
+      343.79,
+      506.49
+    ],
+    "reading_order": 83,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_163.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b84",
+    "type": "figure",
+    "bbox": [
+      331.47,
+      506.43,
+      344.03,
+      506.72
+    ],
+    "reading_order": 84,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_162.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b85",
+    "type": "figure",
+    "bbox": [
+      331.23,
+      506.67,
+      344.26,
+      507.43
+    ],
+    "reading_order": 85,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_161.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b86",
+    "type": "figure",
+    "bbox": [
+      331.0,
+      507.38,
+      344.26,
+      507.91
+    ],
+    "reading_order": 86,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_160.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b87",
+    "type": "figure",
+    "bbox": [
+      330.76,
+      507.85,
+      344.26,
+      508.14
+    ],
+    "reading_order": 87,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_159.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b88",
+    "type": "figure",
+    "bbox": [
+      330.76,
+      508.09,
+      344.5,
+      508.62
+    ],
+    "reading_order": 88,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_158.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b89",
+    "type": "figure",
+    "bbox": [
+      330.52,
+      508.56,
+      344.73,
+      508.85
+    ],
+    "reading_order": 89,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_157.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b90",
+    "type": "figure",
+    "bbox": [
+      330.29,
+      508.8,
+      344.73,
+      509.33
+    ],
+    "reading_order": 90,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_156.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b91",
+    "type": "figure",
+    "bbox": [
+      330.29,
+      509.27,
+      344.97,
+      511.22
+    ],
+    "reading_order": 91,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_154.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b92",
+    "type": "figure",
+    "bbox": [
+      330.29,
+      511.16,
+      344.5,
+      511.46
+    ],
+    "reading_order": 92,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_153.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b93",
+    "type": "figure",
+    "bbox": [
+      330.52,
+      511.4,
+      344.5,
+      511.69
+    ],
+    "reading_order": 93,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_152.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b94",
+    "type": "figure",
+    "bbox": [
+      330.76,
+      511.64,
+      344.5,
+      511.93
+    ],
+    "reading_order": 94,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_151.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b95",
+    "type": "figure",
+    "bbox": [
+      330.76,
+      511.87,
+      344.26,
+      512.4
+    ],
+    "reading_order": 95,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_150.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b96",
+    "type": "figure",
+    "bbox": [
+      331.0,
+      512.35,
+      333.65,
+      512.64
+    ],
+    "reading_order": 96,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_148.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b97",
+    "type": "figure",
+    "bbox": [
+      333.83,
+      512.35,
+      344.26,
+      512.64
+    ],
+    "reading_order": 97,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_149.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b98",
+    "type": "figure",
+    "bbox": [
+      331.23,
+      512.58,
+      333.65,
+      512.88
+    ],
+    "reading_order": 98,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_146.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b99",
+    "type": "figure",
+    "bbox": [
+      334.06,
+      512.58,
+      341.2,
+      512.88
+    ],
+    "reading_order": 99,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_147.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b100",
+    "type": "figure",
+    "bbox": [
+      341.38,
+      512.58,
+      343.79,
+      513.11
+    ],
+    "reading_order": 100,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_145.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b101",
+    "type": "figure",
+    "bbox": [
+      331.23,
+      512.82,
+      333.88,
+      513.35
+    ],
+    "reading_order": 101,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_142.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b102",
+    "type": "figure",
+    "bbox": [
+      334.06,
+      512.82,
+      340.96,
+      513.11
+    ],
+    "reading_order": 102,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_143.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b103",
+    "type": "figure",
+    "bbox": [
+      334.54,
+      513.06,
+      340.49,
+      513.35
+    ],
+    "reading_order": 103,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_140.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b104",
+    "type": "figure",
+    "bbox": [
+      341.38,
+      513.06,
+      343.55,
+      513.35
+    ],
+    "reading_order": 104,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_141.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b105",
+    "type": "figure",
+    "bbox": [
+      331.7,
+      513.29,
+      333.88,
+      513.82
+    ],
+    "reading_order": 105,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_137.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b106",
+    "type": "figure",
+    "bbox": [
+      334.77,
+      513.29,
+      340.49,
+      513.59
+    ],
+    "reading_order": 106,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_139.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b107",
+    "type": "figure",
+    "bbox": [
+      341.38,
+      513.29,
+      343.32,
+      513.82
+    ],
+    "reading_order": 107,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_138.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b108",
+    "type": "figure",
+    "bbox": [
+      335.01,
+      513.53,
+      340.02,
+      513.82
+    ],
+    "reading_order": 108,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_136.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b109",
+    "type": "figure",
+    "bbox": [
+      331.94,
+      513.77,
+      333.88,
+      514.06
+    ],
+    "reading_order": 109,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_132.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b110",
+    "type": "figure",
+    "bbox": [
+      335.48,
+      513.77,
+      340.02,
+      514.06
+    ],
+    "reading_order": 110,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_134.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b111",
+    "type": "figure",
+    "bbox": [
+      341.38,
+      513.77,
+      343.08,
+      514.06
+    ],
+    "reading_order": 111,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_135.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b112",
+    "type": "figure",
+    "bbox": [
+      332.18,
+      514.0,
+      333.88,
+      514.53
+    ],
+    "reading_order": 112,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_129.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b113",
+    "type": "figure",
+    "bbox": [
+      335.95,
+      514.0,
+      339.54,
+      514.3
+    ],
+    "reading_order": 113,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_131.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b114",
+    "type": "figure",
+    "bbox": [
+      341.14,
+      514.0,
+      342.85,
+      514.53
+    ],
+    "reading_order": 114,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_130.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b115",
+    "type": "figure",
+    "bbox": [
+      335.95,
+      514.24,
+      339.31,
+      514.53
+    ],
+    "reading_order": 115,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_128.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b116",
+    "type": "figure",
+    "bbox": [
+      332.65,
+      514.48,
+      334.12,
+      514.77
+    ],
+    "reading_order": 116,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_125.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b117",
+    "type": "figure",
+    "bbox": [
+      336.42,
+      514.48,
+      338.6,
+      514.77
+    ],
+    "reading_order": 117,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_126.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b118",
+    "type": "figure",
+    "bbox": [
+      341.14,
+      514.48,
+      341.9,
+      514.77
+    ],
+    "reading_order": 118,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_127.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b119",
+    "type": "figure",
+    "bbox": [
+      332.88,
+      514.71,
+      334.12,
+      515.01
+    ],
+    "reading_order": 119,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_123.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b120",
+    "type": "figure",
+    "bbox": [
+      336.89,
+      514.71,
+      338.36,
+      515.01
+    ],
+    "reading_order": 120,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_124.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b121",
+    "type": "figure",
+    "bbox": [
+      333.12,
+      514.95,
+      333.88,
+      515.24
+    ],
+    "reading_order": 121,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_121.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b122",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      515.07,
+      345.12,
+      620.15
+    ],
+    "reading_order": 122,
+    "text": "Example 3 : Fig. 7.6 shows the\narrangement of desks in a\nclassroom. Ashima, Bharti and\nCamella are seated at A(3, 1),\nB(6, 4) and C(8, 6) respectively.\nDo you think they are seated in a\nline? Give reasons for your\nanswer.\nFig. 7.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b123",
+    "type": "figure",
+    "bbox": [
+      285.33,
+      550.77,
+      288.71,
+      551.06
+    ],
+    "reading_order": 123,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_120.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b124",
+    "type": "figure",
+    "bbox": [
+      284.85,
+      551.0,
+      289.19,
+      551.29
+    ],
+    "reading_order": 124,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_119.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b125",
+    "type": "figure",
+    "bbox": [
+      284.37,
+      551.23,
+      289.43,
+      551.53
+    ],
+    "reading_order": 125,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_118.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b126",
+    "type": "figure",
+    "bbox": [
+      284.37,
+      551.47,
+      289.66,
+      551.76
+    ],
+    "reading_order": 126,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_117.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b127",
+    "type": "figure",
+    "bbox": [
+      284.14,
+      551.71,
+      289.9,
+      552.0
+    ],
+    "reading_order": 127,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_116.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b128",
+    "type": "figure",
+    "bbox": [
+      283.66,
+      551.94,
+      290.14,
+      552.47
+    ],
+    "reading_order": 128,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_115.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b129",
+    "type": "figure",
+    "bbox": [
+      283.42,
+      552.41,
+      290.38,
+      552.7
+    ],
+    "reading_order": 129,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_114.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b130",
+    "type": "figure",
+    "bbox": [
+      283.18,
+      552.64,
+      290.62,
+      552.94
+    ],
+    "reading_order": 130,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_113.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b131",
+    "type": "figure",
+    "bbox": [
+      283.18,
+      552.88,
+      290.85,
+      553.17
+    ],
+    "reading_order": 131,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_112.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b132",
+    "type": "figure",
+    "bbox": [
+      281.04,
+      553.11,
+      281.81,
+      553.41
+    ],
+    "reading_order": 132,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_109.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b133",
+    "type": "figure",
+    "bbox": [
+      282.95,
+      553.11,
+      291.57,
+      553.41
+    ],
+    "reading_order": 133,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_110.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b134",
+    "type": "figure",
+    "bbox": [
+      280.33,
+      553.35,
+      291.57,
+      553.88
+    ],
+    "reading_order": 134,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_108.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b135",
+    "type": "figure",
+    "bbox": [
+      279.86,
+      553.82,
+      293.47,
+      554.11
+    ],
+    "reading_order": 135,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_107.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b136",
+    "type": "figure",
+    "bbox": [
+      279.62,
+      554.05,
+      293.71,
+      554.34
+    ],
+    "reading_order": 136,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_106.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b137",
+    "type": "figure",
+    "bbox": [
+      279.62,
+      554.29,
+      293.95,
+      554.58
+    ],
+    "reading_order": 137,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_105.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b138",
+    "type": "figure",
+    "bbox": [
+      279.38,
+      554.52,
+      293.95,
+      554.81
+    ],
+    "reading_order": 138,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_104.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b139",
+    "type": "figure",
+    "bbox": [
+      279.38,
+      554.76,
+      294.18,
+      555.05
+    ],
+    "reading_order": 139,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_103.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b140",
+    "type": "figure",
+    "bbox": [
+      279.14,
+      554.99,
+      294.18,
+      555.52
+    ],
+    "reading_order": 140,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_102.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b141",
+    "type": "figure",
+    "bbox": [
+      279.14,
+      555.46,
+      294.42,
+      555.75
+    ],
+    "reading_order": 141,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_101.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b142",
+    "type": "figure",
+    "bbox": [
+      278.9,
+      555.7,
+      294.42,
+      555.99
+    ],
+    "reading_order": 142,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_99.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b143",
+    "type": "figure",
+    "bbox": [
+      278.9,
+      555.93,
+      294.66,
+      556.22
+    ],
+    "reading_order": 143,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_98.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b144",
+    "type": "figure",
+    "bbox": [
+      278.9,
+      556.17,
+      281.81,
+      558.1
+    ],
+    "reading_order": 144,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_96.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b145",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      556.17,
+      294.66,
+      556.93
+    ],
+    "reading_order": 145,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_97.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b146",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      556.87,
+      291.57,
+      557.16
+    ],
+    "reading_order": 146,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_95.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b147",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      556.87,
+      294.66,
+      558.34
+    ],
+    "reading_order": 147,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_94.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b148",
+    "type": "figure",
+    "bbox": [
+      282.47,
+      557.11,
+      291.33,
+      557.63
+    ],
+    "reading_order": 148,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_93.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b149",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      557.58,
+      291.33,
+      557.87
+    ],
+    "reading_order": 149,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_92.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b150",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      557.81,
+      291.57,
+      558.1
+    ],
+    "reading_order": 150,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_91.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b151",
+    "type": "figure",
+    "bbox": [
+      279.14,
+      558.04,
+      281.58,
+      558.57
+    ],
+    "reading_order": 151,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_90.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b152",
+    "type": "figure",
+    "bbox": [
+      281.99,
+      558.05,
+      291.57,
+      558.81
+    ],
+    "reading_order": 152,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_88.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b153",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      558.28,
+      294.42,
+      558.57
+    ],
+    "reading_order": 153,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_87.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b154",
+    "type": "figure",
+    "bbox": [
+      279.38,
+      558.52,
+      281.58,
+      558.81
+    ],
+    "reading_order": 154,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_86.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b155",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      558.52,
+      294.18,
+      559.04
+    ],
+    "reading_order": 155,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_85.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b156",
+    "type": "figure",
+    "bbox": [
+      279.62,
+      558.75,
+      281.58,
+      559.04
+    ],
+    "reading_order": 156,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_84.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b157",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      558.75,
+      291.57,
+      559.28
+    ],
+    "reading_order": 157,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_83.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b158",
+    "type": "figure",
+    "bbox": [
+      279.62,
+      558.98,
+      281.81,
+      559.28
+    ],
+    "reading_order": 158,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_82.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b159",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      558.98,
+      293.95,
+      559.51
+    ],
+    "reading_order": 159,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_81.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b160",
+    "type": "figure",
+    "bbox": [
+      279.86,
+      559.22,
+      281.82,
+      559.51
+    ],
+    "reading_order": 160,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_79.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b161",
+    "type": "figure",
+    "bbox": [
+      282.23,
+      559.22,
+      291.33,
+      559.51
+    ],
+    "reading_order": 161,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_80.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b162",
+    "type": "figure",
+    "bbox": [
+      280.09,
+      559.46,
+      281.81,
+      559.75
+    ],
+    "reading_order": 162,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_75.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b163",
+    "type": "figure",
+    "bbox": [
+      282.47,
+      559.46,
+      291.33,
+      559.75
+    ],
+    "reading_order": 163,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_76.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b164",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      559.46,
+      293.47,
+      559.75
+    ],
+    "reading_order": 164,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_77.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b165",
+    "type": "figure",
+    "bbox": [
+      280.57,
+      559.69,
+      281.81,
+      559.98
+    ],
+    "reading_order": 165,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_69.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b166",
+    "type": "figure",
+    "bbox": [
+      282.47,
+      559.69,
+      291.09,
+      560.22
+    ],
+    "reading_order": 166,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_47.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b167",
+    "type": "figure",
+    "bbox": [
+      291.51,
+      559.69,
+      293.23,
+      560.22
+    ],
+    "reading_order": 167,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_58.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b168",
+    "type": "figure",
+    "bbox": [
+      282.47,
+      560.16,
+      290.85,
+      560.69
+    ],
+    "reading_order": 168,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_25.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b169",
+    "type": "figure",
+    "bbox": [
+      291.51,
+      560.16,
+      292.76,
+      560.45
+    ],
+    "reading_order": 169,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_36.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b170",
+    "type": "figure",
+    "bbox": [
+      291.75,
+      560.39,
+      292.04,
+      560.69
+    ],
+    "reading_order": 170,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_14.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b171",
+    "type": "figure",
+    "bbox": [
+      282.71,
+      560.63,
+      283.24,
+      560.92
+    ],
+    "reading_order": 171,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b172",
+    "type": "figure",
+    "bbox": [
+      283.42,
+      560.63,
+      290.85,
+      561.15
+    ],
+    "reading_order": 172,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_155.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b173",
+    "type": "figure",
+    "bbox": [
+      283.66,
+      561.1,
+      289.9,
+      561.62
+    ],
+    "reading_order": 173,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_144.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b174",
+    "type": "figure",
+    "bbox": [
+      283.9,
+      561.57,
+      289.67,
+      561.86
+    ],
+    "reading_order": 174,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_133.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b175",
+    "type": "figure",
+    "bbox": [
+      284.14,
+      561.8,
+      289.43,
+      562.09
+    ],
+    "reading_order": 175,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_122.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b176",
+    "type": "figure",
+    "bbox": [
+      284.37,
+      562.04,
+      289.43,
+      562.33
+    ],
+    "reading_order": 176,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_111.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b177",
+    "type": "figure",
+    "bbox": [
+      284.61,
+      562.27,
+      289.19,
+      562.56
+    ],
+    "reading_order": 177,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_100.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b178",
+    "type": "figure",
+    "bbox": [
+      284.85,
+      562.51,
+      288.95,
+      562.8
+    ],
+    "reading_order": 178,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_89.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b179",
+    "type": "figure",
+    "bbox": [
+      285.09,
+      562.74,
+      288.71,
+      563.03
+    ],
+    "reading_order": 179,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_78.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b180",
+    "type": "figure",
+    "bbox": [
+      285.09,
+      562.98,
+      288.48,
+      563.74
+    ],
+    "reading_order": 180,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b181",
+    "type": "figure",
+    "bbox": [
+      285.09,
+      563.68,
+      288.71,
+      564.44
+    ],
+    "reading_order": 181,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_005_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 5,
+    "block_id": "jemh107_p005_b182",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 182,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "PROOFS IN MATHEMATICS\n231",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b03",
+    "type": "paragraph",
+    "bbox": [
+      189.84,
+      97.98,
+      278.39,
+      111.8
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE A1.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      118.57,
+      272.9,
+      130.09
+    ],
+    "reading_order": 4,
+    "text": "1. State the negations for the following statements :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b05",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      135.03,
+      372.1,
+      146.17
+    ],
+    "reading_order": 5,
+    "text": "(i) Man is mortal.\n(ii) Line l is parallel to line m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b06",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      151.11,
+      404.17,
+      162.25
+    ],
+    "reading_order": 6,
+    "text": "(iii) This chapter has many exercises.\n(iv) All integers are rational numbers.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b07",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      166.95,
+      344.98,
+      178.09
+    ],
+    "reading_order": 7,
+    "text": "(v) Some prime numbers are odd.\n(vi) No student is lazy.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_014_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b09",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      183.03,
+      194.17,
+      194.17
+    ],
+    "reading_order": 9,
+    "text": "(vii) Some cats are not black.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b10",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      203.82,
+      285.7,
+      217.05
+    ],
+    "reading_order": 10,
+    "text": "(viii) There is no real number x, such that \n1\nx .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b11",
+    "type": "paragraph",
+    "bbox": [
+      78.72,
+      223.83,
+      387.61,
+      234.97
+    ],
+    "reading_order": 11,
+    "text": "(ix) 2 divides the positive integer a.\n(x) Integers a and b are coprime.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b12",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      239.53,
+      419.8,
+      263.05
+    ],
+    "reading_order": 12,
+    "text": "2. In each of the following questions, there are two statements. State if the second is the\nnegation of the first or not.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b13",
+    "type": "paragraph",
+    "bbox": [
+      82.56,
+      267.75,
+      356.18,
+      293.05
+    ],
+    "reading_order": 13,
+    "text": "(i) Mumtaz is hungry.\n(ii) Some cats are black.\nMumtaz is not hungry.\nSome cats are brown.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b14",
+    "type": "paragraph",
+    "bbox": [
+      78.0,
+      297.75,
+      380.21,
+      323.05
+    ],
+    "reading_order": 14,
+    "text": "(iii) All elephants are huge.\n(iv) All fire engines are red.\nOne elephant is not huge.\nAll fire engines are not red.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b15",
+    "type": "paragraph",
+    "bbox": [
+      79.44,
+      327.75,
+      164.98,
+      338.89
+    ],
+    "reading_order": 15,
+    "text": "(v) No man is a cow.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b16",
+    "type": "paragraph",
+    "bbox": [
+      97.44,
+      341.91,
+      178.33,
+      353.05
+    ],
+    "reading_order": 16,
+    "text": "Some men are cows.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      362.22,
+      199.43,
+      376.04
+    ],
+    "reading_order": 17,
+    "text": "A1.6 Converse of a Statement",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      381.57,
+      420.06,
+      462.25
+    ],
+    "reading_order": 18,
+    "text": "We now investigate the notion of the converse of a statement. For this, we need the\nnotion of a ‘compound’ statement, that is, a statement which is a combination of one or\nmore ‘simple’ statements. There are many ways of creating compound statements,\nbut we will focus on those that are created by connecting two simple statements with\nthe use of the words ‘if’ and ‘then’. For example, the statement ‘If it is raining, then it\nis difficult to go on a bicycle’, is made up of two statements:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b19",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      463.68,
+      132.74,
+      475.93
+    ],
+    "reading_order": 19,
+    "text": "p: It is raining",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b20",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      481.44,
+      220.59,
+      493.7
+    ],
+    "reading_order": 20,
+    "text": "q: It is difficult to go on a bicycle.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b21",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      499.21,
+      420.02,
+      525.97
+    ],
+    "reading_order": 21,
+    "text": "Using our previous notation we can say: If p, then q. We can also say ‘p implies\nq’, and denote it by p  q.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b22",
+    "type": "paragraph",
+    "bbox": [
+      48.02,
+      530.41,
+      420.1,
+      612.15
+    ],
+    "reading_order": 22,
+    "text": "Now, supose you have the statement ‘If the water tank is black, then it contains\npotable water.’ This is of the form p  q, where the hypothesis is p (the water tank\nis black) and the conclusion is q (the tank contains potable water). Suppose we\ninterchange  the hypothesis and the conclusion, what do we get? We get q  p, i.e., if\nthe water in the tank is potable, then the tank must be black. This statement is called\nthe converse of the statement p  q.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1A1",
+    "page": 14,
+    "block_id": "jemh1a1_p014_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

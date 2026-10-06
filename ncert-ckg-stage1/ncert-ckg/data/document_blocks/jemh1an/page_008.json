@@ -1,0 +1,478 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.33,
+      419.76,
+      82.33
+    ],
+    "reading_order": 2,
+    "text": "ANSWERS/HINTS\n257",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b03",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      96.39,
+      272.88,
+      107.39
+    ],
+    "reading_order": 3,
+    "text": "EXERCISE 8.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b04",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      123.04,
+      395.7,
+      148.09
+    ],
+    "reading_order": 4,
+    "text": "1.\n(i) 1\n(ii) 2\n(iii) 3 2\n6\n8\n−\n(iv) 43\n24 3\n11\n−\n(v) 67",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b05",
+    "type": "paragraph",
+    "bbox": [
+      385.44,
+      137.4,
+      395.22,
+      147.36
+    ],
+    "reading_order": 5,
+    "text": "12",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b06",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      155.2,
+      407.28,
+      165.61
+    ],
+    "reading_order": 6,
+    "text": "2.\n(i) A\n(ii) D\n(iii) A\n(iv) C\n3. ∠ A = 45°, ∠ B = 15°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b07",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      171.56,
+      393.12,
+      181.69
+    ],
+    "reading_order": 7,
+    "text": "4. (i) False\n(ii) True\n(iii) False\n(iv) False\n(v) True",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_008_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b09",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      198.39,
+      272.88,
+      209.39
+    ],
+    "reading_order": 9,
+    "text": "EXERCISE 8.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b10",
+    "type": "paragraph",
+    "bbox": [
+      293.52,
+      225.98,
+      296.59,
+      232.12
+    ],
+    "reading_order": 10,
+    "text": "2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b11",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      227.42,
+      304.53,
+      254.87
+    ],
+    "reading_order": 11,
+    "text": "2\n1 + cot A\n1\n1\n,\n,\nsin A =\ntan A =\nsecA =\ncot A\ncot A\n1 + cot A",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b12",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      234.44,
+      63.6,
+      244.44
+    ],
+    "reading_order": 12,
+    "text": "1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b13",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      273.96,
+      304.26,
+      300.47
+    ],
+    "reading_order": 13,
+    "text": "2\n2\nsec A – 1\n1\n,\n,\nsin A =\ncos A =\ntan A =\nsec A – 1\nsecA\nsecA",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b14",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      282.68,
+      63.6,
+      292.68
+    ],
+    "reading_order": 14,
+    "text": "2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b15",
+    "type": "formula",
+    "bbox": [
+      72.24,
+      316.91,
+      254.58,
+      343.68
+    ],
+    "reading_order": 15,
+    "text": "2\n2\n1\nsecA\n,\ncot A =\ncosecA =\nsec A – 1\nsec A – 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b16",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      354.44,
+      231.86,
+      364.57
+    ],
+    "reading_order": 16,
+    "text": "3.   (i) B\n(ii) C\n(iii) D\n(iv) D",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b17",
+    "type": "paragraph",
+    "bbox": [
+      194.88,
+      381.27,
+      272.88,
+      392.27
+    ],
+    "reading_order": 17,
+    "text": "EXERCISE 9.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b18",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      406.04,
+      373.43,
+      416.93
+    ],
+    "reading_order": 18,
+    "text": "1. 10 m\n2. 8 3 m\n3.\n3m, 2 3 m\n4. 10 3m",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b19",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      431.64,
+      400.71,
+      444.99
+    ],
+    "reading_order": 19,
+    "text": "5.\n40 3 m\n6. 19 3 m\n7.\n(\n)\n20\n3\n1 m\n−\n8.\n(\n)\n0.8\n3\n1 m\n+",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b20",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      460.45,
+      393.41,
+      484.55
+    ],
+    "reading_order": 20,
+    "text": "9.\n2\n16\nm\n3\n10. 20 3 m, 20m, 60m\n11. 10 3 m, 10m\n12.\n(\n)\n7\n3\n1 m\n+",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b21",
+    "type": "formula",
+    "bbox": [
+      50.88,
+      497.72,
+      298.56,
+      508.61
+    ],
+    "reading_order": 21,
+    "text": "13.\n75( 3\n1)m\n−\n14. 58 3 m\n15. 3 seconds",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b22",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      523.11,
+      276.24,
+      534.11
+    ],
+    "reading_order": 22,
+    "text": "EXERCISE 10.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b23",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      543.32,
+      131.28,
+      553.45
+    ],
+    "reading_order": 23,
+    "text": "1. Infinitely many",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b24",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      560.36,
+      393.86,
+      570.49
+    ],
+    "reading_order": 24,
+    "text": "2.\n(i) One\n(ii) Secant\n(iii) Two\n(iv) Point of contact\n3. D",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b25",
+    "type": "paragraph",
+    "bbox": [
+      191.76,
+      587.43,
+      276.24,
+      598.43
+    ],
+    "reading_order": 25,
+    "text": "EXERCISE 10.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b26",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      607.64,
+      369.84,
+      617.77
+    ],
+    "reading_order": 26,
+    "text": "1. A\n2. B\n3. A\n6. 3 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b27",
+    "type": "formula",
+    "bbox": [
+      56.16,
+      623.96,
+      254.4,
+      634.09
+    ],
+    "reading_order": 27,
+    "text": "7. 8 cm\n12. AB = 15 cm, AC = 13 cm",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH1AN",
+    "page": 8,
+    "block_id": "jemh1an_p008_b28",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 28,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n69",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.57,
+      379.48,
+      106.09
+    ],
+    "reading_order": 3,
+    "text": "4. How many terms of the AP : 9, 17, 25, . . . must be taken to give a sum of 636?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b04",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      110.65,
+      419.79,
+      134.17
+    ],
+    "reading_order": 4,
+    "text": "5. The first term of an AP is 5, the last term is 45 and the sum is 400. Find the number of terms\nand the common difference.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b05",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      138.73,
+      420.07,
+      162.25
+    ],
+    "reading_order": 5,
+    "text": "6. The first and the last terms of an AP are 17 and 350 respectively. If the common difference\nis 9, how many terms are there and what is their sum?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b06",
+    "type": "formula",
+    "bbox": [
+      60.72,
+      166.81,
+      370.56,
+      178.33
+    ],
+    "reading_order": 6,
+    "text": "7. Find the sum of first 22 terms of an AP in which d = 7 and 22nd term is 149.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b08",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      182.89,
+      420.03,
+      206.41
+    ],
+    "reading_order": 8,
+    "text": "8. Find the sum of first 51 terms of an AP whose second and third terms are 14 and 18\nrespectively.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b09",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      210.97,
+      420.02,
+      234.49
+    ],
+    "reading_order": 9,
+    "text": "9. If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289, find the sum of\nfirst n terms.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b10",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      239.05,
+      349.69,
+      253.02
+    ],
+    "reading_order": 10,
+    "text": "10. Show that a1, a2, . . ., an, . . . form an AP where an is defined as below :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b11",
+    "type": "formula",
+    "bbox": [
+      89.28,
+      255.27,
+      291.32,
+      268.85
+    ],
+    "reading_order": 11,
+    "text": "(i) an = 3 + 4n\n(ii) an = 9 – 5n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b12",
+    "type": "paragraph",
+    "bbox": [
+      74.88,
+      271.35,
+      278.17,
+      282.49
+    ],
+    "reading_order": 12,
+    "text": "Also find the sum of the first 15 terms in each case.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b13",
+    "type": "paragraph",
+    "bbox": [
+      56.16,
+      287.05,
+      420.04,
+      322.57
+    ],
+    "reading_order": 13,
+    "text": "11. If the sum of the first n terms of an AP is 4n – n2, what is the first term (that is S1)? What\nis the sum of first two terms? What is the second term? Similarly, find the 3rd, the 10th and\nthe nth terms.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b14",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      327.13,
+      308.16,
+      338.65
+    ],
+    "reading_order": 14,
+    "text": "12. Find the sum of the first 40 positive integers divisible by 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b15",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      343.21,
+      239.05,
+      354.73
+    ],
+    "reading_order": 15,
+    "text": "13. Find the sum of the first 15 multiples of 8.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b16",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      359.29,
+      280.31,
+      370.81
+    ],
+    "reading_order": 16,
+    "text": "14. Find the sum of the odd numbers between 0 and 50.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b17",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      375.37,
+      420.12,
+      434.89
+    ],
+    "reading_order": 17,
+    "text": "15. A contract on construction job specifies a penalty for delay of completion beyond a\ncertain date as follows: ` 200 for the first day, ` 250 for the second day, ` 300 for the third\nday, etc., the penalty for each succeeding day being ` 50 more than for the preceding day.\nHow much money the contractor has to pay as penalty, if he has delayed the work by 30\ndays?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b18",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      439.69,
+      420.02,
+      476.65
+    ],
+    "reading_order": 18,
+    "text": "16. A sum of ` 700 is to be used to give seven cash prizes to students of a school for their\noverall academic performance. If each prize is ` 20 less than its preceding prize, find the\nvalue of each of the prizes.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b19",
+    "type": "paragraph",
+    "bbox": [
+      55.44,
+      481.93,
+      419.82,
+      544.33
+    ],
+    "reading_order": 19,
+    "text": "17. In a school, students thought of planting trees in and around the school to reduce air\npollution. It was decided that the number of trees, that each section of each class will\nplant, will be the same as the class, in which they are studying, e.g., a section of  Class I\nwill plant 1 tree, a section of Class II will plant 2 trees and so on till Class XII. There are\nthree sections of each class. How many trees will be planted by the students?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b20",
+    "type": "paragraph",
+    "bbox": [
+      54.72,
+      549.37,
+      420.05,
+      586.33
+    ],
+    "reading_order": 20,
+    "text": "18. A spiral is made up of successive semicircles, with centres alternately at A and B,\nstarting with centre at A, of radii 0.5 cm, 1.0 cm, 1.5 cm, 2.0 cm, . . .  as shown in\nFig. 5.4. What is the total length of such a spiral made up of thirteen consecutive",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b21",
+    "type": "formula",
+    "bbox": [
+      74.88,
+      589.23,
+      182.65,
+      608.92
+    ],
+    "reading_order": 21,
+    "text": "semicircles? (Take  = 22",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b22",
+    "type": "paragraph",
+    "bbox": [
+      174.92,
+      597.03,
+      188.13,
+      614.42
+    ],
+    "reading_order": 22,
+    "text": "7 )",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 21,
+    "block_id": "jemh105_p021_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

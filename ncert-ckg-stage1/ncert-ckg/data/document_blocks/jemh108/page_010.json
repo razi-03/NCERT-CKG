@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "122\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      184.56,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Trigonometric Ratios of 45°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      110.82,
+      276.05,
+      150.71
+    ],
+    "reading_order": 4,
+    "text": "In  ABC, right-angled at B, if one angle is 45°, then\nthe other angle is also 45°, i.e.,  A =  C = 45°\n(see  Fig. 8.14).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      155.73,
+      237.13,
+      167.99
+    ],
+    "reading_order": 5,
+    "text": "So,\nBC = AB\n(Why?)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b06",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      173.01,
+      177.71,
+      185.27
+    ],
+    "reading_order": 6,
+    "text": "Now, Suppose BC = AB = a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_010_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b08",
+    "type": "paragraph",
+    "bbox": [
+      357.12,
+      179.56,
+      399.84,
+      192.23
+    ],
+    "reading_order": 8,
+    "text": "Fig. 8.14",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      190.29,
+      338.27,
+      202.55
+    ],
+    "reading_order": 9,
+    "text": "Then by Pythagoras Theorem, AC2 = AB2 + BC2 = a2 + a2 = 2a2,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      212.34,
+      194.02,
+      226.65
+    ],
+    "reading_order": 10,
+    "text": "and, therefore,\nAC = \n2\na\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      233.25,
+      303.9,
+      245.51
+    ],
+    "reading_order": 11,
+    "text": "Using the definitions of the trigonometric ratios, we have :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b12",
+    "type": "formula",
+    "bbox": [
+      91.2,
+      256.0,
+      340.8,
+      284.88
+    ],
+    "reading_order": 12,
+    "text": "sin 45° = side opposite to angle 45°\nBC\n1\nhypotenuse\nAC\n2\n2\na\na\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b13",
+    "type": "formula",
+    "bbox": [
+      88.08,
+      298.89,
+      339.18,
+      327.86
+    ],
+    "reading_order": 13,
+    "text": "cos 45° = side adjacent toangle 45°\nAB\n1\nhypotenuse\nAC\n2\n2\na\na\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b14",
+    "type": "formula",
+    "bbox": [
+      89.76,
+      341.68,
+      317.76,
+      369.84
+    ],
+    "reading_order": 14,
+    "text": "tan 45° = side opposite to angle 45°\nBC\n1\nside adjacent to angle 45°\nAB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b15",
+    "type": "paragraph",
+    "bbox": [
+      255.11,
+      341.85,
+      310.15,
+      369.83
+    ],
+    "reading_order": 15,
+    "text": "a\na\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      384.57,
+      419.15,
+      414.14
+    ],
+    "reading_order": 16,
+    "text": "Also, cosec 45° =\n1\n2\nsin 45 \n\n, sec 45° = \n1\n2\ncos 45 \n\n, cot 45° = \n1\n1\ntan 45 \n\n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b17",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      427.48,
+      225.12,
+      440.15
+    ],
+    "reading_order": 17,
+    "text": "Trigonometric Ratios of 30° and 60°",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      444.94,
+      276.06,
+      497.62
+    ],
+    "reading_order": 18,
+    "text": "Let us now calculate the trigonometric ratios of 30°\nand 60°. Consider an equilateral triangle ABC. Since\neach angle in an equilateral triangle is 60°, therefore,\n A =  B =  C = 60°.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      501.82,
+      310.82,
+      588.24
+    ],
+    "reading_order": 19,
+    "text": "Draw the perpendicular AD from A to the side BC\n(see Fig. 8.15).\nNow\n ABD  ACD\n(Why?)\nTherefore,\nBD = DC\nand\n BAD =  CAD (CPCT)\nNow observe that:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b20",
+    "type": "paragraph",
+    "bbox": [
+      337.2,
+      525.4,
+      379.92,
+      538.07
+    ],
+    "reading_order": 20,
+    "text": "Fig. 8.15",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b21",
+    "type": "formula",
+    "bbox": [
+      48.02,
+      589.87,
+      420.02,
+      616.56
+    ],
+    "reading_order": 21,
+    "text": " ABD is a right triangle, right-angled at D with  BAD = 30° and  ABD = 60°\n(see Fig. 8.15).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 10,
+    "block_id": "jemh108_p010_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

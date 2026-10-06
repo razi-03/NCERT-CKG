@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.76,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "SOME APPLICATIONS OF TRIGONOMETRY\n143",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b03",
+    "type": "header",
+    "bbox": [
+      74.88,
+      95.67,
+      420.04,
+      119.77
+    ],
+    "reading_order": 3,
+    "text": "tower with a uniform speed. Six seconds later, the angle of depression of the car is found\nto be 60°. Find the time taken by the car to reach the foot of the tower from this point.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b04",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      133.5,
+      116.37,
+      147.32
+    ],
+    "reading_order": 4,
+    "text": "9.2 Summary",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      152.55,
+      269.3,
+      163.69
+    ],
+    "reading_order": 5,
+    "text": "In this chapter, you have studied the following points :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b06",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      168.25,
+      420.03,
+      179.77
+    ],
+    "reading_order": 6,
+    "text": "1.\n(i) The line  of sight is the line drawn from the eye of an observer to the point in the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_011_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b08",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      180.63,
+      214.42,
+      191.77
+    ],
+    "reading_order": 8,
+    "text": "object viewed by the observer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b09",
+    "type": "paragraph",
+    "bbox": [
+      75.84,
+      196.09,
+      420.04,
+      207.61
+    ],
+    "reading_order": 9,
+    "text": "(ii) The angle of elevation of an object viewed, is the angle formed by the line of sight",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b10",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      208.47,
+      420.06,
+      231.61
+    ],
+    "reading_order": 10,
+    "text": "with the horizontal when it is above the horizontal level, i.e., the case when we raise\nour head to look at the object.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b11",
+    "type": "paragraph",
+    "bbox": [
+      73.44,
+      236.17,
+      420.06,
+      247.69
+    ],
+    "reading_order": 11,
+    "text": "(iii) The angle of depression of an object viewed, is the angle formed by the line of sight",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b12",
+    "type": "paragraph",
+    "bbox": [
+      90.72,
+      248.55,
+      420.04,
+      271.69
+    ],
+    "reading_order": 12,
+    "text": "with the horizontal when it is below the horizontal level, i.e., the case when we lower\nour head to look at the object.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b13",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      276.25,
+      419.79,
+      299.77
+    ],
+    "reading_order": 13,
+    "text": "2. The height or length of an object or the distance between two distant objects can be\ndetermined with the help of trigonometric ratios.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH109",
+    "page": 11,
+    "block_id": "jemh109_p011_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

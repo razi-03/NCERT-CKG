@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "ARITHMETIC PROGRESSIONS\n65",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      292.34,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Here, a = 100, d = 50 and n = 21. Using the formula :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b04",
+    "type": "formula",
+    "bbox": [
+      122.89,
+      113.64,
+      219.71,
+      141.35
+    ],
+    "reading_order": 4,
+    "text": "S =\n\n\n2\n(\n1)\n2\nn\na\nn\nd\n\n\n,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      151.56,
+      338.66,
+      179.77
+    ],
+    "reading_order": 5,
+    "text": "we have\nS =\n\n\n21 2 100\n(21 1)\n50\n2\n\n\n\n\n = \n\n\n21 200\n1000\n2\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_017_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b07",
+    "type": "formula",
+    "bbox": [
+      132.0,
+      189.72,
+      226.32,
+      218.76
+    ],
+    "reading_order": 7,
+    "text": "= 21\n1200\n2 \n = 12600",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      222.69,
+      339.6,
+      234.95
+    ],
+    "reading_order": 8,
+    "text": "So, the amount of money collected on her 21st birthday is ` 12600.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b09",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      239.97,
+      390.03,
+      252.23
+    ],
+    "reading_order": 9,
+    "text": "Hasn’t the use of the formula made it much easier to solve the problem?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      257.25,
+      420.09,
+      309.11
+    ],
+    "reading_order": 10,
+    "text": "We also use Sn in place of S to denote the sum of first n terms of the AP. We\nwrite S20 to denote the sum of the first 20 terms of an AP. The formula for the sum of\nthe first n terms involves four quantities S, a, d and n. If we know any three of them,\nwe can find the fourth.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      313.72,
+      420.02,
+      342.19
+    ],
+    "reading_order": 11,
+    "text": "Remark : The nth term of an AP is the difference of the sum to first n terms and the\nsum to first (n – 1) terms of it, i.e., an = Sn – Sn – 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b12",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      344.61,
+      212.91,
+      356.87
+    ],
+    "reading_order": 12,
+    "text": "Let us consider some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      366.27,
+      366.71,
+      378.95
+    ],
+    "reading_order": 13,
+    "text": "Example 11 : Find the sum of the first 22 terms of the AP : 8, 3, –2, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      383.55,
+      260.16,
+      396.23
+    ],
+    "reading_order": 14,
+    "text": "Solution : Here, a = 8, d = 3 – 8 = –5, n = 22.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      401.25,
+      109.7,
+      413.51
+    ],
+    "reading_order": 15,
+    "text": "We know that",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b16",
+    "type": "formula",
+    "bbox": [
+      138.01,
+      415.73,
+      231.95,
+      443.77
+    ],
+    "reading_order": 16,
+    "text": "S = \n\n\n2\n(\n1)\n2\nn\na\nn\nd\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b17",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      447.48,
+      382.57,
+      475.69
+    ],
+    "reading_order": 17,
+    "text": "Therefore,\nS = \n\n\n22 16\n21( 5)\n2\n\n\n = 11(16 – 105) = 11(–89) = – 979",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      481.65,
+      274.59,
+      493.9
+    ],
+    "reading_order": 18,
+    "text": "So, the sum of the first 22 terms of the AP is – 979.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      503.31,
+      420.02,
+      529.18
+    ],
+    "reading_order": 19,
+    "text": "Example 12 : If the sum of the first 14 terms of an AP is 1050 and its first term is 10,\nfind the 20th term.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b20",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      533.79,
+      248.17,
+      549.07
+    ],
+    "reading_order": 20,
+    "text": "Solution : Here, S14 = 1050, n = 14, a = 10.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b21",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      553.01,
+      274.19,
+      581.05
+    ],
+    "reading_order": 21,
+    "text": "As\nSn =\n\n\n2\n(\n1)\n2\n\n\nn\na\nn\nd ,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      584.52,
+      312.46,
+      612.73
+    ],
+    "reading_order": 22,
+    "text": "so,\n1050 =\n\n\n14 20 13\n2\n\nd = 140 + 91d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 17,
+    "block_id": "jemh105_p017_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "TRIANGLES\n93",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      184.57,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Now, BD = 1.2 m × 4 = 4.8 m.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b04",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      110.82,
+      191.29,
+      125.13
+    ],
+    "reading_order": 4,
+    "text": "Note that in  ABE and  CDE,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b05",
+    "type": "paragraph",
+    "bbox": [
+      198.01,
+      128.1,
+      420.03,
+      167.99
+    ],
+    "reading_order": 5,
+    "text": " B =  D\n(Each is of 90° because lamp-post\nas well as the girl are standing\nvertical to the ground)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b06",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      171.78,
+      419.77,
+      186.09
+    ],
+    "reading_order": 6,
+    "text": "and\n E =  E\n(Same angle)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_021_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      188.82,
+      419.78,
+      203.13
+    ],
+    "reading_order": 8,
+    "text": "So,\n ABE ~  CDE\n(AA similarity criterion)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      212.52,
+      248.13,
+      240.73
+    ],
+    "reading_order": 9,
+    "text": "Therefore,\nBE\nDE = AB",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b10",
+    "type": "paragraph",
+    "bbox": [
+      232.8,
+      228.35,
+      248.25,
+      240.73
+    ],
+    "reading_order": 10,
+    "text": "CD",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      251.64,
+      246.27,
+      279.84
+    ],
+    "reading_order": 11,
+    "text": "i.e.,\n4.8 + x\nx\n = 3.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b12",
+    "type": "section_heading",
+    "bbox": [
+      232.56,
+      251.64,
+      362.67,
+      279.85
+    ],
+    "reading_order": 12,
+    "text": "0.9\n(90 cm = 90",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b13",
+    "type": "formula",
+    "bbox": [
+      348.48,
+      260.13,
+      420.0,
+      279.85
+    ],
+    "reading_order": 13,
+    "text": "100 m = 0.9 m)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b14",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      285.81,
+      240.8,
+      298.06
+    ],
+    "reading_order": 14,
+    "text": "i.e.,\n4.8 + x = 4x",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b15",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      302.85,
+      243.59,
+      315.1
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\n3x = 4.8",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b16",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      320.13,
+      243.59,
+      332.38
+    ],
+    "reading_order": 16,
+    "text": "i.e.,\nx = 1.6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      337.41,
+      346.59,
+      349.66
+    ],
+    "reading_order": 17,
+    "text": "So, the shadow of the girl after walking for 4 seconds is 1.6 m long.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      359.07,
+      254.4,
+      398.98
+    ],
+    "reading_order": 18,
+    "text": "Example 8 : In Fig. 6.33, CM and RN are\nrespectively the medians of  ABC and\n PQR. If  ABC ~  PQR, prove that :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b19",
+    "type": "paragraph",
+    "bbox": [
+      58.55,
+      401.95,
+      151.43,
+      416.26
+    ],
+    "reading_order": 19,
+    "text": "(i)  AMC ~  PNR",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b20",
+    "type": "paragraph",
+    "bbox": [
+      75.36,
+      425.82,
+      121.75,
+      453.32
+    ],
+    "reading_order": 20,
+    "text": "CM\nAB\nRN\nPQ\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b21",
+    "type": "paragraph",
+    "bbox": [
+      56.14,
+      435.34,
+      68.15,
+      447.6
+    ],
+    "reading_order": 21,
+    "text": "(ii)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b22",
+    "type": "paragraph",
+    "bbox": [
+      54.0,
+      460.26,
+      152.89,
+      474.57
+    ],
+    "reading_order": 22,
+    "text": "(iii)  CMB ~  RNQ",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b23",
+    "type": "paragraph",
+    "bbox": [
+      313.2,
+      470.92,
+      355.92,
+      483.59
+    ],
+    "reading_order": 23,
+    "text": "Fig. 6.33",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b24",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      477.3,
+      419.04,
+      491.61
+    ],
+    "reading_order": 24,
+    "text": "Solution : (i)\n ABC ~  PQR\n(Given)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b25",
+    "type": "formula",
+    "bbox": [
+      165.36,
+      501.18,
+      192.0,
+      528.68
+    ],
+    "reading_order": 25,
+    "text": "AB\nPQ =",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b26",
+    "type": "paragraph",
+    "bbox": [
+      199.2,
+      501.18,
+      419.28,
+      528.68
+    ],
+    "reading_order": 26,
+    "text": "BC\nCA\nQR\nRP\n\n(1)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b27",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      510.7,
+      61.43,
+      522.95
+    ],
+    "reading_order": 27,
+    "text": "So,",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b28",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      535.62,
+      419.3,
+      549.93
+    ],
+    "reading_order": 28,
+    "text": "and\n A =  P,  B =  Q and  C =  R\n(2)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b29",
+    "type": "formula",
+    "bbox": [
+      48.03,
+      553.89,
+      294.72,
+      566.14
+    ],
+    "reading_order": 29,
+    "text": "But\nAB = 2 AM and PQ = 2 PN",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b30",
+    "type": "paragraph",
+    "bbox": [
+      284.18,
+      567.09,
+      419.06,
+      579.34
+    ],
+    "reading_order": 30,
+    "text": "(As CM and RN are medians)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b31",
+    "type": "formula",
+    "bbox": [
+      155.52,
+      585.93,
+      214.42,
+      616.09
+    ],
+    "reading_order": 31,
+    "text": "2AM\n2PN = CA\nRP",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b32",
+    "type": "paragraph",
+    "bbox": [
+      48.03,
+      596.37,
+      104.19,
+      608.63
+    ],
+    "reading_order": 32,
+    "text": "So, from (1),",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 21,
+    "block_id": "jemh106_p021_b33",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 33,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

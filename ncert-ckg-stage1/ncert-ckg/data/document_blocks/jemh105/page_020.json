@@ -1,0 +1,495 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "68\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      248.41,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "or,\na + 2d = 600",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b04",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      112.29,
+      248.41,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "and\na + 6d = 700",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b05",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      129.33,
+      294.94,
+      141.59
+    ],
+    "reading_order": 5,
+    "text": "Solving these equations, we get d = 25\nand\na = 550.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      146.61,
+      294.75,
+      158.87
+    ],
+    "reading_order": 6,
+    "text": "Therefore, production of TV sets in the first year is 550.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b07",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      163.89,
+      356.9,
+      178.75
+    ],
+    "reading_order": 7,
+    "text": "(ii) Now\na10 = a + 9d = 550 + 9 × 25 = 775",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b08",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 8,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_020_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      181.17,
+      263.3,
+      193.43
+    ],
+    "reading_order": 9,
+    "text": "So, production of TV sets in the 10th year is 775.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b10",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      203.64,
+      338.83,
+      231.85
+    ],
+    "reading_order": 10,
+    "text": "(iii) Also,\nS7 =\n\n\n7 2\n550\n(7\n1)\n25\n2\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b11",
+    "type": "formula",
+    "bbox": [
+      222.0,
+      242.76,
+      331.44,
+      270.97
+    ],
+    "reading_order": 11,
+    "text": "=\n\n\n7 1100\n150\n2\n\n = 4375",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      276.94,
+      312.04,
+      289.19
+    ],
+    "reading_order": 12,
+    "text": "Thus, the total production of TV sets in first 7 years is 4375.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b13",
+    "type": "paragraph",
+    "bbox": [
+      193.92,
+      307.74,
+      274.09,
+      321.56
+    ],
+    "reading_order": 13,
+    "text": "EXERCISE 5.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b14",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      328.33,
+      213.85,
+      339.85
+    ],
+    "reading_order": 14,
+    "text": "1. Find the sum of the following APs:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b15",
+    "type": "paragraph",
+    "bbox": [
+      89.28,
+      344.79,
+      376.33,
+      355.93
+    ],
+    "reading_order": 15,
+    "text": "(i) 2, 7, 12, . . ., to 10 terms.\n(ii) –37, –33, –29, . . ., to 12 terms.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b16",
+    "type": "paragraph",
+    "bbox": [
+      84.72,
+      360.52,
+      374.65,
+      385.42
+    ],
+    "reading_order": 16,
+    "text": "(iii) 0.6, 1.7, 2.8, . . ., to 100 terms.\n(iv)\n1\n1\n1\n,\n,\n15 12 10\n , . . ., to 11 terms.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b17",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      384.49,
+      186.96,
+      396.01
+    ],
+    "reading_order": 17,
+    "text": "2. Find the sums given below :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b18",
+    "type": "formula",
+    "bbox": [
+      89.28,
+      402.19,
+      344.65,
+      427.44
+    ],
+    "reading_order": 18,
+    "text": "(i) 7 + \n1\n10 2 + 14 + . . . + 84\n(ii) 34 + 32 + 30 + . . . + 10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b19",
+    "type": "formula",
+    "bbox": [
+      84.72,
+      433.35,
+      224.88,
+      444.49
+    ],
+    "reading_order": 19,
+    "text": "(iii) –5  + (–8) + (–11) + . . . + (–230)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b20",
+    "type": "paragraph",
+    "bbox": [
+      60.72,
+      449.05,
+      110.88,
+      460.57
+    ],
+    "reading_order": 20,
+    "text": "3. In an AP:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b21",
+    "type": "formula",
+    "bbox": [
+      89.28,
+      465.03,
+      260.26,
+      478.61
+    ],
+    "reading_order": 21,
+    "text": "(i) given a = 5, d = 3, an = 50, find n and Sn.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b22",
+    "type": "formula",
+    "bbox": [
+      84.72,
+      480.39,
+      243.7,
+      508.86
+    ],
+    "reading_order": 22,
+    "text": "(ii) given a = 7, a13 = 35,  find d and S13.\n(iii) given a12 = 37, d = 3, find a and S12.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b23",
+    "type": "formula",
+    "bbox": [
+      84.0,
+      510.39,
+      253.54,
+      523.98
+    ],
+    "reading_order": 23,
+    "text": "(iv) given a3 = 15, S10 = 125, find d and a10.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b24",
+    "type": "formula",
+    "bbox": [
+      86.16,
+      525.51,
+      235.54,
+      539.1
+    ],
+    "reading_order": 24,
+    "text": "(v) given d = 5, S9 = 75, find a and a9.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b25",
+    "type": "paragraph",
+    "bbox": [
+      81.84,
+      540.63,
+      268.42,
+      569.09
+    ],
+    "reading_order": 25,
+    "text": "(vi) given a = 2,  d = 8,  Sn = 90, find n and an.\n(vii) given a = 8, an = 62, Sn = 210, find n and d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b26",
+    "type": "formula",
+    "bbox": [
+      79.44,
+      570.63,
+      266.98,
+      584.21
+    ],
+    "reading_order": 26,
+    "text": "(viii) given an = 4, d = 2,  Sn = –14, find n and a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b27",
+    "type": "formula",
+    "bbox": [
+      85.44,
+      585.75,
+      234.72,
+      596.89
+    ],
+    "reading_order": 27,
+    "text": "(ix) given a = 3, n = 8, S = 192, find d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b28",
+    "type": "formula",
+    "bbox": [
+      87.84,
+      601.35,
+      325.54,
+      612.49
+    ],
+    "reading_order": 28,
+    "text": "(x) given l = 28,  S = 144,  and there are total 9 terms. Find a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 20,
+    "block_id": "jemh105_p020_b29",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 29,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

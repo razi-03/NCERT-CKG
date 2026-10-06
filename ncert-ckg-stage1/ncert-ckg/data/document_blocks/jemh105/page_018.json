@@ -1,0 +1,461 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "66\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      95.01,
+      213.58,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "i.e.,\n910 = 91d",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b04",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      112.29,
+      207.6,
+      124.55
+    ],
+    "reading_order": 4,
+    "text": "or,\nd = 10",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b05",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      129.33,
+      400.33,
+      144.43
+    ],
+    "reading_order": 5,
+    "text": "Therefore,\na20 = 10 + (20 – 1) × 10 = 200, i.e. 20th term is 200.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      151.23,
+      420.0,
+      177.11
+    ],
+    "reading_order": 6,
+    "text": "Example 13 : How many terms of the AP : 24, 21, 18, . . . must be taken so that their\nsum is 78?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_018_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      181.72,
+      364.43,
+      196.98
+    ],
+    "reading_order": 8,
+    "text": "Solution : Here, a = 24, d = 21 – 24 = –3, Sn = 78. We need to find n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b09",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      196.92,
+      270.49,
+      224.63
+    ],
+    "reading_order": 9,
+    "text": "We know that\nSn =\n\n\n2\n(\n1)\n2\n\n\nn\na\nn\nd",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b10",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      228.53,
+      343.96,
+      256.57
+    ],
+    "reading_order": 10,
+    "text": "So,\n78 =\n\n\n48\n(\n1)( 3)\n2\n\n\n\nn\nn\n = \n\n51\n3\n2\n\nn\nn",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      264.45,
+      202.54,
+      276.71
+    ],
+    "reading_order": 11,
+    "text": "or\n3n2 – 51n + 156 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      281.73,
+      202.55,
+      293.99
+    ],
+    "reading_order": 12,
+    "text": "or\nn2 – 17n + 52 = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      299.01,
+      202.53,
+      311.27
+    ],
+    "reading_order": 13,
+    "text": "or\n(n – 4)(n – 13) = 0",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b14",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      316.3,
+      233.75,
+      328.55
+    ],
+    "reading_order": 14,
+    "text": "or\nn = 4 or 13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      333.58,
+      371.97,
+      345.83
+    ],
+    "reading_order": 15,
+    "text": "Both values of n are admissible. So, the number of terms is either 4 or 13.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b16",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      350.2,
+      97.49,
+      362.87
+    ],
+    "reading_order": 16,
+    "text": "Remarks:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b17",
+    "type": "formula",
+    "bbox": [
+      53.27,
+      367.9,
+      403.96,
+      380.15
+    ],
+    "reading_order": 17,
+    "text": "1. In this case, the sum of the first 4 terms = the sum of the first 13 terms = 78.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b18",
+    "type": "paragraph",
+    "bbox": [
+      53.27,
+      385.17,
+      420.04,
+      423.83
+    ],
+    "reading_order": 18,
+    "text": "2. Two answers are possible because the sum of the terms from 5th to 13th will be\nzero. This is because a is positive and d is negative, so that some terms will be\npositive and some others negative, and will cancel out each other.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      434.43,
+      189.13,
+      447.1
+    ],
+    "reading_order": 19,
+    "text": "Example 14 : Find the sum of :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      453.57,
+      413.3,
+      480.47
+    ],
+    "reading_order": 20,
+    "text": "(i) the first 1000 positive integers\n(ii) the first n positive integers\nSolution :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b21",
+    "type": "formula",
+    "bbox": [
+      58.56,
+      486.94,
+      208.55,
+      499.19
+    ],
+    "reading_order": 21,
+    "text": "(i) Let S = 1 + 2 + 3 + . . . + 1000",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b22",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      497.33,
+      420.01,
+      532.79
+    ],
+    "reading_order": 22,
+    "text": "Using the formula  Sn = \n(\n)\n2\n\nn a\nl for the sum of the first n terms of an AP, we\nhave",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b23",
+    "type": "formula",
+    "bbox": [
+      141.13,
+      530.76,
+      350.17,
+      558.97
+    ],
+    "reading_order": 23,
+    "text": "S1000 = 1000 (1\n1000)\n2\n\n = 500 × 1001 = 500500",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b24",
+    "type": "paragraph",
+    "bbox": [
+      72.72,
+      563.01,
+      317.31,
+      575.27
+    ],
+    "reading_order": 24,
+    "text": "So, the sum of the first 1000 positive integers is 500500.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b25",
+    "type": "formula",
+    "bbox": [
+      56.15,
+      581.73,
+      197.26,
+      596.58
+    ],
+    "reading_order": 25,
+    "text": "(ii) Let Sn = 1 + 2 + 3 + . . . + n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b26",
+    "type": "formula",
+    "bbox": [
+      72.72,
+      600.46,
+      225.72,
+      612.71
+    ],
+    "reading_order": 26,
+    "text": "Here a = 1 and the last term l is n.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 18,
+    "block_id": "jemh105_p018_b27",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 27,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

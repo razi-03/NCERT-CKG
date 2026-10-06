@@ -1,0 +1,240 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      420.0,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "POLYNOMIALS\n13",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b03",
+    "type": "header",
+    "bbox": [
+      211.44,
+      94.59,
+      256.32,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Table 2.1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b04",
+    "type": "paragraph",
+    "bbox": [
+      54.72,
+      122.13,
+      408.94,
+      134.39
+    ],
+    "reading_order": 4,
+    "text": "x\n– 2\n–1\n0\n1\n2\n3\n4\n5",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b05",
+    "type": "formula",
+    "bbox": [
+      54.72,
+      144.21,
+      408.94,
+      156.47
+    ],
+    "reading_order": 5,
+    "text": "y = x2 – 3x – 4\n6\n0\n– 4\n– 6\n– 6\n– 4\n0\n6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b06",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      172.05,
+      196.83,
+      226.32
+    ],
+    "reading_order": 6,
+    "text": "If we locate the points listed\nabove on a graph paper and draw\nthe graph, it will actually look like\nthe one given in Fig. 2.2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_004_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b08",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      232.06,
+      196.83,
+      316.07
+    ],
+    "reading_order": 8,
+    "text": "In fact, for any quadratic\npolynomial ax2 + bx + c, a  0, the\ngraph of the corresponding\nequation y = ax2 + bx + c has one\nof the two shapes either open\nupwards like \n or open",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      320.85,
+      196.81,
+      362.63
+    ],
+    "reading_order": 9,
+    "text": "downwards like \n depending on\nwhether a > 0 or a < 0. (These\ncurves are called parabolas.)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      368.61,
+      196.85,
+      534.71
+    ],
+    "reading_order": 10,
+    "text": "You can see from Table 2.1\nthat –1 and 4 are zeroes of the\nquadratic polynomial. Also\nnote from Fig. 2.2 that –1 and 4\nare the x-coordinates of the points\nwhere the graph of y = x2 – 3x – 4\nintersects the x-axis. Thus, the\nzeroes of the quadratic polynomial\nx2 – 3x – 4 are x-coordinates of\nthe points where the graph of\ny = x2 – 3x – 4 intersects the\nx-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b11",
+    "type": "paragraph",
+    "bbox": [
+      291.6,
+      502.6,
+      328.32,
+      515.27
+    ],
+    "reading_order": 11,
+    "text": "Fig. 2.2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      540.7,
+      420.01,
+      580.79
+    ],
+    "reading_order": 12,
+    "text": "This fact is true for any quadratic polynomial, i.e., the zeroes of a quadratic\npolynomial ax2 + bx + c, a  0, are precisely the x-coordinates of the points where the\nparabola representing  y = ax2 + bx + c intersects the x-axis.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b13",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      586.53,
+      420.0,
+      612.94
+    ],
+    "reading_order": 13,
+    "text": "From our observation earlier about the shape of the graph of y = ax2 + bx + c, the\nfollowing three cases can happen:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH102",
+    "page": 4,
+    "block_id": "jemh102_p004_b14",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 14,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

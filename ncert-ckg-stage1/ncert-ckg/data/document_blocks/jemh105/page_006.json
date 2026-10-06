@@ -1,0 +1,512 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "54\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b03",
+    "type": "header",
+    "bbox": [
+      48.01,
+      95.01,
+      420.02,
+      133.67
+    ],
+    "reading_order": 3,
+    "text": "Note that to find d in the AP : 6, 3, 0, – 3, . . ., we have subtracted 6 from 3\nand not 3 from 6, i.e., we should subtract the kth term from the (k + 1) th term\neven if the (k + 1) th term is smaller.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b04",
+    "type": "paragraph",
+    "bbox": [
+      72.01,
+      139.65,
+      342.78,
+      151.9
+    ],
+    "reading_order": 4,
+    "text": "Let us make the concept more clear through some examples.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      165.24,
+      179.31,
+      183.83
+    ],
+    "reading_order": 5,
+    "text": "Example 1 : For the AP : 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b06",
+    "type": "paragraph",
+    "bbox": [
+      173.76,
+      165.24,
+      196.83,
+      193.21
+    ],
+    "reading_order": 6,
+    "text": "2\n, 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      191.52,
+      165.24,
+      224.19,
+      193.21
+    ],
+    "reading_order": 7,
+    "text": "2\n, – 1",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      218.88,
+      165.24,
+      251.55,
+      193.21
+    ],
+    "reading_order": 8,
+    "text": "2\n, – 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      246.0,
+      171.57,
+      420.01,
+      193.21
+    ],
+    "reading_order": 9,
+    "text": "2\n , . . ., write the first term a and the",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b10",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 10,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.01,
+      189.81,
+      146.28,
+      202.06
+    ],
+    "reading_order": 11,
+    "text": "common difference d.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b12",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      212.04,
+      162.27,
+      233.05
+    ],
+    "reading_order": 12,
+    "text": "Solution : Here,\na = 3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b13",
+    "type": "formula",
+    "bbox": [
+      156.72,
+      212.04,
+      253.44,
+      240.01
+    ],
+    "reading_order": 13,
+    "text": "2 , d = 1\n2 – 3\n2 = – 1.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      246.22,
+      420.01,
+      271.67
+    ],
+    "reading_order": 14,
+    "text": "Remember that we can find d using any two consecutive terms, once we know that\nthe numbers are in AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      47.98,
+      281.32,
+      420.16,
+      307.19
+    ],
+    "reading_order": 15,
+    "text": "Example 2 : Which of the following list of numbers form an AP? If they form an AP,\nwrite the next two terms :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      58.57,
+      311.97,
+      313.93,
+      324.23
+    ],
+    "reading_order": 16,
+    "text": "(i) 4, 10, 16, 22, . . .\n(ii) 1, – 1, – 3, – 5, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      54.0,
+      329.25,
+      339.36,
+      341.51
+    ],
+    "reading_order": 17,
+    "text": "(iii) – 2, 2, – 2, 2, – 2, . . .\n(iv) 1, 1, 1, 2, 2, 2, 3, 3, 3, . . .",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b18",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      346.12,
+      264.48,
+      362.39
+    ],
+    "reading_order": 18,
+    "text": "Solution :\n(i) We have a2 – a1 = 10 – 4 =   6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b19",
+    "type": "formula",
+    "bbox": [
+      165.12,
+      363.81,
+      266.64,
+      379.67
+    ],
+    "reading_order": 19,
+    "text": "a3 – a2 = 16 – 10 =  6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b20",
+    "type": "formula",
+    "bbox": [
+      165.12,
+      381.09,
+      266.64,
+      396.95
+    ],
+    "reading_order": 20,
+    "text": "a4 – a3 = 22 – 16  = 6",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b21",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      398.37,
+      222.74,
+      413.23
+    ],
+    "reading_order": 21,
+    "text": "i.e.,\nak + 1 – ak  is the same every time.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b22",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      415.41,
+      389.99,
+      427.67
+    ],
+    "reading_order": 22,
+    "text": "So, the given list of numbers forms an AP with the common difference d = 6.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b23",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      432.69,
+      283.46,
+      444.95
+    ],
+    "reading_order": 23,
+    "text": "The next two terms are: 22 + 6 = 28 and 28 + 6 = 34.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b24",
+    "type": "paragraph",
+    "bbox": [
+      56.17,
+      449.01,
+      246.72,
+      497.27
+    ],
+    "reading_order": 24,
+    "text": "(ii)\na2 – a1 =  – 1 – 1 = – 2\na3 – a2 =  – 3 – ( –1 ) = – 3 + 1 = – 2\n a4 – a3 = – 5 – ( –3 ) = – 5 + 3 = – 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b25",
+    "type": "formula",
+    "bbox": [
+      48.01,
+      498.69,
+      222.73,
+      513.55
+    ],
+    "reading_order": 25,
+    "text": "i.e., ak + 1 – ak  is the same every time.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b26",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      515.97,
+      414.01,
+      528.23
+    ],
+    "reading_order": 26,
+    "text": "So, the given list of numbers forms an AP with the common difference d = – 2.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b27",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      533.01,
+      154.58,
+      545.27
+    ],
+    "reading_order": 27,
+    "text": "The next two terms are:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b28",
+    "type": "formula",
+    "bbox": [
+      54.0,
+      549.1,
+      334.35,
+      580.03
+    ],
+    "reading_order": 28,
+    "text": "– 5 + (– 2 ) = – 7\nand\n– 7 + (– 2 ) = – 9\n(iii) a2 – a1 = 2 – (– 2) = 2 + 2 = 4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b29",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      581.25,
+      356.29,
+      612.19
+    ],
+    "reading_order": 29,
+    "text": "a3 – a2  = – 2 – 2 = – 4\nAs a2 – a1   a3 – a2 , the given list of numbers does not form an AP.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH105",
+    "page": 6,
+    "block_id": "jemh105_p006_b30",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 30,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

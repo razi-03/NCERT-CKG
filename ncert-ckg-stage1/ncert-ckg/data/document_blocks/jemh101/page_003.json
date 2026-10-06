@@ -1,0 +1,223 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.29,
+      419.96,
+      82.29
+    ],
+    "reading_order": 2,
+    "text": "REAL NUMBERS\n3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b03",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      96.48,
+      420.06,
+      199.88
+    ],
+    "reading_order": 3,
+    "text": "So we have factorised 32760 as 2 × 2 × 2 × 3 × 3 × 5 × 7 × 13 as a product of\nprimes, i.e., 32760 = 23 × 32 × 5 × 7 × 13 as a product of powers of primes. Let us try\nanother number, say, 123456789. This can be written as 32 × 3803 × 3607. Of course,\nyou have to check that 3803 and 3607 are primes! (Try it out for several other natural\nnumbers yourself.)   This leads us to a conjecture that every composite number can be\nwritten as the product of powers of primes. In fact, this statement is true, and is called\nthe Fundamental Theorem of Arithmetic because of its basic crucial importance\nto the study of integers. Let us now formally state this theorem.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_03.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      205.9,
+      420.02,
+      243.32
+    ],
+    "reading_order": 5,
+    "text": "Theorem 1.1 (Fundamental Theorem of Arithmetic) : Every composite\nnumber can be expressed (factorised) as a product of primes, and this factorisation\nis unique, apart from the order in which the prime factors occur.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b06",
+    "type": "figure",
+    "bbox": [
+      327.26,
+      264.53,
+      410.31,
+      379.95
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_003_image_01.jpeg",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b07",
+    "type": "paragraph",
+    "bbox": [
+      62.64,
+      271.44,
+      292.84,
+      348.44
+    ],
+    "reading_order": 7,
+    "text": "An equivalent version of Theorem 1.2 was probably\nfirst recorded as Proposition 14 of Book IX in Euclid’s\nElements, before it came to be known as the\nFundamental Theorem of Arithmetic. However, the\nfirst correct proof was given by Carl Friedrich Gauss\nin his Disquisitiones Arithmeticae.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b08",
+    "type": "paragraph",
+    "bbox": [
+      62.64,
+      354.72,
+      292.85,
+      418.52
+    ],
+    "reading_order": 8,
+    "text": "Carl Friedrich Gauss is often referred to as the ‘Prince\nof Mathematicians’ and is considered one of the three\ngreatest mathematicians of all time, along with\nArchimedes and Newton. He has made fundamental\ncontributions to both mathematics and science.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b09",
+    "type": "paragraph",
+    "bbox": [
+      312.24,
+      393.58,
+      414.97,
+      404.58
+    ],
+    "reading_order": 9,
+    "text": "Carl Friedrich Gauss",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b10",
+    "type": "paragraph",
+    "bbox": [
+      329.52,
+      406.78,
+      397.68,
+      417.78
+    ],
+    "reading_order": 10,
+    "text": "(1777 – 1855)",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b11",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      441.84,
+      420.05,
+      545.24
+    ],
+    "reading_order": 11,
+    "text": "The Fundamental Theorem of Arithmetic says that every composite number can\nbe factorised as a product of primes. Actually it says more. It says that given any\ncomposite number it can be factorised as a product of prime numbers in a ‘unique’\nway, except for the order in which the primes occur. That is, given any composite\nnumber there is one and only one way to write it as a product of primes, as long as we\nare not particular about the order in which the primes occur. So, for example, we\nregard 2 × 3 × 5 × 7 as the same as 3 × 5 × 7 × 2, or any other possible order in which\nthese primes are written. This fact is also stated in the following form:",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b12",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      551.76,
+      419.76,
+      576.2
+    ],
+    "reading_order": 12,
+    "text": "The prime factorisation of a natural number is unique, except for the order\nof its factors.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 3,
+    "block_id": "jemh101_p003_b13",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 13,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

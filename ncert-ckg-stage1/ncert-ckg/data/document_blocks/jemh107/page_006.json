@@ -1,0 +1,393 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "104\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b03",
+    "type": "header",
+    "bbox": [
+      48.0,
+      94.59,
+      259.45,
+      107.27
+    ],
+    "reading_order": 3,
+    "text": "Solution : Using the distance formula, we have",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b04",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      116.21,
+      295.45,
+      130.91
+    ],
+    "reading_order": 4,
+    "text": "AB = \n2\n2\n(6\n3)\n(4\n1)\n9\n9\n18\n3 2\n\n\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b05",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      140.21,
+      293.77,
+      154.91
+    ],
+    "reading_order": 5,
+    "text": "BC = \n2\n2\n(8 – 6)\n(6 – 4)\n4\n4\n8\n2 2\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b06",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      164.53,
+      307.63,
+      178.87
+    ],
+    "reading_order": 6,
+    "text": "AC = \n2\n2\n(8 – 3)\n(6 – 1)\n25\n25\n50\n5 2\n\n\n\n\n",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b07",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 7,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b08",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      189.06,
+      420.01,
+      203.37
+    ],
+    "reading_order": 8,
+    "text": "Since, AB + BC = 3 2\n2 2\n5 2\nAC,\n\n\n\n we can say that the points A, B and C",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      205.9,
+      265.47,
+      218.15
+    ],
+    "reading_order": 9,
+    "text": "are collinear. Therefore, they are seated in a line.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      227.8,
+      420.0,
+      253.67
+    ],
+    "reading_order": 10,
+    "text": "Example 4 : Find a relation between x and y such that the point (x , y) is equidistant\nfrom the points (7, 1) and (3, 5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      258.28,
+      368.16,
+      270.95
+    ],
+    "reading_order": 11,
+    "text": "Solution : Let P(x, y) be equidistant from the points A(7, 1) and B(3, 5).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b12",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      275.73,
+      238.4,
+      287.99
+    ],
+    "reading_order": 12,
+    "text": "We are given that AP = BP. So, AP2 = BP2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      293.01,
+      312.08,
+      305.27
+    ],
+    "reading_order": 13,
+    "text": "i.e.,\n(x – 7)2 + (y – 1)2 = (x – 3)2 + (y – 5)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b14",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      310.29,
+      352.56,
+      322.55
+    ],
+    "reading_order": 14,
+    "text": "i.e.,\nx2 – 14x + 49 + y2 – 2y + 1 = x2 – 6x + 9 + y2 – 10y + 25",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b15",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      327.57,
+      238.06,
+      339.83
+    ],
+    "reading_order": 15,
+    "text": "i.e.,\nx – y = 2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b16",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      349.89,
+      178.59,
+      362.15
+    ],
+    "reading_order": 16,
+    "text": "which is the required relation.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      371.55,
+      240.04,
+      463.43
+    ],
+    "reading_order": 17,
+    "text": "Remark : Note that the graph of the equation\nx – y = 2 is a line. From your earlier studies,\nyou know that a point which is equidistant\nfrom A and B lies on the perpendicular\nbisector of AB. Therefore, the graph of\nx – y = 2 is the perpendicular bisector of AB\n(see Fig. 7.7).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      469.95,
+      240.0,
+      509.02
+    ],
+    "reading_order": 18,
+    "text": "Example 5 : Find a point on the y-axis which\nis equidistant from the points A(6, 5) and\nB(– 4, 3).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      513.63,
+      240.01,
+      552.71
+    ],
+    "reading_order": 19,
+    "text": "Solution : We know that a point on the\ny-axis is of the form (0, y). So, let the point\nP(0, y) be equidistant from A and B. Then",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      311.74,
+      535.96,
+      348.46,
+      548.63
+    ],
+    "reading_order": 20,
+    "text": "Fig. 7.7",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b21",
+    "type": "formula",
+    "bbox": [
+      139.42,
+      556.53,
+      320.96,
+      568.79
+    ],
+    "reading_order": 21,
+    "text": "(6 – 0)2 + (5 – y)2 = (– 4 – 0)2 + (3 – y)2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b22",
+    "type": "formula",
+    "bbox": [
+      47.99,
+      572.85,
+      303.68,
+      617.51
+    ],
+    "reading_order": 22,
+    "text": "i.e.,\n36 + 25 + y2 – 10y = 16 + 9 + y2 – 6y\ni.e.,\n 4y = 36\ni.e.,\ny = 9",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH107",
+    "page": 6,
+    "block_id": "jemh107_p006_b23",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 23,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

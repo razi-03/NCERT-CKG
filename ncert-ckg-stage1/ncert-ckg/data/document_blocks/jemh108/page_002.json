@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      70.95,
+      419.99,
+      82.09
+    ],
+    "reading_order": 2,
+    "text": "114\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b03",
+    "type": "header",
+    "bbox": [
+      60.0,
+      95.01,
+      240.03,
+      239.27
+    ],
+    "reading_order": 3,
+    "text": "3. Suppose a hot air balloon is flying in\nthe air.  A girl happens to spot the\nballoon in the sky and runs to her\nmother to tell her about it.  Her mother\nrushes out of the house to look at the\nballoon.Now when the girl had spotted\nthe balloon intially it was at point A.\nWhen both the mother and daughter\ncame out to see it, it had already\ntravelled to another point B. Can you\nfind the altitude of B from the ground?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b04",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 4,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_002_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b05",
+    "type": "paragraph",
+    "bbox": [
+      313.68,
+      222.03,
+      350.4,
+      234.7
+    ],
+    "reading_order": 5,
+    "text": "Fig. 8.3",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b06",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      244.05,
+      420.07,
+      361.91
+    ],
+    "reading_order": 6,
+    "text": "In all the situations given above, the distances or heights can be found by using\nsome mathematical techniques, which come under a branch of mathematics called\n‘trigonometry’. The word ‘trigonometry’ is derived from the Greek words ‘tri’\n(meaning three), ‘gon’ (meaning sides) and ‘metron’ (meaning measure). In fact,\ntrigonometry is the study of relationships between the sides and angles of a triangle.\nThe earliest known work on trigonometry was recorded in Egypt and Babylon. Early\nastronomers used it to find out the distances of the stars and planets from the Earth.\nEven today, most of the technologically advanced methods used in Engineering and\nPhysical Sciences are based on trigonometrical concepts.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b07",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      366.93,
+      420.08,
+      445.19
+    ],
+    "reading_order": 7,
+    "text": "In this chapter, we will study some ratios of the sides of a right triangle with\nrespect to its acute angles, called trigonometric ratios of the angle. We will restrict\nour discussion to acute angles only. However, these  ratios can be extended to other\nangles also. We will also define the trigonometric ratios for angles of measure 0° and\n90°. We will calculate trigonometric ratios for some specific angles and establish\nsome identities involving these ratios, called trigonometric identities.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b08",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      454.62,
+      174.7,
+      468.44
+    ],
+    "reading_order": 8,
+    "text": "8.2 Trigonometric Ratios",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      473.49,
+      254.42,
+      498.95
+    ],
+    "reading_order": 9,
+    "text": "In Section 8.1, you have seen some right triangles\nimagined to be formed in different situations.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      503.97,
+      254.41,
+      529.43
+    ],
+    "reading_order": 10,
+    "text": "Let us take a right triangle ABC as shown\nin Fig. 8.4.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b11",
+    "type": "paragraph",
+    "bbox": [
+      47.99,
+      533.22,
+      367.68,
+      625.91
+    ],
+    "reading_order": 11,
+    "text": "Here,  CAB (or, in brief, angle A) is an\nacute angle. Note the position of the side BC\nwith respect to angle A. It faces  A. We call it\nthe side opposite to angle A. AC is the\nhypotenuse of the right triangle and the side AB\nis a part of  A. So, we call it the side\nadjacent to angle A.\nFig. 8.4",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH108",
+    "page": 2,
+    "block_id": "jemh108_p002_b12",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 12,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

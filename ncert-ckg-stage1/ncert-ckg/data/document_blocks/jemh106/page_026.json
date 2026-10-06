@@ -1,0 +1,138 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_026_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.34,
+      420.0,
+      82.34
+    ],
+    "reading_order": 2,
+    "text": "98\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b03",
+    "type": "header",
+    "bbox": [
+      60.72,
+      94.19,
+      420.02,
+      156.5
+    ],
+    "reading_order": 3,
+    "text": "8. If in two triangles, corresponding sides are in the same ratio, then their corresponding\nangles are equal and hence the triangles are similar (SSS similarity criterion).\n9. If one angle of a triangle is equal to one angle of another triangle and the sides including\nthese angles are in the same ratio (proportional), then the triangles are similar\n(SAS similarity criterion).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b04",
+    "type": "paragraph",
+    "bbox": [
+      170.64,
+      172.37,
+      295.92,
+      186.37
+    ],
+    "reading_order": 4,
+    "text": "A NOTE TO THE READER",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b05",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 5,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_026_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b06",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      201.18,
+      398.41,
+      251.78
+    ],
+    "reading_order": 6,
+    "text": "If in two right triangles, hypotenuse and one side of one triangle are\nproportional to the hypotenuse and one side of the other triangle,\nthen the two triangles are similar. This may be referred to as the\nRHS Similarity Criterion.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b07",
+    "type": "paragraph",
+    "bbox": [
+      68.16,
+      259.98,
+      398.2,
+      284.18
+    ],
+    "reading_order": 7,
+    "text": "If you use this criterion in Example 2, Chapter 8, the proof will become\nsimpler.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH106",
+    "page": 26,
+    "block_id": "jemh106_p026_b08",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 8,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]

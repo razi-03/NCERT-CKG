@@ -1,0 +1,376 @@
+[
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b01",
+    "type": "figure",
+    "bbox": [
+      -23.4,
+      -22.09,
+      491.4,
+      706.1
+    ],
+    "reading_order": 1,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_01.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b02",
+    "type": "header",
+    "bbox": [
+      48.0,
+      72.41,
+      420.0,
+      82.41
+    ],
+    "reading_order": 2,
+    "text": "6\nMATHEMATICS",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b03",
+    "type": "paragraph",
+    "bbox": [
+      75.0,
+      97.01,
+      420.01,
+      119.97
+    ],
+    "reading_order": 3,
+    "text": "same point and at the same time, and go in the same direction. After how many minutes\nwill they meet again at the starting point?",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b04",
+    "type": "section_heading",
+    "bbox": [
+      48.0,
+      134.35,
+      219.0,
+      146.35
+    ],
+    "reading_order": 4,
+    "text": "1.3 Revisiting Irrational Numbers",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b05",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      152.76,
+      420.07,
+      234.08
+    ],
+    "reading_order": 5,
+    "text": "In Class IX, you were introduced to irrational numbers and many of their properties.\nYou studied about their existence and how the rationals and the irrationals together\nmade up the real numbers. You even studied how to locate irrationals on the number\nline. However, we did not prove that they were irrationals. In this section, we will\nprove that \n2 ,\n3 ,\n5 and, in general, \np is irrational, where p is a prime. One of\nthe theorems, we use in our proof, is the Fundamental Theorem of Arithmetic.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b06",
+    "type": "figure",
+    "bbox": [
+      30.78,
+      173.66,
+      423.93,
+      566.81
+    ],
+    "reading_order": 6,
+    "text": null,
+    "latex": null,
+    "image_ref": "images\\page_006_image_02.png",
+    "confidence": 0.95
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b07",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      233.96,
+      420.03,
+      283.4
+    ],
+    "reading_order": 7,
+    "text": "Recall, a number ‘s’ is called irrational if it cannot be written in the form \n,\np\nq\nwhere p and q are integers and q ¹ 0. Some examples of irrational numbers, with\nwhich you are already familiar, are :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b08",
+    "type": "paragraph",
+    "bbox": [
+      81.0,
+      289.2,
+      297.73,
+      316.64
+    ],
+    "reading_order": 8,
+    "text": "2 ,\n2,\n3,\n15,\n,\n0.10110111011110 . . .\n3\n\n, etc.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b09",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      320.16,
+      420.04,
+      345.56
+    ],
+    "reading_order": 9,
+    "text": "Before we prove that \n2 is irrational, we need the following theorem, whose\nproof is based on the Fundamental Theorem of Arithmetic.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b10",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      357.99,
+      419.96,
+      383.6
+    ],
+    "reading_order": 10,
+    "text": "Theorem 1.2 : Let p be a prime number. If p divides a2, then p divides a, where\na is a positive integer.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b11",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      391.2,
+      294.73,
+      402.2
+    ],
+    "reading_order": 11,
+    "text": "*Proof : Let the prime factorisation of a be as follows :",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b12",
+    "type": "formula",
+    "bbox": [
+      72.0,
+      409.68,
+      391.59,
+      423.31
+    ],
+    "reading_order": 12,
+    "text": "a = p1p2 . . . pn, where p1,p2, . . ., pn are primes, not necessarily distinct.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b13",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      428.07,
+      262.4,
+      441.79
+    ],
+    "reading_order": 13,
+    "text": "Therefore, a2 = (p1p2 . . . pn)( p1p2 . . . pn) = p2",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b14",
+    "type": "paragraph",
+    "bbox": [
+      259.32,
+      428.07,
+      307.55,
+      441.79
+    ],
+    "reading_order": 14,
+    "text": "1p2\n2 . . . p2\nn.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b15",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      446.67,
+      420.03,
+      503.83
+    ],
+    "reading_order": 15,
+    "text": "Now, we are given that p divides a2. Therefore, from the Fundamental Theorem of\nArithmetic, it follows that p is one of the prime factors of a2. However, using the\nuniqueness part of the Fundamental Theorem of Arithmetic, we realise that the only\nprime factors of a2 are p1, p2, . . ., pn. So p is one of p1, p2, . . ., pn.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b16",
+    "type": "formula",
+    "bbox": [
+      48.0,
+      508.8,
+      227.99,
+      522.43
+    ],
+    "reading_order": 16,
+    "text": "Now, since a = p1 p2 . . . pn, p divides a.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b17",
+    "type": "paragraph",
+    "bbox": [
+      72.0,
+      527.4,
+      317.29,
+      540.66
+    ],
+    "reading_order": 17,
+    "text": "We are now ready to give a proof that \n2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b18",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      545.04,
+      420.06,
+      569.24
+    ],
+    "reading_order": 18,
+    "text": "The proof is based on a technique called ‘proof by contradiction’. (This technique is\ndiscussed in some detail in Appendix 1).",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b19",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      583.8,
+      201.73,
+      597.04
+    ],
+    "reading_order": 19,
+    "text": "Theorem 1.3 : \n2 is irrational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b20",
+    "type": "paragraph",
+    "bbox": [
+      48.0,
+      604.44,
+      309.73,
+      617.56
+    ],
+    "reading_order": 20,
+    "text": "Proof : Let us assume, to the contrary, that \n2 is rational.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b21",
+    "type": "formula",
+    "bbox": [
+      47.28,
+      626.21,
+      212.98,
+      636.21
+    ],
+    "reading_order": 21,
+    "text": "* Not from the examination point of view.",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  },
+  {
+    "document_id": "NCERT_X_MATH_JEMH101",
+    "page": 6,
+    "block_id": "jemh101_p006_b22",
+    "type": "footer",
+    "bbox": [
+      205.31,
+      661.2,
+      262.67,
+      672.12
+    ],
+    "reading_order": 22,
+    "text": "Reprint 2026-27",
+    "latex": null,
+    "image_ref": null,
+    "confidence": 1.0
+  }
+]
